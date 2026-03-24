@@ -17,3 +17,21 @@ Intervention Evaluation
 ============================================================
 
 Loading model + SAE...
+
+Finding French features (layer 29, 100 sentences)...
+  Using features: [205]
+
+Loading eval: comprehension/french_200.json
+  50 prompts
+
+========================================
+Strength: 0.0
+========================================
+  Running MMLU (100 samples)...
+  MMLU accuracy: 27.0%
+  Generated 50 responses
+
+========================================
+Strength: 1.0
+========================================
+  Running MMLU (100 samples)...

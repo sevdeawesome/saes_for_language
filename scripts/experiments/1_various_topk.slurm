@@ -32,8 +32,12 @@ BASE_CMD="python scripts/run_intervention_on_eval.py \
 # ${BASE_CMD} --eval_path translation/french_200.json --keep_k 5
 
 for keep_k in 1 2 3 4 5 6 7 8 9 10 15 20 30; do
+    echo "running comprehension"
     ${BASE_CMD} --eval_path comprehension/french_200.json --keep_k ${keep_k} --run_mmlu True
+    echo "running generation"
     ${BASE_CMD} --eval_path generation/french_200.json --keep_k ${keep_k}
+    echo "running generation_strict"
     ${BASE_CMD} --eval_path generation_strict/french_200.json --keep_k ${keep_k}
+    echo "running translation"
     ${BASE_CMD} --eval_path translation/french_200.json --keep_k ${keep_k}
 done
