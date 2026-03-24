@@ -1,0 +1,1602 @@
+[
+  {
+    "id": 0,
+    "prompt": "Translate this to German: Lorsque les gens ne consid\u00e8rent pas les \u00e9lans comme potentiellement dangereux, ils peuvent s'approcher de trop pr\u00e8s et se mettre en p\u00e9ril.",
+    "reference": "Menschen, die den Elch nicht als m\u00f6gliche Bedrohung betrachten, k\u00f6nnen ihm zu nahe kommen und sich selbst in Gefahr bringen.",
+    "source_lang": "French",
+    "target_lang": "German",
+    "source_text": "Lorsque les gens ne consid\u00e8rent pas les \u00e9lans comme potentiellement dangereux, ils peuvent s'approcher de trop pr\u00e8s et se mettre en p\u00e9ril."
+  },
+  {
+    "id": 1,
+    "prompt": "Translate this to German: Buvez des boissons alcoolis\u00e9es avec mod\u00e9ration. L'alcool a des effets diff\u00e9rents sur chacun, et il est tr\u00e8s important de conna\u00eetre ses limites.",
+    "reference": "Trinken Sie alkoholische Getr\u00e4nke in Ma\u00dfen. Alkohol wirkt sich auf jeden anders aus und es ist sehr wichtig, die eigene Grenze zu kennen.",
+    "source_lang": "French",
+    "target_lang": "German",
+    "source_text": "Buvez des boissons alcoolis\u00e9es avec mod\u00e9ration. L'alcool a des effets diff\u00e9rents sur chacun, et il est tr\u00e8s important de conna\u00eetre ses limites."
+  },
+  {
+    "id": 2,
+    "prompt": "Translate this to German: Parmi les probl\u00e8mes de sant\u00e9 possibles \u00e0 long terme dus \u00e0 l\u2019alcoolisme, on peut citer les d\u00e9g\u00e2ts sur le foie, mais aussi la c\u00e9cit\u00e9 et la mort. Le danger potentiel est accru en cas de consommation d\u2019alcool fabriqu\u00e9 ill\u00e9galement.",
+    "reference": "Zu den m\u00f6glichen langfristigen gesundheitlichen Problemen durch \u00fcberm\u00e4\u00dfigen Alkoholkonsum k\u00f6nnen Lebersch\u00e4den und sogar Blindheit und Tod geh\u00f6ren. Die potenzielle Gefahr wird durch den Konsum von illegal hergestelltem Alkohol erh\u00f6ht.",
+    "source_lang": "French",
+    "target_lang": "German",
+    "source_text": "Parmi les probl\u00e8mes de sant\u00e9 possibles \u00e0 long terme dus \u00e0 l\u2019alcoolisme, on peut citer les d\u00e9g\u00e2ts sur le foie, mais aussi la c\u00e9cit\u00e9 et la mort. Le danger potentiel est accru en cas de consommation d\u2019alcool fabriqu\u00e9 ill\u00e9galement."
+  },
+  {
+    "id": 3,
+    "prompt": "Translate this to German: Les spiritueux illicites peuvent contenir diverses impuret\u00e9s dangereuses, y compris du m\u00e9thanol, qui peut causer la c\u00e9cit\u00e9 ou la mort, m\u00eame \u00e0 petites doses.",
+    "reference": "Illegale Spirituosen k\u00f6nnen verschiedene gef\u00e4hrliche Verunreinigungen enthalten, darunter Methanol, das schon in geringen Dosen zu Blindheit oder Tod f\u00fchren kann.",
+    "source_lang": "French",
+    "target_lang": "German",
+    "source_text": "Les spiritueux illicites peuvent contenir diverses impuret\u00e9s dangereuses, y compris du m\u00e9thanol, qui peut causer la c\u00e9cit\u00e9 ou la mort, m\u00eame \u00e0 petites doses."
+  },
+  {
+    "id": 4,
+    "prompt": "Translate this to German: Les lunettes de vue peuvent co\u00fbter moins cher \u00e0 l\u2019\u00e9tranger, en particulier dans les pays \u00e0 faible revenu dans lesquels le co\u00fbt du travail est plus bas.",
+    "reference": "Brillen k\u00f6nnen in anderen L\u00e4ndern billiger sein, besonders in L\u00e4ndern mit niedrigem Einkommen, wo die Lohnkosten geringer sind.",
+    "source_lang": "French",
+    "target_lang": "German",
+    "source_text": "Les lunettes de vue peuvent co\u00fbter moins cher \u00e0 l\u2019\u00e9tranger, en particulier dans les pays \u00e0 faible revenu dans lesquels le co\u00fbt du travail est plus bas."
+  },
+  {
+    "id": 5,
+    "prompt": "Translate this to German: Pensez \u00e0 vous faire examiner les yeux \u00e0 domicile, surtout si votre assurance le couvre, et \u00e0 ramener l'ordonnance qui sera ensuite d\u00e9pos\u00e9e ailleurs.",
+    "reference": "Ziehen Sie in Betracht, eine Augenuntersuchung im Heimatland zu machen, insbesondere wenn diese von der Versicherung abgedeckt ist, und das Rezept dann in einem anderen Land einzul\u00f6sen.",
+    "source_lang": "French",
+    "target_lang": "German",
+    "source_text": "Pensez \u00e0 vous faire examiner les yeux \u00e0 domicile, surtout si votre assurance le couvre, et \u00e0 ramener l'ordonnance qui sera ensuite d\u00e9pos\u00e9e ailleurs."
+  },
+  {
+    "id": 6,
+    "prompt": "Translate this to German: Les cadres de marque haut de gamme vendus dans de telles r\u00e9gions du monde peuvent pr\u00e9senter deux probl\u00e8mes : certains peuvent \u00eatre des contrefa\u00e7ons, et les cadres v\u00e9ritablement import\u00e9s peuvent \u00eatre plus chers que dans votre pays.",
+    "reference": "Hochwertige Markenfassungen, die in solchen Gebieten erh\u00e4ltlich sind, k\u00f6nnen zwei Probleme aufweisen - einige sind vielleicht F\u00e4lschungen, die echten, importierten sind vielleicht teurer als im eigenen Land.",
+    "source_lang": "French",
+    "target_lang": "German",
+    "source_text": "Les cadres de marque haut de gamme vendus dans de telles r\u00e9gions du monde peuvent pr\u00e9senter deux probl\u00e8mes : certains peuvent \u00eatre des contrefa\u00e7ons, et les cadres v\u00e9ritablement import\u00e9s peuvent \u00eatre plus chers que dans votre pays."
+  },
+  {
+    "id": 7,
+    "prompt": "Translate this to German: Le caf\u00e9 est l\u2019une des marchandises les plus vendues au monde, et vous pouvez probablement en trouver de nombreux types dans votre r\u00e9gion d\u2019origine.",
+    "reference": "Kaffee ist eines der weltweit am meisten gehandelten G\u00fcter und Sie k\u00f6nnen in Ihrer Heimatregion wahrscheinlich viele verschiedene Sorten finden.",
+    "source_lang": "French",
+    "target_lang": "German",
+    "source_text": "Le caf\u00e9 est l\u2019une des marchandises les plus vendues au monde, et vous pouvez probablement en trouver de nombreux types dans votre r\u00e9gion d\u2019origine."
+  },
+  {
+    "id": 8,
+    "prompt": "Translate this to German: N\u00e9anmoins, il existe de nombreuses fa\u00e7ons de boire le caf\u00e9 dans le monde entier qui valent la peine d'\u00eatre exp\u00e9riment\u00e9es.",
+    "reference": "Dennoch gibt es auf der ganzen Welt viele unterschiedliche Arten, Kaffee zu trinken, die man erleben sollte.",
+    "source_lang": "French",
+    "target_lang": "German",
+    "source_text": "N\u00e9anmoins, il existe de nombreuses fa\u00e7ons de boire le caf\u00e9 dans le monde entier qui valent la peine d'\u00eatre exp\u00e9riment\u00e9es."
+  },
+  {
+    "id": 9,
+    "prompt": "Translate this to German: Le canyoning (ou canyonisme) consiste \u00e0 se rendre en bas d\u2019un canyon, qui est soit sec, soit plein d\u2019eau.",
+    "reference": "Beim Canyoning (auch Schluchteln genannt) geht es darum, in den Grund einer Schlucht zu steigen, die entweder trocken oder voller Wasser ist.",
+    "source_lang": "French",
+    "target_lang": "German",
+    "source_text": "Le canyoning (ou canyonisme) consiste \u00e0 se rendre en bas d\u2019un canyon, qui est soit sec, soit plein d\u2019eau."
+  },
+  {
+    "id": 10,
+    "prompt": "Translate this to German: Le canyoning combine des \u00e9l\u00e9ments de natation, d'escalade et de saut, mais n\u00e9cessite relativement peu d'entra\u00eenement ou de forme physique pour d\u00e9buter, par rapport \u00e0, par exemple,  l'escalade, la plong\u00e9e sous-marine ou le ski alpin.",
+    "reference": "Elemente des Canyonings sind Schwimmen, Klettern und Springen \u2013 doch es hat f\u00fcr Einsteiger relativ geringe Anforderungen an Training und k\u00f6rperliche Verfassung (zum Beispiel im Vergleich zu Felsenklettern, Sporttauchen und dem alpinen Skisport).",
+    "source_lang": "French",
+    "target_lang": "German",
+    "source_text": "Le canyoning combine des \u00e9l\u00e9ments de natation, d'escalade et de saut, mais n\u00e9cessite relativement peu d'entra\u00eenement ou de forme physique pour d\u00e9buter, par rapport \u00e0, par exemple,  l'escalade, la plong\u00e9e sous-marine ou le ski alpin."
+  },
+  {
+    "id": 11,
+    "prompt": "Translate this to German: La randonn\u00e9e est une activit\u00e9 de plein air qui consiste \u00e0 marcher dans des environnements naturels, souvent sur des sentiers de randonn\u00e9e.",
+    "reference": "Wandern ist eine Outdoor-Aktivit\u00e4t, die darin besteht, in der Natur, oft auf Wanderwegen, zu Fu\u00df zu gehen.",
+    "source_lang": "French",
+    "target_lang": "German",
+    "source_text": "La randonn\u00e9e est une activit\u00e9 de plein air qui consiste \u00e0 marcher dans des environnements naturels, souvent sur des sentiers de randonn\u00e9e."
+  },
+  {
+    "id": 12,
+    "prompt": "Translate this to German: Une randonn\u00e9e d'une journ\u00e9e implique des distances de moins d'un mile jusqu'\u00e0 des distances plus longues pouvant \u00eatre parcourues en un seul jour.",
+    "reference": "Tageswanderungen umfassen Strecken von weniger als einer Meile bis hin zu l\u00e4ngeren Strecken, die an einem einzigen Tag zur\u00fcckgelegt werden k\u00f6nnen.",
+    "source_lang": "French",
+    "target_lang": "German",
+    "source_text": "Une randonn\u00e9e d'une journ\u00e9e implique des distances de moins d'un mile jusqu'\u00e0 des distances plus longues pouvant \u00eatre parcourues en un seul jour."
+  },
+  {
+    "id": 13,
+    "prompt": "Translate this to German: Pour une randonn\u00e9e d'une journ\u00e9e sur un sentier peu difficile, il suffit de quelques pr\u00e9paratifs et toute personne relativement en bonne sant\u00e9 peut en profiter.",
+    "reference": "F\u00fcr eine Tageswanderung auf einer einfachen Route braucht es nicht viel Vorbereitung und jeder, der einigerma\u00dfen fit ist, kann sie genie\u00dfen.",
+    "source_lang": "French",
+    "target_lang": "German",
+    "source_text": "Pour une randonn\u00e9e d'une journ\u00e9e sur un sentier peu difficile, il suffit de quelques pr\u00e9paratifs et toute personne relativement en bonne sant\u00e9 peut en profiter."
+  },
+  {
+    "id": 14,
+    "prompt": "Translate this to German: Les familles ayant de jeunes enfants peuvent avoir besoin de plus de pr\u00e9paration, mais il est possible de passer une journ\u00e9e en plein air, m\u00eame avec des b\u00e9b\u00e9s et des enfants d\u2019\u00e2ge pr\u00e9scolaire.",
+    "reference": "Familien mit kleinen Kindern brauchen vielleicht mehr Vorbereitungen, aber ein Tag im Freien ist auch mit Babys und Vorschulkindern einfach machbar.",
+    "source_lang": "French",
+    "target_lang": "German",
+    "source_text": "Les familles ayant de jeunes enfants peuvent avoir besoin de plus de pr\u00e9paration, mais il est possible de passer une journ\u00e9e en plein air, m\u00eame avec des b\u00e9b\u00e9s et des enfants d\u2019\u00e2ge pr\u00e9scolaire."
+  },
+  {
+    "id": 15,
+    "prompt": "Translate this to German: Sur le plan international, il existe pr\u00e8s de 200\u00a0organisations de visite en course \u00e0 pied. La plupart d\u2019entre elles fonctionnent ind\u00e9pendamment.",
+    "reference": "Weltweit gibt es fast 200 Lauftouren-Organisationen. Die meisten arbeiten unabh\u00e4ngig.",
+    "source_lang": "French",
+    "target_lang": "German",
+    "source_text": "Sur le plan international, il existe pr\u00e8s de 200\u00a0organisations de visite en course \u00e0 pied. La plupart d\u2019entre elles fonctionnent ind\u00e9pendamment."
+  },
+  {
+    "id": 16,
+    "prompt": "Translate this to German: Le successeur de Global Running Tours, Go Running Tours, met en r\u00e9seau des dizaines de prestataires de services de jogging touristique sur quatre continents.",
+    "reference": "Go Running Tours, der Nachfolger von Global Running Tours, vernetzt Dutzende von Sightrunning-Anbietern auf vier Kontinenten.",
+    "source_lang": "French",
+    "target_lang": "German",
+    "source_text": "Le successeur de Global Running Tours, Go Running Tours, met en r\u00e9seau des dizaines de prestataires de services de jogging touristique sur quatre continents."
+  },
+  {
+    "id": 17,
+    "prompt": "Translate this to German: Ayant ses racines dans le Running Tours Barcelona de Barcelone et le Running Copenhagen de Copenhague, elle a rapidement \u00e9t\u00e9 rejointe par le Running Tours Prague bas\u00e9 \u00e0 Prague et d'autres.",
+    "reference": "Mit Wurzeln in Barcelonas Running Tours Barcelona und Kopenhagens Running Copenhagen erhielt es schnell Zuwachs durch Running Tours Prague in Prag und weitere.",
+    "source_lang": "French",
+    "target_lang": "German",
+    "source_text": "Ayant ses racines dans le Running Tours Barcelona de Barcelone et le Running Copenhagen de Copenhague, elle a rapidement \u00e9t\u00e9 rejointe par le Running Tours Prague bas\u00e9 \u00e0 Prague et d'autres."
+  },
+  {
+    "id": 18,
+    "prompt": "Translate this to German: Il y a de nombreuses choses \u00e0 prendre en consid\u00e9ration avant et pendant que vous voyagez.",
+    "reference": "Es gibt viele Dinge, die Sie vor und w\u00e4hrend einer Reise ber\u00fccksichtigen m\u00fcssen.",
+    "source_lang": "French",
+    "target_lang": "German",
+    "source_text": "Il y a de nombreuses choses \u00e0 prendre en consid\u00e9ration avant et pendant que vous voyagez."
+  },
+  {
+    "id": 19,
+    "prompt": "Translate this to German: Lorsque vous voyagez, attendez-vous \u00e0 ce que les choses ne soient pas comme \u00ab\u2009chez vous\u2009\u00bb. Les mani\u00e8res, les lois, la nourriture, la circulation, le logement, les normes, la langue, etc. diff\u00e8rent dans une certaine mesure de l\u2019endroit o\u00f9 vous vivez.",
+    "reference": "Erwarten Sie nicht, dass die Dinge beim Reisen genau so sind wie \u201ezuhause\u201c. Umgangsformen, Gesetze, Essen, Verkehr, Unterk\u00fcnfte, Standards, Spache und so weiter werden zu einem gewissen Grad anders sein als dort, wo Sie leben.",
+    "source_lang": "French",
+    "target_lang": "German",
+    "source_text": "Lorsque vous voyagez, attendez-vous \u00e0 ce que les choses ne soient pas comme \u00ab\u2009chez vous\u2009\u00bb. Les mani\u00e8res, les lois, la nourriture, la circulation, le logement, les normes, la langue, etc. diff\u00e8rent dans une certaine mesure de l\u2019endroit o\u00f9 vous vivez."
+  },
+  {
+    "id": 20,
+    "prompt": "Translate this to German: C'est quelque chose que vous devez toujours garder \u00e0 l'esprit pour \u00e9viter toute d\u00e9ception ou peut-\u00eatre m\u00eame toute aversion \u00e0 l'\u00e9gard des comportements locaux.",
+    "reference": "Dies ist etwas, was man immer im Hinterkopf behalten sollte, um Entt\u00e4uschung oder gar Abneigung \u00fcber lokale Vorgehensweisen zu vermeiden.",
+    "source_lang": "French",
+    "target_lang": "German",
+    "source_text": "C'est quelque chose que vous devez toujours garder \u00e0 l'esprit pour \u00e9viter toute d\u00e9ception ou peut-\u00eatre m\u00eame toute aversion \u00e0 l'\u00e9gard des comportements locaux."
+  },
+  {
+    "id": 21,
+    "prompt": "Translate this to German: Les agences de voyage existent depuis le XIXe si\u00e8cle. Un voyagiste est g\u00e9n\u00e9ralement une bonne option pour un p\u00e9riple qui d\u00e9passe le cadre des exp\u00e9riences pr\u00e9c\u00e9dentes du voyageur en mati\u00e8re de nature, culture, langue, ou pays \u00e0 faible revenu.",
+    "reference": "Reiseagenturen gibt es seit dem 19. Jahrhundert. Ein Reiseberater ist in der Regel eine gute Wahl f\u00fcr Reisen, die \u00fcber die bisherige Erfahrung des Reisenden hinsichtlich Natur, Kultur, Sprache oder einkommensschwacher L\u00e4nder hinausgehen.",
+    "source_lang": "French",
+    "target_lang": "German",
+    "source_text": "Les agences de voyage existent depuis le XIXe si\u00e8cle. Un voyagiste est g\u00e9n\u00e9ralement une bonne option pour un p\u00e9riple qui d\u00e9passe le cadre des exp\u00e9riences pr\u00e9c\u00e9dentes du voyageur en mati\u00e8re de nature, culture, langue, ou pays \u00e0 faible revenu."
+  },
+  {
+    "id": 22,
+    "prompt": "Translate this to German: Bien que la plupart des agences soient dispos\u00e9es \u00e0 prendre en charge la plupart des r\u00e9servations r\u00e9guli\u00e8res, de nombreux agents sont sp\u00e9cialis\u00e9s dans des types de voyages, des gammes de prix ou des destinations plus sp\u00e9cifiques.",
+    "reference": "Obwohl die meisten Agenturen bereit sind, die meisten regul\u00e4ren Buchungen zu \u00fcbernehmen, spezialisieren sich viele Vertreter auf bestimmte Reisearten, Preisspannen oder Reiseziele.",
+    "source_lang": "French",
+    "target_lang": "German",
+    "source_text": "Bien que la plupart des agences soient dispos\u00e9es \u00e0 prendre en charge la plupart des r\u00e9servations r\u00e9guli\u00e8res, de nombreux agents sont sp\u00e9cialis\u00e9s dans des types de voyages, des gammes de prix ou des destinations plus sp\u00e9cifiques."
+  },
+  {
+    "id": 23,
+    "prompt": "Translate this to German: Il peut \u00eatre pr\u00e9f\u00e9rable de faire appel \u00e0 un agent qui r\u00e9serve fr\u00e9quemment des voyages similaires au v\u00f4tre.",
+    "reference": "Es kann sinnvoller sein, einen Reiseberater zu nutzen, der h\u00e4ufig \u00e4hnliche Reisen wie Ihre bucht.",
+    "source_lang": "French",
+    "target_lang": "German",
+    "source_text": "Il peut \u00eatre pr\u00e9f\u00e9rable de faire appel \u00e0 un agent qui r\u00e9serve fr\u00e9quemment des voyages similaires au v\u00f4tre."
+  },
+  {
+    "id": 24,
+    "prompt": "Translate this to German: Jetez un coup d\u2019\u0153il aux voyages dont l\u2019agent fait la promotion, que ce soit sur un site internet ou en vitrine.",
+    "reference": "Werfen Sie einen Blick auf die Reisen, die der Reisekaufmann auf der Webseite oder in einem Schaufenster bewirbt.",
+    "source_lang": "French",
+    "target_lang": "German",
+    "source_text": "Jetez un coup d\u2019\u0153il aux voyages dont l\u2019agent fait la promotion, que ce soit sur un site internet ou en vitrine."
+  },
+  {
+    "id": 25,
+    "prompt": "Translate this to German: Si vous voulez voir le monde \u00e0 bas prix, par n\u00e9cessit\u00e9, mode de vie ou d\u00e9fi, il existe quelques moyens de le faire.",
+    "reference": "Wenn Sie die Welt notgedrungen, wegen Ihres Lebensstils oder als Herausforderung kosteng\u00fcnstig sehen m\u00f6chten, gibt es einige M\u00f6glichkeiten, dies zu tun.",
+    "source_lang": "French",
+    "target_lang": "German",
+    "source_text": "Si vous voulez voir le monde \u00e0 bas prix, par n\u00e9cessit\u00e9, mode de vie ou d\u00e9fi, il existe quelques moyens de le faire."
+  },
+  {
+    "id": 26,
+    "prompt": "Translate this to German: En gros, on peut les classer en deux cat\u00e9gories\u00a0: soit vous travaillez pendant votre voyage, soit vous essayez de limiter vos d\u00e9penses. Le pr\u00e9sent article porte essentiellement sur cette derni\u00e8re cat\u00e9gorie.",
+    "reference": "Sie lassen sich im Wesentlichen in zwei Kategorien einteilen: Entweder arbeiten Sie, w\u00e4hrend Sie reisen, oder Sie versuchen, Ihre Ausgaben zu senken. Dieser Artikel konzentriert sich auf Letzteres.",
+    "source_lang": "French",
+    "target_lang": "German",
+    "source_text": "En gros, on peut les classer en deux cat\u00e9gories\u00a0: soit vous travaillez pendant votre voyage, soit vous essayez de limiter vos d\u00e9penses. Le pr\u00e9sent article porte essentiellement sur cette derni\u00e8re cat\u00e9gorie."
+  },
+  {
+    "id": 27,
+    "prompt": "Translate this to German: Pour ceux qui sont pr\u00eats \u00e0 sacrifier le confort, le temps et la pr\u00e9visibilit\u00e9 pour r\u00e9duire les d\u00e9penses \u00e0 pr\u00e8s de z\u00e9ro, consultez le voyage \u00e0 budget minimum.",
+    "reference": "F\u00fcr diejenigen, die bereit sind, auf Komfort, Zeit und Planbarkeit zu verzichten, um die Ausgaben fast auf Null zu reduzieren, siehe Reisen mit minimalem Budget.",
+    "source_lang": "French",
+    "target_lang": "German",
+    "source_text": "Pour ceux qui sont pr\u00eats \u00e0 sacrifier le confort, le temps et la pr\u00e9visibilit\u00e9 pour r\u00e9duire les d\u00e9penses \u00e0 pr\u00e8s de z\u00e9ro, consultez le voyage \u00e0 budget minimum."
+  },
+  {
+    "id": 28,
+    "prompt": "Translate this to German: Ces conseils partent du principe que les voyageurs ne volent pas, ne s\u2019introduisent pas dans un lieu public, ne participent pas au march\u00e9 ill\u00e9gal, ne mendient pas ou n\u2019exploitent pas d\u2019autres personnes \u00e0 leur profit.",
+    "reference": "Der Ratschlag setzt voraus, dass Reisende nicht stehlen, Hausfriedensbruch begehen, Schwarzmarktaktivit\u00e4ten nachgehen, betteln oder andere Menschen auf andere Weise zum eigenen Vorteil ausnutzen.",
+    "source_lang": "French",
+    "target_lang": "German",
+    "source_text": "Ces conseils partent du principe que les voyageurs ne volent pas, ne s\u2019introduisent pas dans un lieu public, ne participent pas au march\u00e9 ill\u00e9gal, ne mendient pas ou n\u2019exploitent pas d\u2019autres personnes \u00e0 leur profit."
+  },
+  {
+    "id": 29,
+    "prompt": "Translate this to German: Un point de contr\u00f4le d'immigration est habituellement la premi\u00e8re \u00e9tape lorsque vous d\u00e9barquez d'un avion, d'un bateau ou d'un autre v\u00e9hicule.",
+    "reference": "Eine Einwanderungspr\u00fcfstelle ist f\u00fcr gew\u00f6hnlich die erste Station, wenn man aus einem Flugzeug, einem Schiff oder einem anderen Fahrzeug steigt.",
+    "source_lang": "French",
+    "target_lang": "German",
+    "source_text": "Un point de contr\u00f4le d'immigration est habituellement la premi\u00e8re \u00e9tape lorsque vous d\u00e9barquez d'un avion, d'un bateau ou d'un autre v\u00e9hicule."
+  },
+  {
+    "id": 30,
+    "prompt": "Translate this to German: Dans certains trains transfrontaliers, les inspections sont men\u00e9es dans le train en marche et vous devez avoir une pi\u00e8ce d'identit\u00e9 valide sur vous lorsque vous voyagez dans l'un de ces trains.",
+    "reference": "In einigen grenz\u00fcberschreitenden Z\u00fcgen werden Kontrollen im fahrenden Zug durchgef\u00fchrt und Sie sollten beim Einsteigen in einen dieser Z\u00fcge einen g\u00fcltigen Ausweis bei sich haben.",
+    "source_lang": "French",
+    "target_lang": "German",
+    "source_text": "Dans certains trains transfrontaliers, les inspections sont men\u00e9es dans le train en marche et vous devez avoir une pi\u00e8ce d'identit\u00e9 valide sur vous lorsque vous voyagez dans l'un de ces trains."
+  },
+  {
+    "id": 31,
+    "prompt": "Translate this to German: Dans les trains-couchettes qui roulent de nuit, les passeports peuvent \u00eatre collect\u00e9s par le chef de train afin de ne pas interrompre votre sommeil.",
+    "reference": "In Nachtz\u00fcgen k\u00f6nnen die P\u00e4sse vom Schaffner eingesammelt werden, damit Ihr Schlaf nicht unterbrochen wird.",
+    "source_lang": "French",
+    "target_lang": "German",
+    "source_text": "Dans les trains-couchettes qui roulent de nuit, les passeports peuvent \u00eatre collect\u00e9s par le chef de train afin de ne pas interrompre votre sommeil."
+  },
+  {
+    "id": 32,
+    "prompt": "Translate this to German: L\u2019enregistrement est une exigence suppl\u00e9mentaire pour la proc\u00e9dure de visa. Dans certains pays, vous devez vous faire enregistrer et indiquer l\u2019adresse de votre lieu de s\u00e9jour aupr\u00e8s des autorit\u00e9s locales.",
+    "reference": "Die Anmeldung ist eine weitere Notwendigkeit beim Visaverfahren. In manchen L\u00e4ndern m\u00fcssen Sie Ihre Anwesenheit und Ihre Wohnadresse bei den lokalen Beh\u00f6rden melden.",
+    "source_lang": "French",
+    "target_lang": "German",
+    "source_text": "L\u2019enregistrement est une exigence suppl\u00e9mentaire pour la proc\u00e9dure de visa. Dans certains pays, vous devez vous faire enregistrer et indiquer l\u2019adresse de votre lieu de s\u00e9jour aupr\u00e8s des autorit\u00e9s locales."
+  },
+  {
+    "id": 33,
+    "prompt": "Translate this to German: Cela peut n\u00e9cessiter de remplir un formulaire aupr\u00e8s de la police locale ou une visite aux bureaux de l'immigration.",
+    "reference": "Dies bedeutet zum Beispiel ein Formular bei der Polizei vor Ort auszuf\u00fcllen oder bei der Einwanderungsbeh\u00f6rde vorstellig zu werden.",
+    "source_lang": "French",
+    "target_lang": "German",
+    "source_text": "Cela peut n\u00e9cessiter de remplir un formulaire aupr\u00e8s de la police locale ou une visite aux bureaux de l'immigration."
+  },
+  {
+    "id": 34,
+    "prompt": "Translate this to German: Dans beaucoup de pays disposant d'une telle loi, les h\u00f4tels locaux s'occuperont eux-m\u00eames de l'enregistrement (n'oubliez pas de demander).",
+    "reference": "In vielen L\u00e4ndern mit so einem Gesetz, k\u00fcmmern sich lokale Hotels um die Registrierung (vergessen Sie nicht, danach zu fragen).",
+    "source_lang": "French",
+    "target_lang": "German",
+    "source_text": "Dans beaucoup de pays disposant d'une telle loi, les h\u00f4tels locaux s'occuperont eux-m\u00eames de l'enregistrement (n'oubliez pas de demander)."
+  },
+  {
+    "id": 35,
+    "prompt": "Translate this to German: Dans d'autres cas, seules les personnes r\u00e9sidant hors h\u00e9bergements touristiques doivent s'enregistrer. Toutefois, la loi est beaucoup plus obscure, donc il conviendra de se renseigner au pr\u00e9alable.",
+    "reference": "Gegebenenfalls m\u00fcssen sich nur Reisende anmelden, die nicht in Unterk\u00fcnften f\u00fcr Touristen wohnen. Dadurch wird das Gesetz allerdings viel unklarer, daher sollten Sie sich vor dem Reiseantritt informieren.",
+    "source_lang": "French",
+    "target_lang": "German",
+    "source_text": "Dans d'autres cas, seules les personnes r\u00e9sidant hors h\u00e9bergements touristiques doivent s'enregistrer. Toutefois, la loi est beaucoup plus obscure, donc il conviendra de se renseigner au pr\u00e9alable."
+  },
+  {
+    "id": 36,
+    "prompt": "Translate this to German: L'architecture se rapporte \u00e0 la conception et \u00e0 la construction des b\u00e2timents. L'architecture d'un site est souvent une attraction touristique \u00e0 part enti\u00e8re.",
+    "reference": "Die Architektur befasst sich mit der Planung und dem Bau von Geb\u00e4uden. Die Architektur eines Ortes ist oft eine Touristenattraktion an sich.",
+    "source_lang": "French",
+    "target_lang": "German",
+    "source_text": "L'architecture se rapporte \u00e0 la conception et \u00e0 la construction des b\u00e2timents. L'architecture d'un site est souvent une attraction touristique \u00e0 part enti\u00e8re."
+  },
+  {
+    "id": 37,
+    "prompt": "Translate this to German: De nombreux b\u00e2timents sont plut\u00f4t agr\u00e9ables \u00e0 regarder, et la vue qu'offrent les grands b\u00e2timents ou des fen\u00eatres savamment plac\u00e9es peut \u00eatre d'une beaut\u00e9 saisissante.",
+    "reference": "Viele Geb\u00e4ude sind sehr sch\u00f6n anzusehen und die Aussicht von einem hohen Geb\u00e4ude oder von einem geschickt positionierten Fenster kann sich als wundersch\u00f6n erweisen.",
+    "source_lang": "French",
+    "target_lang": "German",
+    "source_text": "De nombreux b\u00e2timents sont plut\u00f4t agr\u00e9ables \u00e0 regarder, et la vue qu'offrent les grands b\u00e2timents ou des fen\u00eatres savamment plac\u00e9es peut \u00eatre d'une beaut\u00e9 saisissante."
+  },
+  {
+    "id": 38,
+    "prompt": "Translate this to German: L\u2019architecture recoupe consid\u00e9rablement d\u2019autres domaines, notamment l\u2019urbanisme, le g\u00e9nie civil, les arts d\u00e9coratifs, la d\u00e9coration int\u00e9rieure et l\u2019am\u00e9nagement paysager.",
+    "reference": "Architektur \u00fcberschneidet sich in weiten Teilen mit anderen Fachgebieten, darunter St\u00e4dteplanung, Bauwesen, dekorative Kunst, Raumgestaltung und Landschaftsgestaltung.",
+    "source_lang": "French",
+    "target_lang": "German",
+    "source_text": "L\u2019architecture recoupe consid\u00e9rablement d\u2019autres domaines, notamment l\u2019urbanisme, le g\u00e9nie civil, les arts d\u00e9coratifs, la d\u00e9coration int\u00e9rieure et l\u2019am\u00e9nagement paysager."
+  },
+  {
+    "id": 39,
+    "prompt": "Translate this to German: \u00c9tant donn\u00e9 l\u2019\u00e9loignement de nombreux pueblos, vous ne pourrez pas trouver une vie nocturne importante sans vous rendre \u00e0 Albuquerque ou \u00e0 Santa Fe.",
+    "reference": "Wenn man bedenkt, wie abgelegen viele der Pueblos sind, werden Sie kein nennenswertes Nachtleben finden, wenn Sie nicht nach Albuquerque oder Santa Fe reisen.",
+    "source_lang": "French",
+    "target_lang": "German",
+    "source_text": "\u00c9tant donn\u00e9 l\u2019\u00e9loignement de nombreux pueblos, vous ne pourrez pas trouver une vie nocturne importante sans vous rendre \u00e0 Albuquerque ou \u00e0 Santa Fe."
+  },
+  {
+    "id": 40,
+    "prompt": "Translate this to German: Toutefois, presque tous les casinos cit\u00e9s ci-dessus servent des boissons, et plusieurs d'entre eux proposent des distractions de haute qualit\u00e9 (principalement les grands casinos situ\u00e9s \u00e0 proximit\u00e9 d'Albuquerque et de Santa Fe)",
+    "reference": "Allerdings servieren fast alle der oben aufgef\u00fchrten Casinos Getr\u00e4nke und einige von ihnen laden namhafte Unterhaltungsk\u00fcnstler ein (haupts\u00e4chlich die gro\u00dfen Casinos in der unmittelbaren Nachbarschaft von Albuquerque und Santa Fe).",
+    "source_lang": "French",
+    "target_lang": "German",
+    "source_text": "Toutefois, presque tous les casinos cit\u00e9s ci-dessus servent des boissons, et plusieurs d'entre eux proposent des distractions de haute qualit\u00e9 (principalement les grands casinos situ\u00e9s \u00e0 proximit\u00e9 d'Albuquerque et de Santa Fe)"
+  },
+  {
+    "id": 41,
+    "prompt": "Translate this to German: M\u00e9fiez-vous\u00a0: les bars des petites villes ici ne sont pas toujours de bons endroits pour tra\u00eener si vous \u00eates visiteur \u00e9tranger.",
+    "reference": "Vorsicht: Die Kleinstadtkneipen in dieser Gegend sind nicht immer geeignete Besuchsziele f\u00fcr G\u00e4ste von au\u00dferhalb.",
+    "source_lang": "French",
+    "target_lang": "German",
+    "source_text": "M\u00e9fiez-vous\u00a0: les bars des petites villes ici ne sont pas toujours de bons endroits pour tra\u00eener si vous \u00eates visiteur \u00e9tranger."
+  },
+  {
+    "id": 42,
+    "prompt": "Translate this to German: D'une part, le nord du Nouveau-Mexique conna\u00eet des probl\u00e8mes importants de conduite en \u00e9tat d'ivresse, et la concentration de conducteurs en \u00e9tat d'\u00e9bri\u00e9t\u00e9 est \u00e9lev\u00e9e \u00e0 proximit\u00e9 des bars des petites villes.",
+    "reference": "Einerseits hat das n\u00f6rdliche New Mexico signifikante Probleme mit Fahren unter Alkoholeinfluss. In der Umgebung von Kleinstadt-Bars ist die Konzentration betrunkener Fahrer besonders hoch.",
+    "source_lang": "French",
+    "target_lang": "German",
+    "source_text": "D'une part, le nord du Nouveau-Mexique conna\u00eet des probl\u00e8mes importants de conduite en \u00e9tat d'ivresse, et la concentration de conducteurs en \u00e9tat d'\u00e9bri\u00e9t\u00e9 est \u00e9lev\u00e9e \u00e0 proximit\u00e9 des bars des petites villes."
+  },
+  {
+    "id": 43,
+    "prompt": "Translate this to German: Les peintures murales ou les gribouillages ind\u00e9sirables sont connus sous le nom de graffitis.",
+    "reference": "Unerw\u00fcnschte Wandgem\u00e4lde oder Schmierereien sind als Graffiti bekannt.",
+    "source_lang": "French",
+    "target_lang": "German",
+    "source_text": "Les peintures murales ou les gribouillages ind\u00e9sirables sont connus sous le nom de graffitis."
+  },
+  {
+    "id": 44,
+    "prompt": "Translate this to German: Bien que ce soit loin d'\u00eatre un ph\u00e9nom\u00e8ne moderne, la plupart des gens l'associent probablement au fait que des jeunes vandalisent des propri\u00e9t\u00e9s publiques et priv\u00e9es en utilisant de la peinture en a\u00e9rosol.",
+    "reference": "Obwohl es alles andere als ein modernes Ph\u00e4nomen ist, verbinden die meisten Menschen es wahrscheinlich mit Jugendlichen, die \u00f6ffentliches und privates Eigentum mit Spr\u00fchfarbe zerst\u00f6ren.",
+    "source_lang": "French",
+    "target_lang": "German",
+    "source_text": "Bien que ce soit loin d'\u00eatre un ph\u00e9nom\u00e8ne moderne, la plupart des gens l'associent probablement au fait que des jeunes vandalisent des propri\u00e9t\u00e9s publiques et priv\u00e9es en utilisant de la peinture en a\u00e9rosol."
+  },
+  {
+    "id": 45,
+    "prompt": "Translate this to German: Il existe toutefois aujourd'hui des graffeurs reconnus, des \u00e9v\u00e9nements consacr\u00e9s \u00e0 la discipline et des surfaces \u00ab\u00a0autoris\u00e9es\u00a0\u00bb pour s'y adonner. Dans ces conditions, les graffitis ressemblent plus souvent \u00e0 de v\u00e9ritables \u0153uvres d'art qu'\u00e0 de vulgaires tags ind\u00e9chiffrables.",
+    "reference": "\"Heutzutage gibt es allerdings etablierte Graffiti-K\u00fcnstler, Graffiti-Veranstaltungen und \u201elegale\"\" W\u00e4nde. In diesem Kontext gleichen Graffiti-Gem\u00e4lde h\u00e4ufiger Kunstwerken als unlesbaren Kritzeleien. \"",
+    "source_lang": "French",
+    "target_lang": "German",
+    "source_text": "Il existe toutefois aujourd'hui des graffeurs reconnus, des \u00e9v\u00e9nements consacr\u00e9s \u00e0 la discipline et des surfaces \u00ab\u00a0autoris\u00e9es\u00a0\u00bb pour s'y adonner. Dans ces conditions, les graffitis ressemblent plus souvent \u00e0 de v\u00e9ritables \u0153uvres d'art qu'\u00e0 de vulgaires tags ind\u00e9chiffrables."
+  },
+  {
+    "id": 46,
+    "prompt": "Translate this to German: Le lancer de Boomerang est une comp\u00e9tence populaire que de nombreux touristes veulent acqu\u00e9rir.",
+    "reference": "Bumerangwerfen ist eine beliebte Fertigkeit, die viele Touristen erlernen wollen.",
+    "source_lang": "French",
+    "target_lang": "German",
+    "source_text": "Le lancer de Boomerang est une comp\u00e9tence populaire que de nombreux touristes veulent acqu\u00e9rir."
+  },
+  {
+    "id": 47,
+    "prompt": "Translate this to German: Si vous voulez apprendre \u00e0 lancer un boomerang qui vous retourne directement dans la main, alors assurez-vous de bien avoir un boomerang con\u00e7u pour revenir.",
+    "reference": "Wenn Sie lernen wollen, wie man einen Bumerang so wirft, dass er zu Ihrer Hand zur\u00fcckkommt, achten Sie darauf, dass Sie einen daf\u00fcr geeigneten Bumerang haben.",
+    "source_lang": "French",
+    "target_lang": "German",
+    "source_text": "Si vous voulez apprendre \u00e0 lancer un boomerang qui vous retourne directement dans la main, alors assurez-vous de bien avoir un boomerang con\u00e7u pour revenir."
+  },
+  {
+    "id": 48,
+    "prompt": "Translate this to German: En r\u00e9alit\u00e9, la plupart des boomerangs disponibles en Australie ne reviennent pas. Il est pr\u00e9f\u00e9rable pour les d\u00e9butants de ne pas essayer de faire de lancers dans le vent.",
+    "reference": "Die meisten Bumerangs, die in Australien erh\u00e4ltlich sind, kehren in Wirklichkeit nicht zur\u00fcck. Anf\u00e4nger sollten versuchen, m\u00f6glichst nicht bei windigem Wetter zu werfen.",
+    "source_lang": "French",
+    "target_lang": "German",
+    "source_text": "En r\u00e9alit\u00e9, la plupart des boomerangs disponibles en Australie ne reviennent pas. Il est pr\u00e9f\u00e9rable pour les d\u00e9butants de ne pas essayer de faire de lancers dans le vent."
+  },
+  {
+    "id": 49,
+    "prompt": "Translate this to German: On cuit un repas hangi dans une fosse chaude creus\u00e9e dans le sol.",
+    "reference": "Ein H\u0101ngi-Gericht wird in einem hei\u00dfen Erdloch gekocht.",
+    "source_lang": "French",
+    "target_lang": "German",
+    "source_text": "On cuit un repas hangi dans une fosse chaude creus\u00e9e dans le sol."
+  },
+  {
+    "id": 50,
+    "prompt": "Translate this to German: La fosse est soit chauff\u00e9e avec des pierres chaudes provenant d'un feu, soit la chaleur g\u00e9othermique r\u00e9chauffe naturellement certaines zones du sol.",
+    "reference": "Die Grube wird mit hei\u00dfen Steinen aus einem Feuer oder an manchen Orten durch Erdw\u00e4rme erhitzt, wo der Boden stellenweise von Natur aus hei\u00df ist.",
+    "source_lang": "French",
+    "target_lang": "German",
+    "source_text": "La fosse est soit chauff\u00e9e avec des pierres chaudes provenant d'un feu, soit la chaleur g\u00e9othermique r\u00e9chauffe naturellement certaines zones du sol."
+  },
+  {
+    "id": 51,
+    "prompt": "Translate this to German: Le hangi est souvent utilis\u00e9 pour pr\u00e9parer un d\u00eener traditionnel de type r\u00f4ti.",
+    "reference": "Hangi wird oft verwendet, um ein traditionell gebratenenes Abendessen zuzubereiten.",
+    "source_lang": "French",
+    "target_lang": "German",
+    "source_text": "Le hangi est souvent utilis\u00e9 pour pr\u00e9parer un d\u00eener traditionnel de type r\u00f4ti."
+  },
+  {
+    "id": 52,
+    "prompt": "Translate this to German: Plusieurs endroits \u00e0 Rotorua offrent des hangis g\u00e9othermiques, tandis que d\u2019autres hangis peuvent \u00eatre \u00e9chantillonn\u00e9s \u00e0 Christchurch, Wellington et ailleurs.",
+    "reference": "Mehrere Orte in Rotorua bieten geothermales Hangi an, w\u00e4hrend anderes Hangi in Christchurch, Wellington und anderswo gekostet werden kann.",
+    "source_lang": "French",
+    "target_lang": "German",
+    "source_text": "Plusieurs endroits \u00e0 Rotorua offrent des hangis g\u00e9othermiques, tandis que d\u2019autres hangis peuvent \u00eatre \u00e9chantillonn\u00e9s \u00e0 Christchurch, Wellington et ailleurs."
+  },
+  {
+    "id": 53,
+    "prompt": "Translate this to German: MetroRail propose deux classes dans les trains de banlieue du Cap et de ses environs : MetroPlus (\u00e9galement appel\u00e9e premi\u00e8re classe) et Metro (appel\u00e9e troisi\u00e8me classe).",
+    "reference": "MetroRail besitzt zwei Klassen von Pendlerz\u00fcgen in und um Kapstadt: MetroPlus (auch als erste Klasse bezeichnet) und Metro (als dritte Klasse bezeichnet).",
+    "source_lang": "French",
+    "target_lang": "German",
+    "source_text": "MetroRail propose deux classes dans les trains de banlieue du Cap et de ses environs : MetroPlus (\u00e9galement appel\u00e9e premi\u00e8re classe) et Metro (appel\u00e9e troisi\u00e8me classe)."
+  },
+  {
+    "id": 54,
+    "prompt": "Translate this to German: MetroPlus est plus confortable et moins bond\u00e9, mais plus cher, tout en restant moins cher que le tarif normal des billets de m\u00e9tro en Europe.",
+    "reference": "MetroPlus ist komfortabler und weniger \u00fcberf\u00fcllt, allerdings etwas teurer \u2013 wenn auch immer noch g\u00fcnstiger als normale U-Bahn-Tickets in Europa.",
+    "source_lang": "French",
+    "target_lang": "German",
+    "source_text": "MetroPlus est plus confortable et moins bond\u00e9, mais plus cher, tout en restant moins cher que le tarif normal des billets de m\u00e9tro en Europe."
+  },
+  {
+    "id": 55,
+    "prompt": "Translate this to German: Chaque train dispose de wagons Metro et MetroPlus ; les wagons MetroPlus sont toujours en bout du train le plus proche du Cap.",
+    "reference": "Jeder Zug hat sowohl MetroPlus- als auch Metro-Wagen. Die MetroPlus-Wagen befinden sich immer an dem Zugende, das Kapstadt am n\u00e4chsten ist.",
+    "source_lang": "French",
+    "target_lang": "German",
+    "source_text": "Chaque train dispose de wagons Metro et MetroPlus ; les wagons MetroPlus sont toujours en bout du train le plus proche du Cap."
+  },
+  {
+    "id": 56,
+    "prompt": "Translate this to German: Porter pour les autres \u2013 ne perdez jamais vos sacs de vue, surtout lorsque vous traversez des fronti\u00e8res internationales.",
+    "reference": "Tragen f\u00fcr andere \u2013 Verlieren Sie Ihr Gep\u00e4ck niemals aus den Augen, besonders wenn Sie internationale Grenzen \u00fcberschreiten.",
+    "source_lang": "French",
+    "target_lang": "German",
+    "source_text": "Porter pour les autres \u2013 ne perdez jamais vos sacs de vue, surtout lorsque vous traversez des fronti\u00e8res internationales."
+  },
+  {
+    "id": 57,
+    "prompt": "Translate this to German: Quelqu'un pourrait se servir de vous pour transporter de la drogue \u00e0 votre insu, ce qui vous attirerait de gros ennuis.",
+    "reference": "Man k\u00f6nnte als Drogenbote benutzt werden, ohne es zu wissen, was einem viel \u00c4rger einbringt.",
+    "source_lang": "French",
+    "target_lang": "German",
+    "source_text": "Quelqu'un pourrait se servir de vous pour transporter de la drogue \u00e0 votre insu, ce qui vous attirerait de gros ennuis."
+  },
+  {
+    "id": 58,
+    "prompt": "Translate this to German: Cela inclut l'attente en ligne, car les chiens renifleurs de drogue peuvent \u00eatre utilis\u00e9s \u00e0 tout moment sans pr\u00e9avis.",
+    "reference": "Dazu geh\u00f6rt auch das Warten in der Schlange, da Drogensp\u00fcrhunde jederzeit und ohne Vorank\u00fcndigung eingesetzt werden k\u00f6nnten.",
+    "source_lang": "French",
+    "target_lang": "German",
+    "source_text": "Cela inclut l'attente en ligne, car les chiens renifleurs de drogue peuvent \u00eatre utilis\u00e9s \u00e0 tout moment sans pr\u00e9avis."
+  },
+  {
+    "id": 59,
+    "prompt": "Translate this to German: Dans certains pays, les sanctions sont extr\u00eamement draconiennes, m\u00eame pour les premi\u00e8res infractions ; elles peuvent aller jusqu'\u00e0 des peines de prison de plus de dix ans ou la peine de mort.",
+    "reference": "In einigen L\u00e4ndern gibt es selbst f\u00fcr erstmalige Vergehen \u00fcberaus drakonische Strafen; diese k\u00f6nnen Gef\u00e4ngnisstrafen von \u00fcber 10 Jahren oder die Todesstrafe einschlie\u00dfen.",
+    "source_lang": "French",
+    "target_lang": "German",
+    "source_text": "Dans certains pays, les sanctions sont extr\u00eamement draconiennes, m\u00eame pour les premi\u00e8res infractions ; elles peuvent aller jusqu'\u00e0 des peines de prison de plus de dix ans ou la peine de mort."
+  },
+  {
+    "id": 60,
+    "prompt": "Translate this to German: Les sacs sans surveillance sont une cible pour le vol et peuvent \u00e9galement attirer l'attention des autorit\u00e9s qui se m\u00e9fient des alertes \u00e0 la bombe.",
+    "reference": "Unbeaufsichtigte Taschen sind ein Ziel f\u00fcr Diebe und k\u00f6nnen auch die Aufmerksamkeit von Beh\u00f6rden auf sich ziehen, die Bombendrohungen f\u00fcrchten.",
+    "source_lang": "French",
+    "target_lang": "German",
+    "source_text": "Les sacs sans surveillance sont une cible pour le vol et peuvent \u00e9galement attirer l'attention des autorit\u00e9s qui se m\u00e9fient des alertes \u00e0 la bombe."
+  },
+  {
+    "id": 61,
+    "prompt": "Translate this to German: \u00c0 la maison, en raison de cette exposition constante aux germes locaux, les chances sont tr\u00e8s \u00e9lev\u00e9es que vous soyez d\u00e9j\u00e0 immunis\u00e9 contre eux.",
+    "reference": "Daheim sind Sie gegen lokale Keime mit gro\u00dfer Wahrscheinlichkeit schon immun, da Sie ihnen st\u00e4ndig ausgesetzt sind.",
+    "source_lang": "French",
+    "target_lang": "German",
+    "source_text": "\u00c0 la maison, en raison de cette exposition constante aux germes locaux, les chances sont tr\u00e8s \u00e9lev\u00e9es que vous soyez d\u00e9j\u00e0 immunis\u00e9 contre eux."
+  },
+  {
+    "id": 62,
+    "prompt": "Translate this to German: Mais dans d'autres parties du monde, o\u00f9 la faune bact\u00e9riologique est nouvelle pour vous, vous risquez bien plus de rencontrer des probl\u00e8mes.",
+    "reference": "In anderen Teilen der Welt, in denen die bakteriologische Fauna neu f\u00fcr Sie ist, werden Sie jedoch viel eher auf Probleme sto\u00dfen.",
+    "source_lang": "French",
+    "target_lang": "German",
+    "source_text": "Mais dans d'autres parties du monde, o\u00f9 la faune bact\u00e9riologique est nouvelle pour vous, vous risquez bien plus de rencontrer des probl\u00e8mes."
+  },
+  {
+    "id": 63,
+    "prompt": "Translate this to German: De plus, dans les climats plus chauds, les bact\u00e9ries se d\u00e9veloppent plus rapidement et survivent plus longtemps \u00e0 l'ext\u00e9rieur du corps.",
+    "reference": "In w\u00e4rmeren Klimazonen wachsen Bakterien au\u00dferdem schneller und \u00fcberleben l\u00e4nger au\u00dferhalb des K\u00f6rpers.",
+    "source_lang": "French",
+    "target_lang": "German",
+    "source_text": "De plus, dans les climats plus chauds, les bact\u00e9ries se d\u00e9veloppent plus rapidement et survivent plus longtemps \u00e0 l'ext\u00e9rieur du corps."
+  },
+  {
+    "id": 64,
+    "prompt": "Translate this to German: Ainsi les fl\u00e9aux de Delhi Belly, la mal\u00e9diction du pharaon, la vengeance de Montezuma et leurs nombreux amis.",
+    "reference": "Daher die Gei\u00dfeln von Delhi Belly, der Pharaonenfluch, Montezumas Rache und ihre vielen Freunde.",
+    "source_lang": "French",
+    "target_lang": "German",
+    "source_text": "Ainsi les fl\u00e9aux de Delhi Belly, la mal\u00e9diction du pharaon, la vengeance de Montezuma et leurs nombreux amis."
+  },
+  {
+    "id": 65,
+    "prompt": "Translate this to German: Comme pour les probl\u00e8mes respiratoires dans les climats plus froids, les probl\u00e8mes intestinaux dans les climats chauds sont assez courants et, dans la plupart des cas, sont particuli\u00e8rement g\u00eanants mais pas vraiment dangereux.",
+    "reference": "Wie Atemprobleme in kaltem Klima sind Darmprobleme in hei\u00dfem Klima recht weit verbreitet. In den meisten F\u00e4llen sind sie sehr l\u00e4stig, aber eher ungef\u00e4hrlich.",
+    "source_lang": "French",
+    "target_lang": "German",
+    "source_text": "Comme pour les probl\u00e8mes respiratoires dans les climats plus froids, les probl\u00e8mes intestinaux dans les climats chauds sont assez courants et, dans la plupart des cas, sont particuli\u00e8rement g\u00eanants mais pas vraiment dangereux."
+  },
+  {
+    "id": 66,
+    "prompt": "Translate this to German: Si vous voyagez pour la premi\u00e8re fois dans un pays en voie de d\u00e9veloppement ou dans une r\u00e9gion du monde que vous ne connaissez pas, ne prenez pas le possible choc culturel \u00e0 le l\u00e9g\u00e8re.",
+    "reference": "Wenn Sie zum ersten Mal in ein Entwicklungsland \u2013 oder in einen neuen Teil der Welt \u2013 reisen, sollten Sie nicht untersch\u00e4tzen, wie stark der Kulturschock sein kann.",
+    "source_lang": "French",
+    "target_lang": "German",
+    "source_text": "Si vous voyagez pour la premi\u00e8re fois dans un pays en voie de d\u00e9veloppement ou dans une r\u00e9gion du monde que vous ne connaissez pas, ne prenez pas le possible choc culturel \u00e0 le l\u00e9g\u00e8re."
+  },
+  {
+    "id": 67,
+    "prompt": "Translate this to German: Nombreux sont les voyageurs stables et comp\u00e9tents qui ont \u00e9t\u00e9 d\u00e9pass\u00e9s par la nouveaut\u00e9 des voyages dans les pays en d\u00e9veloppement, o\u00f9 de nombreux petits ajustements culturels peuvent vite s'accumuler.",
+    "reference": "So mancher stabile, f\u00e4hige Reisende ist schon von der Andersartigkeit des Reisens in den Entwicklungsl\u00e4ndern \u00fcberw\u00e4ltigt worden, wo sich die vielen kleinen kulturellen Unterschiede schnell summieren k\u00f6nnen.",
+    "source_lang": "French",
+    "target_lang": "German",
+    "source_text": "Nombreux sont les voyageurs stables et comp\u00e9tents qui ont \u00e9t\u00e9 d\u00e9pass\u00e9s par la nouveaut\u00e9 des voyages dans les pays en d\u00e9veloppement, o\u00f9 de nombreux petits ajustements culturels peuvent vite s'accumuler."
+  },
+  {
+    "id": 68,
+    "prompt": "Translate this to German: Surtout au d\u00e9but, pensez \u00e0 faire des folies dans les h\u00f4tels, la nourriture et les services de style et de qualit\u00e9 occidentaux pour vous aider \u00e0 vous acclimater.",
+    "reference": "Vor allem in den ersten Tagen sollten Sie erw\u00e4gen, Hotels, Essen und Dienstleistungen mit westlicher Pr\u00e4gung und Qualit\u00e4t in Anspruch zu nehmen, um die Akklimatisierung zu erleichtern.",
+    "source_lang": "French",
+    "target_lang": "German",
+    "source_text": "Surtout au d\u00e9but, pensez \u00e0 faire des folies dans les h\u00f4tels, la nourriture et les services de style et de qualit\u00e9 occidentaux pour vous aider \u00e0 vous acclimater."
+  },
+  {
+    "id": 69,
+    "prompt": "Translate this to German: Ne dormez pas sur un matelas ou sur un coussin \u00e0 m\u00eame le sol dans les zones o\u00f9 vous ne connaissez pas la faune locale.",
+    "reference": "Schlafen Sie in Gegenden, in denen Sie die \u00f6rtliche Tierwelt nicht kennen, nicht auf einer Matratze oder Matte auf dem Boden.",
+    "source_lang": "French",
+    "target_lang": "German",
+    "source_text": "Ne dormez pas sur un matelas ou sur un coussin \u00e0 m\u00eame le sol dans les zones o\u00f9 vous ne connaissez pas la faune locale."
+  },
+  {
+    "id": 70,
+    "prompt": "Translate this to German: Si vous allez camper, apportez un lit de camp ou un hamac pour vous tenir \u00e0 l'\u00e9cart des serpents, scorpions et autres.",
+    "reference": "Wenn Sie im Freien zelten, sollten Sie ein Klappbett oder eine H\u00e4ngematte mitnehmen, um sich vor Schlangen, Skorpionen usw. zu sch\u00fctzen.",
+    "source_lang": "French",
+    "target_lang": "German",
+    "source_text": "Si vous allez camper, apportez un lit de camp ou un hamac pour vous tenir \u00e0 l'\u00e9cart des serpents, scorpions et autres."
+  },
+  {
+    "id": 71,
+    "prompt": "Translate this to German: Emplissez votre maison avec l'ar\u00f4me d'un caf\u00e9 intense le matin et le soir, avec celui d'une relaxante tisane \u00e0 la camomille.",
+    "reference": "Erf\u00fclle Dein Zuhause mit einem k\u00f6stlichem Kaffee am Morgen und etwas entspannendem Kamillentee am Abend.",
+    "source_lang": "French",
+    "target_lang": "German",
+    "source_text": "Emplissez votre maison avec l'ar\u00f4me d'un caf\u00e9 intense le matin et le soir, avec celui d'une relaxante tisane \u00e0 la camomille."
+  },
+  {
+    "id": 72,
+    "prompt": "Translate this to German: Lorsque vous \u00eates en s\u00e9jour, vous avez le temps de vous faire plaisir et de prendre quelques minutes suppl\u00e9mentaires pour pr\u00e9parer quelque chose de sp\u00e9cial.",
+    "reference": "Wenn Sie Urlaub zu Hause machen, haben Sie die Zeit, es sich gut gehen zu lassen und ein paar Minuten mehr zu investieren, um etwas Besonderes aufzubr\u00fchen.",
+    "source_lang": "French",
+    "target_lang": "German",
+    "source_text": "Lorsque vous \u00eates en s\u00e9jour, vous avez le temps de vous faire plaisir et de prendre quelques minutes suppl\u00e9mentaires pour pr\u00e9parer quelque chose de sp\u00e9cial."
+  },
+  {
+    "id": 73,
+    "prompt": "Translate this to German: Si vous vous sentez d'humeur plus aventureuse, profitez de l'occasion pour pr\u00e9parer un jus ou m\u00e9langer des smoothies :",
+    "reference": "Wenn Sie ein wenig mehr Abenteuer wollen, ergreifen Sie die Chance, Smoothies saftiger zu machen oder zu mixen:",
+    "source_lang": "French",
+    "target_lang": "German",
+    "source_text": "Si vous vous sentez d'humeur plus aventureuse, profitez de l'occasion pour pr\u00e9parer un jus ou m\u00e9langer des smoothies :"
+  },
+  {
+    "id": 74,
+    "prompt": "Translate this to German: peut-\u00eatre d\u00e9couvrirez-vous une boisson simple que vous pourrez pr\u00e9parer pour votre petit d\u00e9jeuner lorsque vous retournerez \u00e0 votre routine quotidienne.",
+    "reference": "Vielleicht finden Sie ein einfaches Getr\u00e4nk, das Sie zum Fr\u00fchst\u00fcck zubereiten k\u00f6nnen, wenn Sie wieder in Ihrer t\u00e4glichen Routine angekommen sind.",
+    "source_lang": "French",
+    "target_lang": "German",
+    "source_text": "peut-\u00eatre d\u00e9couvrirez-vous une boisson simple que vous pourrez pr\u00e9parer pour votre petit d\u00e9jeuner lorsque vous retournerez \u00e0 votre routine quotidienne."
+  },
+  {
+    "id": 75,
+    "prompt": "Translate this to German: Si vous vivez dans une ville o\u00f9 la culture de la boisson est vari\u00e9e, allez dans les bars ou les pubs des quartiers que vous ne fr\u00e9quentez pas.",
+    "reference": "Wenn Sie in einer Stadt mit einer vielf\u00e4ltigen Trinkkultur leben, gehen Sie in Bars oder Kneipen in Stadtvierteln, die Sie nicht h\u00e4ufig besuchen.",
+    "source_lang": "French",
+    "target_lang": "German",
+    "source_text": "Si vous vivez dans une ville o\u00f9 la culture de la boisson est vari\u00e9e, allez dans les bars ou les pubs des quartiers que vous ne fr\u00e9quentez pas."
+  },
+  {
+    "id": 76,
+    "prompt": "Translate this to German: Pour ceux qui ne connaissent pas bien le jargon m\u00e9dical, les mots \u00ab infectieux \u00bb et \u00ab contagieux \u00bb ont un sens distinct.",
+    "reference": "F\u00fcr die, die sich mit dem medizinischen Fachjargon wenig auskennen: Die Begriffe infekti\u00f6s und ansteckend haben unterschiedliche Bedeutungen.",
+    "source_lang": "French",
+    "target_lang": "German",
+    "source_text": "Pour ceux qui ne connaissent pas bien le jargon m\u00e9dical, les mots \u00ab infectieux \u00bb et \u00ab contagieux \u00bb ont un sens distinct."
+  },
+  {
+    "id": 77,
+    "prompt": "Translate this to German: Une maladie infectieuse est celle caus\u00e9e par un agent pathog\u00e8ne, tel qu'un virus, une bact\u00e9rie, un champignon ou d\u2019autres parasites.",
+    "reference": "Eine Infektionskrankheit ist eine Krankheit, die durch einen Erreger, wie z. B. einen Virus, ein Bakterium, einen Pilz oder andere Parasiten, verursacht wird.",
+    "source_lang": "French",
+    "target_lang": "German",
+    "source_text": "Une maladie infectieuse est celle caus\u00e9e par un agent pathog\u00e8ne, tel qu'un virus, une bact\u00e9rie, un champignon ou d\u2019autres parasites."
+  },
+  {
+    "id": 78,
+    "prompt": "Translate this to German: Une maladie contagieuse est une maladie facilement transmissible lorsqu\u2019on se trouve \u00e0 proximit\u00e9 d\u2019une personne infect\u00e9e.",
+    "reference": "Eine ansteckende Krankheit ist eine Krankheit, die leicht \u00fcbertragen wird, wenn man sich in der N\u00e4he einer infizierten Person aufh\u00e4lt.",
+    "source_lang": "French",
+    "target_lang": "German",
+    "source_text": "Une maladie contagieuse est une maladie facilement transmissible lorsqu\u2019on se trouve \u00e0 proximit\u00e9 d\u2019une personne infect\u00e9e."
+  },
+  {
+    "id": 79,
+    "prompt": "Translate this to German: De nombreux gouvernements exigent que les visiteurs qui entrent dans leur pays ou les r\u00e9sidents qui le quittent soient vaccin\u00e9s contre toute une s\u00e9rie de maladies.",
+    "reference": "Viele Regierungen fordern von einreisenden Besuchern oder abreisenden Einwohnern in ihren L\u00e4ndern, dass sie sich gegen eine Reihe von Krankheiten impfen lassen.",
+    "source_lang": "French",
+    "target_lang": "German",
+    "source_text": "De nombreux gouvernements exigent que les visiteurs qui entrent dans leur pays ou les r\u00e9sidents qui le quittent soient vaccin\u00e9s contre toute une s\u00e9rie de maladies."
+  },
+  {
+    "id": 80,
+    "prompt": "Translate this to German: Ces exigences peuvent souvent d\u00e9pendre des pays visit\u00e9s par un voyageur, ou qu'il compte visiter.",
+    "reference": "Diese Voraussetzungen h\u00e4ngen oft davon ab, welche L\u00e4nder ein Urlauber schon besucht hat oder welche er besuchen will.",
+    "source_lang": "French",
+    "target_lang": "German",
+    "source_text": "Ces exigences peuvent souvent d\u00e9pendre des pays visit\u00e9s par un voyageur, ou qu'il compte visiter."
+  },
+  {
+    "id": 81,
+    "prompt": "Translate this to German: Un des points forts de Charlotte, en Caroline du Nord, est l'abondance des services de haute qualit\u00e9 pour les familles.",
+    "reference": "Eine der St\u00e4rken von Charlotte (North Carolina) ist, dass es dort eine F\u00fclle hochwertiger Angebote f\u00fcr Familien gibt.",
+    "source_lang": "French",
+    "target_lang": "German",
+    "source_text": "Un des points forts de Charlotte, en Caroline du Nord, est l'abondance des services de haute qualit\u00e9 pour les familles."
+  },
+  {
+    "id": 82,
+    "prompt": "Translate this to German: Les r\u00e9sidents d\u2019autres r\u00e9gions citent souvent la convivialit\u00e9 familiale comme raison principale de leur installation, et les visiteurs trouvent souvent la ville facile \u00e0 appr\u00e9cier avec des enfants \u00e0 c\u00f4t\u00e9.",
+    "reference": "Bewohner aus anderen Gegenden geben oft Familienfreundlichkeit als Hauptgrund f\u00fcr ihren Umzug an, und Besucher mit Kindern f\u00fchlen sich in der Stadt sehr wohl.",
+    "source_lang": "French",
+    "target_lang": "German",
+    "source_text": "Les r\u00e9sidents d\u2019autres r\u00e9gions citent souvent la convivialit\u00e9 familiale comme raison principale de leur installation, et les visiteurs trouvent souvent la ville facile \u00e0 appr\u00e9cier avec des enfants \u00e0 c\u00f4t\u00e9."
+  },
+  {
+    "id": 83,
+    "prompt": "Translate this to German: Au cours des 20 derni\u00e8res ann\u00e9es, le nombre d'options adapt\u00e9es aux enfants dans le quartier des affaires de Charlotte a connu une croissance exponentielle.",
+    "reference": "In den letzten 20 Jahren ist die Auswahl an kinderfreundlichen Optionen in Uptown Charlotte exponentiell gewachsen.",
+    "source_lang": "French",
+    "target_lang": "German",
+    "source_text": "Au cours des 20 derni\u00e8res ann\u00e9es, le nombre d'options adapt\u00e9es aux enfants dans le quartier des affaires de Charlotte a connu une croissance exponentielle."
+  },
+  {
+    "id": 84,
+    "prompt": "Translate this to German: En g\u00e9n\u00e9ral, les familles n\u2019utilisent pas de taxis \u00e0 Charlotte, bien que ces derniers puissent se r\u00e9v\u00e9ler utiles dans certaines circonstances.",
+    "reference": "Taxis werden von Familien in Charlotte normalerweise nicht genutzt, obwohl sie unter bestimmten Umst\u00e4nden n\u00fctzlich sein k\u00f6nnen.",
+    "source_lang": "French",
+    "target_lang": "German",
+    "source_text": "En g\u00e9n\u00e9ral, les familles n\u2019utilisent pas de taxis \u00e0 Charlotte, bien que ces derniers puissent se r\u00e9v\u00e9ler utiles dans certaines circonstances."
+  },
+  {
+    "id": 85,
+    "prompt": "Translate this to German: Il y a une surtaxe pour avoir plus de deux passagers, donc cette option pourrait \u00eatre plus co\u00fbteuse qu'indispensable.",
+    "reference": "F\u00fcr mehr als 2 Passagiere gilt eine Zusatzgeb\u00fchr, was diese Wahl unter Umst\u00e4nden teurer als n\u00f6tig macht.",
+    "source_lang": "French",
+    "target_lang": "German",
+    "source_text": "Il y a une surtaxe pour avoir plus de deux passagers, donc cette option pourrait \u00eatre plus co\u00fbteuse qu'indispensable."
+  },
+  {
+    "id": 86,
+    "prompt": "Translate this to German: L\u2019Antarctique, qui entoure le p\u00f4le Sud, est l\u2019endroit le plus froid sur Terre.",
+    "reference": "Die Antarktis die den S\u00fcdpol umgibt, ist der k\u00e4lteste Ort der Erde.",
+    "source_lang": "French",
+    "target_lang": "German",
+    "source_text": "L\u2019Antarctique, qui entoure le p\u00f4le Sud, est l\u2019endroit le plus froid sur Terre."
+  },
+  {
+    "id": 87,
+    "prompt": "Translate this to German: Les visites touristiques sont co\u00fbteuses, exigent une bonne condition physique, ne peuvent avoir lieu qu'en \u00e9t\u00e9 (de novembre \u00e0 f\u00e9vrier) et sont largement limit\u00e9es \u00e0 la p\u00e9ninsule, aux \u00eeles, et \u00e0 la mer de Ross.",
+    "reference": "Touristische Besuche sind teuer, erfordern k\u00f6rperliche Fitness, k\u00f6nnen nur im Sommer (Nov\u2013Feb) stattfinden und sind gr\u00f6\u00dftenteils auf die Halbinsel, die Inseln und das Rossmeer beschr\u00e4nkt.",
+    "source_lang": "French",
+    "target_lang": "German",
+    "source_text": "Les visites touristiques sont co\u00fbteuses, exigent une bonne condition physique, ne peuvent avoir lieu qu'en \u00e9t\u00e9 (de novembre \u00e0 f\u00e9vrier) et sont largement limit\u00e9es \u00e0 la p\u00e9ninsule, aux \u00eeles, et \u00e0 la mer de Ross."
+  },
+  {
+    "id": 88,
+    "prompt": "Translate this to German: Quelques milliers d'employ\u00e9s vivent ici en \u00e9t\u00e9 dans une quarantaine de bases, principalement dans ces r\u00e9gions ; un petit nombre d'entre eux restent en hiver.",
+    "reference": "Ein paar tausend Mitarbeiter leben hier im Sommer in etwa vier Dutzend St\u00fctzpunkten, haupts\u00e4chlich in diesen Gebieten; eine kleine Anzahl bleibt \u00fcber den Winter.",
+    "source_lang": "French",
+    "target_lang": "German",
+    "source_text": "Quelques milliers d'employ\u00e9s vivent ici en \u00e9t\u00e9 dans une quarantaine de bases, principalement dans ces r\u00e9gions ; un petit nombre d'entre eux restent en hiver."
+  },
+  {
+    "id": 89,
+    "prompt": "Translate this to German: L'Antarctique int\u00e9rieur est un plateau d\u00e9sol\u00e9 recouvert de 2 \u00e0 3 km de glace.",
+    "reference": "Das Binnenland der Antarktis ist ein einsames Plateau, das mit 2\u20133 km Eis bedeckt ist.",
+    "source_lang": "French",
+    "target_lang": "German",
+    "source_text": "L'Antarctique int\u00e9rieur est un plateau d\u00e9sol\u00e9 recouvert de 2 \u00e0 3 km de glace."
+  },
+  {
+    "id": 90,
+    "prompt": "Translate this to German: Exp\u00e9ditions a\u00e9riennes sp\u00e9cifiques et ponctuelles vers l\u2019int\u00e9rieur des terres, pour l\u2019alpinisme ou pour atteindre le P\u00f4le, disposant d\u2019une vaste base.",
+    "reference": "Gelegentliche spezialisierte Flugtouren f\u00fchren landeinw\u00e4rts, zum Bergsteigen oder zum Pol, bei dem es eine gro\u00dfe Forschungsstation gibt.",
+    "source_lang": "French",
+    "target_lang": "German",
+    "source_text": "Exp\u00e9ditions a\u00e9riennes sp\u00e9cifiques et ponctuelles vers l\u2019int\u00e9rieur des terres, pour l\u2019alpinisme ou pour atteindre le P\u00f4le, disposant d\u2019une vaste base."
+  },
+  {
+    "id": 91,
+    "prompt": "Translate this to German: L'autoroute du p\u00f4le Sud est une route de 1\u00a0600\u00a0km entre la station de McMurdo, au bord de la mer de Ross, et le p\u00f4le.",
+    "reference": "Bei der South Pole Traverse (auch Highway genannt) handelt es sich um eine 1600 km lange Stra\u00dfe von der McMurdo-Station am Rossmeer bis zum Pol.",
+    "source_lang": "French",
+    "target_lang": "German",
+    "source_text": "L'autoroute du p\u00f4le Sud est une route de 1\u00a0600\u00a0km entre la station de McMurdo, au bord de la mer de Ross, et le p\u00f4le."
+  },
+  {
+    "id": 92,
+    "prompt": "Translate this to German: Il s'agit de neige compact\u00e9e, avec des crevasses combl\u00e9es et marqu\u00e9es par des fanions. Il ne peut \u00eatre parcouru que par des tracteurs sp\u00e9cialis\u00e9s, tirant des tra\u00eeneaux transportant carburant et fournitures.",
+    "reference": "Der Stra\u00dfenbelag ist planierter Schnee. Spalten sind mit Schnee gef\u00fcllt und mit Flaggen markiert. Die Stra\u00dfe kann nur von speziellen Zugmaschinen befahren werden, die Schlitten mit Treibstoff und Vorr\u00e4ten hinter sich herziehen.",
+    "source_lang": "French",
+    "target_lang": "German",
+    "source_text": "Il s'agit de neige compact\u00e9e, avec des crevasses combl\u00e9es et marqu\u00e9es par des fanions. Il ne peut \u00eatre parcouru que par des tracteurs sp\u00e9cialis\u00e9s, tirant des tra\u00eeneaux transportant carburant et fournitures."
+  },
+  {
+    "id": 93,
+    "prompt": "Translate this to German: Ces derniers ne sont pas tr\u00e8s agiles, de sorte que la piste doit faire une longue embard\u00e9e autour des montagnes transantarctiques pour arriver sur le plateau.",
+    "reference": "Diese sind nicht sehr wendig, sodass die Stra\u00dfe um das Transantarktische Gebirge einen weiten Bogen machen muss, um auf das Plateau zu gelangen.",
+    "source_lang": "French",
+    "target_lang": "German",
+    "source_text": "Ces derniers ne sont pas tr\u00e8s agiles, de sorte que la piste doit faire une longue embard\u00e9e autour des montagnes transantarctiques pour arriver sur le plateau."
+  },
+  {
+    "id": 94,
+    "prompt": "Translate this to German: En hiver, la cause d\u2019accidents la plus fr\u00e9quente est le caract\u00e8re glissant des routes, des trottoirs et surtout des marches.",
+    "reference": "Die h\u00e4ufigste Unfallursache im Winter sind rutschige Stra\u00dfen, Gehwege (B\u00fcrgersteige) und vor allem Stufen.",
+    "source_lang": "French",
+    "target_lang": "German",
+    "source_text": "En hiver, la cause d\u2019accidents la plus fr\u00e9quente est le caract\u00e8re glissant des routes, des trottoirs et surtout des marches."
+  },
+  {
+    "id": 95,
+    "prompt": "Translate this to German: Des chaussures avec des semelles ad\u00e9quates, c'est le minimum. Les chaussures d'\u00e9t\u00e9 glissent tr\u00e8s souvent sur la glace et sur la neige, m\u00eame certains mod\u00e8les pr\u00e9vus pour l'hiver n'y d\u00e9rogent pas.",
+    "reference": "Sie ben\u00f6tigen zumindest Schuhe mit geeigneten Sohlen. Sommerschuhe sind in der Regel sehr rutschig auf Eis und Schnee, selbst manche Winterstiefel sind unzureichend.",
+    "source_lang": "French",
+    "target_lang": "German",
+    "source_text": "Des chaussures avec des semelles ad\u00e9quates, c'est le minimum. Les chaussures d'\u00e9t\u00e9 glissent tr\u00e8s souvent sur la glace et sur la neige, m\u00eame certains mod\u00e8les pr\u00e9vus pour l'hiver n'y d\u00e9rogent pas."
+  },
+  {
+    "id": 96,
+    "prompt": "Translate this to German: Le motif doit \u00eatre suffisamment profond, soit 5\u00a0mm (1/5\u00a0po) ou plus, et le mat\u00e9riau doit \u00eatre suffisamment souple par temps froid.",
+    "reference": "Das Profil sollte tief genug sein, 5 mm (1/5 Zoll) oder mehr, und das Material auch bei niedrigen Temperaturen weich genug.",
+    "source_lang": "French",
+    "target_lang": "German",
+    "source_text": "Le motif doit \u00eatre suffisamment profond, soit 5\u00a0mm (1/5\u00a0po) ou plus, et le mat\u00e9riau doit \u00eatre suffisamment souple par temps froid."
+  },
+  {
+    "id": 97,
+    "prompt": "Translate this to German: Certaines bottes sont munies de crampons et il existe un \u00e9quipement compl\u00e9mentaire \u00e0 crampons pour les conditions glissantes, qui convient \u00e0 la plupart des chaussures et des bottes, pour les talons ou les talons et la semelle.",
+    "reference": "Einige Stiefel haben Stollen und f\u00fcr rutschige Verh\u00e4ltnisse gibt es Zusatzausr\u00fcstung mit Stollen f\u00fcr die Abs\u00e4tze oder Abs\u00e4tze und Sohle, die f\u00fcr die meisten Schuhe und Stiefel geeignet sind.",
+    "source_lang": "French",
+    "target_lang": "German",
+    "source_text": "Certaines bottes sont munies de crampons et il existe un \u00e9quipement compl\u00e9mentaire \u00e0 crampons pour les conditions glissantes, qui convient \u00e0 la plupart des chaussures et des bottes, pour les talons ou les talons et la semelle."
+  },
+  {
+    "id": 98,
+    "prompt": "Translate this to German: Les talons doivent \u00eatre bas et larges. Du sable, du gravier ou du sel (chlorure de calcium) est souvent dispers\u00e9 sur les routes ou les chemins pour am\u00e9liorer la traction.",
+    "reference": "Die Abs\u00e4tze sollten niedrig und breit sein. Sand, Kies oder Salz (Calciumchlorid) werden h\u00e4ufig auf Stra\u00dfen oder Wege gestreut, um die Bodenhaftung zu verbessern.",
+    "source_lang": "French",
+    "target_lang": "German",
+    "source_text": "Les talons doivent \u00eatre bas et larges. Du sable, du gravier ou du sel (chlorure de calcium) est souvent dispers\u00e9 sur les routes ou les chemins pour am\u00e9liorer la traction."
+  },
+  {
+    "id": 99,
+    "prompt": "Translate this to German: Les avalanches ne sont pas des ph\u00e9nom\u00e8nes anormaux ; les pentes escarp\u00e9es ne peuvent retenir qu'une petite quantit\u00e9 de neige, dont l'exc\u00e9dent se r\u00e9pand sous forme d'avalanche.",
+    "reference": "Lawinen sind keine Anomalie; steile H\u00e4nge k\u00f6nnen nur eine bestimmte Menge an Schnee halten und die \u00fcbersch\u00fcssige Menge kommt als Lawinen herunter.",
+    "source_lang": "French",
+    "target_lang": "German",
+    "source_text": "Les avalanches ne sont pas des ph\u00e9nom\u00e8nes anormaux ; les pentes escarp\u00e9es ne peuvent retenir qu'une petite quantit\u00e9 de neige, dont l'exc\u00e9dent se r\u00e9pand sous forme d'avalanche."
+  },
+  {
+    "id": 100,
+    "prompt": "Translate this to German: Le probl\u00e8me est que la neige colle, alors si elle s'effondre, c'est qu'il y a eu un \u00e9l\u00e9ment d\u00e9clencheur. Or, un l\u00e9ger effondrement de la neige peut \u00eatre le d\u00e9clencheur pour tout le reste.",
+    "reference": "Das Problem ist, das Schnee haftet. Daher braucht es einen Ausl\u00f6ser, damit der Schnee herunterkommt. Etwas herunterfallender Schnee kann das ausl\u00f6sende Ereignis f\u00fcr den Rest sein.",
+    "source_lang": "French",
+    "target_lang": "German",
+    "source_text": "Le probl\u00e8me est que la neige colle, alors si elle s'effondre, c'est qu'il y a eu un \u00e9l\u00e9ment d\u00e9clencheur. Or, un l\u00e9ger effondrement de la neige peut \u00eatre le d\u00e9clencheur pour tout le reste."
+  },
+  {
+    "id": 101,
+    "prompt": "Translate this to German: Parfois, l'\u00e9l\u00e9ment d\u00e9clencheur est le r\u00e9chauffement solaire sur la neige, parfois c'est juste davantage de neige, et d'autres fois il peut s'agir d'\u00e9v\u00e9nements naturels ou de l'activit\u00e9 humaine.",
+    "reference": "Mitunter ist der urspr\u00fcngliche Ausl\u00f6ser die Sonne, die den Schnee erw\u00e4rmt, bisweilen ist es weiterer Schneefall, mitunter andere Naturereignisse, h\u00e4ufig ein Mensch.",
+    "source_lang": "French",
+    "target_lang": "German",
+    "source_text": "Parfois, l'\u00e9l\u00e9ment d\u00e9clencheur est le r\u00e9chauffement solaire sur la neige, parfois c'est juste davantage de neige, et d'autres fois il peut s'agir d'\u00e9v\u00e9nements naturels ou de l'activit\u00e9 humaine."
+  },
+  {
+    "id": 102,
+    "prompt": "Translate this to German: Une tornade est un tourbillon d'air \u00e0 basse-pression en forme de colonne, l'air alentour est aspir\u00e9 vers l'int\u00e9rieur et le haut.",
+    "reference": "Ein Tornado ist eine wirbelnde S\u00e4ule von Luft mit sehr niedrigem Druck, welche die umgebende Luft einsaugt und aufsteigen l\u00e4sst.",
+    "source_lang": "French",
+    "target_lang": "German",
+    "source_text": "Une tornade est un tourbillon d'air \u00e0 basse-pression en forme de colonne, l'air alentour est aspir\u00e9 vers l'int\u00e9rieur et le haut."
+  },
+  {
+    "id": 103,
+    "prompt": "Translate this to German: Ils g\u00e9n\u00e8rent des vents violents (souvent de 100 \u00e0 200 miles/heure) et peuvent soulever des objets lourds dans les airs, les transportant au fur et \u00e0 mesure que la tornade se d\u00e9place.",
+    "reference": "Sie erzeugen starke Winde (oft 100-200 Meilen/Stunde) und k\u00f6nnen schwere Objekte in die Luft heben und herumwirbeln.",
+    "source_lang": "French",
+    "target_lang": "German",
+    "source_text": "Ils g\u00e9n\u00e8rent des vents violents (souvent de 100 \u00e0 200 miles/heure) et peuvent soulever des objets lourds dans les airs, les transportant au fur et \u00e0 mesure que la tornade se d\u00e9place."
+  },
+  {
+    "id": 104,
+    "prompt": "Translate this to German: Elles commencent comme des entonnoirs descendant des nuages orageux, et deviennent des \u00ab\u2009tornades\u2009\u00bb lorsqu\u2019elles touchent terre.",
+    "reference": "Sie beginnen als Trichter, die aus Gewitterwolken herabsinken, und werden zu \u201eTornados\u201c, wenn sie den Boden ber\u00fchren.",
+    "source_lang": "French",
+    "target_lang": "German",
+    "source_text": "Elles commencent comme des entonnoirs descendant des nuages orageux, et deviennent des \u00ab\u2009tornades\u2009\u00bb lorsqu\u2019elles touchent terre."
+  },
+  {
+    "id": 105,
+    "prompt": "Translate this to German: Les fournisseurs de VPN (r\u00e9seau priv\u00e9 virtuel) personnels sont un excellent moyen de contourner \u00e0 la fois la censure politique et le g\u00e9ofiltrage IP commercial.",
+    "reference": "Pers\u00f6nliche VPN-Anbieter (virtual private network) sind eine ausgezeichnete M\u00f6glichkeit, sowohl politische Zensur als auch kommerzielle IP-Geofilter zu umgehen.",
+    "source_lang": "French",
+    "target_lang": "German",
+    "source_text": "Les fournisseurs de VPN (r\u00e9seau priv\u00e9 virtuel) personnels sont un excellent moyen de contourner \u00e0 la fois la censure politique et le g\u00e9ofiltrage IP commercial."
+  },
+  {
+    "id": 106,
+    "prompt": "Translate this to German: Ils sont sup\u00e9rieurs aux proxy web pour plusieurs raisons\u00a0: ils redirigent tout le trafic en ligne, pas seulement le http.",
+    "reference": "Sie sind aus verschiedenen Gr\u00fcnden den Web-Proxies \u00fcberlegen: Sie leiten den gesamten Internetverkehr um, nicht nur http.",
+    "source_lang": "French",
+    "target_lang": "German",
+    "source_text": "Ils sont sup\u00e9rieurs aux proxy web pour plusieurs raisons\u00a0: ils redirigent tout le trafic en ligne, pas seulement le http."
+  },
+  {
+    "id": 107,
+    "prompt": "Translate this to German: Ils offrent normalement une plus grande largeur de bande et une meilleure qualit\u00e9 de service. Elles sont crypt\u00e9es et donc plus difficiles \u00e0 espionner.",
+    "reference": "\u00dcblicherweise bieten sie h\u00f6here Bandbreiten und bessere Leistungsqualit\u00e4t. Sie sind verschl\u00fcsselt und daher schwieriger auszuspionieren.",
+    "source_lang": "French",
+    "target_lang": "German",
+    "source_text": "Ils offrent normalement une plus grande largeur de bande et une meilleure qualit\u00e9 de service. Elles sont crypt\u00e9es et donc plus difficiles \u00e0 espionner."
+  },
+  {
+    "id": 108,
+    "prompt": "Translate this to German: Les entreprises de m\u00e9dias mentent couramment sur l'objectif de cette mesure, pr\u00e9tendant qu'elle vise \u00e0 \u00ab emp\u00eacher le piratage \u00bb.",
+    "reference": "\"Die Medienunternehmen l\u00fcgen regelm\u00e4\u00dfig \u00fcber die Absicht dahinter und behaupten, dass es dazu diene, \"\"Piraterie vorzubeugen\"\".\"",
+    "source_lang": "French",
+    "target_lang": "German",
+    "source_text": "Les entreprises de m\u00e9dias mentent couramment sur l'objectif de cette mesure, pr\u00e9tendant qu'elle vise \u00e0 \u00ab emp\u00eacher le piratage \u00bb."
+  },
+  {
+    "id": 109,
+    "prompt": "Translate this to German: En fait, les codes r\u00e9gionaux n'ont absolument aucun effet sur la copie ill\u00e9gale; une copie bit \u00e0 bit d'un disque fonctionne tr\u00e8s bien sur n'importe quel appareil o\u00f9 l'original peut \u00eatre jou\u00e9.",
+    "reference": "Vielmehr hat der Regionalcode gar keinen Effekt auf das Raubkopieren. Die Bit-f\u00fcr-Bit-Kopie einer CD l\u00e4uft sich ohne Probleme auf allen Ger\u00e4ten, auf der sich das Original l\u00e4uft.",
+    "source_lang": "French",
+    "target_lang": "German",
+    "source_text": "En fait, les codes r\u00e9gionaux n'ont absolument aucun effet sur la copie ill\u00e9gale; une copie bit \u00e0 bit d'un disque fonctionne tr\u00e8s bien sur n'importe quel appareil o\u00f9 l'original peut \u00eatre jou\u00e9."
+  },
+  {
+    "id": 110,
+    "prompt": "Translate this to German: Le but r\u00e9el est de donner \u00e0 ces entreprises un plus grand contr\u00f4le sur leurs march\u00e9s\u2009; il s\u2019agit de gagner de l\u2019argent.",
+    "reference": "Der eigentliche Zweck besteht darin, diesen Unternehmen mehr Kontrolle \u00fcber ihre M\u00e4rkte zu geben; Es dreht sich alles um den Profit.",
+    "source_lang": "French",
+    "target_lang": "German",
+    "source_text": "Le but r\u00e9el est de donner \u00e0 ces entreprises un plus grand contr\u00f4le sur leurs march\u00e9s\u2009; il s\u2019agit de gagner de l\u2019argent."
+  },
+  {
+    "id": 111,
+    "prompt": "Translate this to German: Les appels \u00e9tant achemin\u00e9s par l'internet, vous n'avez pas besoin d'utiliser une compagnie de t\u00e9l\u00e9phone situ\u00e9e o\u00f9 vous vivez ou o\u00f9 vous voyagez.",
+    "reference": "Da die Anrufe \u00fcber das Internet geroutet werden, m\u00fcssen Sie keine Telefongesellschaft nutzen, die an Ihrem Wohn- oder Reiseort angesiedelt ist.",
+    "source_lang": "French",
+    "target_lang": "German",
+    "source_text": "Les appels \u00e9tant achemin\u00e9s par l'internet, vous n'avez pas besoin d'utiliser une compagnie de t\u00e9l\u00e9phone situ\u00e9e o\u00f9 vous vivez ou o\u00f9 vous voyagez."
+  },
+  {
+    "id": 112,
+    "prompt": "Translate this to German: Il n\u2019est pas non plus obligatoire d\u2019obtenir un num\u00e9ro local de la collectivit\u00e9 dans laquelle vous vivez; vous pouvez obtenir une connexion Internet par satellite dans les contr\u00e9es sauvages de Chicken, en Alaska, et s\u00e9lectionner un num\u00e9ro qui indique que vous \u00eates dans l\u2019Arizona ensoleill\u00e9e.",
+    "reference": "Es ist auch nicht erforderlich, dass Sie eine lokale Nummer von der Gemeinde erhalten, in der Sie leben. Sie k\u00f6nnen eine Internetverbindung \u00fcber Satellit in der Wildnis von Chicken in Alaska erhalten und eine Nummer ausw\u00e4hlen, die vorgibt, dass Sie im sonnigen Arizona sind.",
+    "source_lang": "French",
+    "target_lang": "German",
+    "source_text": "Il n\u2019est pas non plus obligatoire d\u2019obtenir un num\u00e9ro local de la collectivit\u00e9 dans laquelle vous vivez; vous pouvez obtenir une connexion Internet par satellite dans les contr\u00e9es sauvages de Chicken, en Alaska, et s\u00e9lectionner un num\u00e9ro qui indique que vous \u00eates dans l\u2019Arizona ensoleill\u00e9e."
+  },
+  {
+    "id": 113,
+    "prompt": "Translate this to German: Souvent, il vous faut acheter un num\u00e9ro international qui autorise les appels en RCTP. L'endroit o\u00f9 votre num\u00e9ro de t\u00e9l\u00e9phone est localis\u00e9 est d\u00e9terminant pour les personnes qui vous appellent.",
+    "reference": "In vielen F\u00e4llen muss man sich separat eine globale Nummer kaufen, auf die man \u00fcber das \u00f6ffentliche Telefonnetz angerufen werden kann. Wo die Nummer herkommt, macht f\u00fcr die Leute, die Sie anrufen, einen Unterschied.",
+    "source_lang": "French",
+    "target_lang": "German",
+    "source_text": "Souvent, il vous faut acheter un num\u00e9ro international qui autorise les appels en RCTP. L'endroit o\u00f9 votre num\u00e9ro de t\u00e9l\u00e9phone est localis\u00e9 est d\u00e9terminant pour les personnes qui vous appellent."
+  },
+  {
+    "id": 114,
+    "prompt": "Translate this to German: Les applications de traduction en temps r\u00e9el sont des applis capable de traduire automatiquement des segments entiers de texte, ceci d'une langue vers une autre.",
+    "reference": "Echtzeit-Text\u00fcbersetzungsapps \u2013 Apps, die f\u00e4hig sind, automatisch ganze Abschnitte eines Texts von einer Sprache in eine andere zu \u00fcbersetzen.",
+    "source_lang": "French",
+    "target_lang": "German",
+    "source_text": "Les applications de traduction en temps r\u00e9el sont des applis capable de traduire automatiquement des segments entiers de texte, ceci d'une langue vers une autre."
+  },
+  {
+    "id": 115,
+    "prompt": "Translate this to German: Certaines des applications de cette cat\u00e9gorie peuvent m\u00eame traduire des textes en langue \u00e9trang\u00e8re inscrits sur des panneaux ou d'autres objets du quotidien lorsque l'utilisateur pointe son smartphone vers eux.",
+    "reference": "Einige der Anwendungen in dieser Kategorie k\u00f6nnen sogar fremdsprachige Texte auf Schildern oder anderen Objekten in der realen Welt \u00fcbersetzen, wenn der Benutzer das Smartphone auf diese Objekte richtet.",
+    "source_lang": "French",
+    "target_lang": "German",
+    "source_text": "Certaines des applications de cette cat\u00e9gorie peuvent m\u00eame traduire des textes en langue \u00e9trang\u00e8re inscrits sur des panneaux ou d'autres objets du quotidien lorsque l'utilisateur pointe son smartphone vers eux."
+  },
+  {
+    "id": 116,
+    "prompt": "Translate this to German: Les moteurs de traduction se sont consid\u00e9rablement am\u00e9lior\u00e9s, et donnent maintenant souvent des traductions plus ou moins correctes (et plus rarement du charabia), mais il faut faire attention, car ils ont peut-\u00eatre encore tout faux.",
+    "reference": "\u00dcbersetzungsmaschinen haben Ihre Leistung dramatisch verbessert und stellen nun oft mehr oder weniger korrekte \u00dcbersetzungen zur Verf\u00fcgung (und seltener Kauderwelsch). Trotzdem ist Vorsicht angesagt, da sie m\u00f6glicherweise immer noch alles falsch verstehen.",
+    "source_lang": "French",
+    "target_lang": "German",
+    "source_text": "Les moteurs de traduction se sont consid\u00e9rablement am\u00e9lior\u00e9s, et donnent maintenant souvent des traductions plus ou moins correctes (et plus rarement du charabia), mais il faut faire attention, car ils ont peut-\u00eatre encore tout faux."
+  },
+  {
+    "id": 117,
+    "prompt": "Translate this to German: L'une des applications les plus r\u00e9put\u00e9es dans cette cat\u00e9gorie est Google Translate, qui permet de traduire hors ligne apr\u00e8s avoir t\u00e9l\u00e9charg\u00e9 les donn\u00e9es linguistiques souhait\u00e9es.",
+    "reference": "Eine der prominentesten Apps in dieser Kategorie ist Google Translate, das nach Herunterladen der Daten der gew\u00fcnschten Sprache eine Offline-\u00dcbersetzung erm\u00f6glicht.",
+    "source_lang": "French",
+    "target_lang": "German",
+    "source_text": "L'une des applications les plus r\u00e9put\u00e9es dans cette cat\u00e9gorie est Google Translate, qui permet de traduire hors ligne apr\u00e8s avoir t\u00e9l\u00e9charg\u00e9 les donn\u00e9es linguistiques souhait\u00e9es."
+  },
+  {
+    "id": 118,
+    "prompt": "Translate this to German: L'utilisation d'applications de navigation par GPS sur votre smartphone peut \u00eatre le moyen le plus simple et le plus pratique pour vos d\u00e9placements en dehors de votre pays de r\u00e9sidence.",
+    "reference": "GPS-Navigationsapps auf Ihrem Smartphone zu nutzen ist vermutlich die einfachste und praktischste Art und Weise, sich au\u00dferhalb Ihres Heimatlandes zurechtzufinden.",
+    "source_lang": "French",
+    "target_lang": "German",
+    "source_text": "L'utilisation d'applications de navigation par GPS sur votre smartphone peut \u00eatre le moyen le plus simple et le plus pratique pour vos d\u00e9placements en dehors de votre pays de r\u00e9sidence."
+  },
+  {
+    "id": 119,
+    "prompt": "Translate this to German: Il peut permettre d\u2019\u00e9conomiser de l\u2019argent en achetant de nouvelles cartes pour un GPS ou un appareil GPS autonome, ou bien en en louant un aupr\u00e8s d\u2019une soci\u00e9t\u00e9 de location de voitures.",
+    "reference": "Das kann Geld sparen, da man keine neuen Karten f\u00fcr ein Navigationsger\u00e4t oder ein eigenst\u00e4ndiges Navigationsger\u00e4t kaufen bzw. eines von einem Mietwagenunternehmen mieten muss.",
+    "source_lang": "French",
+    "target_lang": "German",
+    "source_text": "Il peut permettre d\u2019\u00e9conomiser de l\u2019argent en achetant de nouvelles cartes pour un GPS ou un appareil GPS autonome, ou bien en en louant un aupr\u00e8s d\u2019une soci\u00e9t\u00e9 de location de voitures."
+  },
+  {
+    "id": 120,
+    "prompt": "Translate this to German: Si vous n\u2019avez pas de connexion de donn\u00e9es sur votre t\u00e9l\u00e9phone, ou s\u2019il est hors de port\u00e9e, ses performances peuvent \u00eatre limit\u00e9es ou indisponibles.",
+    "reference": "Ihre Leistung k\u00f6nnte eingeschr\u00e4nkt oder nicht verf\u00fcgbar sein, wenn Sie keine Datenverbindung mit Ihrem Telefon haben oder wenn es sich au\u00dferhalb der Reichweite befindet.",
+    "source_lang": "French",
+    "target_lang": "German",
+    "source_text": "Si vous n\u2019avez pas de connexion de donn\u00e9es sur votre t\u00e9l\u00e9phone, ou s\u2019il est hors de port\u00e9e, ses performances peuvent \u00eatre limit\u00e9es ou indisponibles."
+  },
+  {
+    "id": 121,
+    "prompt": "Translate this to German: Chaque magasin du coin est rempli d'une panoplie d\u00e9routante de cartes t\u00e9l\u00e9phoniques pr\u00e9pay\u00e9es qui peuvent \u00eatre utilis\u00e9es \u00e0 partir de t\u00e9l\u00e9phones payants ou de t\u00e9l\u00e9phones ordinaires.",
+    "reference": "Jeder Eckladen ist mit einer verwirrenden Auswahl von vorausbezahlten Telefonkarten gef\u00fcllt, die f\u00fcr M\u00fcnztelefone oder normale Telefone genutzt werden k\u00f6nnen.",
+    "source_lang": "French",
+    "target_lang": "German",
+    "source_text": "Chaque magasin du coin est rempli d'une panoplie d\u00e9routante de cartes t\u00e9l\u00e9phoniques pr\u00e9pay\u00e9es qui peuvent \u00eatre utilis\u00e9es \u00e0 partir de t\u00e9l\u00e9phones payants ou de t\u00e9l\u00e9phones ordinaires."
+  },
+  {
+    "id": 122,
+    "prompt": "Translate this to German: Si la plupart des cartes permettent d'appeler partout, certaines sont sp\u00e9cialis\u00e9es dans l'offre de tarifs avantageux pour des groupes de pays sp\u00e9cifiques.",
+    "reference": "W\u00e4hrend man mit den meisten Karten \u00fcberall anrufen kann, dienen manche nur dazu, vorteilhafte Tarife f\u00fcr bestimmte L\u00e4ndergruppen zur Verf\u00fcgung zu stellen.",
+    "source_lang": "French",
+    "target_lang": "German",
+    "source_text": "Si la plupart des cartes permettent d'appeler partout, certaines sont sp\u00e9cialis\u00e9es dans l'offre de tarifs avantageux pour des groupes de pays sp\u00e9cifiques."
+  },
+  {
+    "id": 123,
+    "prompt": "Translate this to German: L\u2019acc\u00e8s \u00e0 ces services se fait souvent par le biais d\u2019un num\u00e9ro de t\u00e9l\u00e9phone gratuit qui peut \u00eatre appel\u00e9 sans frais depuis presque tous les t\u00e9l\u00e9phones.",
+    "reference": "Diese Dienste sind h\u00e4ufig \u00fcber eine kostenlose Telefonnummer erreichbar, die von den meisten Telefonen aus ohne Geb\u00fchren angerufen werden kann.",
+    "source_lang": "French",
+    "target_lang": "German",
+    "source_text": "L\u2019acc\u00e8s \u00e0 ces services se fait souvent par le biais d\u2019un num\u00e9ro de t\u00e9l\u00e9phone gratuit qui peut \u00eatre appel\u00e9 sans frais depuis presque tous les t\u00e9l\u00e9phones."
+  },
+  {
+    "id": 124,
+    "prompt": "Translate this to German: Les r\u00e8gles concernant la photographie r\u00e9guli\u00e8re s'appliquent \u00e9galement \u00e0 l'enregistrement vid\u00e9o, voire m\u00eame davantage.",
+    "reference": "Die Regeln f\u00fcr normale Fotografie gelten auch f\u00fcr Videoaufnahmen, vielleicht sogar noch mehr.",
+    "source_lang": "French",
+    "target_lang": "German",
+    "source_text": "Les r\u00e8gles concernant la photographie r\u00e9guli\u00e8re s'appliquent \u00e9galement \u00e0 l'enregistrement vid\u00e9o, voire m\u00eame davantage."
+  },
+  {
+    "id": 125,
+    "prompt": "Translate this to German: S'il est interdit de prendre une simple photo de quelque chose, il ne faut m\u00eame pas penser \u00e0 en enregistrer une vid\u00e9o.",
+    "reference": "Wenn es schon nicht erlaubt ist, etwas zu fotografieren, dann sollten Sie nicht einmal daran denken, ein Video davon aufzunehmen.",
+    "source_lang": "French",
+    "target_lang": "German",
+    "source_text": "S'il est interdit de prendre une simple photo de quelque chose, il ne faut m\u00eame pas penser \u00e0 en enregistrer une vid\u00e9o."
+  },
+  {
+    "id": 126,
+    "prompt": "Translate this to German: Si vous utilisez un drone, v\u00e9rifiez bien \u00e0 l'avance ce que vous \u00eates autoris\u00e9 \u00e0 filmer et quels permis ou licences suppl\u00e9mentaires sont n\u00e9cessaires.",
+    "reference": "Wenn Sie eine Drohne benutzen, sollten Sie schon weit im Voraus \u00fcberpr\u00fcfen, was Sie filmen d\u00fcrfen und welche Genehmigungen oder zus\u00e4tzlichen Lizenzen erforderlich sind.",
+    "source_lang": "French",
+    "target_lang": "German",
+    "source_text": "Si vous utilisez un drone, v\u00e9rifiez bien \u00e0 l'avance ce que vous \u00eates autoris\u00e9 \u00e0 filmer et quels permis ou licences suppl\u00e9mentaires sont n\u00e9cessaires."
+  },
+  {
+    "id": 127,
+    "prompt": "Translate this to German: Faire voler un drone pr\u00e8s d\u2019un a\u00e9roport ou au-dessus d\u2019une foule est presque toujours une mauvaise id\u00e9e, m\u00eame si ce n\u2019est pas ill\u00e9gal dans votre r\u00e9gion.",
+    "reference": "Das Fliegen einer Drone in der N\u00e4he eines Flughafens oder \u00fcber einer Menschenmenge ist fast immer eine schlechte Idee, auch wenn es in ihrem Gebiet nicht illegal ist.",
+    "source_lang": "French",
+    "target_lang": "German",
+    "source_text": "Faire voler un drone pr\u00e8s d\u2019un a\u00e9roport ou au-dessus d\u2019une foule est presque toujours une mauvaise id\u00e9e, m\u00eame si ce n\u2019est pas ill\u00e9gal dans votre r\u00e9gion."
+  },
+  {
+    "id": 128,
+    "prompt": "Translate this to German: De nos jours, il est rare que les gens r\u00e9servent leur vol directement via la compagnie a\u00e9rienne sans avoir pr\u00e9alablement recherch\u00e9 et compar\u00e9 les prix.",
+    "reference": "Heutzutage werden Flugreisen nur noch selten direkt bei der Fluggesellschaft ohne vorherige Suche und Preisvergleiche gebucht.",
+    "source_lang": "French",
+    "target_lang": "German",
+    "source_text": "De nos jours, il est rare que les gens r\u00e9servent leur vol directement via la compagnie a\u00e9rienne sans avoir pr\u00e9alablement recherch\u00e9 et compar\u00e9 les prix."
+  },
+  {
+    "id": 129,
+    "prompt": "Translate this to German: Un m\u00eame vol peut parfois pr\u00e9senter de grandes disparit\u00e9s tarifaires entre les agr\u00e9gateurs ; avant de r\u00e9server, il est donc avantageux de comparer les r\u00e9sultats des recherches ainsi que de consulter le site web de la compagnie a\u00e9rienne elle-m\u00eame.",
+    "reference": "Manchmal kann derselbe Flug bei verschiedenen Buchungsseiten extrem unterschiedliche Preise aufweisen. Daher zahlt es sich aus, vor dem Buchen Suchergebnisse zu vergleichen und auch auf der Website der Fluggesellschaft selbst nachzuschauen.",
+    "source_lang": "French",
+    "target_lang": "German",
+    "source_text": "Un m\u00eame vol peut parfois pr\u00e9senter de grandes disparit\u00e9s tarifaires entre les agr\u00e9gateurs ; avant de r\u00e9server, il est donc avantageux de comparer les r\u00e9sultats des recherches ainsi que de consulter le site web de la compagnie a\u00e9rienne elle-m\u00eame."
+  },
+  {
+    "id": 130,
+    "prompt": "Translate this to German: Si vous n\u2019avez pas besoin de visa pour des s\u00e9jours de courte dur\u00e9e dans certains pays en tant que touriste ou pour le voyage d'affaires, le fait d\u2019y aller en tant qu\u2019\u00e9tudiant \u00e9tranger n\u00e9cessite g\u00e9n\u00e9ralement un s\u00e9jour plus long que celui d\u2019un simple touriste.",
+    "reference": "Auch wenn Sie f\u00fcr Kurzbesuche in bestimmten L\u00e4ndern als Tourist oder gesch\u00e4ftlich kein Visum ben\u00f6tigen, erfordert die Einreise als internationaler Student in der Regel einen l\u00e4ngeren Aufenthalt, als wenn man nur als gew\u00f6hnlicher Tourist einreist.",
+    "source_lang": "French",
+    "target_lang": "German",
+    "source_text": "Si vous n\u2019avez pas besoin de visa pour des s\u00e9jours de courte dur\u00e9e dans certains pays en tant que touriste ou pour le voyage d'affaires, le fait d\u2019y aller en tant qu\u2019\u00e9tudiant \u00e9tranger n\u00e9cessite g\u00e9n\u00e9ralement un s\u00e9jour plus long que celui d\u2019un simple touriste."
+  },
+  {
+    "id": 131,
+    "prompt": "Translate this to German: En g\u00e9n\u00e9ral, pour s\u00e9journer dans un pays \u00e9tranger sur une longue p\u00e9riode, vous devez obtenir au pr\u00e9alable un visa.",
+    "reference": "Im Allgemeinen macht ein l\u00e4ngerfristiger Aufenthalt in einem fremden Land die vorherige Beantragung eines Visums erforderlich.",
+    "source_lang": "French",
+    "target_lang": "German",
+    "source_text": "En g\u00e9n\u00e9ral, pour s\u00e9journer dans un pays \u00e9tranger sur une longue p\u00e9riode, vous devez obtenir au pr\u00e9alable un visa."
+  },
+  {
+    "id": 132,
+    "prompt": "Translate this to German: Les proc\u00e9dures de demande et exigences en mati\u00e8re de visas \u00e9tudiants sont g\u00e9n\u00e9ralement diff\u00e9rentes de celles des visas standard de tourisme ou d'affaires.",
+    "reference": "Studierendenvisa haben grunds\u00e4tzlich andere Anforderungen und Bewerbungsverfahren als normale Touristen- oder Gesch\u00e4ftsvisa.",
+    "source_lang": "French",
+    "target_lang": "German",
+    "source_text": "Les proc\u00e9dures de demande et exigences en mati\u00e8re de visas \u00e9tudiants sont g\u00e9n\u00e9ralement diff\u00e9rentes de celles des visas standard de tourisme ou d'affaires."
+  },
+  {
+    "id": 133,
+    "prompt": "Translate this to German: Pour la plupart des pays, vous aurez besoin d\u2019une lettre d'acceptation de l\u2019\u00e9tablissement dans lequel vous souhaitez \u00e9tudier, ainsi que d\u2019une preuve de fonds suffisants pour subvenir \u00e0 vos besoins au moins pendant la premi\u00e8re ann\u00e9e de votre cursus.",
+    "reference": "F\u00fcr die meisten L\u00e4ndern brauchen Sie ein schriftliches Angebot von der Einrichtung, an der Sie studieren m\u00f6chten, und zudem einen Nachweis, dass Sie \u00fcber die n\u00f6tigen Mittel verf\u00fcgen, um sich zumindest in Ihrem ersten Studienjahr \u00fcber Wasser zu halten.",
+    "source_lang": "French",
+    "target_lang": "German",
+    "source_text": "Pour la plupart des pays, vous aurez besoin d\u2019une lettre d'acceptation de l\u2019\u00e9tablissement dans lequel vous souhaitez \u00e9tudier, ainsi que d\u2019une preuve de fonds suffisants pour subvenir \u00e0 vos besoins au moins pendant la premi\u00e8re ann\u00e9e de votre cursus."
+  },
+  {
+    "id": 134,
+    "prompt": "Translate this to German: Pour le d\u00e9tail des conditions, voyez aupr\u00e8s de l\u2019\u00e9tablissement ainsi que du service d\u2019immigration du pays dans lequel vous souhaitez \u00e9tudier.",
+    "reference": "Informieren Sie sich bei der Institution wie auch bei der Einwanderungsbeh\u00f6rde des Landes, in dem Sie studieren wollen, \u00fcber die einzelnen Voraussetzungen.",
+    "source_lang": "French",
+    "target_lang": "German",
+    "source_text": "Pour le d\u00e9tail des conditions, voyez aupr\u00e8s de l\u2019\u00e9tablissement ainsi que du service d\u2019immigration du pays dans lequel vous souhaitez \u00e9tudier."
+  },
+  {
+    "id": 135,
+    "prompt": "Translate this to German: \u00c0 moins que vous ne soyez un diplomate, travailler \u00e0 l\u2019\u00e9tranger signifie g\u00e9n\u00e9ralement que vous devrez remplir la d\u00e9claration d\u2019imp\u00f4ts sur le revenu dans le pays o\u00f9 vous \u00eates bas\u00e9.",
+    "reference": "Sofern Sie kein Diplomat sind, ist es beim Arbeiten im Ausland im Allgemeinen so, dass Sie Ihre Einkommensteuererkl\u00e4rung in dem Land, in dem Sie Ihren Wohnsitz haben, einreichen m\u00fcssen.",
+    "source_lang": "French",
+    "target_lang": "German",
+    "source_text": "\u00c0 moins que vous ne soyez un diplomate, travailler \u00e0 l\u2019\u00e9tranger signifie g\u00e9n\u00e9ralement que vous devrez remplir la d\u00e9claration d\u2019imp\u00f4ts sur le revenu dans le pays o\u00f9 vous \u00eates bas\u00e9."
+  },
+  {
+    "id": 136,
+    "prompt": "Translate this to German: L'imp\u00f4t sur le revenu est structur\u00e9 diff\u00e9remment dans diff\u00e9rents pays, et les taux d'imposition et les tranches d'imposition varient largement d'un pays \u00e0 l'autre.",
+    "reference": "Die Einkommenssteuer ist in verschiedenen L\u00e4ndern unterschiedlich strukturiert und die Steuers\u00e4tze und -klassen variieren sehr von einem Land zum anderen.",
+    "source_lang": "French",
+    "target_lang": "German",
+    "source_text": "L'imp\u00f4t sur le revenu est structur\u00e9 diff\u00e9remment dans diff\u00e9rents pays, et les taux d'imposition et les tranches d'imposition varient largement d'un pays \u00e0 l'autre."
+  },
+  {
+    "id": 137,
+    "prompt": "Translate this to German: Dans certains pays f\u00e9d\u00e9raux tels que les \u00c9tats-Unis et le Canada, l'imp\u00f4t sur le revenu est pr\u00e9lev\u00e9 \u00e0 la fois au niveau f\u00e9d\u00e9ral et au niveau local, de sorte que les taux et les tranches d'imposition peuvent varier d'une r\u00e9gion \u00e0 l'autre.",
+    "reference": "In einigen f\u00f6deral organisierten L\u00e4ndern, wie den Vereinigten Staaten und Kanada, wird die Einkommenssteuer sowohl auf f\u00f6deraler wie auch lokaler Ebene erhoben. Daher k\u00f6nnen sich die Steuerraten und -gruppen von Region zu Region unterscheiden.",
+    "source_lang": "French",
+    "target_lang": "German",
+    "source_text": "Dans certains pays f\u00e9d\u00e9raux tels que les \u00c9tats-Unis et le Canada, l'imp\u00f4t sur le revenu est pr\u00e9lev\u00e9 \u00e0 la fois au niveau f\u00e9d\u00e9ral et au niveau local, de sorte que les taux et les tranches d'imposition peuvent varier d'une r\u00e9gion \u00e0 l'autre."
+  },
+  {
+    "id": 138,
+    "prompt": "Translate this to German: Alors que le contr\u00f4le de l'immigration est g\u00e9n\u00e9ralement absent ou constitue une formalit\u00e9 \u00e0 l'arriv\u00e9e dans votre pays d'origine, le contr\u00f4le douanier peut \u00eatre une source de tracas.",
+    "reference": "W\u00e4hrend es normalerweise keine Einreisekontrolle bei der Ankunft in Ihrem Heimatland gibt oder dies lediglich eine Formalit\u00e4t ist, kann die Zollkontrolle ein \u00c4rgernis sein.",
+    "source_lang": "French",
+    "target_lang": "German",
+    "source_text": "Alors que le contr\u00f4le de l'immigration est g\u00e9n\u00e9ralement absent ou constitue une formalit\u00e9 \u00e0 l'arriv\u00e9e dans votre pays d'origine, le contr\u00f4le douanier peut \u00eatre une source de tracas."
+  },
+  {
+    "id": 139,
+    "prompt": "Translate this to German: Assurez-vous de savoir ce que vous pouvez et ne pouvez pas apporter, et d\u00e9clarez tout ce qui d\u00e9passe les limites l\u00e9gales.",
+    "reference": "Stellen Sie sicher, dass Sie wissen, was Sie einf\u00fchren k\u00f6nnen und was nicht, und geben Sie alles an, was \u00fcber die gesetzlichen Grenzen hinausgeht.",
+    "source_lang": "French",
+    "target_lang": "German",
+    "source_text": "Assurez-vous de savoir ce que vous pouvez et ne pouvez pas apporter, et d\u00e9clarez tout ce qui d\u00e9passe les limites l\u00e9gales."
+  },
+  {
+    "id": 140,
+    "prompt": "Translate this to German: Le moyen le plus simple de se lancer dans la r\u00e9daction d\u2019articles de voyage est de se perfectionner sur un blogue de voyage bien \u00e9tabli.",
+    "reference": "Der einfachste Weg, um einen Einstieg in die Reiseliteratur zu bekommen, ist es, seine F\u00e4higkeiten auf einer etablierten Reiseblog-Webseite zu verfeinern.",
+    "source_lang": "French",
+    "target_lang": "German",
+    "source_text": "Le moyen le plus simple de se lancer dans la r\u00e9daction d\u2019articles de voyage est de se perfectionner sur un blogue de voyage bien \u00e9tabli."
+  },
+  {
+    "id": 141,
+    "prompt": "Translate this to German: Apr\u00e8s, et seulement apr\u00e8s avoir ma\u00eetris\u00e9 le formatage et la r\u00e9vision en ligne, vous pourrez cr\u00e9er votre propre site internet.",
+    "reference": "Wenn Sie sich an das Formatieren und Editieren online erst einmal gew\u00f6hnt haben, k\u00f6nnen Sie sp\u00e4ter vielleicht auch Ihre eigene Webseite kreieren.",
+    "source_lang": "French",
+    "target_lang": "German",
+    "source_text": "Apr\u00e8s, et seulement apr\u00e8s avoir ma\u00eetris\u00e9 le formatage et la r\u00e9vision en ligne, vous pourrez cr\u00e9er votre propre site internet."
+  },
+  {
+    "id": 142,
+    "prompt": "Translate this to German: Le b\u00e9n\u00e9volat en voyage est un excellent moyen de faire une diff\u00e9rence, mais il ne s\u2019agit pas seulement de donner.",
+    "reference": "Freiwillige Arbeit auf Reisen ist eine tolle M\u00f6glichkeit, etwas zu ver\u00e4ndern, aber es geht nicht nur darum, etwas zu geben.",
+    "source_lang": "French",
+    "target_lang": "German",
+    "source_text": "Le b\u00e9n\u00e9volat en voyage est un excellent moyen de faire une diff\u00e9rence, mais il ne s\u2019agit pas seulement de donner."
+  },
+  {
+    "id": 143,
+    "prompt": "Translate this to German: Vivre et faire du b\u00e9n\u00e9volat dans un pays \u00e9tranger est une excellente fa\u00e7on de d\u00e9couvrir une culture diff\u00e9rente, de rencontrer de nouvelles personnes, d'apprendre \u00e0 se conna\u00eetre soi-m\u00eame, \u00e0 acqu\u00e9rir de nouvelles perspectives et m\u00eame de nouvelles comp\u00e9tences.",
+    "reference": "In einem fremden Land zu leben und einen Freiwilligendienst zu absolvieren ist eine tolle M\u00f6glichkeit, eine andere Kultur kennenzulernen, neue Menschen zu treffen, etwas \u00fcber sich selbst zu lernen, die Dinge aus einer anderen Perspektive zu sehen und sogar neue F\u00e4higkeiten zu erlernen.",
+    "source_lang": "French",
+    "target_lang": "German",
+    "source_text": "Vivre et faire du b\u00e9n\u00e9volat dans un pays \u00e9tranger est une excellente fa\u00e7on de d\u00e9couvrir une culture diff\u00e9rente, de rencontrer de nouvelles personnes, d'apprendre \u00e0 se conna\u00eetre soi-m\u00eame, \u00e0 acqu\u00e9rir de nouvelles perspectives et m\u00eame de nouvelles comp\u00e9tences."
+  },
+  {
+    "id": 144,
+    "prompt": "Translate this to German: Cela peut \u00e9galement \u00eatre un bon moyen d'\u00e9tirer un budget pour permettre un s\u00e9jour plus long quelque part, car de nombreux emplois de b\u00e9n\u00e9voles offrent le g\u00eete et le couvert et certains versent un petit salaire.",
+    "reference": "Es kann auch ein guter Weg sein, sein Budget zu vergr\u00f6\u00dfern, um einen l\u00e4ngeren Aufenthalt m\u00f6glich zu machen, denn viele Freiwilligendienste beinhalten Kost und Logis und manche zahlen ein geringes Entgelt.",
+    "source_lang": "French",
+    "target_lang": "German",
+    "source_text": "Cela peut \u00e9galement \u00eatre un bon moyen d'\u00e9tirer un budget pour permettre un s\u00e9jour plus long quelque part, car de nombreux emplois de b\u00e9n\u00e9voles offrent le g\u00eete et le couvert et certains versent un petit salaire."
+  },
+  {
+    "id": 145,
+    "prompt": "Translate this to German: Les Vikings ont utilis\u00e9 les voies navigables russes pour atteindre la mer Noire et la mer Caspienne. Certaines parties de ces itin\u00e9raires peuvent toujours \u00eatre utilis\u00e9es. V\u00e9rifiez la n\u00e9cessit\u00e9 \u00e9ventuelle de permis sp\u00e9ciaux, qui peuvent \u00eatre difficiles \u00e0 obtenir.",
+    "reference": "Die Wikinger nutzten die russischen Wasserwege, um zum Schwarzen Meer und zum Kaspischen Meer zu gelangen. Ein Teil dieser Routen kann auch heute noch genutzt werden. M\u00f6glicherweise ist f\u00fcr die Nutzung eine Sondergenehmigung erforderlich. Diese zu erhalten, ist nicht immer einfach.",
+    "source_lang": "French",
+    "target_lang": "German",
+    "source_text": "Les Vikings ont utilis\u00e9 les voies navigables russes pour atteindre la mer Noire et la mer Caspienne. Certaines parties de ces itin\u00e9raires peuvent toujours \u00eatre utilis\u00e9es. V\u00e9rifiez la n\u00e9cessit\u00e9 \u00e9ventuelle de permis sp\u00e9ciaux, qui peuvent \u00eatre difficiles \u00e0 obtenir."
+  },
+  {
+    "id": 146,
+    "prompt": "Translate this to German: Le canal de la mer Blanche relie l'oc\u00e9an Arctique \u00e0 la mer Baltique, via le lac Onega, le lac Ladoga et Saint-P\u00e9tersbourg, passant principalement par les rivi\u00e8res et les lacs.",
+    "reference": "Die Wei\u00dfmeer-Ostsee-Wasserstra\u00dfe verkn\u00fcpft das Nordpolarmeer mit dem Baltischen Meer \u00fcber den Onegasee, den Ladogasee und Sankt Petersburg, zumeist \u00fcber Fl\u00fcsse und Seen.",
+    "source_lang": "French",
+    "target_lang": "German",
+    "source_text": "Le canal de la mer Blanche relie l'oc\u00e9an Arctique \u00e0 la mer Baltique, via le lac Onega, le lac Ladoga et Saint-P\u00e9tersbourg, passant principalement par les rivi\u00e8res et les lacs."
+  },
+  {
+    "id": 147,
+    "prompt": "Translate this to German: Le lac Onega est \u00e9galement reli\u00e9 \u00e0 la Volga, de sorte qu'il est encore possible de venir de la mer Caspienne en passant par la Russie.",
+    "reference": "Der Onegasee ist auch mit der Wolga verbunden, so dass eine Anreise vom Kaspischen Meer durch Russland noch m\u00f6glich ist.",
+    "source_lang": "French",
+    "target_lang": "German",
+    "source_text": "Le lac Onega est \u00e9galement reli\u00e9 \u00e0 la Volga, de sorte qu'il est encore possible de venir de la mer Caspienne en passant par la Russie."
+  },
+  {
+    "id": 148,
+    "prompt": "Translate this to German: Rassurez-vous\u00a0: une fois que vous aurez atteint les ports de plaisance, tout sera clair. Vous rencontrerez d'autres auto-stoppeurs, qui vous feront part de leurs informations.",
+    "reference": "Seien Sie versichert, dass alles ziemlich klar sein wird, sobald Sie die Anlegestellen erreichen. Sie werden andere Boot-Tramper treffen, die ihr Wissen mit Ihnen teilen werden.",
+    "source_lang": "French",
+    "target_lang": "German",
+    "source_text": "Rassurez-vous\u00a0: une fois que vous aurez atteint les ports de plaisance, tout sera clair. Vous rencontrerez d'autres auto-stoppeurs, qui vous feront part de leurs informations."
+  },
+  {
+    "id": 149,
+    "prompt": "Translate this to German: Fondamentalement, vous afficherez des annonces pour proposer votre aide, arpenterez les quais, aborderez les personnes nettoyant leurs yachts, essayerez de faire connaissance avec des navigateurs au bar, etc.",
+    "reference": "Im Grunde werden Sie Ihre Hilfe anbieten, auf den Docks umhergehen, sich Menschen n\u00e4hern, die ihre Yachten reinigen, Kontakt mit Seeleuten in der Bar aufnehmen usw.",
+    "source_lang": "French",
+    "target_lang": "German",
+    "source_text": "Fondamentalement, vous afficherez des annonces pour proposer votre aide, arpenterez les quais, aborderez les personnes nettoyant leurs yachts, essayerez de faire connaissance avec des navigateurs au bar, etc."
+  },
+  {
+    "id": 150,
+    "prompt": "Translate this to German: Essayez de parler au plus grand nombre de personnes possible. Au bout d\u2019un certain temps, tout le monde vous conna\u00eetra et vous donnera des indications sur le bateau qui cherche quelqu\u2019un.",
+    "reference": "Versuchen Sie mit so vielen Leuten wie m\u00f6glich zu sprechen. Nach einer Weile kennt Sie jeder und Sie werden Tipps erhalten, welches Boot jemanden sucht.",
+    "source_lang": "French",
+    "target_lang": "German",
+    "source_text": "Essayez de parler au plus grand nombre de personnes possible. Au bout d\u2019un certain temps, tout le monde vous conna\u00eetra et vous donnera des indications sur le bateau qui cherche quelqu\u2019un."
+  },
+  {
+    "id": 151,
+    "prompt": "Translate this to German: Vous devez choisir avec soin votre compagnie a\u00e9rienne Frequent Flyer dans le cadre d'une alliance.",
+    "reference": "Sie sollten Ihre Vielflieger-Airline in einem B\u00fcndnis gr\u00fcndlich aussuchen.",
+    "source_lang": "French",
+    "target_lang": "German",
+    "source_text": "Vous devez choisir avec soin votre compagnie a\u00e9rienne Frequent Flyer dans le cadre d'une alliance."
+  },
+  {
+    "id": 152,
+    "prompt": "Translate this to German: M\u00eame si vous pensez qu\u2019il est intuitif de rejoindre la compagnie a\u00e9rienne avec laquelle vous voyagez le plus, vous devez savoir que les privil\u00e8ges offerts sont souvent diff\u00e9rents et que le syst\u00e8me de points de fid\u00e9lit\u00e9 peut \u00eatre plus g\u00e9n\u00e9reux avec une autre compagnie de la m\u00eame alliance.",
+    "reference": "Auch wenn Sie vielleicht denken, dass man instinktiv die Fluggesellschaft nehmen sollte, mit der man am meisten fliegt, sollten Sie beachten, dass die angebotenen Vorteile oft unterschiedlich sind. Vielfliegerpunkte k\u00f6nnten bei einer anderen Fluggesellschaft bei der gleichen Verbindung gro\u00dfz\u00fcgiger vergeben werden.",
+    "source_lang": "French",
+    "target_lang": "German",
+    "source_text": "M\u00eame si vous pensez qu\u2019il est intuitif de rejoindre la compagnie a\u00e9rienne avec laquelle vous voyagez le plus, vous devez savoir que les privil\u00e8ges offerts sont souvent diff\u00e9rents et que le syst\u00e8me de points de fid\u00e9lit\u00e9 peut \u00eatre plus g\u00e9n\u00e9reux avec une autre compagnie de la m\u00eame alliance."
+  },
+  {
+    "id": 153,
+    "prompt": "Translate this to German: Les compagnies a\u00e9riennes telles que Airlines such as Emirates, Etihad Airways, Qatar Airways et Turkish Airlines ont grandement d\u00e9velopp\u00e9 leur offres en Afrique, et offrent des liaisons vers les villes africaines majeures \u00e0 des tarifs comp\u00e9titifs compar\u00e9s aux autres compagnies a\u00e9riennes europ\u00e9ennes.",
+    "reference": "Fluglinien wie Emirates, Etihad Airways, Qatar Airways und Turkish Airlines haben ihre Flugverbindungen nach Afrika deutlich ausgebaut und haben im Vergleich zu europ\u00e4ischen Fluglinien Verbindungen zu zahlreichen wichtigen afrikanischen St\u00e4dten bei g\u00fcnstigen Preisen in ihrem Angebot.",
+    "source_lang": "French",
+    "target_lang": "German",
+    "source_text": "Les compagnies a\u00e9riennes telles que Airlines such as Emirates, Etihad Airways, Qatar Airways et Turkish Airlines ont grandement d\u00e9velopp\u00e9 leur offres en Afrique, et offrent des liaisons vers les villes africaines majeures \u00e0 des tarifs comp\u00e9titifs compar\u00e9s aux autres compagnies a\u00e9riennes europ\u00e9ennes."
+  },
+  {
+    "id": 154,
+    "prompt": "Translate this to German: En 2014 la compagnie Turkish Airlines dessert 39\u00a0destinations dans 30 pays d'Afrique.",
+    "reference": "Ab 2014 fliegt Turkish Airlines 39 Ziele in 30 afrikanischen L\u00e4ndern an.",
+    "source_lang": "French",
+    "target_lang": "German",
+    "source_text": "En 2014 la compagnie Turkish Airlines dessert 39\u00a0destinations dans 30 pays d'Afrique."
+  },
+  {
+    "id": 155,
+    "prompt": "Translate this to German: Si vous avez plus de temps pour voyager, comparez le prix total du billet vers l'Afrique avec le prix d'un billet pour faire le tour du monde.",
+    "reference": "Wenn Sie zus\u00e4tzliche Zeit zum Reisen haben, pr\u00fcfen Sie, wie Ihre gesamten Reisekosten nach Afrika im Vergleich zu den Kosten einer Weltreise aussehen.",
+    "source_lang": "French",
+    "target_lang": "German",
+    "source_text": "Si vous avez plus de temps pour voyager, comparez le prix total du billet vers l'Afrique avec le prix d'un billet pour faire le tour du monde."
+  },
+  {
+    "id": 156,
+    "prompt": "Translate this to German: N'oubliez pas d'ajouter les frais suppl\u00e9mentaires de visas, de taxes de d\u00e9part, de transport terrestre, etc. pour tous ces endroits en dehors de l'Afrique.",
+    "reference": "Vergessen Sie nicht die Extrakosten f\u00fcr weitere Visa, Abfluggeb\u00fchren, Transportmittel an Land etc. f\u00fcr all die Orte au\u00dferhalb von Afrika mit einzuberechnen.",
+    "source_lang": "French",
+    "target_lang": "German",
+    "source_text": "N'oubliez pas d'ajouter les frais suppl\u00e9mentaires de visas, de taxes de d\u00e9part, de transport terrestre, etc. pour tous ces endroits en dehors de l'Afrique."
+  },
+  {
+    "id": 157,
+    "prompt": "Translate this to German: Si vous voulez faire le tour du monde en avion en restant uniquement dans l'h\u00e9misph\u00e8re sud, le choix des vols et des destinations sera limit\u00e9 \u00e0 cause du manque de routes transoc\u00e9aniques.",
+    "reference": "Wenn man in der s\u00fcdlichen Hemisph\u00e4re vollst\u00e4ndig die Welt umrunden will, ist die Auswahl an Fl\u00fcgen und Reisezielen aufgrund fehlender transozeanischer Routen sehr begrenzt.",
+    "source_lang": "French",
+    "target_lang": "German",
+    "source_text": "Si vous voulez faire le tour du monde en avion en restant uniquement dans l'h\u00e9misph\u00e8re sud, le choix des vols et des destinations sera limit\u00e9 \u00e0 cause du manque de routes transoc\u00e9aniques."
+  },
+  {
+    "id": 158,
+    "prompt": "Translate this to German: Il n\u2019existe aucune alliance de compagnies a\u00e9riennes couvrant les jonctions des trois oc\u00e9ans de l\u2019h\u00e9misph\u00e8re sud (et SkyTeam ne couvre aucune d\u2019entre elles).",
+    "reference": "Keine Luftfahrtallianz deckt alle drei Ozean\u00fcberquerungen auf der S\u00fcdhalbkugel ab (und SkyTeam bietet keine dieser Verbindungen an).",
+    "source_lang": "French",
+    "target_lang": "German",
+    "source_text": "Il n\u2019existe aucune alliance de compagnies a\u00e9riennes couvrant les jonctions des trois oc\u00e9ans de l\u2019h\u00e9misph\u00e8re sud (et SkyTeam ne couvre aucune d\u2019entre elles)."
+  },
+  {
+    "id": 159,
+    "prompt": "Translate this to German: Cependant, Star Alliance couvre tout sauf le Pacifique Sud oriental de Santiago du Chili \u00e0 Tahiti, qui est un vol LATAM Oneworld.",
+    "reference": "Star Alliance deckt allerdings alles au\u00dferhalb des \u00f6stlichen S\u00fcdpazifiks von Santiage de Chile bis Tahiti ab, welches ein LATAM Oneworld-Flug ist.",
+    "source_lang": "French",
+    "target_lang": "German",
+    "source_text": "Cependant, Star Alliance couvre tout sauf le Pacifique Sud oriental de Santiago du Chili \u00e0 Tahiti, qui est un vol LATAM Oneworld."
+  },
+  {
+    "id": 160,
+    "prompt": "Translate this to German: Ce vol n\u2019est pas la seule option si vous voulez \u00e9viter le Pacifique Sud et la c\u00f4te ouest de l\u2019Am\u00e9rique du Sud. (voir ci-dessous)",
+    "reference": "Dieser Flug ist nicht die einzige Option, wenn Sie den S\u00fcdpazifik und die s\u00fcdamerikanische Westk\u00fcste auslassen wollen. (siehe unten)",
+    "source_lang": "French",
+    "target_lang": "German",
+    "source_text": "Ce vol n\u2019est pas la seule option si vous voulez \u00e9viter le Pacifique Sud et la c\u00f4te ouest de l\u2019Am\u00e9rique du Sud. (voir ci-dessous)"
+  },
+  {
+    "id": 161,
+    "prompt": "Translate this to German: En 1994, la r\u00e9gion azerba\u00efdjanaise du Haut-Karabakh, ethniquement arm\u00e9nienne, a men\u00e9 une guerre contre les Az\u00e9ris.",
+    "reference": "1994 f\u00fchrte die ethnisch armenische Region Bergkarabach in Aserbaidschan Krieg gegen die Aserbaidschaner.",
+    "source_lang": "French",
+    "target_lang": "German",
+    "source_text": "En 1994, la r\u00e9gion azerba\u00efdjanaise du Haut-Karabakh, ethniquement arm\u00e9nienne, a men\u00e9 une guerre contre les Az\u00e9ris."
+  },
+  {
+    "id": 162,
+    "prompt": "Translate this to German: Avec le soutien de l'Arm\u00e9nie, une nouvelle r\u00e9publique a \u00e9t\u00e9 cr\u00e9\u00e9e. Cependant, aucune nation \u00e9tablie, pas m\u00eame l'Arm\u00e9nie, ne la reconna\u00eet officiellement.",
+    "reference": "Mit armenischer Unterst\u00fctzung wurde eine neue Republik gegr\u00fcndet. Allerdings erkennt sie kein etabliertes Land \u2013 noch nicht einmal Armenien \u2013 offiziell an.",
+    "source_lang": "French",
+    "target_lang": "German",
+    "source_text": "Avec le soutien de l'Arm\u00e9nie, une nouvelle r\u00e9publique a \u00e9t\u00e9 cr\u00e9\u00e9e. Cependant, aucune nation \u00e9tablie, pas m\u00eame l'Arm\u00e9nie, ne la reconna\u00eet officiellement."
+  },
+  {
+    "id": 163,
+    "prompt": "Translate this to German: Les incidents diplomatiques sur la r\u00e9gion continuent d'entacher les relations entre l'Arm\u00e9nie et l'Azerba\u00efdjan.",
+    "reference": "Diplomatische Auseinandersetzungen \u00fcber die Region tr\u00fcben weiterhin die Beziehungen zwischen Armenien und Aserbaidschan.",
+    "source_lang": "French",
+    "target_lang": "German",
+    "source_text": "Les incidents diplomatiques sur la r\u00e9gion continuent d'entacher les relations entre l'Arm\u00e9nie et l'Azerba\u00efdjan."
+  },
+  {
+    "id": 164,
+    "prompt": "Translate this to German: Le quartier du canal (Grachtengordel en n\u00e9erlandais) est le c\u00e9l\u00e8bre quartier du XVIIe si\u00e8cle qui entoure la Binnenstad d'Amsterdam.",
+    "reference": "Der Grachteng\u00fcrtel (holl\u00e4ndisch: Grachtengordel) ist der ber\u00fchmte Stadtteil aus dem 17. Jahrhundert, der die Amsterdamer Innenstadt umfasst.",
+    "source_lang": "French",
+    "target_lang": "German",
+    "source_text": "Le quartier du canal (Grachtengordel en n\u00e9erlandais) est le c\u00e9l\u00e8bre quartier du XVIIe si\u00e8cle qui entoure la Binnenstad d'Amsterdam."
+  },
+  {
+    "id": 165,
+    "prompt": "Translate this to German: Tout le quartier est inscrit au patrimoine mondial de l'UNESCO pour sa valeur culturelle et historique unique, et les prix de l'immobilier y sont parmi les plus \u00e9lev\u00e9s du pays.",
+    "reference": "Das gesamte Viertel wurde wegen seines einzigartigen kulturellen und historischen Wertes zum UNESCO-Weltkulturerbe erkl\u00e4rt und seine Immobilienwerte geh\u00f6ren zu den h\u00f6chsten des Landes.",
+    "source_lang": "French",
+    "target_lang": "German",
+    "source_text": "Tout le quartier est inscrit au patrimoine mondial de l'UNESCO pour sa valeur culturelle et historique unique, et les prix de l'immobilier y sont parmi les plus \u00e9lev\u00e9s du pays."
+  },
+  {
+    "id": 166,
+    "prompt": "Translate this to German: Cinque Terre, qui signifie Cinq Terres, comprend les cinq petits villages c\u00f4tiers de Riomaggiore, Manarola, Corniglia, Vernazza et Monterosso dans la r\u00e9gion italienne de la Ligurie.",
+    "reference": "Cinque Terre, was soviel bedeutet wie F\u00fcnf L\u00e4nder, umfasst die f\u00fcnf kleinen K\u00fcstend\u00f6rfer Riomaggiore, Manarola, Corniglia, Vernazza und Monterosso in der italienischen Region Ligurien.",
+    "source_lang": "French",
+    "target_lang": "German",
+    "source_text": "Cinque Terre, qui signifie Cinq Terres, comprend les cinq petits villages c\u00f4tiers de Riomaggiore, Manarola, Corniglia, Vernazza et Monterosso dans la r\u00e9gion italienne de la Ligurie."
+  },
+  {
+    "id": 167,
+    "prompt": "Translate this to German: Ils sont inscrits sur la liste du patrimoine mondial de l\u2019UNESCO.",
+    "reference": "Sie stehen auf der Liste des UNESCO-Welterbes.",
+    "source_lang": "French",
+    "target_lang": "German",
+    "source_text": "Ils sont inscrits sur la liste du patrimoine mondial de l\u2019UNESCO."
+  },
+  {
+    "id": 168,
+    "prompt": "Translate this to German: Au fil des si\u00e8cles, les gens ont soigneusement construit des terrasses sur le paysage accident\u00e9 et escarp\u00e9 jusqu'aux falaises qui surplombent la mer.",
+    "reference": "Im Laufe der Jahrhunderte wurden bis zu den Klippen, die direkt \u00fcber dem Meer liegen, vorsichtig Terrassen in das raue, absch\u00fcssige Gel\u00e4nde gebaut.",
+    "source_lang": "French",
+    "target_lang": "German",
+    "source_text": "Au fil des si\u00e8cles, les gens ont soigneusement construit des terrasses sur le paysage accident\u00e9 et escarp\u00e9 jusqu'aux falaises qui surplombent la mer."
+  },
+  {
+    "id": 169,
+    "prompt": "Translate this to German: Une partie de son charme r\u00e9side dans l'absence de d\u00e9veloppement visible des entreprises. Des chemins, des trains et des bateaux relient les villages, et les voitures en provenance de l'ext\u00e9rieur ne peuvent y acc\u00e9der.",
+    "reference": "Zu seinem Charme geh\u00f6rt auch, dass es keine sichtbaren Gesch\u00e4ftsgeb\u00e4ude gibt. Die D\u00f6rfer sind \u00fcber Wege, Z\u00fcge und Boote miteinander verbunden und es kommen keine Autos von au\u00dfen herein.",
+    "source_lang": "French",
+    "target_lang": "German",
+    "source_text": "Une partie de son charme r\u00e9side dans l'absence de d\u00e9veloppement visible des entreprises. Des chemins, des trains et des bateaux relient les villages, et les voitures en provenance de l'ext\u00e9rieur ne peuvent y acc\u00e9der."
+  },
+  {
+    "id": 170,
+    "prompt": "Translate this to German: Les variantes du fran\u00e7ais pratiqu\u00e9es en Belgique et en Suisse diff\u00e8rent l\u00e9g\u00e8rement du fran\u00e7ais parl\u00e9 en France, bien qu'elles soient suffisamment similaires pour \u00eatre mutuellement intelligibles.",
+    "reference": "Die in Belgien und der Schweiz gesprochenen Varianten des Franz\u00f6sischen unterscheiden sich geringf\u00fcgig von der in Frankreich gesprochenen Variante, \u00e4hneln sich jedoch genug, um f\u00fcr beide Seiten verst\u00e4ndlich zu sein.",
+    "source_lang": "French",
+    "target_lang": "German",
+    "source_text": "Les variantes du fran\u00e7ais pratiqu\u00e9es en Belgique et en Suisse diff\u00e8rent l\u00e9g\u00e8rement du fran\u00e7ais parl\u00e9 en France, bien qu'elles soient suffisamment similaires pour \u00eatre mutuellement intelligibles."
+  },
+  {
+    "id": 171,
+    "prompt": "Translate this to German: Le syst\u00e8me de num\u00e9rotation de la Belgique et de la Suisse francophones pr\u00e9sente notamment quelques petites particularit\u00e9s qui diff\u00e8rent du fran\u00e7ais parl\u00e9 en France, et la prononciation de certains mots est l\u00e9g\u00e8rement diff\u00e9rente.",
+    "reference": "Insbesondere weist die Z\u00e4hlweise im franz\u00f6sischsprachigen Belgien und in der Schweiz einige geringf\u00fcgige Besonderheiten auf, die sich von dem in Frankreich gesprochenen Franz\u00f6sisch unterscheiden, und auch die Aussprache einiger W\u00f6rter weicht ein wenig ab.",
+    "source_lang": "French",
+    "target_lang": "German",
+    "source_text": "Le syst\u00e8me de num\u00e9rotation de la Belgique et de la Suisse francophones pr\u00e9sente notamment quelques petites particularit\u00e9s qui diff\u00e8rent du fran\u00e7ais parl\u00e9 en France, et la prononciation de certains mots est l\u00e9g\u00e8rement diff\u00e9rente."
+  },
+  {
+    "id": 172,
+    "prompt": "Translate this to German: N\u00e9anmoins, tous les Belges et les Suisses francophones auraient appris le fran\u00e7ais standard \u00e0 l'\u00e9cole, de sorte qu'ils seraient en mesure de vous comprendre m\u00eame si vous utilisiez le syst\u00e8me de num\u00e9rotation fran\u00e7ais standard.",
+    "reference": "Dennoch ist davon auszugehen, dass alle franz\u00f6sischsprachigen Belgier und Schweizer in der Schule Standardfranz\u00f6sisch gelernt haben und Sie verstehen, auch wenn Sie das normale franz\u00f6sische Z\u00e4hlsystem verwenden.",
+    "source_lang": "French",
+    "target_lang": "German",
+    "source_text": "N\u00e9anmoins, tous les Belges et les Suisses francophones auraient appris le fran\u00e7ais standard \u00e0 l'\u00e9cole, de sorte qu'ils seraient en mesure de vous comprendre m\u00eame si vous utilisiez le syst\u00e8me de num\u00e9rotation fran\u00e7ais standard."
+  },
+  {
+    "id": 173,
+    "prompt": "Translate this to German: Dans de nombreuses r\u00e9gions du monde, faire un signe de la main est un geste amical signifiant \u00ab\u2009bonjour\u2009\u00bb.",
+    "reference": "In vielen Teilen der Welt ist Winken eine freundliche Geste, die ein \u201eHallo\u201c signalisiert.",
+    "source_lang": "French",
+    "target_lang": "German",
+    "source_text": "Dans de nombreuses r\u00e9gions du monde, faire un signe de la main est un geste amical signifiant \u00ab\u2009bonjour\u2009\u00bb."
+  },
+  {
+    "id": 174,
+    "prompt": "Translate this to German: En revanche, en Malaisie, du moins chez les Malais des zones rurales, cela signifie \u00ab viens par ici \u00bb, comme le fait de plier l'index vers soi, geste utilis\u00e9 dans certains pays occidentaux, et il ne devrait \u00eatre utilis\u00e9 qu'en ce sens.",
+    "reference": "\"Allerdings bedeutet es in Malaysia oder zumindest unter den Malaien in l\u00e4ndlichen Gebieten \"\"komm her\"\", \u00e4hnlich wie das Kr\u00fcmmen des Zeigefingers in Richtung des K\u00f6rpers, eine Geste, die in einigen westlichen L\u00e4ndern genutzt wird, und sollte nur f\u00fcr diesen Zweck genutzt werden.\"",
+    "source_lang": "French",
+    "target_lang": "German",
+    "source_text": "En revanche, en Malaisie, du moins chez les Malais des zones rurales, cela signifie \u00ab viens par ici \u00bb, comme le fait de plier l'index vers soi, geste utilis\u00e9 dans certains pays occidentaux, et il ne devrait \u00eatre utilis\u00e9 qu'en ce sens."
+  },
+  {
+    "id": 175,
+    "prompt": "Translate this to German: De m\u00eame, un voyageur britannique en Espagne pourrait confondre un signe d'adieu fait par une personne qui tourne la paume de sa main vers elle-m\u00eame (plut\u00f4t que vers la personne \u00e0 qui elle adresse le signe) avec une invitation \u00e0 revenir.",
+    "reference": "In \u00e4hnlicher Weise kann ein britischer Reisender in Spanien ein Winken zum Abschied, bei dem die Handfl\u00e4che dem Winkenden zugewandt ist (und nicht der Person, der gewunken wird), als Geste zum Zur\u00fcckkommen missverstehen.",
+    "source_lang": "French",
+    "target_lang": "German",
+    "source_text": "De m\u00eame, un voyageur britannique en Espagne pourrait confondre un signe d'adieu fait par une personne qui tourne la paume de sa main vers elle-m\u00eame (plut\u00f4t que vers la personne \u00e0 qui elle adresse le signe) avec une invitation \u00e0 revenir."
+  },
+  {
+    "id": 176,
+    "prompt": "Translate this to German: Les langues auxiliaires sont des langues, artificielles ou construites, cr\u00e9\u00e9es dans le but de faciliter la communication entre des peuples qui, autrement, auraient des difficult\u00e9s \u00e0 communiquer.",
+    "reference": "Hilfssprachen sind k\u00fcnstliche oder konstruierte Sprachen, die mit dem Ziel geschaffen werden, die Kommunikation zwischen V\u00f6lkern zu erleichtern, die sich sonst nur schwer verst\u00e4ndigen k\u00f6nnten.",
+    "source_lang": "French",
+    "target_lang": "German",
+    "source_text": "Les langues auxiliaires sont des langues, artificielles ou construites, cr\u00e9\u00e9es dans le but de faciliter la communication entre des peuples qui, autrement, auraient des difficult\u00e9s \u00e0 communiquer."
+  },
+  {
+    "id": 177,
+    "prompt": "Translate this to German: Elles sont distinctes des langues v\u00e9hiculaires, qui sont des langues naturelles ou organiques qui deviennent dominantes pour une raison ou une autre en tant que moyen de communication entre les locuteurs d'autres langues.",
+    "reference": "Sie unterscheiden sich von der sogenannten Linguae Francae, nat\u00fcrlichen oder organischen Sprachen, die aus verschiedenen Gr\u00fcnden als Kommunikationsmittel zwischen Sprechern anderer Sprachen vorherrschend werden.",
+    "source_lang": "French",
+    "target_lang": "German",
+    "source_text": "Elles sont distinctes des langues v\u00e9hiculaires, qui sont des langues naturelles ou organiques qui deviennent dominantes pour une raison ou une autre en tant que moyen de communication entre les locuteurs d'autres langues."
+  },
+  {
+    "id": 178,
+    "prompt": "Translate this to German: Avec la chaleur de la journ\u00e9e, les voyageurs peuvent apercevoir des mirages qui donnent l'illusion de l'eau (ou d'autres choses).",
+    "reference": "In der Tageshitze k\u00f6nnen Reisende Fata Morganen erleben, die die Illusion von Wasser (oder anderen Dingen) vermitteln.",
+    "source_lang": "French",
+    "target_lang": "German",
+    "source_text": "Avec la chaleur de la journ\u00e9e, les voyageurs peuvent apercevoir des mirages qui donnent l'illusion de l'eau (ou d'autres choses)."
+  },
+  {
+    "id": 179,
+    "prompt": "Translate this to German: Celles-ci peuvent \u00eatre dangereuses si le voyageur poursuit le mirage, gaspillant ainsi une \u00e9nergie pr\u00e9cieuse et l\u2019eau restante.",
+    "reference": "Diese k\u00f6nnen gef\u00e4hrlich sein, wenn der Reisende die Luftspiegelung verfolgt und dabei wertvolle Energie und sein restliches Wasser verschwendet.",
+    "source_lang": "French",
+    "target_lang": "German",
+    "source_text": "Celles-ci peuvent \u00eatre dangereuses si le voyageur poursuit le mirage, gaspillant ainsi une \u00e9nergie pr\u00e9cieuse et l\u2019eau restante."
+  },
+  {
+    "id": 180,
+    "prompt": "Translate this to German: M\u00eame le plus chaud des d\u00e9serts peut devenir extr\u00eamement froid la nuit. L'hypothermie est un risque r\u00e9el si vous n'avez pas de v\u00eatements chauds.",
+    "reference": "Selbst in den hei\u00dfesten W\u00fcsten kann es nachts extrem kalt werden. Ohne warme Kleidung stellt Unterk\u00fchlung eine echte Gefahr dar.",
+    "source_lang": "French",
+    "target_lang": "German",
+    "source_text": "M\u00eame le plus chaud des d\u00e9serts peut devenir extr\u00eamement froid la nuit. L'hypothermie est un risque r\u00e9el si vous n'avez pas de v\u00eatements chauds."
+  },
+  {
+    "id": 181,
+    "prompt": "Translate this to German: C'est surtout en \u00e9t\u00e9 qu'il vous faudra faire attention aux moustiques si vous comptez faire de la randonn\u00e9e en for\u00eat tropicale.",
+    "reference": "Vor allem im Sommer m\u00fcssen sie sich vor M\u00fccken in Acht nehmen, wenn sie den Regenwald durchwandern wollen.",
+    "source_lang": "French",
+    "target_lang": "German",
+    "source_text": "C'est surtout en \u00e9t\u00e9 qu'il vous faudra faire attention aux moustiques si vous comptez faire de la randonn\u00e9e en for\u00eat tropicale."
+  },
+  {
+    "id": 182,
+    "prompt": "Translate this to German: M\u00eame si vous conduisez dans la for\u00eat tropicale, quelques secondes avec les portes ouvertes pendant que vous montez dans le v\u00e9hicule suffisent pour que les moustiques montent dans le v\u00e9hicule avec vous.",
+    "reference": "Selbst wenn Sie mit dem Auto durch den subtropischen Regenwald fahren, reichen ein paar Sekunden mit offenen T\u00fcren beim Einsteigen aus, um Moskitos mit in den Wagen zu nehmen.",
+    "source_lang": "French",
+    "target_lang": "German",
+    "source_text": "M\u00eame si vous conduisez dans la for\u00eat tropicale, quelques secondes avec les portes ouvertes pendant que vous montez dans le v\u00e9hicule suffisent pour que les moustiques montent dans le v\u00e9hicule avec vous."
+  },
+  {
+    "id": 183,
+    "prompt": "Translate this to German: La grippe aviaire, ou de mani\u00e8re plus formelle l'influenza aviaire, peut infecter \u00e0 la fois les oiseaux et les mammif\u00e8res.",
+    "reference": "Die Vogelgrippe, oder besser gesagt die Gefl\u00fcgelpest, kann sowohl V\u00f6gel als auch S\u00e4ugetiere infizieren.",
+    "source_lang": "French",
+    "target_lang": "German",
+    "source_text": "La grippe aviaire, ou de mani\u00e8re plus formelle l'influenza aviaire, peut infecter \u00e0 la fois les oiseaux et les mammif\u00e8res."
+  },
+  {
+    "id": 184,
+    "prompt": "Translate this to German: Moins d'un millier de cas ont \u00e9t\u00e9 rapport\u00e9s chez les humains, mais certains ont \u00e9t\u00e9 mortels.",
+    "reference": "Beim Menschen gibt es weniger als eintausend dokumentierte F\u00e4lle, aber manche davon waren t\u00f6dlich.",
+    "source_lang": "French",
+    "target_lang": "German",
+    "source_text": "Moins d'un millier de cas ont \u00e9t\u00e9 rapport\u00e9s chez les humains, mais certains ont \u00e9t\u00e9 mortels."
+  },
+  {
+    "id": 185,
+    "prompt": "Translate this to German: La plupart impliquaient des personnes qui travaillent avec des volailles, mais il existe \u00e9galement un certain risque pour les observateurs d'oiseaux.",
+    "reference": "Die meisten F\u00e4lle betrafen Menschen, die mit Gefl\u00fcgel arbeiten, aber auch f\u00fcr Vogelbeobachter besteht ein gewisses Risiko.",
+    "source_lang": "French",
+    "target_lang": "German",
+    "source_text": "La plupart impliquaient des personnes qui travaillent avec des volailles, mais il existe \u00e9galement un certain risque pour les observateurs d'oiseaux."
+  },
+  {
+    "id": 186,
+    "prompt": "Translate this to German: Les fjords et les vall\u00e9es escarp\u00e9es qui c\u00e8dent soudainement la place \u00e0 un haut plateau plus ou moins r\u00e9gulier sont typiques de la Norv\u00e8ge.",
+    "reference": "Steile Fjorde und T\u00e4ler, die unerwartet in eine hochgelegene, mehr oder weniger ebene Hochfl\u00e4che \u00fcbergehen, sind typisch f\u00fcr Norwegen.",
+    "source_lang": "French",
+    "target_lang": "German",
+    "source_text": "Les fjords et les vall\u00e9es escarp\u00e9es qui c\u00e8dent soudainement la place \u00e0 un haut plateau plus ou moins r\u00e9gulier sont typiques de la Norv\u00e8ge."
+  },
+  {
+    "id": 187,
+    "prompt": "Translate this to German: Ces plateaux sont souvent appel\u00e9s \u00ab\u2009vidde\u2009\u00bb, pour d\u00e9signer un vaste espace sans arbre, une \u00e9tendue sans limites.",
+    "reference": "Diese Hochebenen werden oft als \u201evidde\u201c bezeichnet, was soviel bedeutet wie ein weiter, offener, baumloser Raum, eine grenzenlose Weite.",
+    "source_lang": "French",
+    "target_lang": "German",
+    "source_text": "Ces plateaux sont souvent appel\u00e9s \u00ab\u2009vidde\u2009\u00bb, pour d\u00e9signer un vaste espace sans arbre, une \u00e9tendue sans limites."
+  },
+  {
+    "id": 188,
+    "prompt": "Translate this to German: Dans le Rogaland et \u00e0 Adger, ils sont souvent qualifi\u00e9s de \u00ab hei \u00bb, ce qui signifie landes d\u00e9bois\u00e9es souvent couvertes de bruy\u00e8re.",
+    "reference": "In Rogaland und Agder nennt man sie f\u00fcr gew\u00f6hnlich \u201ehei\u201c, womit eine baumlose Moorlandschaft, oft mit Heidekraut bedeckt, gemeint ist.",
+    "source_lang": "French",
+    "target_lang": "German",
+    "source_text": "Dans le Rogaland et \u00e0 Adger, ils sont souvent qualifi\u00e9s de \u00ab hei \u00bb, ce qui signifie landes d\u00e9bois\u00e9es souvent couvertes de bruy\u00e8re."
+  },
+  {
+    "id": 189,
+    "prompt": "Translate this to German: Les glaciers ne sont pas stables, mais se d\u00e9tachent de la montagne. Cela provoque des fissures, des crevasses, qui peuvent \u00eatre obscurcies par des ponts de neige.",
+    "reference": "Die Gletscher sind nicht stabil, sondern flie\u00dfen den Berg hinunter. Dadurch entstehen Risse und Spalten, die durch Schneebr\u00fccken verdeckt sein k\u00f6nnen.",
+    "source_lang": "French",
+    "target_lang": "German",
+    "source_text": "Les glaciers ne sont pas stables, mais se d\u00e9tachent de la montagne. Cela provoque des fissures, des crevasses, qui peuvent \u00eatre obscurcies par des ponts de neige."
+  },
+  {
+    "id": 190,
+    "prompt": "Translate this to German: Les murs et les toits des grottes de glace peuvent s\u2019effondrer et les fissures se refermer.",
+    "reference": "Die W\u00e4nde und Decken von Eish\u00f6hlen k\u00f6nnen einst\u00fcrzen und Risse sich schlie\u00dfen.",
+    "source_lang": "French",
+    "target_lang": "German",
+    "source_text": "Les murs et les toits des grottes de glace peuvent s\u2019effondrer et les fissures se refermer."
+  },
+  {
+    "id": 191,
+    "prompt": "Translate this to German: Au bord des glaciers, d'immenses blocs se d\u00e9tachent, tombent, et peut-\u00eatre rebondissent ou roulent en s'\u00e9loignant du bord.",
+    "reference": "Am Rande von Gletschern brechen riesige Bl\u00f6cke ab, fallen herunter und springen oder rollen m\u00f6glicherweise weiter vom Rand weg.",
+    "source_lang": "French",
+    "target_lang": "German",
+    "source_text": "Au bord des glaciers, d'immenses blocs se d\u00e9tachent, tombent, et peut-\u00eatre rebondissent ou roulent en s'\u00e9loignant du bord."
+  },
+  {
+    "id": 192,
+    "prompt": "Translate this to German: La saison touristique des stations de montagne culmine g\u00e9n\u00e9ralement pendant l'\u00e9t\u00e9 indien.",
+    "reference": "Die Touristensaison f\u00fcr die H\u00fcgelstationen erreicht ihren H\u00f6hepunkt in der Regel w\u00e4hrend des indischen Sommers.",
+    "source_lang": "French",
+    "target_lang": "German",
+    "source_text": "La saison touristique des stations de montagne culmine g\u00e9n\u00e9ralement pendant l'\u00e9t\u00e9 indien."
+  },
+  {
+    "id": 193,
+    "prompt": "Translate this to German: Cependant, leur beaut\u00e9 et leur charme \u00e9voluent en hiver, avec de nombreuses stations de montagne pourvues de bonnes quantit\u00e9s de neige et proposant des activit\u00e9s telles que le ski et le snowboard.",
+    "reference": "Allerdings verf\u00fcgen sie im Winter \u00fcber eine andere Art von Sch\u00f6nheit und Zauber. Zahlreiche Bergstationen haben viel Schnee und haben Aktivit\u00e4ten wie Skifahren und Snowboarden im Angebot.",
+    "source_lang": "French",
+    "target_lang": "German",
+    "source_text": "Cependant, leur beaut\u00e9 et leur charme \u00e9voluent en hiver, avec de nombreuses stations de montagne pourvues de bonnes quantit\u00e9s de neige et proposant des activit\u00e9s telles que le ski et le snowboard."
+  },
+  {
+    "id": 194,
+    "prompt": "Translate this to German: Seules quelques compagnies a\u00e9riennes proposent encore des tarifs de deuil, qui r\u00e9duisent l\u00e9g\u00e8rement le co\u00fbt des voyages fun\u00e9raires de derni\u00e8re minute.",
+    "reference": "Nur noch wenige Fluggesellschaften bieten Todesfalltarife mit einem geringf\u00fcgigen Rabatt auf eine Last-Minute-Reise zu einer Beerdigung an.",
+    "source_lang": "French",
+    "target_lang": "German",
+    "source_text": "Seules quelques compagnies a\u00e9riennes proposent encore des tarifs de deuil, qui r\u00e9duisent l\u00e9g\u00e8rement le co\u00fbt des voyages fun\u00e9raires de derni\u00e8re minute."
+  },
+  {
+    "id": 195,
+    "prompt": "Translate this to German: Les compagnies a\u00e9riennes qui les proposent sont notamment Air Canada, Delta Air Lines, Lufthansa pour les vols en provenance des \u00c9tats-Unis ou du Canada, et WestJet.",
+    "reference": "Zu den Fluggesellschaften, die diese anbieten, z\u00e4hlen Air Canada, Delta Air Lines, Lufthansa f\u00fcr Fl\u00fcge aus den USA oder Kanada, sowie Westjet.",
+    "source_lang": "French",
+    "target_lang": "German",
+    "source_text": "Les compagnies a\u00e9riennes qui les proposent sont notamment Air Canada, Delta Air Lines, Lufthansa pour les vols en provenance des \u00c9tats-Unis ou du Canada, et WestJet."
+  },
+  {
+    "id": 196,
+    "prompt": "Translate this to German: Dans tous les cas, vous devez r\u00e9server par t\u00e9l\u00e9phone directement aupr\u00e8s de la compagnie a\u00e9rienne.",
+    "reference": "Sie m\u00fcssen in jedem Fall telefonisch \u00fcber die Fluggesellschaft buchen.",
+    "source_lang": "French",
+    "target_lang": "German",
+    "source_text": "Dans tous les cas, vous devez r\u00e9server par t\u00e9l\u00e9phone directement aupr\u00e8s de la compagnie a\u00e9rienne."
+  },
+  {
+    "id": 197,
+    "prompt": "Translate this to German: \u00ab\u00a0Nous avons \u00e0 pr\u00e9sent des souris de 4\u00a0mois qui ne sont pas diab\u00e9tiques alors qu'elles l'\u00e9taient auparavant\u00a0\u00bb, a-t-il ajout\u00e9.",
+    "reference": "\u201eWir haben jetzt 4 Monate alte M\u00e4use, die Diabetes hatten und jetzt keinen mehr haben\u201c, f\u00fcgte er hinzu.",
+    "source_lang": "French",
+    "target_lang": "German",
+    "source_text": "\u00ab\u00a0Nous avons \u00e0 pr\u00e9sent des souris de 4\u00a0mois qui ne sont pas diab\u00e9tiques alors qu'elles l'\u00e9taient auparavant\u00a0\u00bb, a-t-il ajout\u00e9."
+  },
+  {
+    "id": 198,
+    "prompt": "Translate this to German: Le Dr Ehud Ur, professeur de m\u00e9decine \u00e0 l'Universit\u00e9 Dalhousie de Halifax (Nouvelle-\u00c9cosse) et pr\u00e9sident de la division clinique et scientifique de l'Association canadienne du diab\u00e8te, a averti que la recherche en \u00e9tait encore \u00e0 ses d\u00e9buts.",
+    "reference": "Dr. Ehud Ur, Professor f\u00fcr Medizin an der Dalhousie University in Halifax, Nova Scotia, und Vorsitzender der Abteilung f\u00fcr Klinik und Wissenschaft des Kanadischen Diabetesverbands gab zu bedenken, dass die Forschungsarbeit noch in den Kinderschuhen stecke.",
+    "source_lang": "French",
+    "target_lang": "German",
+    "source_text": "Le Dr Ehud Ur, professeur de m\u00e9decine \u00e0 l'Universit\u00e9 Dalhousie de Halifax (Nouvelle-\u00c9cosse) et pr\u00e9sident de la division clinique et scientifique de l'Association canadienne du diab\u00e8te, a averti que la recherche en \u00e9tait encore \u00e0 ses d\u00e9buts."
+  },
+  {
+    "id": 199,
+    "prompt": "Translate this to German: \u00c0 l'instar d'autres experts, il se montre sceptique quant \u00e0 la possibilit\u00e9 de gu\u00e9rir le diab\u00e8te, faisant remarquer que ces r\u00e9sultats ne sont pas applicables aux personnes qui souffrent d\u00e9j\u00e0 de diab\u00e8te de type 1.",
+    "reference": "Wie einige andere Experten zeigte er sich skeptisch, ob es m\u00f6glich sei, Diabetes zu heilen, und wies darauf hin, dass die Befunde f\u00fcr Menschen, die bereits unter Typ-1-Diabetes litten, keine Bedeutung h\u00e4tten.",
+    "source_lang": "French",
+    "target_lang": "German",
+    "source_text": "\u00c0 l'instar d'autres experts, il se montre sceptique quant \u00e0 la possibilit\u00e9 de gu\u00e9rir le diab\u00e8te, faisant remarquer que ces r\u00e9sultats ne sont pas applicables aux personnes qui souffrent d\u00e9j\u00e0 de diab\u00e8te de type 1."
+  }
+]

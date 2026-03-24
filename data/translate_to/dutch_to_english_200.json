@@ -1,0 +1,1602 @@
+[
+  {
+    "id": 0,
+    "prompt": "Translate this to English: Als je bij een eland denkt geen gevaar te lopen, kan je te dichtbij komen en kan dat zomaar verkeerd aflopen.",
+    "reference": "When people don't see moose as potentially dangerous, they may approach too closely and put themselves at risk.",
+    "source_lang": "Dutch",
+    "target_lang": "English",
+    "source_text": "Als je bij een eland denkt geen gevaar te lopen, kan je te dichtbij komen en kan dat zomaar verkeerd aflopen."
+  },
+  {
+    "id": 1,
+    "prompt": "Translate this to English: Drink alcohol met mate. Alcohol be\u00efnvloedt iedereen op een andere manier en het is belangrijk om je eigen grenzen te kennen.",
+    "reference": "Drink alcoholic drinks with moderation. Alcohol affects everyone differently, and knowing your limit is very important.",
+    "source_lang": "Dutch",
+    "target_lang": "English",
+    "source_text": "Drink alcohol met mate. Alcohol be\u00efnvloedt iedereen op een andere manier en het is belangrijk om je eigen grenzen te kennen."
+  },
+  {
+    "id": 2,
+    "prompt": "Translate this to English: Overmatig drinken kan op de lange termijn leiden tot gezondheidsproblemen als leverschade en zelfs blindheid of overlijden. Het nuttigen van illegaal geproduceerde alcohol brengt een nog hoger risico met zich mee.",
+    "reference": "Possible long term health events from excessive drinking can include liver damage and even blindness and death. The potential danger is increased when consuming illegally produced alcohol.",
+    "source_lang": "Dutch",
+    "target_lang": "English",
+    "source_text": "Overmatig drinken kan op de lange termijn leiden tot gezondheidsproblemen als leverschade en zelfs blindheid of overlijden. Het nuttigen van illegaal geproduceerde alcohol brengt een nog hoger risico met zich mee."
+  },
+  {
+    "id": 3,
+    "prompt": "Translate this to English: Illegale sterke dranken kunnen verschillende gevaarlijke onzuiverheden bevatten, zoals methanol. Deze kunnen blindheid of de dood veroorzaken, zelfs in kleine hoeveelheden.",
+    "reference": "Illegal spirits can contain various dangerous impurities including methanol, which can cause blindness or death even in small doses.",
+    "source_lang": "Dutch",
+    "target_lang": "English",
+    "source_text": "Illegale sterke dranken kunnen verschillende gevaarlijke onzuiverheden bevatten, zoals methanol. Deze kunnen blindheid of de dood veroorzaken, zelfs in kleine hoeveelheden."
+  },
+  {
+    "id": 4,
+    "prompt": "Translate this to English: Mogelijk is een bril goedkoper in het buitenland, vooral in landen met lage inkomens en lagere arbeidskosten.",
+    "reference": "Eyeglasses can be cheaper in a foreign country, especially in low-income countries where labour costs are lower.",
+    "source_lang": "Dutch",
+    "target_lang": "English",
+    "source_text": "Mogelijk is een bril goedkoper in het buitenland, vooral in landen met lage inkomens en lagere arbeidskosten."
+  },
+  {
+    "id": 5,
+    "prompt": "Translate this to English: Stel je voor dat je thuis een oogtest laat doen, die ook nog eens door de verzekering wordt vergoed, en dat je deze dan vervolgens ergens anders indient.",
+    "reference": "Consider getting an eye exam at home, especially if insurance covers it, and bringing the prescription along to be filed elsewhere.",
+    "source_lang": "Dutch",
+    "target_lang": "English",
+    "source_text": "Stel je voor dat je thuis een oogtest laat doen, die ook nog eens door de verzekering wordt vergoed, en dat je deze dan vervolgens ergens anders indient."
+  },
+  {
+    "id": 6,
+    "prompt": "Translate this to English: Er zijn twee problemen met dure merkmonturen die op zulke plekken verkrijgbaar zijn: sommige zijn namaakmonturen en de echte exemplaren zijn duurder dan ze thuis zijn.",
+    "reference": "High-end brand-name frames available in such areas may have two problems; some may be knock-offs, and the real imported ones may be more expensive than at home.",
+    "source_lang": "Dutch",
+    "target_lang": "English",
+    "source_text": "Er zijn twee problemen met dure merkmonturen die op zulke plekken verkrijgbaar zijn: sommige zijn namaakmonturen en de echte exemplaren zijn duurder dan ze thuis zijn."
+  },
+  {
+    "id": 7,
+    "prompt": "Translate this to English: Wereldwijd is koffie een van de middelen die het meest verhandeld worden. Ook in uw eigen regio vindt u vast veel verschillende soorten.",
+    "reference": "Coffee is one of the world's most traded commodities, and you can probably find many types in your home region.",
+    "source_lang": "Dutch",
+    "target_lang": "English",
+    "source_text": "Wereldwijd is koffie een van de middelen die het meest verhandeld worden. Ook in uw eigen regio vindt u vast veel verschillende soorten."
+  },
+  {
+    "id": 8,
+    "prompt": "Translate this to English: Desondanks zijn er wereldwijd veel verschillende manieren van koffie drinken die de moeite van het proberen waard zijn.",
+    "reference": "Nevertheless, there are many distinctive ways of drinking coffee around the world that are worth experiencing.",
+    "source_lang": "Dutch",
+    "target_lang": "English",
+    "source_text": "Desondanks zijn er wereldwijd veel verschillende manieren van koffie drinken die de moeite van het proberen waard zijn."
+  },
+  {
+    "id": 9,
+    "prompt": "Translate this to English: Canyoning (of: caynoneering) betekent dat je naar de bodem van een kloof gaat die droog staat of vol water staat.",
+    "reference": "Canyoning (or: canyoneering) is about going in a bottom of a canyon, which is either dry or full of water.",
+    "source_lang": "Dutch",
+    "target_lang": "English",
+    "source_text": "Canyoning (of: caynoneering) betekent dat je naar de bodem van een kloof gaat die droog staat of vol water staat."
+  },
+  {
+    "id": 10,
+    "prompt": "Translate this to English: Bij canyoning worden elementen van zwemmen, klimmen en springen gecombineerd. Je hebt er relatief weinig training of fysieke conditie voor nodig om ermee te kunnen starten (vergeleken met bijvoorbeeld bergbeklimmen, duiken of alpineski\u00ebn).",
+    "reference": "Canyoning combines elements from swimming, climbing and jumping--but requires relatively little training or physical shape to get started (compared to rock climbing, scuba diving or alpine skiing, for example).",
+    "source_lang": "Dutch",
+    "target_lang": "English",
+    "source_text": "Bij canyoning worden elementen van zwemmen, klimmen en springen gecombineerd. Je hebt er relatief weinig training of fysieke conditie voor nodig om ermee te kunnen starten (vergeleken met bijvoorbeeld bergbeklimmen, duiken of alpineski\u00ebn)."
+  },
+  {
+    "id": 11,
+    "prompt": "Translate this to English: Wandelen is een buitenactiviteit waarbij je in een natuurlijke omgeving wandelt, meestal op wandelpaden.",
+    "reference": "Hiking is an outdoor activity which consists of walking in natural environments, often on hiking trails.",
+    "source_lang": "Dutch",
+    "target_lang": "English",
+    "source_text": "Wandelen is een buitenactiviteit waarbij je in een natuurlijke omgeving wandelt, meestal op wandelpaden."
+  },
+  {
+    "id": 12,
+    "prompt": "Translate this to English: Een dagwandeling kan bestaan uit een wandeling van minder dan een mijl tot langere wandelingen die in \u00e9\u00e9n dag kunnen worden gelopen.",
+    "reference": "Day hiking involves distances of less than a mile up to longer distances that can be covered in a single day.",
+    "source_lang": "Dutch",
+    "target_lang": "English",
+    "source_text": "Een dagwandeling kan bestaan uit een wandeling van minder dan een mijl tot langere wandelingen die in \u00e9\u00e9n dag kunnen worden gelopen."
+  },
+  {
+    "id": 13,
+    "prompt": "Translate this to English: Voor een wandeltocht van een dag langs een gemakkelijke route zijn maar weinig voorbereidingen nodig en iedereen met een gemiddelde conditie kan ervan genieten.",
+    "reference": "For a day hike along an easy trail little preparations are needed, and any moderately fit person can enjoy them.",
+    "source_lang": "Dutch",
+    "target_lang": "English",
+    "source_text": "Voor een wandeltocht van een dag langs een gemakkelijke route zijn maar weinig voorbereidingen nodig en iedereen met een gemiddelde conditie kan ervan genieten."
+  },
+  {
+    "id": 14,
+    "prompt": "Translate this to English: Gezinnen met kleine kinderen moeten mogelijk meer voorbereiden, maar een dag in de buitenlucht is prima mogelijk, zelfs met baby's en peuters.",
+    "reference": "Families with small children may need more preparations, but a day outdoors is easily possible even with babies and pre-school children.",
+    "source_lang": "Dutch",
+    "target_lang": "English",
+    "source_text": "Gezinnen met kleine kinderen moeten mogelijk meer voorbereiden, maar een dag in de buitenlucht is prima mogelijk, zelfs met baby's en peuters."
+  },
+  {
+    "id": 15,
+    "prompt": "Translate this to English: Wereldwijd zijn er bijna 200 organisaties voor hardlooptours actief, de meeste onafhankelijk.",
+    "reference": "Internationally, there are nearly 200 running tour organizations. Most of them operate independently.",
+    "source_lang": "Dutch",
+    "target_lang": "English",
+    "source_text": "Wereldwijd zijn er bijna 200 organisaties voor hardlooptours actief, de meeste onafhankelijk."
+  },
+  {
+    "id": 16,
+    "prompt": "Translate this to English: Go Running, de opvolger van de Global Running Tours, bestaat uit een netwerk van tientallen aanbieders van 'sightrunning' verspreid over vier continenten.",
+    "reference": "The Global Running Tours successor, Go Running Tours networks dozens of sightrunning providers on four continents.",
+    "source_lang": "Dutch",
+    "target_lang": "English",
+    "source_text": "Go Running, de opvolger van de Global Running Tours, bestaat uit een netwerk van tientallen aanbieders van 'sightrunning' verspreid over vier continenten."
+  },
+  {
+    "id": 17,
+    "prompt": "Translate this to English: Het begon in de Running Tours Barcelona en Running Copenhagen (Kopenhagen), gevolgd door onder andere Running Tours Prague (Praag).",
+    "reference": "With roots in Barcelona's Running Tours Barcelona and Copenhagen's Running Copenhagen, it was quickly joined by Running Tours Prague based in Prague and others.",
+    "source_lang": "Dutch",
+    "target_lang": "English",
+    "source_text": "Het begon in de Running Tours Barcelona en Running Copenhagen (Kopenhagen), gevolgd door onder andere Running Tours Prague (Praag)."
+  },
+  {
+    "id": 18,
+    "prompt": "Translate this to English: Er zijn veel dingen waar je goed over na moet denken voordat je en wanneer je ergens heen reist.",
+    "reference": "There are many things you have to take into consideration before and when you travel somewhere.",
+    "source_lang": "Dutch",
+    "target_lang": "English",
+    "source_text": "Er zijn veel dingen waar je goed over na moet denken voordat je en wanneer je ergens heen reist."
+  },
+  {
+    "id": 19,
+    "prompt": "Translate this to English: Verwacht niet dat dingen 'net zoals thuis' zijn wanneer je aan het reizen bent. Manieren, regels, voedsel, verkeer, je verblijf, gebruiken en de taal - het zal allemaal in zekere mate anders zijn dan je gewend bent.",
+    "reference": "When you travel, expect things not to be like they are \"back home\". Manners, laws, food, traffic, lodging, standards, language and so on will to some extent differ from where you live.",
+    "source_lang": "Dutch",
+    "target_lang": "English",
+    "source_text": "Verwacht niet dat dingen 'net zoals thuis' zijn wanneer je aan het reizen bent. Manieren, regels, voedsel, verkeer, je verblijf, gebruiken en de taal - het zal allemaal in zekere mate anders zijn dan je gewend bent."
+  },
+  {
+    "id": 20,
+    "prompt": "Translate this to English: Dit moet je altijd in gedachten houden, om teleurstellingen of zelfs afkeer van lokale manieren om dingen te doen te voorkomen.",
+    "reference": "This is something you always need to keep in mind, to avoid disappointment or perhaps even distaste over local ways to do things.",
+    "source_lang": "Dutch",
+    "target_lang": "English",
+    "source_text": "Dit moet je altijd in gedachten houden, om teleurstellingen of zelfs afkeer van lokale manieren om dingen te doen te voorkomen."
+  },
+  {
+    "id": 21,
+    "prompt": "Translate this to English: Reisbureaus bestaan al sinds de 19e eeuw. Je kunt een reisbureau om hulp vragen wanneer je een type reis gaat maken waar je nog geen ervaring in hebt als het gaat om de natuur, de cultuur, de taal of wanneer je naar lage-inkomenslanden gaat.",
+    "reference": "Travel agencies have been around since the 19th century. A travel agent is usually a good option for a journey which extends beyond a traveller's previous experience of nature, culture, language or low-income countries.",
+    "source_lang": "Dutch",
+    "target_lang": "English",
+    "source_text": "Reisbureaus bestaan al sinds de 19e eeuw. Je kunt een reisbureau om hulp vragen wanneer je een type reis gaat maken waar je nog geen ervaring in hebt als het gaat om de natuur, de cultuur, de taal of wanneer je naar lage-inkomenslanden gaat."
+  },
+  {
+    "id": 22,
+    "prompt": "Translate this to English: De meeste bureaus nemen de meest voorkomende boekingen aan, maar veel agenten zijn gespecialiseerd in bepaalde soorten reizen, budgetten of bestemmingen.",
+    "reference": "Although most agencies are willing to take on most regular bookings, many agents specialise in particular types of travel, budget ranges or destinations.",
+    "source_lang": "Dutch",
+    "target_lang": "English",
+    "source_text": "De meeste bureaus nemen de meest voorkomende boekingen aan, maar veel agenten zijn gespecialiseerd in bepaalde soorten reizen, budgetten of bestemmingen."
+  },
+  {
+    "id": 23,
+    "prompt": "Translate this to English: Het kan beter zijn om een reisorganisator te gebruiken die vaker reizen boekt die op die van u lijken.",
+    "reference": "It can be better to use an agent who frequently books similar trips to yours.",
+    "source_lang": "Dutch",
+    "target_lang": "English",
+    "source_text": "Het kan beter zijn om een reisorganisator te gebruiken die vaker reizen boekt die op die van u lijken."
+  },
+  {
+    "id": 24,
+    "prompt": "Translate this to English: Kijk eens welke reizen de agent promoot, op een website of in de etalage.",
+    "reference": "Take a look at what trips the agent is promoting, whether on a website or in a shop window.",
+    "source_lang": "Dutch",
+    "target_lang": "English",
+    "source_text": "Kijk eens welke reizen de agent promoot, op een website of in de etalage."
+  },
+  {
+    "id": 25,
+    "prompt": "Translate this to English: Als je rond de wereld wilt reizen zonder veel geld uit te geven, uit noodzaak of vanwege je levensstijl of een uitdaging, zijn er enkele manieren om dit te doen.",
+    "reference": "If you want to see the world on the cheap, for necessity, lifestyle or challenge, there are some ways to do that.",
+    "source_lang": "Dutch",
+    "target_lang": "English",
+    "source_text": "Als je rond de wereld wilt reizen zonder veel geld uit te geven, uit noodzaak of vanwege je levensstijl of een uitdaging, zijn er enkele manieren om dit te doen."
+  },
+  {
+    "id": 26,
+    "prompt": "Translate this to English: Ze vallen in principe in twee categorie\u00ebn: werken terwijl je reist of proberen je onkosten te beperken. In dit artikel wordt aandacht besteed aan het laatste.",
+    "reference": "Basically, they fall into two categories: Either work while you travel or try and limit your expenses. This article is focused on the latter.",
+    "source_lang": "Dutch",
+    "target_lang": "English",
+    "source_text": "Ze vallen in principe in twee categorie\u00ebn: werken terwijl je reist of proberen je onkosten te beperken. In dit artikel wordt aandacht besteed aan het laatste."
+  },
+  {
+    "id": 27,
+    "prompt": "Translate this to English: Als je bereid bent om comfort, tijd en voorspelbaarheid op te offeren om de uitgaven zo laag mogelijk te houden, kijk je bij reizen met een minimumbudget.",
+    "reference": "For those willing to sacrifice comfort, time and predictability to push expenses down close to zero, see minimum budget travel.",
+    "source_lang": "Dutch",
+    "target_lang": "English",
+    "source_text": "Als je bereid bent om comfort, tijd en voorspelbaarheid op te offeren om de uitgaven zo laag mogelijk te houden, kijk je bij reizen met een minimumbudget."
+  },
+  {
+    "id": 28,
+    "prompt": "Translate this to English: Het wordt als vanzelfsprekend gezien dat toeristen geen overtredingen plegen als stelen, illegaal betreden, deelnemen aan de zwarte markt, bedelen of dat ze mensen anderszins uitbuiten.",
+    "reference": "The advice assumes that travellers do not steal, trespass, participate in the illegal market, beg, or otherwise exploit other people for their own gain.",
+    "source_lang": "Dutch",
+    "target_lang": "English",
+    "source_text": "Het wordt als vanzelfsprekend gezien dat toeristen geen overtredingen plegen als stelen, illegaal betreden, deelnemen aan de zwarte markt, bedelen of dat ze mensen anderszins uitbuiten."
+  },
+  {
+    "id": 29,
+    "prompt": "Translate this to English: Een immigratiepunt is meestal de eerste stopplek wanneer je een vliegtuig, boot of ander voertuig verlaat.",
+    "reference": "An immigration checkpoint is usually the first stop when disembarking from a plane, a ship, or another vehicle.",
+    "source_lang": "Dutch",
+    "target_lang": "English",
+    "source_text": "Een immigratiepunt is meestal de eerste stopplek wanneer je een vliegtuig, boot of ander voertuig verlaat."
+  },
+  {
+    "id": 30,
+    "prompt": "Translate this to English: Op sommige internationale treinreizen worden treininspecties onderweg uitgevoerd en moet u dus een geldig identiteitsbewijs bij zich hebben.",
+    "reference": "In some cross-border trains inspections are done on the running train and you should have valid ID with you when boarding one of those trains.",
+    "source_lang": "Dutch",
+    "target_lang": "English",
+    "source_text": "Op sommige internationale treinreizen worden treininspecties onderweg uitgevoerd en moet u dus een geldig identiteitsbewijs bij zich hebben."
+  },
+  {
+    "id": 31,
+    "prompt": "Translate this to English: Op sommige nachttreinreizen verzamelt de conducteur de paspoorten, zodat u kunt blijven slapen.",
+    "reference": "On night sleeper trains, passports may be collected by the conductor so that you do not have your sleep interrupted.",
+    "source_lang": "Dutch",
+    "target_lang": "English",
+    "source_text": "Op sommige nachttreinreizen verzamelt de conducteur de paspoorten, zodat u kunt blijven slapen."
+  },
+  {
+    "id": 32,
+    "prompt": "Translate this to English: Registratie is een extra vereiste voor de visumprocedure. In sommige landen moet je je aanwezigheid en je verblijfadres melden bij de plaatselijke autoriteiten.",
+    "reference": "Registration is an additional requirement for the visa process. In some countries, you must register your presence and address where you are staying with the local authorities.",
+    "source_lang": "Dutch",
+    "target_lang": "English",
+    "source_text": "Registratie is een extra vereiste voor de visumprocedure. In sommige landen moet je je aanwezigheid en je verblijfadres melden bij de plaatselijke autoriteiten."
+  },
+  {
+    "id": 33,
+    "prompt": "Translate this to English: Hiervoor moet u mogelijk een formulier invullen bij de plaatselijke politie of naar een immigratiekantoor gaan.",
+    "reference": "This might require filling out a form with the local police or a visit to the immigration offices.",
+    "source_lang": "Dutch",
+    "target_lang": "English",
+    "source_text": "Hiervoor moet u mogelijk een formulier invullen bij de plaatselijke politie of naar een immigratiekantoor gaan."
+  },
+  {
+    "id": 34,
+    "prompt": "Translate this to English: In veel landen met een dergelijke wetgeving regelen lokale hotels de registratie (vraag hier naar).",
+    "reference": "In many countries with such a law, local hotels will handle the registration (make sure to ask).",
+    "source_lang": "Dutch",
+    "target_lang": "English",
+    "source_text": "In veel landen met een dergelijke wetgeving regelen lokale hotels de registratie (vraag hier naar)."
+  },
+  {
+    "id": 35,
+    "prompt": "Translate this to English: In alle overige gevallen hoeven alleen personen die buiten de toeristenaccommodaties verblijven, zich te registreren. Hierdoor is de wetgeving echter een stuk vager, dus vraag dit van tevoren na.",
+    "reference": "In other cases, only those staying outside of tourist accommodations need to register.  However, this makes the law much more obscure, so find out beforehand.",
+    "source_lang": "Dutch",
+    "target_lang": "English",
+    "source_text": "In alle overige gevallen hoeven alleen personen die buiten de toeristenaccommodaties verblijven, zich te registreren. Hierdoor is de wetgeving echter een stuk vager, dus vraag dit van tevoren na."
+  },
+  {
+    "id": 36,
+    "prompt": "Translate this to English: Architectuur draait om het ontwerp en de bouw van gebouwen. Toeristen komen vaak alleen al op architectuur af.",
+    "reference": "Architecture is concerned with the design and construction of buildings. The architecture of a place is often a tourist attraction in its own right.",
+    "source_lang": "Dutch",
+    "target_lang": "English",
+    "source_text": "Architectuur draait om het ontwerp en de bouw van gebouwen. Toeristen komen vaak alleen al op architectuur af."
+  },
+  {
+    "id": 37,
+    "prompt": "Translate this to English: Veel gebouwen zijn best mooi om te zien en het uitzicht vanaf een hoog gebouw of een goed geplaatst raam kan prachtig zijn.",
+    "reference": "Many buildings are quite beautiful to look at and the view from a tall building or from a cleverly-positioned window can be a beauty to behold.",
+    "source_lang": "Dutch",
+    "target_lang": "English",
+    "source_text": "Veel gebouwen zijn best mooi om te zien en het uitzicht vanaf een hoog gebouw of een goed geplaatst raam kan prachtig zijn."
+  },
+  {
+    "id": 38,
+    "prompt": "Translate this to English: In vele opzichten heeft architectuur overlappingen met andere gebieden. Denk hierbij aan planologie, civiele techniek, decoratieve kunst, interieurontwerp en landschapsontwerp.",
+    "reference": "Architecture overlaps considerably with other fields including urban planning, civil engineering, decorative arts, interior design and landscape design.",
+    "source_lang": "Dutch",
+    "target_lang": "English",
+    "source_text": "In vele opzichten heeft architectuur overlappingen met andere gebieden. Denk hierbij aan planologie, civiele techniek, decoratieve kunst, interieurontwerp en landschapsontwerp."
+  },
+  {
+    "id": 39,
+    "prompt": "Translate this to English: Veel van de pueblo's zijn enorm afgelegen, dus je gaat niet veel nachtleven vinden als je niet naar Albuquerque of Santa Fe reist.",
+    "reference": "Given how remote many of the pueblos are, you won't be able to find a significant amount of nightlife without traveling to Albuquerque or Santa Fe.",
+    "source_lang": "Dutch",
+    "target_lang": "English",
+    "source_text": "Veel van de pueblo's zijn enorm afgelegen, dus je gaat niet veel nachtleven vinden als je niet naar Albuquerque of Santa Fe reist."
+  },
+  {
+    "id": 40,
+    "prompt": "Translate this to English: Toch worden er drankjes geserveerd in bijna alle hierboven genoemde casino's. Sommige casino's bieden zelfs merkentertainment aan (met name de grote casino's in de directe omgeving van Albuquerque en Santa Fe).",
+    "reference": "However, nearly all of the casinos listed above serve drinks, and several of them bring in name-brand entertainment (primarily the large ones immediately surrounding Albuquerque and Santa Fe).",
+    "source_lang": "Dutch",
+    "target_lang": "English",
+    "source_text": "Toch worden er drankjes geserveerd in bijna alle hierboven genoemde casino's. Sommige casino's bieden zelfs merkentertainment aan (met name de grote casino's in de directe omgeving van Albuquerque en Santa Fe)."
+  },
+  {
+    "id": 41,
+    "prompt": "Translate this to English: Let op: voor bezoekers uit een andere staat is het niet altijd verstandig om de bars in de dorpjes te bezoeken.",
+    "reference": "Beware: small-town bars here are not always good places for the out-of-state visitor to hang out.",
+    "source_lang": "Dutch",
+    "target_lang": "English",
+    "source_text": "Let op: voor bezoekers uit een andere staat is het niet altijd verstandig om de bars in de dorpjes te bezoeken."
+  },
+  {
+    "id": 42,
+    "prompt": "Translate this to English: In het noorden van New Mexico zijn bijvoorbeeld grote problemen met rijden onder invloed. De concentratie dronken bestuurders is het hoogst in de buurt van bars in dorpjes.",
+    "reference": "For one thing, northern New Mexico has significant problems with drunk driving, and the concentration of intoxicated drivers is high close to small-town bars.",
+    "source_lang": "Dutch",
+    "target_lang": "English",
+    "source_text": "In het noorden van New Mexico zijn bijvoorbeeld grote problemen met rijden onder invloed. De concentratie dronken bestuurders is het hoogst in de buurt van bars in dorpjes."
+  },
+  {
+    "id": 43,
+    "prompt": "Translate this to English: Ongewenste muurschilderingen of gekrabbel wordt ook wel graffiti genoemd.",
+    "reference": "Unwanted murals or scribble is known as graffiti.",
+    "source_lang": "Dutch",
+    "target_lang": "English",
+    "source_text": "Ongewenste muurschilderingen of gekrabbel wordt ook wel graffiti genoemd."
+  },
+  {
+    "id": 44,
+    "prompt": "Translate this to English: Hoewel het zeker geen modern fenomeen is, wordt het meestal geassocieerd met jongeren die openbare en priv\u00e9-eigendommen bekladden met spuitverf.",
+    "reference": "While it's far from a modern phenomenon, most people probably associate it with youth vandalizing public and private property using spray paint.",
+    "source_lang": "Dutch",
+    "target_lang": "English",
+    "source_text": "Hoewel het zeker geen modern fenomeen is, wordt het meestal geassocieerd met jongeren die openbare en priv\u00e9-eigendommen bekladden met spuitverf."
+  },
+  {
+    "id": 45,
+    "prompt": "Translate this to English: Nu bestaan er ook gevestigde graffitikunstenaars, graffiti-evenementen en 'legale' muren. Hierdoor lijken graffiti-schilderingen vaak meer op kunstwerken dan op onleesbaar gekrabbel.",
+    "reference": "However, nowadays there are established graffiti artists, graffiti events and \"legal\" walls. Graffiti paintings in this context often resemble artworks rather than illegible tags.",
+    "source_lang": "Dutch",
+    "target_lang": "English",
+    "source_text": "Nu bestaan er ook gevestigde graffitikunstenaars, graffiti-evenementen en 'legale' muren. Hierdoor lijken graffiti-schilderingen vaak meer op kunstwerken dan op onleesbaar gekrabbel."
+  },
+  {
+    "id": 46,
+    "prompt": "Translate this to English: Veel toeristen willen graag het populaire boemerangwerpen leren.",
+    "reference": "Boomerang throwing is a popular skill that many tourists want to acquire.",
+    "source_lang": "Dutch",
+    "target_lang": "English",
+    "source_text": "Veel toeristen willen graag het populaire boemerangwerpen leren."
+  },
+  {
+    "id": 47,
+    "prompt": "Translate this to English: Als je wilt leren hoe je een boemerang gooit zodat deze terugkomt, moet je ervoor zorgen dat je een geschikte terugkerende boemerang hebt.",
+    "reference": "If you want to learn throwing a boomerang that comes back to your hand, make sure you have a suitable boomerang for returning.",
+    "source_lang": "Dutch",
+    "target_lang": "English",
+    "source_text": "Als je wilt leren hoe je een boemerang gooit zodat deze terugkomt, moet je ervoor zorgen dat je een geschikte terugkerende boemerang hebt."
+  },
+  {
+    "id": 48,
+    "prompt": "Translate this to English: De meeste in Australi\u00eb verkrijgbare boemerangs, komen zelfs niet teruggevlogen. Het is het beste voor beginners om niet te proberen te gooien in winderige",
+    "reference": "Most boomerangs available in Australia are in fact non-returning. It is best for beginners to not try throwing in windy",
+    "source_lang": "Dutch",
+    "target_lang": "English",
+    "source_text": "De meeste in Australi\u00eb verkrijgbare boemerangs, komen zelfs niet teruggevlogen. Het is het beste voor beginners om niet te proberen te gooien in winderige"
+  },
+  {
+    "id": 49,
+    "prompt": "Translate this to English: In een hete kuil in de grond wordt een Hangi-maaltijd klaargemaakt.",
+    "reference": "A Hangi Meal is cooked in a hot pit in the ground.",
+    "source_lang": "Dutch",
+    "target_lang": "English",
+    "source_text": "In een hete kuil in de grond wordt een Hangi-maaltijd klaargemaakt."
+  },
+  {
+    "id": 50,
+    "prompt": "Translate this to English: De kuil wordt verwarmd met hete stenen uit het vuur of er zijn plaatsen waar geothermische warmte de grond op natuurlijke wijze opwarmt.",
+    "reference": "The pit is either heated with hot stones from a fire, or in some places geothermal heat makes areas of ground naturally hot.",
+    "source_lang": "Dutch",
+    "target_lang": "English",
+    "source_text": "De kuil wordt verwarmd met hete stenen uit het vuur of er zijn plaatsen waar geothermische warmte de grond op natuurlijke wijze opwarmt."
+  },
+  {
+    "id": 51,
+    "prompt": "Translate this to English: De hangi wordt gebruikt om een traditioneel geroosterde maaltijd te bereiden.",
+    "reference": "The hangi is often used to cook a traditional roast style dinner.",
+    "source_lang": "Dutch",
+    "target_lang": "English",
+    "source_text": "De hangi wordt gebruikt om een traditioneel geroosterde maaltijd te bereiden."
+  },
+  {
+    "id": 52,
+    "prompt": "Translate this to English: Op verschillende plaatsen in Rotorua wordt geothermische hangi aangeboden. Andere vormen van hangi kunnen in Christchurch, Wellington en op andere plaatsen worden geprobeerd.",
+    "reference": "Several places in Rotorua offer geothermal hangi, while other hangi can be sampled in Christchurch, Wellington and elsewhere.",
+    "source_lang": "Dutch",
+    "target_lang": "English",
+    "source_text": "Op verschillende plaatsen in Rotorua wordt geothermische hangi aangeboden. Andere vormen van hangi kunnen in Christchurch, Wellington en op andere plaatsen worden geprobeerd."
+  },
+  {
+    "id": 53,
+    "prompt": "Translate this to English: MetroRail biedt in de forensentreinen rond Kaapstad twee klassen aan: MetroPlus (ook bekend als eerste klas) en Metro (bekend als derde klas).",
+    "reference": "MetroRail has two classes on commuter trains in and around Cape Town: MetroPlus (also called First Class) and Metro (called Third Class).",
+    "source_lang": "Dutch",
+    "target_lang": "English",
+    "source_text": "MetroRail biedt in de forensentreinen rond Kaapstad twee klassen aan: MetroPlus (ook bekend als eerste klas) en Metro (bekend als derde klas)."
+  },
+  {
+    "id": 54,
+    "prompt": "Translate this to English: MetroPlus is comfortabeler en met minder drukte, maar duurder, hoewel nog steeds goedkoper dan normale metrokaartjes in Europa.",
+    "reference": "MetroPlus is more comfortable and less crowded but slightly more expensive, though still cheaper than normal metro tickets in Europe.",
+    "source_lang": "Dutch",
+    "target_lang": "English",
+    "source_text": "MetroPlus is comfortabeler en met minder drukte, maar duurder, hoewel nog steeds goedkoper dan normale metrokaartjes in Europa."
+  },
+  {
+    "id": 55,
+    "prompt": "Translate this to English: In elke trein zitten wagons van zowel Metro als MetroPlus, waarvan de laatste zich altijd bevindt aan het uiteinde van de trein dat het dichtst bij Kaapstad is.",
+    "reference": "Every train has both MetroPlus and Metro coaches; the MetroPlus coaches are always on the end of the train nearest Cape Town.",
+    "source_lang": "Dutch",
+    "target_lang": "English",
+    "source_text": "In elke trein zitten wagons van zowel Metro als MetroPlus, waarvan de laatste zich altijd bevindt aan het uiteinde van de trein dat het dichtst bij Kaapstad is."
+  },
+  {
+    "id": 56,
+    "prompt": "Translate this to English: Vervoer voor anderen: verlies je koffers nooit uit het oog, zeker niet als je internationaal reist.",
+    "reference": "Carrying for others - Never let your bags out of your sight, especially when you are crossing international borders.",
+    "source_lang": "Dutch",
+    "target_lang": "English",
+    "source_text": "Vervoer voor anderen: verlies je koffers nooit uit het oog, zeker niet als je internationaal reist."
+  },
+  {
+    "id": 57,
+    "prompt": "Translate this to English: Het kan gebeuren dat je als drugssmokkelaar wordt ingezet zonder dat je het zelf doorhebt. Daardoor raak je flink in de problemen.",
+    "reference": "You could find yourself being used as a drug carrier without your knowledge, which will land you in a great deal of trouble.",
+    "source_lang": "Dutch",
+    "target_lang": "English",
+    "source_text": "Het kan gebeuren dat je als drugssmokkelaar wordt ingezet zonder dat je het zelf doorhebt. Daardoor raak je flink in de problemen."
+  },
+  {
+    "id": 58,
+    "prompt": "Translate this to English: Hieronder valt ook het wachten in de rij, want drugshonden kunnen op elk moment zonder voorafgaande kennisgeving worden gebruikt.",
+    "reference": "This includes waiting in line, as drug-sniffing dogs could be used at any time without notice.",
+    "source_lang": "Dutch",
+    "target_lang": "English",
+    "source_text": "Hieronder valt ook het wachten in de rij, want drugshonden kunnen op elk moment zonder voorafgaande kennisgeving worden gebruikt."
+  },
+  {
+    "id": 59,
+    "prompt": "Translate this to English: In sommige landen gelden uiterst strenge straffen, zelfs voor het eerste strafbare feit; deze kunnen gevangenisstraffen van meer dan 10 jaar of zelfs de doodstraf omvatten.",
+    "reference": "Some countries have exceedingly draconian punishments even for first time offenses; these can include prison sentences of over 10 years or death.",
+    "source_lang": "Dutch",
+    "target_lang": "English",
+    "source_text": "In sommige landen gelden uiterst strenge straffen, zelfs voor het eerste strafbare feit; deze kunnen gevangenisstraffen van meer dan 10 jaar of zelfs de doodstraf omvatten."
+  },
+  {
+    "id": 60,
+    "prompt": "Translate this to English: Als je je tassen onbeheerd achterlaat, kun je het slachtoffer worden van diefstal en bovendien kunnen ze opvallen bij de autoriteiten die bang zijn voor bomdreigingen.",
+    "reference": "Unattended bags are a target for theft and can also attract attention from authorities wary of bomb threats.",
+    "source_lang": "Dutch",
+    "target_lang": "English",
+    "source_text": "Als je je tassen onbeheerd achterlaat, kun je het slachtoffer worden van diefstal en bovendien kunnen ze opvallen bij de autoriteiten die bang zijn voor bomdreigingen."
+  },
+  {
+    "id": 61,
+    "prompt": "Translate this to English: De kans is groot dat je thuis al immuun bent tegen deze bacteri\u00ebn door de constante blootstelling aan de lokale ziektekiemen.",
+    "reference": "At home, due to this constant exposure to the local germs, odds are very high that you're already immune to them.",
+    "source_lang": "Dutch",
+    "target_lang": "English",
+    "source_text": "De kans is groot dat je thuis al immuun bent tegen deze bacteri\u00ebn door de constante blootstelling aan de lokale ziektekiemen."
+  },
+  {
+    "id": 62,
+    "prompt": "Translate this to English: Maar in andere delen van de wereld, waar de bacteriologische fauna voor jou nieuw is, loop je veel meer risico.",
+    "reference": "But in other parts of the world, where the bacteriological fauna are new to you, you're far more likely to run into problems.",
+    "source_lang": "Dutch",
+    "target_lang": "English",
+    "source_text": "Maar in andere delen van de wereld, waar de bacteriologische fauna voor jou nieuw is, loop je veel meer risico."
+  },
+  {
+    "id": 63,
+    "prompt": "Translate this to English: Bacteri\u00ebn groeien bovendien sneller in warmere klimaten en kunnen ze langer overleven buiten het lichaam.",
+    "reference": "Also, in warmer climates bacteria both grow more quickly and survive longer outside the body.",
+    "source_lang": "Dutch",
+    "target_lang": "English",
+    "source_text": "Bacteri\u00ebn groeien bovendien sneller in warmere klimaten en kunnen ze langer overleven buiten het lichaam."
+  },
+  {
+    "id": 64,
+    "prompt": "Translate this to English: En zo krijgt u te maken met een 'Delhi Belly', de vloek van de farao, de wraak van Montezuma of een van de andere bijnamen van de ziekte.",
+    "reference": "Thus the scourges of Delhi Belly, the Pharaoh's Curse, Montezuma's Revenge, and their many friends.",
+    "source_lang": "Dutch",
+    "target_lang": "English",
+    "source_text": "En zo krijgt u te maken met een 'Delhi Belly', de vloek van de farao, de wraak van Montezuma of een van de andere bijnamen van de ziekte."
+  },
+  {
+    "id": 65,
+    "prompt": "Translate this to English: Net zoals veel mensen last hebben van ademhalingsproblemen in koudere klimaten, hebben mensen in warme klimaten meer darmproblemen. In de meeste gevallen is dit erg storend, maar niet heel gevaarlijk.",
+    "reference": "As with respiratory problems in colder climates, intestinal problems in hot climates are fairly common and in most cases are distinctly annoying but not really dangerous.",
+    "source_lang": "Dutch",
+    "target_lang": "English",
+    "source_text": "Net zoals veel mensen last hebben van ademhalingsproblemen in koudere klimaten, hebben mensen in warme klimaten meer darmproblemen. In de meeste gevallen is dit erg storend, maar niet heel gevaarlijk."
+  },
+  {
+    "id": 66,
+    "prompt": "Translate this to English: Houd altijd rekening met de potentieel grote culturele verschillen als u voor het eerst naar een derdewereldland reist, of ergens in de wereld waar u nog niet eerder bent geweest.",
+    "reference": "If traveling in a developing country for the first time \u2013 or in a new part of the world \u2013 don't underestimate the potential culture shock.",
+    "source_lang": "Dutch",
+    "target_lang": "English",
+    "source_text": "Houd altijd rekening met de potentieel grote culturele verschillen als u voor het eerst naar een derdewereldland reist, of ergens in de wereld waar u nog niet eerder bent geweest."
+  },
+  {
+    "id": 67,
+    "prompt": "Translate this to English: Reizen in een onbekend ontwikkelingsland kan gemakkelijk overweldigend worden door alle kleine culturele verschillen die zich snel opstapelen.",
+    "reference": "Many a stable, capable traveler has been overcome by the newness of developing world travel, where many little cultural adjustments can add up quickly.",
+    "source_lang": "Dutch",
+    "target_lang": "English",
+    "source_text": "Reizen in een onbekend ontwikkelingsland kan gemakkelijk overweldigend worden door alle kleine culturele verschillen die zich snel opstapelen."
+  },
+  {
+    "id": 68,
+    "prompt": "Translate this to English: Het kan verstandig zijn om vooral in het begin nog veelal gebruik te maken van hotels, voedsel en services in westerse stijl tot u geacclimatiseerd bent.",
+    "reference": "Especially in your initial days, consider splurging on Western-style and -quality hotels, food, and services to help acclimatize.",
+    "source_lang": "Dutch",
+    "target_lang": "English",
+    "source_text": "Het kan verstandig zijn om vooral in het begin nog veelal gebruik te maken van hotels, voedsel en services in westerse stijl tot u geacclimatiseerd bent."
+  },
+  {
+    "id": 69,
+    "prompt": "Translate this to English: Zorg dat u op de hoogte bent van de plaatselijke fauna voor u op een matras of mat op de grond gaat slapen.",
+    "reference": "Do not sleep on a mattress or pad on the ground in areas where you do not know the local fauna.",
+    "source_lang": "Dutch",
+    "target_lang": "English",
+    "source_text": "Zorg dat u op de hoogte bent van de plaatselijke fauna voor u op een matras of mat op de grond gaat slapen."
+  },
+  {
+    "id": 70,
+    "prompt": "Translate this to English: Als je gaat kamperen, moet je een campingbedje of hangmat meenemen, zodat er geen slangen, schorpioenen en dergelijke bij je in de buurt komen.",
+    "reference": "If you are going to camp out, bring a camp cot or hammock to keep you away from snakes, scorpions and such.",
+    "source_lang": "Dutch",
+    "target_lang": "English",
+    "source_text": "Als je gaat kamperen, moet je een campingbedje of hangmat meenemen, zodat er geen slangen, schorpioenen en dergelijke bij je in de buurt komen."
+  },
+  {
+    "id": 71,
+    "prompt": "Translate this to English: Vul je huis 's ochtends met de rijke geur van koffie en 's avonds met ontspannende kamillethee.",
+    "reference": "Fill your home with a rich coffee in the morning and some relaxing chamomile tea at night.",
+    "source_lang": "Dutch",
+    "target_lang": "English",
+    "source_text": "Vul je huis 's ochtends met de rijke geur van koffie en 's avonds met ontspannende kamillethee."
+  },
+  {
+    "id": 72,
+    "prompt": "Translate this to English: Tijdens een staycation heb je de tijd om jezelf te verwennen en om eens iets speciaals te bereiden.",
+    "reference": "When you're on a staycation, you have the time to treat yourself and take a few extra minutes to brew up something special.",
+    "source_lang": "Dutch",
+    "target_lang": "English",
+    "source_text": "Tijdens een staycation heb je de tijd om jezelf te verwennen en om eens iets speciaals te bereiden."
+  },
+  {
+    "id": 73,
+    "prompt": "Translate this to English: Als je in een avontuurlijke bui bent, grijp dan de kans om smoothies te persen of te mixen:",
+    "reference": "If you're feeling more adventurous, take the opportunity to juice or blend up some smoothies:",
+    "source_lang": "Dutch",
+    "target_lang": "English",
+    "source_text": "Als je in een avontuurlijke bui bent, grijp dan de kans om smoothies te persen of te mixen:"
+  },
+  {
+    "id": 74,
+    "prompt": "Translate this to English: misschien ontdek je wel een simpel drankje dat je als ontbijt kunt maken wanneer je terugkeert naar je dagelijkse routine.",
+    "reference": "maybe you'll discover a simple beverage that you can make for breakfast when you're back to your daily routine.",
+    "source_lang": "Dutch",
+    "target_lang": "English",
+    "source_text": "misschien ontdek je wel een simpel drankje dat je als ontbijt kunt maken wanneer je terugkeert naar je dagelijkse routine."
+  },
+  {
+    "id": 75,
+    "prompt": "Translate this to English: Als u in een stad met een gevarieerde drinkcultuur woont, kunt u naar bars of kroegen gaan in wijken waar u niet vaak komt.",
+    "reference": "If you live in a city with a varied drinking culture, go to bars or pubs in neighborhoods you don't frequent.",
+    "source_lang": "Dutch",
+    "target_lang": "English",
+    "source_text": "Als u in een stad met een gevarieerde drinkcultuur woont, kunt u naar bars of kroegen gaan in wijken waar u niet vaak komt."
+  },
+  {
+    "id": 76,
+    "prompt": "Translate this to English: Voor degenen die weinig kennis hebben van medisch jargon: er zit een verschil tussen de Engelse woorden 'infectious' en 'contagious'.",
+    "reference": "For those unfamiliar with medical jargon, the words infectious and contagious have distinct meanings.",
+    "source_lang": "Dutch",
+    "target_lang": "English",
+    "source_text": "Voor degenen die weinig kennis hebben van medisch jargon: er zit een verschil tussen de Engelse woorden 'infectious' en 'contagious'."
+  },
+  {
+    "id": 77,
+    "prompt": "Translate this to English: Een infectieziekte is een ziekte die wordt veroorzaakt door een ziekteverwekker, zoals een virus, bacterie, schimmel of andere parasiet.",
+    "reference": "An infectious disease is one that is caused by a pathogen, such as a virus, bacterium, fungus or other parasites.",
+    "source_lang": "Dutch",
+    "target_lang": "English",
+    "source_text": "Een infectieziekte is een ziekte die wordt veroorzaakt door een ziekteverwekker, zoals een virus, bacterie, schimmel of andere parasiet."
+  },
+  {
+    "id": 78,
+    "prompt": "Translate this to English: Een ziekte is besmettelijk wanneer deze gemakkelijk kan worden overgedragen op iemand anders in de buurt van de ge\u00efnfecteerde persoon.",
+    "reference": "A contagious disease is a disease which is easily transmitted by being in the vicinity of an infected person.",
+    "source_lang": "Dutch",
+    "target_lang": "English",
+    "source_text": "Een ziekte is besmettelijk wanneer deze gemakkelijk kan worden overgedragen op iemand anders in de buurt van de ge\u00efnfecteerde persoon."
+  },
+  {
+    "id": 79,
+    "prompt": "Translate this to English: Veel overheden eisen dat bezoekers die hun land binnentreden of inwoners die hun land verlaten, worden gevaccineerd tegen verschillende ziekten.",
+    "reference": "Many governments require visitors entering, or residents leaving, their countries to be vaccinated for a range of diseases.",
+    "source_lang": "Dutch",
+    "target_lang": "English",
+    "source_text": "Veel overheden eisen dat bezoekers die hun land binnentreden of inwoners die hun land verlaten, worden gevaccineerd tegen verschillende ziekten."
+  },
+  {
+    "id": 80,
+    "prompt": "Translate this to English: Deze vereisten hangen meestal af van de landen die de reiziger eerder heeft bezocht of nog gaat bezoeken.",
+    "reference": "These requirements may often depend on what countries a traveller has visited or intends to visit.",
+    "source_lang": "Dutch",
+    "target_lang": "English",
+    "source_text": "Deze vereisten hangen meestal af van de landen die de reiziger eerder heeft bezocht of nog gaat bezoeken."
+  },
+  {
+    "id": 81,
+    "prompt": "Translate this to English: E\u00e9n van de sterke punten van Charlotte in North Carolina is dat er ontzettend veel en kwalitatief goede mogelijkheden zijn voor gezinnen.",
+    "reference": "One of strong points of Charlotte, North Carolina, is that it has an abundance of high-quality options for families.",
+    "source_lang": "Dutch",
+    "target_lang": "English",
+    "source_text": "E\u00e9n van de sterke punten van Charlotte in North Carolina is dat er ontzettend veel en kwalitatief goede mogelijkheden zijn voor gezinnen."
+  },
+  {
+    "id": 82,
+    "prompt": "Translate this to English: Bewoners uit andere gebieden noemen vaak gezinsvriendelijkheid als een belangrijke reden om daarheen te verhuizen en bezoekers met kinderen kunnen zich in de stad vaak goed vermaken.",
+    "reference": "Residents from other areas often cite family-friendliness as a primary reason for moving there, and visitors often find the city easy to enjoy with children around.",
+    "source_lang": "Dutch",
+    "target_lang": "English",
+    "source_text": "Bewoners uit andere gebieden noemen vaak gezinsvriendelijkheid als een belangrijke reden om daarheen te verhuizen en bezoekers met kinderen kunnen zich in de stad vaak goed vermaken."
+  },
+  {
+    "id": 83,
+    "prompt": "Translate this to English: In de afgelopen 20 jaar is het aantal kindvriendelijke mogelijkheden in het centrum van Charlotte explosief gegroeid.",
+    "reference": "In the past 20 years, the amount of child-friendly options in Uptown Charlotte has grown exponentially.",
+    "source_lang": "Dutch",
+    "target_lang": "English",
+    "source_text": "In de afgelopen 20 jaar is het aantal kindvriendelijke mogelijkheden in het centrum van Charlotte explosief gegroeid."
+  },
+  {
+    "id": 84,
+    "prompt": "Translate this to English: Gezinnen in Charlotte gebruiken over het algemeen geen taxi's, maar in sommige gevallen kunnen ze wel handig zijn.",
+    "reference": "Taxis are not generally used by families in Charlotte, though they can be of some use in certain circumstances.",
+    "source_lang": "Dutch",
+    "target_lang": "English",
+    "source_text": "Gezinnen in Charlotte gebruiken over het algemeen geen taxi's, maar in sommige gevallen kunnen ze wel handig zijn."
+  },
+  {
+    "id": 85,
+    "prompt": "Translate this to English: Er wordt een toeslag in rekening gebracht voor meer dan 2 passagiers, waardoor deze optie onnodig duur kan zijn.",
+    "reference": "There is a surcharge for having more than 2 passengers, so this option might be more expensive than necessary.",
+    "source_lang": "Dutch",
+    "target_lang": "English",
+    "source_text": "Er wordt een toeslag in rekening gebracht voor meer dan 2 passagiers, waardoor deze optie onnodig duur kan zijn."
+  },
+  {
+    "id": 86,
+    "prompt": "Translate this to English: Antarctica omringt de Zuidpool en is de koudste plek ter wereld.",
+    "reference": "Antarctica is the coldest place on Earth, and surrounds the South Pole.",
+    "source_lang": "Dutch",
+    "target_lang": "English",
+    "source_text": "Antarctica omringt de Zuidpool en is de koudste plek ter wereld."
+  },
+  {
+    "id": 87,
+    "prompt": "Translate this to English: Toeristische bezoekjes zijn prijzig, vereisen een goede lichamelijke conditie, zijn alleen mogelijk in de zomer (van november tot februari) en beperken zich tot het schiereiland, eilanden en de Rosszee.",
+    "reference": "Tourist visits are costly, demand physical fitness, can only take place in summer Nov-Feb, and are largely limited to the Peninsula, Islands and Ross Sea.",
+    "source_lang": "Dutch",
+    "target_lang": "English",
+    "source_text": "Toeristische bezoekjes zijn prijzig, vereisen een goede lichamelijke conditie, zijn alleen mogelijk in de zomer (van november tot februari) en beperken zich tot het schiereiland, eilanden en de Rosszee."
+  },
+  {
+    "id": 88,
+    "prompt": "Translate this to English: In de zomer wonen hier een paar duizend personeelsleden op zo'n vijftig bases, voornamelijk in die gebieden. Slechts een klein aantal personeelsleden overwintert er ook.",
+    "reference": "A couple of thousand staff live here in summer in some four dozen bases mostly in those areas; a small number stay over winter.",
+    "source_lang": "Dutch",
+    "target_lang": "English",
+    "source_text": "In de zomer wonen hier een paar duizend personeelsleden op zo'n vijftig bases, voornamelijk in die gebieden. Slechts een klein aantal personeelsleden overwintert er ook."
+  },
+  {
+    "id": 89,
+    "prompt": "Translate this to English: Het Antarctische binnenland bestaat uit een kale vlakte onder een laag ijs van 2-3 km dik.",
+    "reference": "Inland Antarctica is a desolate plateau covered by 2-3 km of ice.",
+    "source_lang": "Dutch",
+    "target_lang": "English",
+    "source_text": "Het Antarctische binnenland bestaat uit een kale vlakte onder een laag ijs van 2-3 km dik."
+  },
+  {
+    "id": 90,
+    "prompt": "Translate this to English: Een enkele keer gaan speciale vluchten verder het binnenland in, voornamelijk voor bergbeklimmen of om naar de pool te gaan waar een grote basis is gevestigd.",
+    "reference": "Occasional specialist air tours go inland, for mountaineering or to reach the Pole, which has a large base.",
+    "source_lang": "Dutch",
+    "target_lang": "English",
+    "source_text": "Een enkele keer gaan speciale vluchten verder het binnenland in, voornamelijk voor bergbeklimmen of om naar de pool te gaan waar een grote basis is gevestigd."
+  },
+  {
+    "id": 91,
+    "prompt": "Translate this to English: De South Pole Traverse (of Highway) is een route die 1600 km lang is en van het McMurdo-basisstation aan de Rosszee naar de Zuidpool loopt.",
+    "reference": "The South Pole Traverse (or Highway) is a 1600 km trail from McMurdo Station on the Ross Sea to the Pole.",
+    "source_lang": "Dutch",
+    "target_lang": "English",
+    "source_text": "De South Pole Traverse (of Highway) is een route die 1600 km lang is en van het McMurdo-basisstation aan de Rosszee naar de Zuidpool loopt."
+  },
+  {
+    "id": 92,
+    "prompt": "Translate this to English: Het is samengeperste sneeuw met spleten die zijn opgevuld en met vlaggen worden gemarkeerd. Je kunt hier alleen met gespecialiseerde tractoren en slee\u00ebn met brandstof en voorraden naartoe rijden.",
+    "reference": "It's compacted snow with crevasses filled in and marked by flags. It can only be traveled by specialized tractors, hauling sleds with fuel and supplies.",
+    "source_lang": "Dutch",
+    "target_lang": "English",
+    "source_text": "Het is samengeperste sneeuw met spleten die zijn opgevuld en met vlaggen worden gemarkeerd. Je kunt hier alleen met gespecialiseerde tractoren en slee\u00ebn met brandstof en voorraden naartoe rijden."
+  },
+  {
+    "id": 93,
+    "prompt": "Translate this to English: Deze zijn niet erg behendig, dus de wandelroute loopt met een grote omweg om het Transantarctisch Gebergte heen om bij het plateau te komen.",
+    "reference": "These aren't very nimble so the trail has to take a long swerve around the Transantarctic Mountains to come onto the plateau.",
+    "source_lang": "Dutch",
+    "target_lang": "English",
+    "source_text": "Deze zijn niet erg behendig, dus de wandelroute loopt met een grote omweg om het Transantarctisch Gebergte heen om bij het plateau te komen."
+  },
+  {
+    "id": 94,
+    "prompt": "Translate this to English: In de winter veroorzaken gladde wegen, trottoirs en vooral trappen de meeste ongelukken.",
+    "reference": "The most common cause for accidents in winter is slippery roads, pavements (sidewalks) and especially steps.",
+    "source_lang": "Dutch",
+    "target_lang": "English",
+    "source_text": "In de winter veroorzaken gladde wegen, trottoirs en vooral trappen de meeste ongelukken."
+  },
+  {
+    "id": 95,
+    "prompt": "Translate this to English: Je moet in ieder geval schoenen hebben met goede zolen. Met zomerschoeisel is ijs en sneeuw vaak erg glad. Sommige winterschoenen zijn hier zelfs niet goed genoeg.",
+    "reference": "At a minimum, you need footwear with suitable soles. Summer shoes are usually very slippery on ice and snow, even some winter boots are deficient.",
+    "source_lang": "Dutch",
+    "target_lang": "English",
+    "source_text": "Je moet in ieder geval schoenen hebben met goede zolen. Met zomerschoeisel is ijs en sneeuw vaak erg glad. Sommige winterschoenen zijn hier zelfs niet goed genoeg."
+  },
+  {
+    "id": 96,
+    "prompt": "Translate this to English: Het moet een patroon zijn met een minimale diepte van 5 mm (1/5 inch) en als het koud is, moet het materiaal zacht genoeg blijven.",
+    "reference": "The pattern should be deep enough, 5 mm (1/5 inch) or more, and the material soft enough in cold temperatures.",
+    "source_lang": "Dutch",
+    "target_lang": "English",
+    "source_text": "Het moet een patroon zijn met een minimale diepte van 5 mm (1/5 inch) en als het koud is, moet het materiaal zacht genoeg blijven."
+  },
+  {
+    "id": 97,
+    "prompt": "Translate this to English: Er bestaan ook modellen met noppen en er zijn speciale hulpstukken verkrijgbaar voor als het glibberig is: past op de meeste laarzen en schoenen, op de hakken en/of de zool.",
+    "reference": "Some boots have studs and there is studded add-on equipment for slippery conditions, suitable for most shoes and boots, for the heels or heels and sole.",
+    "source_lang": "Dutch",
+    "target_lang": "English",
+    "source_text": "Er bestaan ook modellen met noppen en er zijn speciale hulpstukken verkrijgbaar voor als het glibberig is: past op de meeste laarzen en schoenen, op de hakken en/of de zool."
+  },
+  {
+    "id": 98,
+    "prompt": "Translate this to English: Je moet hakken hebben die laag en breed zijn. Er wordt vaak zand, grind of zout (calciumchloride) gestrooid op wegen of paden om meer grip te krijgen.",
+    "reference": "Heels should be low and wide. Sand, gravel or salt (calcium chloride) is often scattered on roads or paths to improve traction.",
+    "source_lang": "Dutch",
+    "target_lang": "English",
+    "source_text": "Je moet hakken hebben die laag en breed zijn. Er wordt vaak zand, grind of zout (calciumchloride) gestrooid op wegen of paden om meer grip te krijgen."
+  },
+  {
+    "id": 99,
+    "prompt": "Translate this to English: Lawines zijn geen vreemd verschijnsel; steile hellingen kunnen maar een bepaalde hoeveelheid sneeuw aan en de overtollige sneeuw komt naar beneden in een lawine.",
+    "reference": "Avalanches are not an abnormality; steep slopes can hold only so much slow, and the excess volumes will come down as avalanches.",
+    "source_lang": "Dutch",
+    "target_lang": "English",
+    "source_text": "Lawines zijn geen vreemd verschijnsel; steile hellingen kunnen maar een bepaalde hoeveelheid sneeuw aan en de overtollige sneeuw komt naar beneden in een lawine."
+  },
+  {
+    "id": 100,
+    "prompt": "Translate this to English: Het probleem is dat de sneeuw plakkerig is. Er is iets nodig om het naar beneden te laten komen en sneeuw die naar beneden komt kan de rest van de sneeuw met zich meetrekken.",
+    "reference": "The problem is that snow is sticky, so it needs some triggering to come down, and some snow coming down can be the triggering event for the rest.",
+    "source_lang": "Dutch",
+    "target_lang": "English",
+    "source_text": "Het probleem is dat de sneeuw plakkerig is. Er is iets nodig om het naar beneden te laten komen en sneeuw die naar beneden komt kan de rest van de sneeuw met zich meetrekken."
+  },
+  {
+    "id": 101,
+    "prompt": "Translate this to English: Soms is de oorspronkelijke aanleiding de sneeuw die door de zon wordt opgewarmd, soms komt het door wat meer sneeuwval en soms door andere natuurlijke gebeurtenissen, maar vaak is er een menselijke oorzaak.",
+    "reference": "Sometimes the original trigging event is the sun warming the snow, sometimes some more snowfall, sometimes other natural events, often a human.",
+    "source_lang": "Dutch",
+    "target_lang": "English",
+    "source_text": "Soms is de oorspronkelijke aanleiding de sneeuw die door de zon wordt opgewarmd, soms komt het door wat meer sneeuwval en soms door andere natuurlijke gebeurtenissen, maar vaak is er een menselijke oorzaak."
+  },
+  {
+    "id": 102,
+    "prompt": "Translate this to English: Een tornado bestaat uit een ronddraaiende luchttrechter van zeer lage druk, waardoor de buitenlucht naar binnen en naar boven wordt gezogen.",
+    "reference": "A tornado is a spinning column of very low-pressure air, which sucks the surrounding air inward and upward.",
+    "source_lang": "Dutch",
+    "target_lang": "English",
+    "source_text": "Een tornado bestaat uit een ronddraaiende luchttrechter van zeer lage druk, waardoor de buitenlucht naar binnen en naar boven wordt gezogen."
+  },
+  {
+    "id": 103,
+    "prompt": "Translate this to English: Ze genereren hoge winden (vaak 100-200 mijl/uur) en kunnen zware voorwerpen in de lucht tillen die worden meegevoerd als de tornado zich verplaatst.",
+    "reference": "They generate high winds (often 100-200 miles/hour) and can lift heavy objects into the air, carrying them as the tornado moves.",
+    "source_lang": "Dutch",
+    "target_lang": "English",
+    "source_text": "Ze genereren hoge winden (vaak 100-200 mijl/uur) en kunnen zware voorwerpen in de lucht tillen die worden meegevoerd als de tornado zich verplaatst."
+  },
+  {
+    "id": 104,
+    "prompt": "Translate this to English: Eerst komen ze als luchtkokers vanuit onweerswolken omlaag. Eenmaal op de grond heten ze 'tornado's'.",
+    "reference": "They begin as funnels descending from storm clouds, and become \"tornadoes\" when they touch the ground.",
+    "source_lang": "Dutch",
+    "target_lang": "English",
+    "source_text": "Eerst komen ze als luchtkokers vanuit onweerswolken omlaag. Eenmaal op de grond heten ze 'tornado's'."
+  },
+  {
+    "id": 105,
+    "prompt": "Translate this to English: Providers van een persoonlijke VPN (virtual private netwerk) bieden een goede manier om politieke censuur en commerci\u00eble IP-geofiltering te ontwijken.",
+    "reference": "Personal VPN (virtual private network) providers are an excellent way of circumventing both political censorship and commercial IP-geofiltering.",
+    "source_lang": "Dutch",
+    "target_lang": "English",
+    "source_text": "Providers van een persoonlijke VPN (virtual private netwerk) bieden een goede manier om politieke censuur en commerci\u00eble IP-geofiltering te ontwijken."
+  },
+  {
+    "id": 106,
+    "prompt": "Translate this to English: Om een paar redenen zijn ze beter dan webproxy's: in plaats van alleen http leiden ze al het internetverkeer om.",
+    "reference": "They are superior to web proxies for several reasons: They re-route all Internet traffic, not only http.",
+    "source_lang": "Dutch",
+    "target_lang": "English",
+    "source_text": "Om een paar redenen zijn ze beter dan webproxy's: in plaats van alleen http leiden ze al het internetverkeer om."
+  },
+  {
+    "id": 107,
+    "prompt": "Translate this to English: Normaal gesproken bieden ze een hogere bandbreedte en een betere kwaliteit service. Ze zijn versleuteld, waardoor het moeilijker wordt om ze in de gaten te houden.",
+    "reference": "They normally offer higher bandwidth and better quality of service. They are encrypted and thus harder to spy on.",
+    "source_lang": "Dutch",
+    "target_lang": "English",
+    "source_text": "Normaal gesproken bieden ze een hogere bandbreedte en een betere kwaliteit service. Ze zijn versleuteld, waardoor het moeilijker wordt om ze in de gaten te houden."
+  },
+  {
+    "id": 108,
+    "prompt": "Translate this to English: Mediabedrijven liegen regelmatig over het doel hiervan en zeggen dat ze piraterij willen voorkomen.",
+    "reference": "The media companies routinely lie about the purpose of this, claiming that it is to \"prevent piracy\".",
+    "source_lang": "Dutch",
+    "target_lang": "English",
+    "source_text": "Mediabedrijven liegen regelmatig over het doel hiervan en zeggen dat ze piraterij willen voorkomen."
+  },
+  {
+    "id": 109,
+    "prompt": "Translate this to English: Eigenlijk hebben regiocodes totaal geen effect op het maken van illegale kopie\u00ebn; een bit-voor-bit-kopie van een dvd zal het op alle apparaten net zo goed doen als het originele exemplaar.",
+    "reference": "In fact, region codes have absolutely no effect on illegal copying; a bit-for-bit copy of a disk will play just fine on any device where the original will.",
+    "source_lang": "Dutch",
+    "target_lang": "English",
+    "source_text": "Eigenlijk hebben regiocodes totaal geen effect op het maken van illegale kopie\u00ebn; een bit-voor-bit-kopie van een dvd zal het op alle apparaten net zo goed doen als het originele exemplaar."
+  },
+  {
+    "id": 110,
+    "prompt": "Translate this to English: Het eigenlijke doel is dat zulke bedrijven meer controle over hun markten krijgen; geld moet immers rollen.",
+    "reference": "The actual purpose is to give those companies more control over their markets; it's all about money spinning.",
+    "source_lang": "Dutch",
+    "target_lang": "English",
+    "source_text": "Het eigenlijke doel is dat zulke bedrijven meer controle over hun markten krijgen; geld moet immers rollen."
+  },
+  {
+    "id": 111,
+    "prompt": "Translate this to English: Omdat gesprekken via het internet worden gerouteerd, hoeft u geen gebruik te maken van een telefoonmaatschappij die is gevestigd waar u woont of waar u naartoe gaat.",
+    "reference": "Because calls are routed over the Internet, you do not need to use a phone company located where you live or where you travel.",
+    "source_lang": "Dutch",
+    "target_lang": "English",
+    "source_text": "Omdat gesprekken via het internet worden gerouteerd, hoeft u geen gebruik te maken van een telefoonmaatschappij die is gevestigd waar u woont of waar u naartoe gaat."
+  },
+  {
+    "id": 112,
+    "prompt": "Translate this to English: Je hoeft ook geen lokaal nummer aan te vragen bij de gemeente waar je woont; je kunt bijv. een satelliet-internetverbinding gebruiken in de wildernis van Chicken in Alaska en een nummer kiezen dat juist aangeeft dat je in zonnig Arizona bent.",
+    "reference": "There is also no requirement that you obtain a local number from the community in which you live; you can obtain a satellite Internet connection in the wilds of Chicken, Alaska and select a number which claims you're in sunny Arizona.",
+    "source_lang": "Dutch",
+    "target_lang": "English",
+    "source_text": "Je hoeft ook geen lokaal nummer aan te vragen bij de gemeente waar je woont; je kunt bijv. een satelliet-internetverbinding gebruiken in de wildernis van Chicken in Alaska en een nummer kiezen dat juist aangeeft dat je in zonnig Arizona bent."
+  },
+  {
+    "id": 113,
+    "prompt": "Translate this to English: Vaak moet je apart een internationaal nummer kopen, zodat je gebeld kunt worden door PSTN-telefoons. Waar het nummer is geregistreerd, is belangrijk voor de mensen die jou bellen.",
+    "reference": "Often, you have to buy a global number separately that allows PSTN phones to call you. Where the number is from makes a difference for people calling you.",
+    "source_lang": "Dutch",
+    "target_lang": "English",
+    "source_text": "Vaak moet je apart een internationaal nummer kopen, zodat je gebeld kunt worden door PSTN-telefoons. Waar het nummer is geregistreerd, is belangrijk voor de mensen die jou bellen."
+  },
+  {
+    "id": 114,
+    "prompt": "Translate this to English: Apps voor realtimevertalingen van tekst: toepassingen die in staat zijn om hele segmenten van een tekst automatisch van de ene in de andere taal te vertalen.",
+    "reference": "Real-time text translator apps \u2013 applications that are capable of automatically translating whole segments of text from one language into another.",
+    "source_lang": "Dutch",
+    "target_lang": "English",
+    "source_text": "Apps voor realtimevertalingen van tekst: toepassingen die in staat zijn om hele segmenten van een tekst automatisch van de ene in de andere taal te vertalen."
+  },
+  {
+    "id": 115,
+    "prompt": "Translate this to English: Sommige apps in deze categorie kunnen zelfs teksten op borden of andere objecten naar andere talen vertalen wanneer de gebruiker zijn of haar smartphone voor het object houdt.",
+    "reference": "Some of the applications in this category can even translate texts in foreign languages on signs or other objects in the real world when the user points the smartphone towards those objects.",
+    "source_lang": "Dutch",
+    "target_lang": "English",
+    "source_text": "Sommige apps in deze categorie kunnen zelfs teksten op borden of andere objecten naar andere talen vertalen wanneer de gebruiker zijn of haar smartphone voor het object houdt."
+  },
+  {
+    "id": 116,
+    "prompt": "Translate this to English: Vertaalmachines zijn enorm verbeterd en leveren nu min of meer correcte vertalingen op (en minder vaak wartaal), hoewel enige zorg moet worden geboden, omdat het nog steeds mogelijk is dat ze het bij het verkeerde eind hebben.",
+    "reference": "The translation engines have improved dramatically, and now often give more or less correct translations (and more seldom gibberish), but some care is due, as they still may have gotten it all wrong.",
+    "source_lang": "Dutch",
+    "target_lang": "English",
+    "source_text": "Vertaalmachines zijn enorm verbeterd en leveren nu min of meer correcte vertalingen op (en minder vaak wartaal), hoewel enige zorg moet worden geboden, omdat het nog steeds mogelijk is dat ze het bij het verkeerde eind hebben."
+  },
+  {
+    "id": 117,
+    "prompt": "Translate this to English: In deze categorie is een van de meest prominente apps Google Translate, waarmee je offline kunt vertalen als je de gewenste taalgegevens hebt gedownload.",
+    "reference": "One of the most prominent apps in this category is Google Translate, which allows offline translation after downloading the desired language data.",
+    "source_lang": "Dutch",
+    "target_lang": "English",
+    "source_text": "In deze categorie is een van de meest prominente apps Google Translate, waarmee je offline kunt vertalen als je de gewenste taalgegevens hebt gedownload."
+  },
+  {
+    "id": 118,
+    "prompt": "Translate this to English: Wanneer je niet in je eigen land bent, zijn gps-navigatie-apps op je smartphone de gemakkelijkste en handigste manier om je weg te vinden.",
+    "reference": "Using GPS navigation apps on your smartphone can be the easiest and most convenient way to navigate when out of your home country.",
+    "source_lang": "Dutch",
+    "target_lang": "English",
+    "source_text": "Wanneer je niet in je eigen land bent, zijn gps-navigatie-apps op je smartphone de gemakkelijkste en handigste manier om je weg te vinden."
+  },
+  {
+    "id": 119,
+    "prompt": "Translate this to English: Je bespaart geld omdat je geen nieuwe kaarten meer hoeft aan te schaffen of een los gps-apparaat te kopen of te huren bij een autoverhuurbedrijf.",
+    "reference": "It can save money over buying new maps for a GPS, or a standalone GPS device or renting one from a car rental company.",
+    "source_lang": "Dutch",
+    "target_lang": "English",
+    "source_text": "Je bespaart geld omdat je geen nieuwe kaarten meer hoeft aan te schaffen of een los gps-apparaat te kopen of te huren bij een autoverhuurbedrijf."
+  },
+  {
+    "id": 120,
+    "prompt": "Translate this to English: Als je geen dataverbinding hebt voor je telefoon, of als deze op is, werkt het niet of slechts beperkt.",
+    "reference": "If you don't have a data connection for your phone, or when it is out of range, their performance can be limited or unavailable.",
+    "source_lang": "Dutch",
+    "target_lang": "English",
+    "source_text": "Als je geen dataverbinding hebt voor je telefoon, of als deze op is, werkt het niet of slechts beperkt."
+  },
+  {
+    "id": 121,
+    "prompt": "Translate this to English: Elke buurtwinkel is gevuld met een verwarrend assortiment aan prepaidtelefoonkaarten die kunnen worden gebruikt in telefooncellen of voor gewone telefoons.",
+    "reference": "Every corner store is filled with a confusing array of pre-paid phone cards that can be used from pay phones or ordinary telephones.",
+    "source_lang": "Dutch",
+    "target_lang": "English",
+    "source_text": "Elke buurtwinkel is gevuld met een verwarrend assortiment aan prepaidtelefoonkaarten die kunnen worden gebruikt in telefooncellen of voor gewone telefoons."
+  },
+  {
+    "id": 122,
+    "prompt": "Translate this to English: Al kun je met bijna alle kaarten overal bellen, zijn sommige providers gespecialiseerd in het aanbieden van gunstige beltarieven voor bepaalde groepen of landen.",
+    "reference": "While most cards are good for calling anywhere, some specialise in providing favourable call rates to specific groups of countries.",
+    "source_lang": "Dutch",
+    "target_lang": "English",
+    "source_text": "Al kun je met bijna alle kaarten overal bellen, zijn sommige providers gespecialiseerd in het aanbieden van gunstige beltarieven voor bepaalde groepen of landen."
+  },
+  {
+    "id": 123,
+    "prompt": "Translate this to English: Deze services zijn meestal bereikbaar via een kosteloos telefoonnummer dat vanaf veel telefoons gratis bereikbaar is.",
+    "reference": "Access to these services is often through a toll-free telephone number that can be called from most phones without charge.",
+    "source_lang": "Dutch",
+    "target_lang": "English",
+    "source_text": "Deze services zijn meestal bereikbaar via een kosteloos telefoonnummer dat vanaf veel telefoons gratis bereikbaar is."
+  },
+  {
+    "id": 124,
+    "prompt": "Translate this to English: Regels voor de reguliere fotografie zijn ook van toepassing op video-opnames. Mogelijk gelden deze regels zelfs nog meer hiervoor.",
+    "reference": "Rules regarding regular photography also apply to video recording, possibly even more so.",
+    "source_lang": "Dutch",
+    "target_lang": "English",
+    "source_text": "Regels voor de reguliere fotografie zijn ook van toepassing op video-opnames. Mogelijk gelden deze regels zelfs nog meer hiervoor."
+  },
+  {
+    "id": 125,
+    "prompt": "Translate this to English: Als het verboden is om ergens van een foto te maken, moet je er al helemaal geen video van maken.",
+    "reference": "If just taking a photo of something isn't allowed, then you shouldn't even think of recording a video of it.",
+    "source_lang": "Dutch",
+    "target_lang": "English",
+    "source_text": "Als het verboden is om ergens van een foto te maken, moet je er al helemaal geen video van maken."
+  },
+  {
+    "id": 126,
+    "prompt": "Translate this to English: Wanneer je een drone gebruikt, moet je van tevoren controleren wat je mag filmen en welke toestemmingen en extra licenties vereist zijn.",
+    "reference": "If using a drone, check well in advance as to what you are allowed to film and what permits or additional licensing are required.",
+    "source_lang": "Dutch",
+    "target_lang": "English",
+    "source_text": "Wanneer je een drone gebruikt, moet je van tevoren controleren wat je mag filmen en welke toestemmingen en extra licenties vereist zijn."
+  },
+  {
+    "id": 127,
+    "prompt": "Translate this to English: Een drone over een vliegveld of mensenmassa laten vliegen is bijna altijd een slecht idee, zelfs wanneer het in jouw buurt niet verboden is.",
+    "reference": "Flying a drone near an airport or over a crowd is almost always a bad idea, even if it's not illegal in your area.",
+    "source_lang": "Dutch",
+    "target_lang": "English",
+    "source_text": "Een drone over een vliegveld of mensenmassa laten vliegen is bijna altijd een slecht idee, zelfs wanneer het in jouw buurt niet verboden is."
+  },
+  {
+    "id": 128,
+    "prompt": "Translate this to English: Vandaag de dag worden voor het boeken vrijwel altijd eerst prijzen vergeleken, in plaats van rechtstreeks bij de luchtvaartmaatschappij te boeken.",
+    "reference": "Nowadays air travel is only rarely booked directly through the airline without first searching and comparing prices.",
+    "source_lang": "Dutch",
+    "target_lang": "English",
+    "source_text": "Vandaag de dag worden voor het boeken vrijwel altijd eerst prijzen vergeleken, in plaats van rechtstreeks bij de luchtvaartmaatschappij te boeken."
+  },
+  {
+    "id": 129,
+    "prompt": "Translate this to English: Het gebeurt soms dat je voor dezelfde vlucht bij verschillende maatschappijen totaal verschillende prijzen betaalt en het kan de moeite waard zijn om voor het boeken de zoekresultaten te vergelijken en ook te kijken op de website van de luchtvaartmaatschappij zelf.",
+    "reference": "Sometimes the same flight can have vastly differing prices at various agregators and it pays to compare search results and to also look at the website of the airline itself before booking.",
+    "source_lang": "Dutch",
+    "target_lang": "English",
+    "source_text": "Het gebeurt soms dat je voor dezelfde vlucht bij verschillende maatschappijen totaal verschillende prijzen betaalt en het kan de moeite waard zijn om voor het boeken de zoekresultaten te vergelijken en ook te kijken op de website van de luchtvaartmaatschappij zelf."
+  },
+  {
+    "id": 130,
+    "prompt": "Translate this to English: Hoewel je geen visum nodig hebt voor een kort toeristisch of zakelijk bezoek aan bepaalde landen, blijf je als student vaak langer dan een normale toerist.",
+    "reference": "While you may not need a visa for short visits to certain countries as a tourist or for business, going there as an international student generally requires a longer stay than going there just as a casual tourist.",
+    "source_lang": "Dutch",
+    "target_lang": "English",
+    "source_text": "Hoewel je geen visum nodig hebt voor een kort toeristisch of zakelijk bezoek aan bepaalde landen, blijf je als student vaak langer dan een normale toerist."
+  },
+  {
+    "id": 131,
+    "prompt": "Translate this to English: Over het algemeen moet je van tevoren een visum aanvragen als je voor langere tijd in het buitenland wilt verblijven.",
+    "reference": "In general, staying in any foreign country for an extended period of time will require you to obtain a visa in advance.",
+    "source_lang": "Dutch",
+    "target_lang": "English",
+    "source_text": "Over het algemeen moet je van tevoren een visum aanvragen als je voor langere tijd in het buitenland wilt verblijven."
+  },
+  {
+    "id": 132,
+    "prompt": "Translate this to English: Voor studentenvisa gelden over het algemeen andere vereisten en aanvraagprocedures dan voor gewone toeristen- en zakelijke visa.",
+    "reference": "Student visas generally have different requirements and application procedures from normal tourist or business visas.",
+    "source_lang": "Dutch",
+    "target_lang": "English",
+    "source_text": "Voor studentenvisa gelden over het algemeen andere vereisten en aanvraagprocedures dan voor gewone toeristen- en zakelijke visa."
+  },
+  {
+    "id": 133,
+    "prompt": "Translate this to English: In veel landen moet het gewenste onderzoeksinstituut u van een aanbiedingsbrief voorzien en moet u aantonen dat u voldoende financi\u00ebn hebt voor het eerste studiejaar.",
+    "reference": "For most countries, you will need an offer letter from the institution you wish to study at, and also evidence of funds to support yourself for at least the first year of your course.",
+    "source_lang": "Dutch",
+    "target_lang": "English",
+    "source_text": "In veel landen moet het gewenste onderzoeksinstituut u van een aanbiedingsbrief voorzien en moet u aantonen dat u voldoende financi\u00ebn hebt voor het eerste studiejaar."
+  },
+  {
+    "id": 134,
+    "prompt": "Translate this to English: Vraag de instelling of de immigratieafdeling van het land waar je wil gaan studeren om meer details over de vereisten.",
+    "reference": "Check with the institution, as well as the immigration department for the country you wish to study in for detailed requirements.",
+    "source_lang": "Dutch",
+    "target_lang": "English",
+    "source_text": "Vraag de instelling of de immigratieafdeling van het land waar je wil gaan studeren om meer details over de vereisten."
+  },
+  {
+    "id": 135,
+    "prompt": "Translate this to English: Tenzij je een diplomaat bent, moet je als je in het buitenland werkt doorgaans inkomstenbelasting indienen in het land waar je gevestigd bent.",
+    "reference": "Unless you are a diplomat, working overseas generally means that you will have to file income tax in the country you are based in.",
+    "source_lang": "Dutch",
+    "target_lang": "English",
+    "source_text": "Tenzij je een diplomaat bent, moet je als je in het buitenland werkt doorgaans inkomstenbelasting indienen in het land waar je gevestigd bent."
+  },
+  {
+    "id": 136,
+    "prompt": "Translate this to English: In elk land is de inkomstenbelasting anders gestructureerd, waardoor belastingtarieven en -schalen per land sterk kunnen verschillen.",
+    "reference": "Income tax is structured differently in different countries, and the tax rates and brackets vary widely from one country to another.",
+    "source_lang": "Dutch",
+    "target_lang": "English",
+    "source_text": "In elk land is de inkomstenbelasting anders gestructureerd, waardoor belastingtarieven en -schalen per land sterk kunnen verschillen."
+  },
+  {
+    "id": 137,
+    "prompt": "Translate this to English: In bepaalde federale landen, waaronder de VS en Canada, wordt de inkomstenbelasting zowel op federaal als plaatselijk niveau geheven. Hierdoor kunnen de toepasselijke tarieven en schijven erg verschillen tussen regio's.",
+    "reference": "In some federal countries, such as the United States and Canada, income tax is levied both at the federal level and at the local level, so the rates and brackets can vary from region to region.",
+    "source_lang": "Dutch",
+    "target_lang": "English",
+    "source_text": "In bepaalde federale landen, waaronder de VS en Canada, wordt de inkomstenbelasting zowel op federaal als plaatselijk niveau geheven. Hierdoor kunnen de toepasselijke tarieven en schijven erg verschillen tussen regio's."
+  },
+  {
+    "id": 138,
+    "prompt": "Translate this to English: Hoewel er normaal gesproken geen immigratiecontrole is of het slechts een formaliteit is wanneer je in je thuisland aankomt, kan de controle bij de douane een heel gedoe zijn.",
+    "reference": "While immigration check is usually absent or a formality when you arrive in your homeland, customs control can be a hassle.",
+    "source_lang": "Dutch",
+    "target_lang": "English",
+    "source_text": "Hoewel er normaal gesproken geen immigratiecontrole is of het slechts een formaliteit is wanneer je in je thuisland aankomt, kan de controle bij de douane een heel gedoe zijn."
+  },
+  {
+    "id": 139,
+    "prompt": "Translate this to English: Zorg ervoor dat je weet wat je wel en niet mag invoeren en declareer alles wat de wettelijke grenzen overschrijdt.",
+    "reference": "Make sure you know what you can and cannot bring in and declare anything over the legal limits.",
+    "source_lang": "Dutch",
+    "target_lang": "English",
+    "source_text": "Zorg ervoor dat je weet wat je wel en niet mag invoeren en declareer alles wat de wettelijke grenzen overschrijdt."
+  },
+  {
+    "id": 140,
+    "prompt": "Translate this to English: Een goede eerste stap in de wereld van reisverslagen is schrijven voor een bestaande reisblogwebsite.",
+    "reference": "The easiest way to get started in the business of travel writing is to hone your skills on an established travel blog website.",
+    "source_lang": "Dutch",
+    "target_lang": "English",
+    "source_text": "Een goede eerste stap in de wereld van reisverslagen is schrijven voor een bestaande reisblogwebsite."
+  },
+  {
+    "id": 141,
+    "prompt": "Translate this to English: Als je opmaken en bewerken op internet onder de knie hebt, kun je later je eigen website maken.",
+    "reference": "After you become comfortable with formatting and editing on the web, then later, you might create your own website.",
+    "source_lang": "Dutch",
+    "target_lang": "English",
+    "source_text": "Als je opmaken en bewerken op internet onder de knie hebt, kun je later je eigen website maken."
+  },
+  {
+    "id": 142,
+    "prompt": "Translate this to English: Je kunt echt een verschil maken als je vrijwilligerswerk doet tijdens het reizen, maar het gaat niet alleen om geven.",
+    "reference": "Volunteering while travelling is a great way to make a difference but it's not just about giving.",
+    "source_lang": "Dutch",
+    "target_lang": "English",
+    "source_text": "Je kunt echt een verschil maken als je vrijwilligerswerk doet tijdens het reizen, maar het gaat niet alleen om geven."
+  },
+  {
+    "id": 143,
+    "prompt": "Translate this to English: Als u wilt kennismaken met een nieuwe cultuur, nieuwe contacten wilt opdoen en uzelf wilt ontwikkelen, is daadwerkelijk in een ander land wonen en vrijwilligerswerk verrichten een goede optie.",
+    "reference": "Living and volunteering in a foreign country is a great way to get to know a different culture, meet new people, learn about yourself, get a sense of perspective and even gain new skills.",
+    "source_lang": "Dutch",
+    "target_lang": "English",
+    "source_text": "Als u wilt kennismaken met een nieuwe cultuur, nieuwe contacten wilt opdoen en uzelf wilt ontwikkelen, is daadwerkelijk in een ander land wonen en vrijwilligerswerk verrichten een goede optie."
+  },
+  {
+    "id": 144,
+    "prompt": "Translate this to English: Het kan ook een goede manier zijn om je budget wat te rekken en ergens wat langer te kunnen verblijven, aangezien veel vrijwilligerswerk een kamer en eten biedt en sommigen je zelfs een klein salaris aanbieden.",
+    "reference": "It can also be a good way to stretch a budget to allow a longer stay somewhere since many volunteer jobs provide room and board and a few pay a small salary.",
+    "source_lang": "Dutch",
+    "target_lang": "English",
+    "source_text": "Het kan ook een goede manier zijn om je budget wat te rekken en ergens wat langer te kunnen verblijven, aangezien veel vrijwilligerswerk een kamer en eten biedt en sommigen je zelfs een klein salaris aanbieden."
+  },
+  {
+    "id": 145,
+    "prompt": "Translate this to English: De Noormannen bereikten de Zwarte Zee en Kaspische Zee via waterwegen in Rusland. Een deel van deze route is nog steeds bruikbaar. Mogelijk hebt u wel een moeilijk verkrijgbare speciale vergunning nodig.",
+    "reference": "Vikings used the Russian waterways to get to the Black Sea and Caspian Sea. Parts of these routes can still be used. Check possible need for special permits, which may be difficult to get.",
+    "source_lang": "Dutch",
+    "target_lang": "English",
+    "source_text": "De Noormannen bereikten de Zwarte Zee en Kaspische Zee via waterwegen in Rusland. Een deel van deze route is nog steeds bruikbaar. Mogelijk hebt u wel een moeilijk verkrijgbare speciale vergunning nodig."
+  },
+  {
+    "id": 146,
+    "prompt": "Translate this to English: Het Witte Zee-Oostzeekanaal verbindt de Arctische oceaan voornamelijk via rivieren en meren met de Oostzee via het Onegameer, het Ladogameer en St. Petersburg.",
+    "reference": "The White Sea\u2013Baltic Canal connects the Arctic Ocean to the Baltic Sea, via Lake Onega, Lake Ladoga and Saint Petersburg, mostly by rivers and lakes.",
+    "source_lang": "Dutch",
+    "target_lang": "English",
+    "source_text": "Het Witte Zee-Oostzeekanaal verbindt de Arctische oceaan voornamelijk via rivieren en meren met de Oostzee via het Onegameer, het Ladogameer en St. Petersburg."
+  },
+  {
+    "id": 147,
+    "prompt": "Translate this to English: Het Onegameer is ook verbonden met de Wolga. Het is dus nog steeds mogelijk om via de Kaspische Zee door Rusland te gaan.",
+    "reference": "Lake Onega is also connected to Volga, so coming from the Caspian Sea through Russia is still possible.",
+    "source_lang": "Dutch",
+    "target_lang": "English",
+    "source_text": "Het Onegameer is ook verbonden met de Wolga. Het is dus nog steeds mogelijk om via de Kaspische Zee door Rusland te gaan."
+  },
+  {
+    "id": 148,
+    "prompt": "Translate this to English: Eenmaal in de jachthavens wijst alles zich vanzelf. Hier vindt u andere bootlifters die u op de hoogte zullen brengen.",
+    "reference": "Be assured that once you hit the marinas everything will be pretty obvious. You will meet other boat hitchhikers and they will share their information with you.",
+    "source_lang": "Dutch",
+    "target_lang": "English",
+    "source_text": "Eenmaal in de jachthavens wijst alles zich vanzelf. Hier vindt u andere bootlifters die u op de hoogte zullen brengen."
+  },
+  {
+    "id": 149,
+    "prompt": "Translate this to English: In feite hang je briefjes op waarin je hulp aanbiedt, ijsbeer je door de haven, stap je op mensen af om te vragen of je hun jacht kunt schoonmaken, probeer je contact te leggen met zeelieden in de bar, etc.",
+    "reference": "Basically you'll be putting up notices offering your help, pacing the docks, approaching people cleaning their yachts, trying to make contact with sailors in the bar, etc.",
+    "source_lang": "Dutch",
+    "target_lang": "English",
+    "source_text": "In feite hang je briefjes op waarin je hulp aanbiedt, ijsbeer je door de haven, stap je op mensen af om te vragen of je hun jacht kunt schoonmaken, probeer je contact te leggen met zeelieden in de bar, etc."
+  },
+  {
+    "id": 150,
+    "prompt": "Translate this to English: Probeer met zoveel mogelijk personen te kletsen. Na een tijdje zal iedereen je herkennen en je tips geven over welke schip op zoek is naar iemand.",
+    "reference": "Try to talk to as many people as possible. After a while everyone will know you and will give you hints as to which boat is looking for someone.",
+    "source_lang": "Dutch",
+    "target_lang": "English",
+    "source_text": "Probeer met zoveel mogelijk personen te kletsen. Na een tijdje zal iedereen je herkennen en je tips geven over welke schip op zoek is naar iemand."
+  },
+  {
+    "id": 151,
+    "prompt": "Translate this to English: Denk goed na wanneer je je keuze maakt voor een Frequent Flyer-luchtvaartmaatschappij in een alliantie.",
+    "reference": "You should choose your Frequent Flyer airline in an alliance carefully.",
+    "source_lang": "Dutch",
+    "target_lang": "English",
+    "source_text": "Denk goed na wanneer je je keuze maakt voor een Frequent Flyer-luchtvaartmaatschappij in een alliantie."
+  },
+  {
+    "id": 152,
+    "prompt": "Translate this to English: Hoewel u misschien denkt dat u zich het best kunt aansluiten bij een luchtvaartmaatschappij die u het meest gebruikt, moet u zich ervan bewust zijn dat de aangeboden voordelen vaak verschillend zijn en dat de ene luchtvaartmaatschappij guller kan zijn met frequentflyerpunten dan de andere, zelfs als ze zich in dezelfde alliantie bevinden.",
+    "reference": "Although you may think it is intuitive to join the airline you fly most, you should be aware that privileges offered are often different and frequent flyer points may be more generous under a different airline in the same alliance.",
+    "source_lang": "Dutch",
+    "target_lang": "English",
+    "source_text": "Hoewel u misschien denkt dat u zich het best kunt aansluiten bij een luchtvaartmaatschappij die u het meest gebruikt, moet u zich ervan bewust zijn dat de aangeboden voordelen vaak verschillend zijn en dat de ene luchtvaartmaatschappij guller kan zijn met frequentflyerpunten dan de andere, zelfs als ze zich in dezelfde alliantie bevinden."
+  },
+  {
+    "id": 153,
+    "prompt": "Translate this to English: Vliegmaatschappijen Qatar Airways, Turkish Airlines, Etihad Airways en Emirates breiden het aantal vluchten naar het Afrikaanse continent sterk uit en vliegen tegen scherpere prijzen dan maatschappijen uit Europa op veel grote bestemmingen in Afrika.",
+    "reference": "Airlines such as Emirates, Etihad Airways, Qatar Airways & Turkish Airlines have greatly expanded their services to Africa, and offer connections to many major African cities at competitive rates than other European airlines.",
+    "source_lang": "Dutch",
+    "target_lang": "English",
+    "source_text": "Vliegmaatschappijen Qatar Airways, Turkish Airlines, Etihad Airways en Emirates breiden het aantal vluchten naar het Afrikaanse continent sterk uit en vliegen tegen scherpere prijzen dan maatschappijen uit Europa op veel grote bestemmingen in Afrika."
+  },
+  {
+    "id": 154,
+    "prompt": "Translate this to English: Turkish Airlines vliegt sinds 2014 naar 39 bestemmingen in 30 Afrikaanse landen.",
+    "reference": "Turkish Airlines flies to 39 destinations in 30 African countries as of 2014.",
+    "source_lang": "Dutch",
+    "target_lang": "English",
+    "source_text": "Turkish Airlines vliegt sinds 2014 naar 39 bestemmingen in 30 Afrikaanse landen."
+  },
+  {
+    "id": 155,
+    "prompt": "Translate this to English: Als je nog tijd over hebt tijdens je reis, kun je kijken hoe je totale prijsopgave naar Afrika vergelijkt met een prijsopgave voor een wereldreis.",
+    "reference": "If you have additional travel time, check to see how your total fare quote to Africa compares with a round-the-world fare.",
+    "source_lang": "Dutch",
+    "target_lang": "English",
+    "source_text": "Als je nog tijd over hebt tijdens je reis, kun je kijken hoe je totale prijsopgave naar Afrika vergelijkt met een prijsopgave voor een wereldreis."
+  },
+  {
+    "id": 156,
+    "prompt": "Translate this to English: Vergeet de extra kosten van extra visums, vertrekbelasting, grondtransport, etc. voor al die plaatsen buiten Afrika niet mee te rekenen.",
+    "reference": "Don't forget to add in the extra costs of additional visas, departure taxes, ground transportation, etc. for all those places outside of Africa.",
+    "source_lang": "Dutch",
+    "target_lang": "English",
+    "source_text": "Vergeet de extra kosten van extra visums, vertrekbelasting, grondtransport, etc. voor al die plaatsen buiten Afrika niet mee te rekenen."
+  },
+  {
+    "id": 157,
+    "prompt": "Translate this to English: Als u op het zuidelijk halfrond helemaal rondom de wereld wilt vliegen, wordt de keuze van de vluchten en bestemmingen beperkt door een gebrek aan transoceanische vluchten.",
+    "reference": "If you want to fly around the world completely in the Southern Hemisphere, the choice of flights and destinations is limited due to the lack of transoceanic routes.",
+    "source_lang": "Dutch",
+    "target_lang": "English",
+    "source_text": "Als u op het zuidelijk halfrond helemaal rondom de wereld wilt vliegen, wordt de keuze van de vluchten en bestemmingen beperkt door een gebrek aan transoceanische vluchten."
+  },
+  {
+    "id": 158,
+    "prompt": "Translate this to English: Er is geen enkele luchtvaartalliantie die alle drie de oceaanoversteken op het zuidelijk halfrond verzorgt (en SkyTeam verzorgt geen enkele oversteek).",
+    "reference": "No airline alliance covers all three ocean crossings in the Southern Hemisphere (and SkyTeam covers none of the crossings).",
+    "source_lang": "Dutch",
+    "target_lang": "English",
+    "source_text": "Er is geen enkele luchtvaartalliantie die alle drie de oceaanoversteken op het zuidelijk halfrond verzorgt (en SkyTeam verzorgt geen enkele oversteek)."
+  },
+  {
+    "id": 159,
+    "prompt": "Translate this to English: Alles met uizondering van de oostelijke Stille Zuidzee van Santiago de Chile tot Tahiti valt onder de diensten van Star Alliance. Dit is een LATAM Oneworld-vlucht.",
+    "reference": "However, Star Alliance covers everything except the eastern South Pacific from Santiago de Chile to Tahiti, which is a LATAM Oneworld flight.",
+    "source_lang": "Dutch",
+    "target_lang": "English",
+    "source_text": "Alles met uizondering van de oostelijke Stille Zuidzee van Santiago de Chile tot Tahiti valt onder de diensten van Star Alliance. Dit is een LATAM Oneworld-vlucht."
+  },
+  {
+    "id": 160,
+    "prompt": "Translate this to English: Je kunt niet alleen met deze vlucht de Stille Zuidzee en de Zuid-Amerikaanse westkust oversteken. (kijk hieronder)",
+    "reference": "This flight is not the only option if you want to skip the South Pacific and the west coast of South America. (see below)",
+    "source_lang": "Dutch",
+    "target_lang": "English",
+    "source_text": "Je kunt niet alleen met deze vlucht de Stille Zuidzee en de Zuid-Amerikaanse westkust oversteken. (kijk hieronder)"
+  },
+  {
+    "id": 161,
+    "prompt": "Translate this to English: De etnisch Armeense regio Nagorno-Karabach in Azerbeidzjan voerde in 1994 oorlog tegen de Azerbeidzjanen.",
+    "reference": "In 1994, the ethnically Armenian Nagorno-Karabakh region of Azerbaijan waged war against the Azeris.",
+    "source_lang": "Dutch",
+    "target_lang": "English",
+    "source_text": "De etnisch Armeense regio Nagorno-Karabach in Azerbeidzjan voerde in 1994 oorlog tegen de Azerbeidzjanen."
+  },
+  {
+    "id": 162,
+    "prompt": "Translate this to English: Er werd met behulp van de Armeni\u00ebrs een nieuwe republiek opgericht. Er is echter geen enkele erkende natie (zelfs Armeni\u00eb niet) die deze staat officieel erkent.",
+    "reference": "With Armenian backing, a new republic was created. However, no established nation - not even Armenia - officially recognizes it.",
+    "source_lang": "Dutch",
+    "target_lang": "English",
+    "source_text": "Er werd met behulp van de Armeni\u00ebrs een nieuwe republiek opgericht. Er is echter geen enkele erkende natie (zelfs Armeni\u00eb niet) die deze staat officieel erkent."
+  },
+  {
+    "id": 163,
+    "prompt": "Translate this to English: Diplomatieke onenigheden over het gebied blijven een obstakel in de verhoudingen tussen Azerbeidzjan en Armeni\u00eb.",
+    "reference": "Diplomatic arguments over the region continue to mar relations between Armenia and Azerbaijan.",
+    "source_lang": "Dutch",
+    "target_lang": "English",
+    "source_text": "Diplomatieke onenigheden over het gebied blijven een obstakel in de verhoudingen tussen Azerbeidzjan en Armeni\u00eb."
+  },
+  {
+    "id": 164,
+    "prompt": "Translate this to English: De Grachtengordel is het beroemde 17e-eeuwse district rondom de Binnenstad van Amsterdam.",
+    "reference": "The Canal District (Dutch: Grachtengordel) is the famous 17th-century district surrounding the Binnenstad of Amsterdam.",
+    "source_lang": "Dutch",
+    "target_lang": "English",
+    "source_text": "De Grachtengordel is het beroemde 17e-eeuwse district rondom de Binnenstad van Amsterdam."
+  },
+  {
+    "id": 165,
+    "prompt": "Translate this to English: Het hele gebied staat op de werelderfgoedlijst van UNESCO vanwege de unieke culturele en historische waarde. De huizenprijzen zijn nergens anders in het land zo hoog.",
+    "reference": "The whole district is designated as a UNESCO World Heritage Site for its unique cultural and historical value, and its property values are among the highest of the country.",
+    "source_lang": "Dutch",
+    "target_lang": "English",
+    "source_text": "Het hele gebied staat op de werelderfgoedlijst van UNESCO vanwege de unieke culturele en historische waarde. De huizenprijzen zijn nergens anders in het land zo hoog."
+  },
+  {
+    "id": 166,
+    "prompt": "Translate this to English: Cinque Terre, oftewel Vijf Landen, bestaat uit vijf kustdorpjes met de namen Riomaggiore, Manarola, Corniglia, Vernazza en Monterosso en ligt in Liguri\u00eb, een Italiaanse streek.",
+    "reference": "Cinque Terre, which means Five Lands, comprises the five small coastal villages of Riomaggiore, Manarola, Corniglia, Vernazza and Monterosso located in the Italian region of Liguria.",
+    "source_lang": "Dutch",
+    "target_lang": "English",
+    "source_text": "Cinque Terre, oftewel Vijf Landen, bestaat uit vijf kustdorpjes met de namen Riomaggiore, Manarola, Corniglia, Vernazza en Monterosso en ligt in Liguri\u00eb, een Italiaanse streek."
+  },
+  {
+    "id": 167,
+    "prompt": "Translate this to English: UNESCO heeft ze opgenomen op de Werelderfgoedlijst.",
+    "reference": "They are listed on the UNESCO World Heritage List.",
+    "source_lang": "Dutch",
+    "target_lang": "English",
+    "source_text": "UNESCO heeft ze opgenomen op de Werelderfgoedlijst."
+  },
+  {
+    "id": 168,
+    "prompt": "Translate this to English: In de afgelopen eeuwen heeft men op zorgvuldige wijze terrassen gebouwd, van het ruige, steile landschap tot aan de kliffen die uitkijken op zee.",
+    "reference": "Over the centuries, people have carefully built terraces on the rugged, steep landscape right up to the cliffs that overlook the sea.",
+    "source_lang": "Dutch",
+    "target_lang": "English",
+    "source_text": "In de afgelopen eeuwen heeft men op zorgvuldige wijze terrassen gebouwd, van het ruige, steile landschap tot aan de kliffen die uitkijken op zee."
+  },
+  {
+    "id": 169,
+    "prompt": "Translate this to English: Een deel van de charme komt doordat er nauwelijks bedrijfsontwikkeling te zien is. Paden, treinen en boten worden gebruikt om de dorpen met elkaar te verbinden en auto's van buiten de dorpen hebben geen toegang.",
+    "reference": "Part of its charm is the lack of visible corporate development. Paths, trains and boats connect the villages, and cars cannot reach them from the outside.",
+    "source_lang": "Dutch",
+    "target_lang": "English",
+    "source_text": "Een deel van de charme komt doordat er nauwelijks bedrijfsontwikkeling te zien is. Paden, treinen en boten worden gebruikt om de dorpen met elkaar te verbinden en auto's van buiten de dorpen hebben geen toegang."
+  },
+  {
+    "id": 170,
+    "prompt": "Translate this to English: De verschillende vormen van het Frans die worden gesproken in Belgi\u00eb en Zwitserland verschillen iets van het Frans dat wordt gesproken in Frankrijk, hoewel ze toch genoeg op elkaar lijken om voor beide partijen verstaanbaar te zijn.",
+    "reference": "The varieties of French which are spoken in Belgium and Switzerland differ slightly from the French spoken in France, though they are similar enough to be mutually intelligible.",
+    "source_lang": "Dutch",
+    "target_lang": "English",
+    "source_text": "De verschillende vormen van het Frans die worden gesproken in Belgi\u00eb en Zwitserland verschillen iets van het Frans dat wordt gesproken in Frankrijk, hoewel ze toch genoeg op elkaar lijken om voor beide partijen verstaanbaar te zijn."
+  },
+  {
+    "id": 171,
+    "prompt": "Translate this to English: Vooral het nummeringssysteem in het Franstalige deel van Belgi\u00eb en Zwitserland bevat enkele bijzonderheden die verschillen van het Frans dat in Frankrijk wordt gebruikt en enkele woorden worden anders uitgesproken.",
+    "reference": "In particular, the numbering system in French-speaking Belgium and Switzerland has some slight peculiarities that are different from the French spoken in France, and the pronunciation of some words is slightly different.",
+    "source_lang": "Dutch",
+    "target_lang": "English",
+    "source_text": "Vooral het nummeringssysteem in het Franstalige deel van Belgi\u00eb en Zwitserland bevat enkele bijzonderheden die verschillen van het Frans dat in Frankrijk wordt gebruikt en enkele woorden worden anders uitgesproken."
+  },
+  {
+    "id": 172,
+    "prompt": "Translate this to English: Toch zouden alle Franstalige Belgen en Zwitsers het Standaardfrans op school hebben geleerd, zodat ze u zouden kunnen begrijpen, zelfs als u het Standaardfranse nummeringssysteem zou gebruiken.",
+    "reference": "Nevertheless, all French-speaking Belgians and Swiss would have learned standard French in school, so they would be able to understand you even if you used the standard French numbering system.",
+    "source_lang": "Dutch",
+    "target_lang": "English",
+    "source_text": "Toch zouden alle Franstalige Belgen en Zwitsers het Standaardfrans op school hebben geleerd, zodat ze u zouden kunnen begrijpen, zelfs als u het Standaardfranse nummeringssysteem zou gebruiken."
+  },
+  {
+    "id": 173,
+    "prompt": "Translate this to English: Op veel plekken in de wereld betekent zwaaien een vriendelijke groet.",
+    "reference": "In many parts of the world, waving is a friendly gesture, indicating \"hello.\"",
+    "source_lang": "Dutch",
+    "target_lang": "English",
+    "source_text": "Op veel plekken in de wereld betekent zwaaien een vriendelijke groet."
+  },
+  {
+    "id": 174,
+    "prompt": "Translate this to English: In Maleisi\u00eb, tenminste in de landelijke gebieden, betekent het echter 'kom langs', vergelijkbaar met een gebogen wijsvinger die naar het lichaam is gericht, een gebaar dat in bepaalde Westerse landen wordt gebruikt, en dient alleen op deze manier te worden gebruikt.",
+    "reference": "However, in Malaysia, at least among the Malays in rural areas, it means \"come over,\" similar to the index finger bent toward the body, a gesture which is used in certain Western countries, and should be used only for that purpose.",
+    "source_lang": "Dutch",
+    "target_lang": "English",
+    "source_text": "In Maleisi\u00eb, tenminste in de landelijke gebieden, betekent het echter 'kom langs', vergelijkbaar met een gebogen wijsvinger die naar het lichaam is gericht, een gebaar dat in bepaalde Westerse landen wordt gebruikt, en dient alleen op deze manier te worden gebruikt."
+  },
+  {
+    "id": 175,
+    "prompt": "Translate this to English: Een Britse reiziger in Spanje kan op vergelijkbare manier zwaaien om gedag te zeggen, waarbij de handpalm richting de zwaaier is gericht (in plaats van richting de persoon naar wie wordt gezwaaid), aanzien voor het gebaar om terug te komen.",
+    "reference": "Similarly, a British traveller in Spain may mistake a wave goodbye involving the palm facing the waver (rather than the person being waved at) as a gesture to come back.",
+    "source_lang": "Dutch",
+    "target_lang": "English",
+    "source_text": "Een Britse reiziger in Spanje kan op vergelijkbare manier zwaaien om gedag te zeggen, waarbij de handpalm richting de zwaaier is gericht (in plaats van richting de persoon naar wie wordt gezwaaid), aanzien voor het gebaar om terug te komen."
+  },
+  {
+    "id": 176,
+    "prompt": "Translate this to English: Ondersteunende talen zijn kunstmatige of samengestelde talen met als doel om de communicatie tussen mensen die anders moeite zouden hebben met communiceren te versoepelen.",
+    "reference": "Auxiliary languages are artificial or constructed languages created with the intent of facilitating communication between peoples who would otherwise have difficulty communicating.",
+    "source_lang": "Dutch",
+    "target_lang": "English",
+    "source_text": "Ondersteunende talen zijn kunstmatige of samengestelde talen met als doel om de communicatie tussen mensen die anders moeite zouden hebben met communiceren te versoepelen."
+  },
+  {
+    "id": 177,
+    "prompt": "Translate this to English: Ze verschillen van lingua francas. Lingua francas zijn talen die op natuurlijke of organische manier zijn ontstaan en om welke reden dan ook de dominante communicatievorm zijn geworden tussen mensen met andere moedertalen.",
+    "reference": "They are separate from lingua francas, which are natural or organic languages that become dominant for one reason or another as means of communication between speakers of other languages.",
+    "source_lang": "Dutch",
+    "target_lang": "English",
+    "source_text": "Ze verschillen van lingua francas. Lingua francas zijn talen die op natuurlijke of organische manier zijn ontstaan en om welke reden dan ook de dominante communicatievorm zijn geworden tussen mensen met andere moedertalen."
+  },
+  {
+    "id": 178,
+    "prompt": "Translate this to English: Op het heetste moment van de dag kunnen reizigers luchtspiegelingen gaan zien, waardoor ze denken water (of andere objecten) te zien.",
+    "reference": "In the heat of the day, travelers can experience mirages that give the illusion of water (or other things).",
+    "source_lang": "Dutch",
+    "target_lang": "English",
+    "source_text": "Op het heetste moment van de dag kunnen reizigers luchtspiegelingen gaan zien, waardoor ze denken water (of andere objecten) te zien."
+  },
+  {
+    "id": 179,
+    "prompt": "Translate this to English: Als de reiziger zich naar de luchtspiegeling toe beweegt, kan dit gevaarlijk zijn omdat kostbare energie en het overgebleven water wordt verbruikt.",
+    "reference": "These can be dangerous if the traveler pursue the mirage, wasting precious energy and remaining water.",
+    "source_lang": "Dutch",
+    "target_lang": "English",
+    "source_text": "Als de reiziger zich naar de luchtspiegeling toe beweegt, kan dit gevaarlijk zijn omdat kostbare energie en het overgebleven water wordt verbruikt."
+  },
+  {
+    "id": 180,
+    "prompt": "Translate this to English: Bij nacht kan het ook in erg hete woestijnen bijzonder koel worden. Het risico om onderkoeld te raken is aanzienlijk als je geen kleding draagt die je warm houdt.",
+    "reference": "Even the hottest of deserts can become extremely cold at night. Hypothermia is a real risk without warm clothing.",
+    "source_lang": "Dutch",
+    "target_lang": "English",
+    "source_text": "Bij nacht kan het ook in erg hete woestijnen bijzonder koel worden. Het risico om onderkoeld te raken is aanzienlijk als je geen kleding draagt die je warm houdt."
+  },
+  {
+    "id": 181,
+    "prompt": "Translate this to English: Wanneer je door het regenwoud gaat wandelen, moet je vooral in de zomer oppassen voor muggen.",
+    "reference": "In summer, especially, you'll need to watch out for mosquitoes if you decide to hike through the rainforest.",
+    "source_lang": "Dutch",
+    "target_lang": "English",
+    "source_text": "Wanneer je door het regenwoud gaat wandelen, moet je vooral in de zomer oppassen voor muggen."
+  },
+  {
+    "id": 182,
+    "prompt": "Translate this to English: Als je door het subtropisch regenwoud rijdt, hoef je de deuren maar een paar seconden open te houden terwijl je instapt en de muggen zitten al in je auto.",
+    "reference": "Even if you're driving through the subtropical rainforest, a few seconds with the doors open while you get inside the vehicle is enough time for mosquitoes to get in the vehicle with you.",
+    "source_lang": "Dutch",
+    "target_lang": "English",
+    "source_text": "Als je door het subtropisch regenwoud rijdt, hoef je de deuren maar een paar seconden open te houden terwijl je instapt en de muggen zitten al in je auto."
+  },
+  {
+    "id": 183,
+    "prompt": "Translate this to English: Zowel vogels al zoogdieren kunnen besmet raken met de vogelgriep.",
+    "reference": "Bird flu, or more formally avian influenza, can infect both birds and mammals.",
+    "source_lang": "Dutch",
+    "target_lang": "English",
+    "source_text": "Zowel vogels al zoogdieren kunnen besmet raken met de vogelgriep."
+  },
+  {
+    "id": 184,
+    "prompt": "Translate this to English: Er werden minder dan duizend gevallen bij mensen geconstateerd; in sommige gevallen was dit wel fataal.",
+    "reference": "Fewer than a thousand cases have ever been reported in humans, but some of them have been fatal.",
+    "source_lang": "Dutch",
+    "target_lang": "English",
+    "source_text": "Er werden minder dan duizend gevallen bij mensen geconstateerd; in sommige gevallen was dit wel fataal."
+  },
+  {
+    "id": 185,
+    "prompt": "Translate this to English: Mensen die met pluimvee werken, zijn het vaakst betrokken bij deze gevallen, maar vogelaars lopen ook risico.",
+    "reference": "Most have involved people who work with poultry, but there is also some risk to birdwatchers.",
+    "source_lang": "Dutch",
+    "target_lang": "English",
+    "source_text": "Mensen die met pluimvee werken, zijn het vaakst betrokken bij deze gevallen, maar vogelaars lopen ook risico."
+  },
+  {
+    "id": 186,
+    "prompt": "Translate this to English: Kenmerkend voor Noorwegen zijn steile fjorden en valleien die worden gevolgd door een nagenoeg egale hoogvlakte",
+    "reference": "Typical for Norway are steep fjords and valleys that suddenly give way to a high, more or less even plateau.",
+    "source_lang": "Dutch",
+    "target_lang": "English",
+    "source_text": "Kenmerkend voor Noorwegen zijn steile fjorden en valleien die worden gevolgd door een nagenoeg egale hoogvlakte"
+  },
+  {
+    "id": 187,
+    "prompt": "Translate this to English: Deze vlaktes heten ook wel 'vidde', oftewel een uitgestrekte ruimte zonder bomen of grenzen.",
+    "reference": "These plateaus are often referred to as \"vidde\" meaning a wide, open treeless space, a boundless expanse.",
+    "source_lang": "Dutch",
+    "target_lang": "English",
+    "source_text": "Deze vlaktes heten ook wel 'vidde', oftewel een uitgestrekte ruimte zonder bomen of grenzen."
+  },
+  {
+    "id": 188,
+    "prompt": "Translate this to English: In Rogaland en Agder worden ze over het algemeen 'hei' genoemd. Dit bekent dat het een boomloos heidegebied is dat is bedekt met heide.",
+    "reference": "In Rogaland and Agder they are usually called \"hei\" meaning a treeless moorland often covered in heather.",
+    "source_lang": "Dutch",
+    "target_lang": "English",
+    "source_text": "In Rogaland en Agder worden ze over het algemeen 'hei' genoemd. Dit bekent dat het een boomloos heidegebied is dat is bedekt met heide."
+  },
+  {
+    "id": 189,
+    "prompt": "Translate this to English: De gletsjers zijn niet stabiel, maar stromen omlaag van de berg. Dit zorgt voor scheuren en spleten die bedekt kunnen zijn door sneeuw.",
+    "reference": "The glaciers are not stable, but flow down the mountain. This will cause cracks, crevasses, which may be obscured by snow bridges.",
+    "source_lang": "Dutch",
+    "target_lang": "English",
+    "source_text": "De gletsjers zijn niet stabiel, maar stromen omlaag van de berg. Dit zorgt voor scheuren en spleten die bedekt kunnen zijn door sneeuw."
+  },
+  {
+    "id": 190,
+    "prompt": "Translate this to English: De wanden en plafonds van ijsgrotten kunnen instorten en kloven kunnen worden afgesloten.",
+    "reference": "The walls and roofs of ice caves can collapse and cracks can get closed.",
+    "source_lang": "Dutch",
+    "target_lang": "English",
+    "source_text": "De wanden en plafonds van ijsgrotten kunnen instorten en kloven kunnen worden afgesloten."
+  },
+  {
+    "id": 191,
+    "prompt": "Translate this to English: Aan de rand van de gletsjers breken grote ijsblokken los, die naar beneden vallen en over de rand kunnen ketsen of rollen.",
+    "reference": "At the edge of glaciers huge blocks break loose, fall down and perhaps jump or roll farther from the edge.",
+    "source_lang": "Dutch",
+    "target_lang": "English",
+    "source_text": "Aan de rand van de gletsjers breken grote ijsblokken los, die naar beneden vallen en over de rand kunnen ketsen of rollen."
+  },
+  {
+    "id": 192,
+    "prompt": "Translate this to English: Het toeristenseizoen voor de hill stations piekt meestal in de nazomer.",
+    "reference": "The tourist season for the hill stations generally peaks during the Indian summer.",
+    "source_lang": "Dutch",
+    "target_lang": "English",
+    "source_text": "Het toeristenseizoen voor de hill stations piekt meestal in de nazomer."
+  },
+  {
+    "id": 193,
+    "prompt": "Translate this to English: 'S Winters bezitten ze echter een andere, maar even charmante schoonheid. Veel bergstations krijgen een flinke laag sneeuw, zodat u er kunt ski\u00ebn en snowboarden.",
+    "reference": "However, they have a different kind of beauty and charm during winter, with many hill stations receiving healthy amounts of snow and offering activities such as skiing and snowboarding.",
+    "source_lang": "Dutch",
+    "target_lang": "English",
+    "source_text": "'S Winters bezitten ze echter een andere, maar even charmante schoonheid. Veel bergstations krijgen een flinke laag sneeuw, zodat u er kunt ski\u00ebn en snowboarden."
+  },
+  {
+    "id": 194,
+    "prompt": "Translate this to English: Slechts enkele luchtvaartmaatschappijen bieden nog steeds rouwtarieven aan, waardoor de kosten van lastminute begrafenisreizen iets lager uitvallen.",
+    "reference": "Only a few airlines still offer bereavement fares, which slightly discount the cost of last-minute funeral travel.",
+    "source_lang": "Dutch",
+    "target_lang": "English",
+    "source_text": "Slechts enkele luchtvaartmaatschappijen bieden nog steeds rouwtarieven aan, waardoor de kosten van lastminute begrafenisreizen iets lager uitvallen."
+  },
+  {
+    "id": 195,
+    "prompt": "Translate this to English: Deze zijn verkrijgbaar bij luchtvaartmaatschappijen zoals WestJet, Air Canada, Delta Air Lines en, voor een vlucht vanuit de VS of Canada, Lufthansa.",
+    "reference": "Airlines that offer these include Air Canada, Delta Air Lines, Lufthansa for flights originating from the U.S. or Canada, and WestJet.",
+    "source_lang": "Dutch",
+    "target_lang": "English",
+    "source_text": "Deze zijn verkrijgbaar bij luchtvaartmaatschappijen zoals WestJet, Air Canada, Delta Air Lines en, voor een vlucht vanuit de VS of Canada, Lufthansa."
+  },
+  {
+    "id": 196,
+    "prompt": "Translate this to English: In alle gevallen boek je telefonisch bij de luchtvaartmaatschappij.",
+    "reference": "In all cases, you must book by phone directly with the airline.",
+    "source_lang": "Dutch",
+    "target_lang": "English",
+    "source_text": "In alle gevallen boek je telefonisch bij de luchtvaartmaatschappij."
+  },
+  {
+    "id": 197,
+    "prompt": "Translate this to English: 'Inmiddels hebben we muizen van 4 maanden oud die geen diabetes hebben, maar dat eerder wel hebben,' voegde hij er nog aan toe.",
+    "reference": "\"We now have 4-month-old mice that are non-diabetic that used to be diabetic,\" he added.",
+    "source_lang": "Dutch",
+    "target_lang": "English",
+    "source_text": "'Inmiddels hebben we muizen van 4 maanden oud die geen diabetes hebben, maar dat eerder wel hebben,' voegde hij er nog aan toe."
+  },
+  {
+    "id": 198,
+    "prompt": "Translate this to English: Professor Ehud Ur in de geneeskunde aan Dalhousie University in Halifax, Nova Scotia, tevens voorzitter van de klinische en wetenschappelijke divisie van de Canadian Diabetes Association, herinnerde eraan dat ze nog maar net zijn begonnen met het onderzoek.",
+    "reference": "Dr. Ehud Ur, professor of medicine at Dalhousie University in Halifax, Nova Scotia and chair of the clinical and scientific division of the Canadian Diabetes Association cautioned that the research is still in its early days.",
+    "source_lang": "Dutch",
+    "target_lang": "English",
+    "source_text": "Professor Ehud Ur in de geneeskunde aan Dalhousie University in Halifax, Nova Scotia, tevens voorzitter van de klinische en wetenschappelijke divisie van de Canadian Diabetes Association, herinnerde eraan dat ze nog maar net zijn begonnen met het onderzoek."
+  },
+  {
+    "id": 199,
+    "prompt": "Translate this to English: Net als sommige andere deskundigen, is hij sceptisch over de vraag of zijn diabetes kan worden genezen, waarbij hij opmerkt dat deze bevindingen geen waarde hebben voor mensen die al type 1-diabetes hebben.",
+    "reference": "Like some other experts, he is skeptical about whether diabetes can be cured, noting that these findings have no relevance to people who already have Type 1 diabetes.",
+    "source_lang": "Dutch",
+    "target_lang": "English",
+    "source_text": "Net als sommige andere deskundigen, is hij sceptisch over de vraag of zijn diabetes kan worden genezen, waarbij hij opmerkt dat deze bevindingen geen waarde hebben voor mensen die al type 1-diabetes hebben."
+  }
+]

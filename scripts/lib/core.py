@@ -74,18 +74,25 @@ def make_suppression_hook(sae, features, strength):
     return hook
 
 
-def make_steering_hook(sae, feature_idx, coeff):
+def make_steering_hook(sae, features, coeff):
     """Norm-scaled steering (Google's approach from Gemma Scope 2 tutorial).
 
-    Adds coeff * ||residual|| * decoder_direction to the residual stream.
+    Adds coeff * ||residual|| * decoder_direction to the residual stream for each feature.
     The norm scaling is essential: without it, the perturbation is negligible because
     W_dec rows are ~unit norm while residual stream vectors have norm ~100-1000.
 
     KV-cache aware: during generate(), the first forward pass sees all prompt tokens
     (shape [1, seq_len, d]), subsequent passes see one new token (shape [1, 1, d]).
     We steer only the last token on prefill, and every token during cached generation.
+
+    Args:
+        features: single feature index (int) or list of feature indices
     """
-    dec_vec = sae.W_dec[feature_idx]
+    # Normalize to list
+    if isinstance(features, int):
+        features = [features]
+    # Sum decoder directions for all features
+    dec_vec = sum(sae.W_dec[fi] for fi in features)
     def hook(mod, inputs, outputs):
         output = outputs[0]
         v = dec_vec.to(output.device).to(output.dtype)

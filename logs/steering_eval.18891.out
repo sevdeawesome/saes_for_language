@@ -1,0 +1,19 @@
+repo root: /home/snfiel01/projects/saes_for_language
+============================================================
+Intervention Evaluation
+============================================================
+  intervention: ablate
+  language: French
+  strengths: [0.0, 1.0, 2.0, 3.0, 4.0, 5.0, 6.0]
+  eval_path: comprehension/french_200.json
+  n_samples: 50
+  keep_k: 1
+  max_new_tokens: 128
+  model_name: google/gemma-3-4b-it
+  sae_release: gemma-scope-2-4b-pt-res
+  sae_id: layer_29_width_65k_l0_medium
+  layer: 29
+  n_feature_sentences: 100
+============================================================
+
+Loading model + SAE...

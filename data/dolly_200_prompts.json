@@ -1,0 +1,1002 @@
+[
+  {
+    "id": 0,
+    "prompt": "Give me a list of the best high fantasy books or series that I should read",
+    "category": "brainstorming"
+  },
+  {
+    "id": 1,
+    "prompt": "Give me a list of summer activities for an 8-year-old.",
+    "category": "brainstorming"
+  },
+  {
+    "id": 2,
+    "prompt": "Write a description of your favorite place to visit in San Francisco and why you like it so much.",
+    "category": "creative_writing"
+  },
+  {
+    "id": 3,
+    "prompt": "If a straight line passes through the points (4,2) and (8,6) then where does it cross the x axis? Explain your answer.",
+    "category": "creative_writing"
+  },
+  {
+    "id": 4,
+    "prompt": "Why is WiFi such a popular way to implement a home network?",
+    "category": "general_qa"
+  },
+  {
+    "id": 5,
+    "prompt": "Give me a bulleted list of tech billionaires.",
+    "category": "brainstorming"
+  },
+  {
+    "id": 6,
+    "prompt": "Write a paragraph of a blog post describing the appeal of a weekend stay at Blue Ridge Parkway?",
+    "category": "creative_writing"
+  },
+  {
+    "id": 7,
+    "prompt": "How can I read and write data with Delta Lake?",
+    "category": "general_qa"
+  },
+  {
+    "id": 8,
+    "prompt": "Why should you workout in the morning if you work remotely ?",
+    "category": "general_qa"
+  },
+  {
+    "id": 9,
+    "prompt": "Give me some ideas of activities to do in Romania",
+    "category": "brainstorming"
+  },
+  {
+    "id": 10,
+    "prompt": "You are a product manager at an enterprise software company Y. Your CEO has asked you to write a report on how well the company supports X capabilities. Provide a template email to send to my CEO that includes a TLDR and a link to the report. Use \u201c<\u201d and \u201c>\u201d to denote placeholder text I need to customize.",
+    "category": "creative_writing"
+  },
+  {
+    "id": 11,
+    "prompt": "I want to develop OKRs for my team at work. What process should I use?",
+    "category": "general_qa"
+  },
+  {
+    "id": 12,
+    "prompt": "Who invented the telephone?",
+    "category": "open_qa"
+  },
+  {
+    "id": 13,
+    "prompt": "What are the top three cloud providers.",
+    "category": "brainstorming"
+  },
+  {
+    "id": 14,
+    "prompt": "What's the difference between a turnover and a turnover on downs in the sport of American Football?",
+    "category": "open_qa"
+  },
+  {
+    "id": 15,
+    "prompt": "What are the northern lights?",
+    "category": "open_qa"
+  },
+  {
+    "id": 16,
+    "prompt": "What are questions you can ask to get to know someone?",
+    "category": "open_qa"
+  },
+  {
+    "id": 17,
+    "prompt": "Do we live in a simulation? Argue both sides",
+    "category": "creative_writing"
+  },
+  {
+    "id": 18,
+    "prompt": "Why Bollywood is so famous",
+    "category": "brainstorming"
+  },
+  {
+    "id": 19,
+    "prompt": "Who are some of the most influential innovators of all time?",
+    "category": "brainstorming"
+  },
+  {
+    "id": 20,
+    "prompt": "How do you do a shuffle ball change tap move?",
+    "category": "creative_writing"
+  },
+  {
+    "id": 21,
+    "prompt": "Do the new shift rules in Major League Baseball make the game more exciting?",
+    "category": "creative_writing"
+  },
+  {
+    "id": 22,
+    "prompt": "What are the names of Daenerys Targaryen's three dragons?",
+    "category": "open_qa"
+  },
+  {
+    "id": 23,
+    "prompt": "Seven Wonders of the Underwater World",
+    "category": "brainstorming"
+  },
+  {
+    "id": 24,
+    "prompt": "What s epigenomics?",
+    "category": "open_qa"
+  },
+  {
+    "id": 25,
+    "prompt": "How can I lower my utility bills?",
+    "category": "brainstorming"
+  },
+  {
+    "id": 26,
+    "prompt": "Imagine a world where life expectancy is fixed and the same for everyone at birth, yet people can engage in life expectancy \"donation\" \u2013\u00a0meaning that someone can extend your life three years longer at the expense of theirs. Talk about a likely scenario in this world that involves voluntary donation.",
+    "category": "creative_writing"
+  },
+  {
+    "id": 27,
+    "prompt": "Who are the pianists that are considered masters in playing Bach's music?",
+    "category": "open_qa"
+  },
+  {
+    "id": 28,
+    "prompt": "What is the difference between it's and its?",
+    "category": "open_qa"
+  },
+  {
+    "id": 29,
+    "prompt": "Explain Business Intelligence",
+    "category": "general_qa"
+  },
+  {
+    "id": 30,
+    "prompt": "How can I choose a favorite professional basketball team?",
+    "category": "brainstorming"
+  },
+  {
+    "id": 31,
+    "prompt": "Describe a trip through the United States for a 14 day vacation in a rental car",
+    "category": "creative_writing"
+  },
+  {
+    "id": 32,
+    "prompt": "Give me a list of things that could be found on a desk",
+    "category": "brainstorming"
+  },
+  {
+    "id": 33,
+    "prompt": "Who is the company Roche",
+    "category": "open_qa"
+  },
+  {
+    "id": 34,
+    "prompt": "What are the 7 Wonders of the Solar System:",
+    "category": "brainstorming"
+  },
+  {
+    "id": 35,
+    "prompt": "How many total fingers do most humans have?",
+    "category": "open_qa"
+  },
+  {
+    "id": 36,
+    "prompt": "Name some of Sweden's most famous companies",
+    "category": "open_qa"
+  },
+  {
+    "id": 37,
+    "prompt": "give me a list of all the ways a person can hydrate",
+    "category": "brainstorming"
+  },
+  {
+    "id": 38,
+    "prompt": "Who are some students at Hogwarts in Ravenclaw house that were in the same year as Harry Potter?",
+    "category": "brainstorming"
+  },
+  {
+    "id": 39,
+    "prompt": "How long do hump back whales live?",
+    "category": "open_qa"
+  },
+  {
+    "id": 40,
+    "prompt": "Is 95 degrees Fahrenheit considered to be hot weather?",
+    "category": "open_qa"
+  },
+  {
+    "id": 41,
+    "prompt": "What birds can I find in San Francisco?",
+    "category": "general_qa"
+  },
+  {
+    "id": 42,
+    "prompt": "What is social media?",
+    "category": "open_qa"
+  },
+  {
+    "id": 43,
+    "prompt": "Why is summer in California so great?",
+    "category": "general_qa"
+  },
+  {
+    "id": 44,
+    "prompt": "What is retail banking?",
+    "category": "open_qa"
+  },
+  {
+    "id": 45,
+    "prompt": "Does Starlink perform well for working on the road?",
+    "category": "general_qa"
+  },
+  {
+    "id": 46,
+    "prompt": "What was the first credit card",
+    "category": "open_qa"
+  },
+  {
+    "id": 47,
+    "prompt": "What are some games you can play in the middle of nature and a bunch of people?",
+    "category": "brainstorming"
+  },
+  {
+    "id": 48,
+    "prompt": "Describe the perfect weekend trip to Boston, Massachusetts.",
+    "category": "creative_writing"
+  },
+  {
+    "id": 49,
+    "prompt": "Why Pouilly Fum\u00e9 wine going well with pesto spaghetti?",
+    "category": "general_qa"
+  },
+  {
+    "id": 50,
+    "prompt": "Write a paragraph on how cricket format has evolved over time",
+    "category": "creative_writing"
+  },
+  {
+    "id": 51,
+    "prompt": "How many people live in California?",
+    "category": "brainstorming"
+  },
+  {
+    "id": 52,
+    "prompt": "Write an argument for keeping public lands under federal control in the Intermountain West.",
+    "category": "creative_writing"
+  },
+  {
+    "id": 53,
+    "prompt": "Which field hockey team has won the Stanley Cup twice in a row?",
+    "category": "open_qa"
+  },
+  {
+    "id": 54,
+    "prompt": "Give me a list of Greek foods that are absolutely amazing",
+    "category": "brainstorming"
+  },
+  {
+    "id": 55,
+    "prompt": "Who is the most influential president in history?",
+    "category": "general_qa"
+  },
+  {
+    "id": 56,
+    "prompt": "Write an apology letter to my wife for eating the last of the Oreo cookies and drinking the last of the milk.",
+    "category": "creative_writing"
+  },
+  {
+    "id": 57,
+    "prompt": "What are some good Indian dishes?",
+    "category": "brainstorming"
+  },
+  {
+    "id": 58,
+    "prompt": "What is the sun made of?",
+    "category": "general_qa"
+  },
+  {
+    "id": 59,
+    "prompt": "List great neighborhoods to raise a family in East County San Diego",
+    "category": "brainstorming"
+  },
+  {
+    "id": 60,
+    "prompt": "What are interesting plot twists for a novel?",
+    "category": "brainstorming"
+  },
+  {
+    "id": 61,
+    "prompt": "Name the spyware used by Israel to hack Whatsapp?",
+    "category": "open_qa"
+  },
+  {
+    "id": 62,
+    "prompt": "What math classes are offered at high schools in the United States?",
+    "category": "open_qa"
+  },
+  {
+    "id": 63,
+    "prompt": "Give me a bulleted list of the the first five books in the bible new testament?",
+    "category": "brainstorming"
+  },
+  {
+    "id": 64,
+    "prompt": "Explain Anthropocene to 13-year-old kid",
+    "category": "creative_writing"
+  },
+  {
+    "id": 65,
+    "prompt": "Which country produces the most pineapples?",
+    "category": "open_qa"
+  },
+  {
+    "id": 66,
+    "prompt": "How can I do a figure skating salchow jump?",
+    "category": "general_qa"
+  },
+  {
+    "id": 67,
+    "prompt": "Should I visit Chicago?",
+    "category": "general_qa"
+  },
+  {
+    "id": 68,
+    "prompt": "Was Dracula a real person.",
+    "category": "general_qa"
+  },
+  {
+    "id": 69,
+    "prompt": "What is the best format for storing data in a lakehouse?",
+    "category": "general_qa"
+  },
+  {
+    "id": 70,
+    "prompt": "Please describe a fantasy animal",
+    "category": "creative_writing"
+  },
+  {
+    "id": 71,
+    "prompt": "Who won the Second World War?",
+    "category": "open_qa"
+  },
+  {
+    "id": 72,
+    "prompt": "When was the first episode of the TV show, The X-Files?",
+    "category": "open_qa"
+  },
+  {
+    "id": 73,
+    "prompt": "Give me the recipe for the traditional crepe",
+    "category": "brainstorming"
+  },
+  {
+    "id": 74,
+    "prompt": "Give me a list of common German car manufacturers",
+    "category": "brainstorming"
+  },
+  {
+    "id": 75,
+    "prompt": "Name four Ivy League schools.",
+    "category": "open_qa"
+  },
+  {
+    "id": 76,
+    "prompt": "Give me a list of the most realistic action movies ever seen",
+    "category": "brainstorming"
+  },
+  {
+    "id": 77,
+    "prompt": "What is SaaS?",
+    "category": "brainstorming"
+  },
+  {
+    "id": 78,
+    "prompt": "describe experience of child fighting with autism",
+    "category": "creative_writing"
+  },
+  {
+    "id": 79,
+    "prompt": "Can you offer tips for visiting Mexico City for fun?",
+    "category": "brainstorming"
+  },
+  {
+    "id": 80,
+    "prompt": "Write a friendly letter to my landlord, convincing them to let me get a cat. His name is George and my name is Steve. I live alone in Unit 2C and I work long hours. Include details regarding my rental contract that currently only permits dogs under 25 pounds and caged animals and requires pet deposit and rent. Give him examples as to why those animals are not ideal (include my dog allergy) and why a cat is better. Let him know I plan a robotic vacuum and mop to keep things clean. Tell him I've already found a potential pet at the local animal shelter, who is a two-year-old shelter cat who is housebroken and friendly. Remind him that Unit 2C does not have any carpeted floors and a tiled bathroom which is good for the future litter box. Convince him I'm open to a conversation to discuss further.",
+    "category": "creative_writing"
+  },
+  {
+    "id": 81,
+    "prompt": "where is India?",
+    "category": "general_qa"
+  },
+  {
+    "id": 82,
+    "prompt": "What is oxidation reduction potential?",
+    "category": "open_qa"
+  },
+  {
+    "id": 83,
+    "prompt": "What are some of the best TV shows on HBO?",
+    "category": "general_qa"
+  },
+  {
+    "id": 84,
+    "prompt": "Can I feed table food to dogs?",
+    "category": "general_qa"
+  },
+  {
+    "id": 85,
+    "prompt": "If a candidate running to be the President of the United States is indicted during his campaign, can he continue running for election?",
+    "category": "brainstorming"
+  },
+  {
+    "id": 86,
+    "prompt": "In which medium does sound travel faster and why",
+    "category": "general_qa"
+  },
+  {
+    "id": 87,
+    "prompt": "Tell me a terrifying fact about moray eels.",
+    "category": "general_qa"
+  },
+  {
+    "id": 88,
+    "prompt": "What is the difference between benefits and compensation?",
+    "category": "open_qa"
+  },
+  {
+    "id": 89,
+    "prompt": "What makes a good teacher?",
+    "category": "creative_writing"
+  },
+  {
+    "id": 90,
+    "prompt": "What is the best way to approach a new cat?",
+    "category": "general_qa"
+  },
+  {
+    "id": 91,
+    "prompt": "Why are cats better than dogs?",
+    "category": "general_qa"
+  },
+  {
+    "id": 92,
+    "prompt": "Make a list, using dot points, of the five foods I might find in the dairy section of a supermarket",
+    "category": "brainstorming"
+  },
+  {
+    "id": 93,
+    "prompt": "Write a story on humans on Mars.",
+    "category": "creative_writing"
+  },
+  {
+    "id": 94,
+    "prompt": "What's the appeal of a vacation rental on the Big Island of Hawaii?",
+    "category": "creative_writing"
+  },
+  {
+    "id": 95,
+    "prompt": "Can you suggest 5 benefits of Genetical modification technologies like CRISPR ?",
+    "category": "brainstorming"
+  },
+  {
+    "id": 96,
+    "prompt": "What are the best investments ideas?",
+    "category": "brainstorming"
+  },
+  {
+    "id": 97,
+    "prompt": "What is life like living underwater?",
+    "category": "creative_writing"
+  },
+  {
+    "id": 98,
+    "prompt": "During Passover, what are some distinctions of what is and is not Kosher?",
+    "category": "open_qa"
+  },
+  {
+    "id": 99,
+    "prompt": "Write a few sentences explaining the criteria you used to choose your favorite fast food restaurant.",
+    "category": "creative_writing"
+  },
+  {
+    "id": 100,
+    "prompt": "What is the Tau Circle Constant?",
+    "category": "general_qa"
+  },
+  {
+    "id": 101,
+    "prompt": "Write a short story about a person who gets fired from his job, but ends up having the best day of his life.",
+    "category": "creative_writing"
+  },
+  {
+    "id": 102,
+    "prompt": "How do I build my own computer?",
+    "category": "general_qa"
+  },
+  {
+    "id": 103,
+    "prompt": "When was the Tesla Factory in Fremont purchased by Tesla?",
+    "category": "open_qa"
+  },
+  {
+    "id": 104,
+    "prompt": "What is the best kind of shade tree for a backyard in growing region 6?",
+    "category": "general_qa"
+  },
+  {
+    "id": 105,
+    "prompt": "Why I want to visit Chicago",
+    "category": "creative_writing"
+  },
+  {
+    "id": 106,
+    "prompt": "How do sailplanes (gliders) stay aloft?",
+    "category": "open_qa"
+  },
+  {
+    "id": 107,
+    "prompt": "Can I PLEASE get a dog?",
+    "category": "creative_writing"
+  },
+  {
+    "id": 108,
+    "prompt": "Why do people like to ski?",
+    "category": "general_qa"
+  },
+  {
+    "id": 109,
+    "prompt": "Can you suggest 5 ways to use a Katana other than a weapon ?",
+    "category": "brainstorming"
+  },
+  {
+    "id": 110,
+    "prompt": "Write a friendly complaint to an airline service about a poor experience with multiple issues and ask for points.",
+    "category": "creative_writing"
+  },
+  {
+    "id": 111,
+    "prompt": "How to start a side hustle",
+    "category": "brainstorming"
+  },
+  {
+    "id": 112,
+    "prompt": "Please give me details about the French submarine Requin",
+    "category": "open_qa"
+  },
+  {
+    "id": 113,
+    "prompt": "Explain how sampling bias in Voice Of Customer research could adversely affect a marketing analysis of customers' post-purchase experience with a product.",
+    "category": "creative_writing"
+  },
+  {
+    "id": 114,
+    "prompt": "Is tomato a fruit or a vegetable ?",
+    "category": "general_qa"
+  },
+  {
+    "id": 115,
+    "prompt": "Why do you love travelling",
+    "category": "brainstorming"
+  },
+  {
+    "id": 116,
+    "prompt": "What did batteries get invented?",
+    "category": "open_qa"
+  },
+  {
+    "id": 117,
+    "prompt": "Write an analysis of the meaning of the green light in the Great Gatsby",
+    "category": "creative_writing"
+  },
+  {
+    "id": 118,
+    "prompt": "How is data engineering different from data science?",
+    "category": "general_qa"
+  },
+  {
+    "id": 119,
+    "prompt": "What are some of the most accessible jazz albums for someone new to jazz?",
+    "category": "brainstorming"
+  },
+  {
+    "id": 120,
+    "prompt": "What are some common types of winter squash for cooking?",
+    "category": "brainstorming"
+  },
+  {
+    "id": 121,
+    "prompt": "Which is the best soccer team of all time?",
+    "category": "open_qa"
+  },
+  {
+    "id": 122,
+    "prompt": "What is the difference between a guitar and a ukulele?",
+    "category": "open_qa"
+  },
+  {
+    "id": 123,
+    "prompt": "Tell me a number of ways that one could learn about data science",
+    "category": "brainstorming"
+  },
+  {
+    "id": 124,
+    "prompt": "Can dogs talk?",
+    "category": "general_qa"
+  },
+  {
+    "id": 125,
+    "prompt": "What is a triathlon?",
+    "category": "general_qa"
+  },
+  {
+    "id": 126,
+    "prompt": "Write a few paragraphs on the Smoky Mountains in the United States, and why it is a nice vacation spot.",
+    "category": "creative_writing"
+  },
+  {
+    "id": 127,
+    "prompt": "my health insurance covers preventative procedures like vaccines 100%. But I know some health care providers charge a \"visit fee\" in addition to the vaccine fee. What's the difference between getting a vaccine in a clinic and a pharmacy? Will getting a vaccine in a clinic (such as minute clinics) result in charges?",
+    "category": "general_qa"
+  },
+  {
+    "id": 128,
+    "prompt": "How is the order of the NFL draft determined?",
+    "category": "open_qa"
+  },
+  {
+    "id": 129,
+    "prompt": "What would Abraham Lincoln think of Big Data and Agile Development?",
+    "category": "creative_writing"
+  },
+  {
+    "id": 130,
+    "prompt": "What is the answer to life, the universe and everything?",
+    "category": "general_qa"
+  },
+  {
+    "id": 131,
+    "prompt": "What is a proof that there are two irrational numbers where raising one to the power of the other produces a rational number?",
+    "category": "creative_writing"
+  },
+  {
+    "id": 132,
+    "prompt": "What is sphingosine?",
+    "category": "open_qa"
+  },
+  {
+    "id": 133,
+    "prompt": "Plan for a three day road trip for May long weekend from Westfield, New Jersey",
+    "category": "creative_writing"
+  },
+  {
+    "id": 134,
+    "prompt": "How many episodes in season one of \"Game of Thrones\" did Brian Kirk direct?",
+    "category": "open_qa"
+  },
+  {
+    "id": 135,
+    "prompt": "How has Kyle Shanahan faired while coaching the San Francisco 49ers?",
+    "category": "general_qa"
+  },
+  {
+    "id": 136,
+    "prompt": "What would the fantasy city look like",
+    "category": "creative_writing"
+  },
+  {
+    "id": 137,
+    "prompt": "What is Free Cash Flow (FCF)?",
+    "category": "open_qa"
+  },
+  {
+    "id": 138,
+    "prompt": "Write a manifesto for the \"Be IRL\" movement. The movement advocates being present to your surroundings and fellow humans, vs being immersed in the virtual world created by our smartphones.",
+    "category": "creative_writing"
+  },
+  {
+    "id": 139,
+    "prompt": "What is a Limited company?",
+    "category": "open_qa"
+  },
+  {
+    "id": 140,
+    "prompt": "What is it like to live in a black hole?",
+    "category": "creative_writing"
+  },
+  {
+    "id": 141,
+    "prompt": "In autosports, what is the apex and racing line?",
+    "category": "general_qa"
+  },
+  {
+    "id": 142,
+    "prompt": "Plan a 10-15 day trip from bay area to Arizona, Las Vegas, San Diego, Los Angeles",
+    "category": "creative_writing"
+  },
+  {
+    "id": 143,
+    "prompt": "Which two U.S. states don\u2019t observe Daylight Saving Time?",
+    "category": "open_qa"
+  },
+  {
+    "id": 144,
+    "prompt": "What's the difference between the weather in California compared to New York",
+    "category": "open_qa"
+  },
+  {
+    "id": 145,
+    "prompt": "I'm going to give you a passage from Marty Essen's book \"Cool Creatures, Hot Planet: Exploring the Seven Continents\" and want you to answer the following question: Where are western Hermann's tortoises found?\n\nAfter spending the night at a large chain hotel, Deb and I traveled southeast with tortoises on our mind. Our plan for the day was to infiltrate the Massif des Maures area and search for one of France's most endangered reptiles-- the western Hermann's tortoise.  The first stop of our quest was Le Village de Tortues (the Tortoise Village), a tortoise rehabilitation center near the town of Gonfaron. Our mission was to befriend a staff member, learn as much as we could, and get detailed information on tracking down the wily Hermann's tortoise in the wild. When we couldn't find an English-speaking staff member, our mission was nearly thwarted. Only through quick thinking and improvisation were we able to acquire the vital background information we needed. Okay - we utilized the signs provided for British visitors. For many people, the word tortoise invokes thoughts of giant four-foot-long Galapagos tortoises. Western Hermann's tortoises, on the other hand, are small, reaching a maximum length of eight inches. While both reptiles make the IUCN Red List of Threatened Species, the Galapagos tortoise is listed as \"vulnerable\" and the western Hermann's is listed as \"endangered.\" In France, habitat destruction, egg pilfering, and fire are the primary factors for the tortoises decline.",
+    "category": "general_qa"
+  },
+  {
+    "id": 146,
+    "prompt": "Is it better to buy a used car compared to a new car?",
+    "category": "general_qa"
+  },
+  {
+    "id": 147,
+    "prompt": "Why is ice hockey a good sport for women?",
+    "category": "general_qa"
+  },
+  {
+    "id": 148,
+    "prompt": "Provide me with a some ideas on healthy activities I can do in nature.",
+    "category": "brainstorming"
+  },
+  {
+    "id": 149,
+    "prompt": "Why is pickleball so popular?",
+    "category": "general_qa"
+  },
+  {
+    "id": 150,
+    "prompt": "Write a short story about a little girl that saves her neighbors home from a bee infestation.",
+    "category": "creative_writing"
+  },
+  {
+    "id": 151,
+    "prompt": "What links Brazil, Uruguay, Mozambique and Angola",
+    "category": "open_qa"
+  },
+  {
+    "id": 152,
+    "prompt": "What are the words of House Marbrand?",
+    "category": "open_qa"
+  },
+  {
+    "id": 153,
+    "prompt": "What could be a clean, inexpensive and efficient way of transportation?",
+    "category": "general_qa"
+  },
+  {
+    "id": 154,
+    "prompt": "Write a story with a moral lesson at the end?",
+    "category": "creative_writing"
+  },
+  {
+    "id": 155,
+    "prompt": "Tell me all the different ways I could eat an orange.",
+    "category": "brainstorming"
+  },
+  {
+    "id": 156,
+    "prompt": "What is love?",
+    "category": "general_qa"
+  },
+  {
+    "id": 157,
+    "prompt": "Why do people like gardening?",
+    "category": "general_qa"
+  },
+  {
+    "id": 158,
+    "prompt": "What\u2019s the best way to cook scrambled eggs?",
+    "category": "general_qa"
+  },
+  {
+    "id": 159,
+    "prompt": "Which NFL teams have gone to the Super Bowl at least once but have never won a Super Bowl title?",
+    "category": "open_qa"
+  },
+  {
+    "id": 160,
+    "prompt": "Would my landlord allow me to have my dog living at the house?",
+    "category": "creative_writing"
+  },
+  {
+    "id": 161,
+    "prompt": "Give me a bulleted list of the Real Housewives series in chronological order.",
+    "category": "brainstorming"
+  },
+  {
+    "id": 162,
+    "prompt": "What is a Peloton Bike",
+    "category": "general_qa"
+  },
+  {
+    "id": 163,
+    "prompt": "Why might I want to stay at home on a Friday night?",
+    "category": "brainstorming"
+  },
+  {
+    "id": 164,
+    "prompt": "5 best Resume titles",
+    "category": "brainstorming"
+  },
+  {
+    "id": 165,
+    "prompt": "What is the best way to drink coffee?",
+    "category": "general_qa"
+  },
+  {
+    "id": 166,
+    "prompt": "write a scene between two actors discussing movie Inception",
+    "category": "creative_writing"
+  },
+  {
+    "id": 167,
+    "prompt": "Give me the top 5 things I should do to prepare for a holiday abroad",
+    "category": "brainstorming"
+  },
+  {
+    "id": 168,
+    "prompt": "What year was the Northwest School in Seattle founded?",
+    "category": "open_qa"
+  },
+  {
+    "id": 169,
+    "prompt": "When is India's independence day?",
+    "category": "open_qa"
+  },
+  {
+    "id": 170,
+    "prompt": "How do you improve your basketball handles?",
+    "category": "creative_writing"
+  },
+  {
+    "id": 171,
+    "prompt": "What are some of the most memorable sports moments since the era of live television began?",
+    "category": "open_qa"
+  },
+  {
+    "id": 172,
+    "prompt": "How do I write a promo packet?",
+    "category": "creative_writing"
+  },
+  {
+    "id": 173,
+    "prompt": "Where to visit in Brazil?",
+    "category": "open_qa"
+  },
+  {
+    "id": 174,
+    "prompt": "Who wrote Democracy in America?",
+    "category": "open_qa"
+  },
+  {
+    "id": 175,
+    "prompt": "Give me three spicy authentic Chinese food dishes",
+    "category": "brainstorming"
+  },
+  {
+    "id": 176,
+    "prompt": "What are the best day trips near San Francisco?",
+    "category": "creative_writing"
+  },
+  {
+    "id": 177,
+    "prompt": "Can you use logistic regression and linear regression methods interchangeably? If yes, in what scenarios?",
+    "category": "brainstorming"
+  },
+  {
+    "id": 178,
+    "prompt": "What's an unpopular opinion you have?",
+    "category": "general_qa"
+  },
+  {
+    "id": 179,
+    "prompt": "Imagine you are the last person alive. You're an astronaut and alone and in space aboard the ISS. Write down your feelings and what happened to get there, with a detailed backstory.",
+    "category": "creative_writing"
+  },
+  {
+    "id": 180,
+    "prompt": "How do I make a traditional Bolognese sauce?",
+    "category": "open_qa"
+  },
+  {
+    "id": 181,
+    "prompt": "What are the cutest animals on the planet?",
+    "category": "brainstorming"
+  },
+  {
+    "id": 182,
+    "prompt": "Why are cats better than dogs?",
+    "category": "open_qa"
+  },
+  {
+    "id": 183,
+    "prompt": "Give me a comma separated list of stone fruit I could buy at the market",
+    "category": "brainstorming"
+  },
+  {
+    "id": 184,
+    "prompt": "What 5-letter word spelt in all capital letters can be read the exact same upside down?",
+    "category": "brainstorming"
+  },
+  {
+    "id": 185,
+    "prompt": "What is CJIS?",
+    "category": "open_qa"
+  },
+  {
+    "id": 186,
+    "prompt": "Why do humans seek meaning in their lives?",
+    "category": "general_qa"
+  },
+  {
+    "id": 187,
+    "prompt": "Is voluntary childlessness rising? If yes, then what are the major drivers? What could be its impact?",
+    "category": "general_qa"
+  },
+  {
+    "id": 188,
+    "prompt": "Why do people drink coffee?",
+    "category": "general_qa"
+  },
+  {
+    "id": 189,
+    "prompt": "What are signs my partner is cheating?",
+    "category": "brainstorming"
+  },
+  {
+    "id": 190,
+    "prompt": "Tell a story with the following: A guy that lives in San Jose California, he is a data scientist, he is in his mid 40's and he is aspiring to build an LLM model that will change the world",
+    "category": "creative_writing"
+  },
+  {
+    "id": 191,
+    "prompt": "In football, if touchdowns is the main way to get points, why can't the quarterback always throw the ball to the end zone every time?",
+    "category": "creative_writing"
+  },
+  {
+    "id": 192,
+    "prompt": "What are some of the best places to eat in Boston?",
+    "category": "general_qa"
+  },
+  {
+    "id": 193,
+    "prompt": "Please give me a bulleted list of men's Roland Garros champions of the last 5 years.",
+    "category": "brainstorming"
+  },
+  {
+    "id": 194,
+    "prompt": "How long should a child's carseat remain rear facing?",
+    "category": "creative_writing"
+  },
+  {
+    "id": 195,
+    "prompt": "Best Airline in the world",
+    "category": "brainstorming"
+  },
+  {
+    "id": 196,
+    "prompt": "write a short essay fire fighters working on California wild fires",
+    "category": "creative_writing"
+  },
+  {
+    "id": 197,
+    "prompt": "What are modifiers in English?",
+    "category": "creative_writing"
+  },
+  {
+    "id": 198,
+    "prompt": "Write a diary entry for a dog that only likes one person that lives in the house on a day that their favorite person was gone all day.",
+    "category": "creative_writing"
+  },
+  {
+    "id": 199,
+    "prompt": "Why do huskies howl?",
+    "category": "general_qa"
+  }
+]

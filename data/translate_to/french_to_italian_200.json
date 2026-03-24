@@ -1,0 +1,1602 @@
+[
+  {
+    "id": 0,
+    "prompt": "Translate this to Italian: Lorsque les gens ne consid\u00e8rent pas les \u00e9lans comme potentiellement dangereux, ils peuvent s'approcher de trop pr\u00e8s et se mettre en p\u00e9ril.",
+    "reference": "Se le persone sottovalutano la potenziale pericolosit\u00e0 degli alci, potrebbero avvicinarsi troppo a loro e correre dei rischi.",
+    "source_lang": "French",
+    "target_lang": "Italian",
+    "source_text": "Lorsque les gens ne consid\u00e8rent pas les \u00e9lans comme potentiellement dangereux, ils peuvent s'approcher de trop pr\u00e8s et se mettre en p\u00e9ril."
+  },
+  {
+    "id": 1,
+    "prompt": "Translate this to Italian: Buvez des boissons alcoolis\u00e9es avec mod\u00e9ration. L'alcool a des effets diff\u00e9rents sur chacun, et il est tr\u00e8s important de conna\u00eetre ses limites.",
+    "reference": "Bevi alcol responsabilmente. Le bevande alcoliche hanno un effetto diverso su tutti, e conoscere il proprio limite \u00e8 molto importante.",
+    "source_lang": "French",
+    "target_lang": "Italian",
+    "source_text": "Buvez des boissons alcoolis\u00e9es avec mod\u00e9ration. L'alcool a des effets diff\u00e9rents sur chacun, et il est tr\u00e8s important de conna\u00eetre ses limites."
+  },
+  {
+    "id": 2,
+    "prompt": "Translate this to Italian: Parmi les probl\u00e8mes de sant\u00e9 possibles \u00e0 long terme dus \u00e0 l\u2019alcoolisme, on peut citer les d\u00e9g\u00e2ts sur le foie, mais aussi la c\u00e9cit\u00e9 et la mort. Le danger potentiel est accru en cas de consommation d\u2019alcool fabriqu\u00e9 ill\u00e9galement.",
+    "reference": "Possibili episodi sanitari a lungo termine legati all'abuso di alcol possono includere danno epatico ed ancora cecit\u00e0 o morte. Il pericolo potenziale aumenta con il consumo di alcol prodotto illegalmente.",
+    "source_lang": "French",
+    "target_lang": "Italian",
+    "source_text": "Parmi les probl\u00e8mes de sant\u00e9 possibles \u00e0 long terme dus \u00e0 l\u2019alcoolisme, on peut citer les d\u00e9g\u00e2ts sur le foie, mais aussi la c\u00e9cit\u00e9 et la mort. Le danger potentiel est accru en cas de consommation d\u2019alcool fabriqu\u00e9 ill\u00e9galement."
+  },
+  {
+    "id": 3,
+    "prompt": "Translate this to Italian: Les spiritueux illicites peuvent contenir diverses impuret\u00e9s dangereuses, y compris du m\u00e9thanol, qui peut causer la c\u00e9cit\u00e9 ou la mort, m\u00eame \u00e0 petites doses.",
+    "reference": "Negli alcolici illegali possono esserci vari tipi di impurit\u00e0 pericolose tra cui il metanolo, che, anche in piccole dosi, pu\u00f2 provocare cecit\u00e0 o morte.",
+    "source_lang": "French",
+    "target_lang": "Italian",
+    "source_text": "Les spiritueux illicites peuvent contenir diverses impuret\u00e9s dangereuses, y compris du m\u00e9thanol, qui peut causer la c\u00e9cit\u00e9 ou la mort, m\u00eame \u00e0 petites doses."
+  },
+  {
+    "id": 4,
+    "prompt": "Translate this to Italian: Les lunettes de vue peuvent co\u00fbter moins cher \u00e0 l\u2019\u00e9tranger, en particulier dans les pays \u00e0 faible revenu dans lesquels le co\u00fbt du travail est plus bas.",
+    "reference": "Gli occhiali da vista possono essere pi\u00f9 economici all'estero, soprattutto nei Paesi a basso reddito dove \u00e8 minore il costo della manodopera.",
+    "source_lang": "French",
+    "target_lang": "Italian",
+    "source_text": "Les lunettes de vue peuvent co\u00fbter moins cher \u00e0 l\u2019\u00e9tranger, en particulier dans les pays \u00e0 faible revenu dans lesquels le co\u00fbt du travail est plus bas."
+  },
+  {
+    "id": 5,
+    "prompt": "Translate this to Italian: Pensez \u00e0 vous faire examiner les yeux \u00e0 domicile, surtout si votre assurance le couvre, et \u00e0 ramener l'ordonnance qui sera ensuite d\u00e9pos\u00e9e ailleurs.",
+    "reference": "Prendete in considerazione la possibilit\u00e0 di fare un esame oculistico a casa, soprattutto se l'assicurazione lo copre, e di portare la prescrizione con voi per presentarla dove richiesto.",
+    "source_lang": "French",
+    "target_lang": "Italian",
+    "source_text": "Pensez \u00e0 vous faire examiner les yeux \u00e0 domicile, surtout si votre assurance le couvre, et \u00e0 ramener l'ordonnance qui sera ensuite d\u00e9pos\u00e9e ailleurs."
+  },
+  {
+    "id": 6,
+    "prompt": "Translate this to Italian: Les cadres de marque haut de gamme vendus dans de telles r\u00e9gions du monde peuvent pr\u00e9senter deux probl\u00e8mes : certains peuvent \u00eatre des contrefa\u00e7ons, et les cadres v\u00e9ritablement import\u00e9s peuvent \u00eatre plus chers que dans votre pays.",
+    "reference": "I telai di marche di lusso disponibili in queste aree possono presentare due tipi di problemi: alcuni possono essere delle imitazioni e quelli autentici importati possono essere pi\u00f9 costosi rispetto a quelli acquistati nel proprio Paese.",
+    "source_lang": "French",
+    "target_lang": "Italian",
+    "source_text": "Les cadres de marque haut de gamme vendus dans de telles r\u00e9gions du monde peuvent pr\u00e9senter deux probl\u00e8mes : certains peuvent \u00eatre des contrefa\u00e7ons, et les cadres v\u00e9ritablement import\u00e9s peuvent \u00eatre plus chers que dans votre pays."
+  },
+  {
+    "id": 7,
+    "prompt": "Translate this to Italian: Le caf\u00e9 est l\u2019une des marchandises les plus vendues au monde, et vous pouvez probablement en trouver de nombreux types dans votre r\u00e9gion d\u2019origine.",
+    "reference": "Il caff\u00e8 \u00e8 una delle merci pi\u00f9 scambiate al mondo ed \u00e8 probabile che riusciate a trovarne vari tipi nella vostra regione d'origine.",
+    "source_lang": "French",
+    "target_lang": "Italian",
+    "source_text": "Le caf\u00e9 est l\u2019une des marchandises les plus vendues au monde, et vous pouvez probablement en trouver de nombreux types dans votre r\u00e9gion d\u2019origine."
+  },
+  {
+    "id": 8,
+    "prompt": "Translate this to Italian: N\u00e9anmoins, il existe de nombreuses fa\u00e7ons de boire le caf\u00e9 dans le monde entier qui valent la peine d'\u00eatre exp\u00e9riment\u00e9es.",
+    "reference": "Tuttavia, nel mondo esistono molti modi caratteristici di bere il caff\u00e8, che vale la pena provare.",
+    "source_lang": "French",
+    "target_lang": "Italian",
+    "source_text": "N\u00e9anmoins, il existe de nombreuses fa\u00e7ons de boire le caf\u00e9 dans le monde entier qui valent la peine d'\u00eatre exp\u00e9riment\u00e9es."
+  },
+  {
+    "id": 9,
+    "prompt": "Translate this to Italian: Le canyoning (ou canyonisme) consiste \u00e0 se rendre en bas d\u2019un canyon, qui est soit sec, soit plein d\u2019eau.",
+    "reference": "Il canyoning (o canyoneering) consiste nella discesa verso il fondo di una gola, che pu\u00f2 essere asciutta o piena d'acqua.",
+    "source_lang": "French",
+    "target_lang": "Italian",
+    "source_text": "Le canyoning (ou canyonisme) consiste \u00e0 se rendre en bas d\u2019un canyon, qui est soit sec, soit plein d\u2019eau."
+  },
+  {
+    "id": 10,
+    "prompt": "Translate this to Italian: Le canyoning combine des \u00e9l\u00e9ments de natation, d'escalade et de saut, mais n\u00e9cessite relativement peu d'entra\u00eenement ou de forme physique pour d\u00e9buter, par rapport \u00e0, par exemple,  l'escalade, la plong\u00e9e sous-marine ou le ski alpin.",
+    "reference": "Il torrentismo unisce elementi del nuoto, dell'arrampicata e del salto; tuttavia per iniziare serve relativamente poco allenamento e forma fisica (oonfronto all'allenamento e forma fisica richiesti, ad esempio, per l'arrampicata su roccia, per le immersioni subacquee o per lo sci alpino).",
+    "source_lang": "French",
+    "target_lang": "Italian",
+    "source_text": "Le canyoning combine des \u00e9l\u00e9ments de natation, d'escalade et de saut, mais n\u00e9cessite relativement peu d'entra\u00eenement ou de forme physique pour d\u00e9buter, par rapport \u00e0, par exemple,  l'escalade, la plong\u00e9e sous-marine ou le ski alpin."
+  },
+  {
+    "id": 11,
+    "prompt": "Translate this to Italian: La randonn\u00e9e est une activit\u00e9 de plein air qui consiste \u00e0 marcher dans des environnements naturels, souvent sur des sentiers de randonn\u00e9e.",
+    "reference": "L'escursionismo \u00e8 un'attivit\u00e0 che si svolge all'aria aperta e prevede camminate in ambienti naturali, spesso su percorsi appositi per escursionismo.",
+    "source_lang": "French",
+    "target_lang": "Italian",
+    "source_text": "La randonn\u00e9e est une activit\u00e9 de plein air qui consiste \u00e0 marcher dans des environnements naturels, souvent sur des sentiers de randonn\u00e9e."
+  },
+  {
+    "id": 12,
+    "prompt": "Translate this to Italian: Une randonn\u00e9e d'une journ\u00e9e implique des distances de moins d'un mile jusqu'\u00e0 des distances plus longues pouvant \u00eatre parcourues en un seul jour.",
+    "reference": "Le escursioni di un giorno prevedono distanze che vanno da meno di un miglio fino a distanze pi\u00f9 lunghe che possono comunque essere percorse in un solo giorno.",
+    "source_lang": "French",
+    "target_lang": "Italian",
+    "source_text": "Une randonn\u00e9e d'une journ\u00e9e implique des distances de moins d'un mile jusqu'\u00e0 des distances plus longues pouvant \u00eatre parcourues en un seul jour."
+  },
+  {
+    "id": 13,
+    "prompt": "Translate this to Italian: Pour une randonn\u00e9e d'une journ\u00e9e sur un sentier peu difficile, il suffit de quelques pr\u00e9paratifs et toute personne relativement en bonne sant\u00e9 peut en profiter.",
+    "reference": "Le escursioni di un giorno su un sentiero facile richiedono poca preparazione e qualsiasi persona moderatamente in forma pu\u00f2 godersele.",
+    "source_lang": "French",
+    "target_lang": "Italian",
+    "source_text": "Pour une randonn\u00e9e d'une journ\u00e9e sur un sentier peu difficile, il suffit de quelques pr\u00e9paratifs et toute personne relativement en bonne sant\u00e9 peut en profiter."
+  },
+  {
+    "id": 14,
+    "prompt": "Translate this to Italian: Les familles ayant de jeunes enfants peuvent avoir besoin de plus de pr\u00e9paration, mais il est possible de passer une journ\u00e9e en plein air, m\u00eame avec des b\u00e9b\u00e9s et des enfants d\u2019\u00e2ge pr\u00e9scolaire.",
+    "reference": "Una giornata all'aria aperta \u00e8 possibile anche per chi ha neonati e bambini in et\u00e0 prescolare, anche se le famiglie con bambini piccoli potrebbero richiedere preparativi maggiori.",
+    "source_lang": "French",
+    "target_lang": "Italian",
+    "source_text": "Les familles ayant de jeunes enfants peuvent avoir besoin de plus de pr\u00e9paration, mais il est possible de passer une journ\u00e9e en plein air, m\u00eame avec des b\u00e9b\u00e9s et des enfants d\u2019\u00e2ge pr\u00e9scolaire."
+  },
+  {
+    "id": 15,
+    "prompt": "Translate this to Italian: Sur le plan international, il existe pr\u00e8s de 200\u00a0organisations de visite en course \u00e0 pied. La plupart d\u2019entre elles fonctionnent ind\u00e9pendamment.",
+    "reference": "Esistono all'incirca 200 organizzazioni di running tour in tutto il mondo. Gran parte di queste opera in modo indipendente.",
+    "source_lang": "French",
+    "target_lang": "Italian",
+    "source_text": "Sur le plan international, il existe pr\u00e8s de 200\u00a0organisations de visite en course \u00e0 pied. La plupart d\u2019entre elles fonctionnent ind\u00e9pendamment."
+  },
+  {
+    "id": 16,
+    "prompt": "Translate this to Italian: Le successeur de Global Running Tours, Go Running Tours, met en r\u00e9seau des dizaines de prestataires de services de jogging touristique sur quatre continents.",
+    "reference": "Go Running Tours, successore di Global Running Tours, crea reti di decine di fornitori di sightrunning sparsi in quattro continenti.",
+    "source_lang": "French",
+    "target_lang": "Italian",
+    "source_text": "Le successeur de Global Running Tours, Go Running Tours, met en r\u00e9seau des dizaines de prestataires de services de jogging touristique sur quatre continents."
+  },
+  {
+    "id": 17,
+    "prompt": "Translate this to Italian: Ayant ses racines dans le Running Tours Barcelona de Barcelone et le Running Copenhagen de Copenhague, elle a rapidement \u00e9t\u00e9 rejointe par le Running Tours Prague bas\u00e9 \u00e0 Prague et d'autres.",
+    "reference": "Con radici nel Running Tours Barcelona e nel Running Copenhagen, rapidamente si sono aggiunti Running Tours Prague e altri.",
+    "source_lang": "French",
+    "target_lang": "Italian",
+    "source_text": "Ayant ses racines dans le Running Tours Barcelona de Barcelone et le Running Copenhagen de Copenhague, elle a rapidement \u00e9t\u00e9 rejointe par le Running Tours Prague bas\u00e9 \u00e0 Prague et d'autres."
+  },
+  {
+    "id": 18,
+    "prompt": "Translate this to Italian: Il y a de nombreuses choses \u00e0 prendre en consid\u00e9ration avant et pendant que vous voyagez.",
+    "reference": "Quando si decide di intraprendere un viaggio, \u00e8 necessario prendere in considerazione vari aspetti, sia prima della partenza, che in itinere.",
+    "source_lang": "French",
+    "target_lang": "Italian",
+    "source_text": "Il y a de nombreuses choses \u00e0 prendre en consid\u00e9ration avant et pendant que vous voyagez."
+  },
+  {
+    "id": 19,
+    "prompt": "Translate this to Italian: Lorsque vous voyagez, attendez-vous \u00e0 ce que les choses ne soient pas comme \u00ab\u2009chez vous\u2009\u00bb. Les mani\u00e8res, les lois, la nourriture, la circulation, le logement, les normes, la langue, etc. diff\u00e8rent dans une certaine mesure de l\u2019endroit o\u00f9 vous vivez.",
+    "reference": "Quando si viaggia bisogna essere consapevoli del fatto che le cose non sono come a casa propria. I comportamenti, le leggi, il cibo, il traffico, gli alloggi, le norme, la lingua e cos\u00ec via saranno in parte diversi rispetto a quelli del luogo dove si vive.",
+    "source_lang": "French",
+    "target_lang": "Italian",
+    "source_text": "Lorsque vous voyagez, attendez-vous \u00e0 ce que les choses ne soient pas comme \u00ab\u2009chez vous\u2009\u00bb. Les mani\u00e8res, les lois, la nourriture, la circulation, le logement, les normes, la langue, etc. diff\u00e8rent dans une certaine mesure de l\u2019endroit o\u00f9 vous vivez."
+  },
+  {
+    "id": 20,
+    "prompt": "Translate this to Italian: C'est quelque chose que vous devez toujours garder \u00e0 l'esprit pour \u00e9viter toute d\u00e9ception ou peut-\u00eatre m\u00eame toute aversion \u00e0 l'\u00e9gard des comportements locaux.",
+    "reference": "Questo \u00e8 un aspetto da tenere sempre a mente per evitare delusioni o persino avversione per le abitudini del luogo.",
+    "source_lang": "French",
+    "target_lang": "Italian",
+    "source_text": "C'est quelque chose que vous devez toujours garder \u00e0 l'esprit pour \u00e9viter toute d\u00e9ception ou peut-\u00eatre m\u00eame toute aversion \u00e0 l'\u00e9gard des comportements locaux."
+  },
+  {
+    "id": 21,
+    "prompt": "Translate this to Italian: Les agences de voyage existent depuis le XIXe si\u00e8cle. Un voyagiste est g\u00e9n\u00e9ralement une bonne option pour un p\u00e9riple qui d\u00e9passe le cadre des exp\u00e9riences pr\u00e9c\u00e9dentes du voyageur en mati\u00e8re de nature, culture, langue, ou pays \u00e0 faible revenu.",
+    "reference": "La comparsa delle agenzie turistiche risale al XIX secolo. Un agente di viaggio rappresenta solitamente una valida alternativa per un viaggio che trascende una precedente esperienza del viaggiatore nella natura, nella cultura, nella lingua o nei Paesi a basso reddito.",
+    "source_lang": "French",
+    "target_lang": "Italian",
+    "source_text": "Les agences de voyage existent depuis le XIXe si\u00e8cle. Un voyagiste est g\u00e9n\u00e9ralement une bonne option pour un p\u00e9riple qui d\u00e9passe le cadre des exp\u00e9riences pr\u00e9c\u00e9dentes du voyageur en mati\u00e8re de nature, culture, langue, ou pays \u00e0 faible revenu."
+  },
+  {
+    "id": 22,
+    "prompt": "Translate this to Italian: Bien que la plupart des agences soient dispos\u00e9es \u00e0 prendre en charge la plupart des r\u00e9servations r\u00e9guli\u00e8res, de nombreux agents sont sp\u00e9cialis\u00e9s dans des types de voyages, des gammes de prix ou des destinations plus sp\u00e9cifiques.",
+    "reference": "Anche se gran parte delle agenzie accetta soprattutto le normali prenotazioni, molte di queste sono specializzate in particolari tipi di viaggio, fasce di prezzo o destinazioni.",
+    "source_lang": "French",
+    "target_lang": "Italian",
+    "source_text": "Bien que la plupart des agences soient dispos\u00e9es \u00e0 prendre en charge la plupart des r\u00e9servations r\u00e9guli\u00e8res, de nombreux agents sont sp\u00e9cialis\u00e9s dans des types de voyages, des gammes de prix ou des destinations plus sp\u00e9cifiques."
+  },
+  {
+    "id": 23,
+    "prompt": "Translate this to Italian: Il peut \u00eatre pr\u00e9f\u00e9rable de faire appel \u00e0 un agent qui r\u00e9serve fr\u00e9quemment des voyages similaires au v\u00f4tre.",
+    "reference": "Rivolgersi a un agente che prenota spesso viaggi simili pu\u00f2 rivelarsi la scelta migliore.",
+    "source_lang": "French",
+    "target_lang": "Italian",
+    "source_text": "Il peut \u00eatre pr\u00e9f\u00e9rable de faire appel \u00e0 un agent qui r\u00e9serve fr\u00e9quemment des voyages similaires au v\u00f4tre."
+  },
+  {
+    "id": 24,
+    "prompt": "Translate this to Italian: Jetez un coup d\u2019\u0153il aux voyages dont l\u2019agent fait la promotion, que ce soit sur un site internet ou en vitrine.",
+    "reference": "Date un'occhiata ai viaggi che promuove l'agente, sia sul sito web che in vetrina.",
+    "source_lang": "French",
+    "target_lang": "Italian",
+    "source_text": "Jetez un coup d\u2019\u0153il aux voyages dont l\u2019agent fait la promotion, que ce soit sur un site internet ou en vitrine."
+  },
+  {
+    "id": 25,
+    "prompt": "Translate this to Italian: Si vous voulez voir le monde \u00e0 bas prix, par n\u00e9cessit\u00e9, mode de vie ou d\u00e9fi, il existe quelques moyens de le faire.",
+    "reference": "Se desideri visitare il mondo spendendo poco, per necessit\u00e0, stile di vita o sfida, esistono diversi modi per farlo.",
+    "source_lang": "French",
+    "target_lang": "Italian",
+    "source_text": "Si vous voulez voir le monde \u00e0 bas prix, par n\u00e9cessit\u00e9, mode de vie ou d\u00e9fi, il existe quelques moyens de le faire."
+  },
+  {
+    "id": 26,
+    "prompt": "Translate this to Italian: En gros, on peut les classer en deux cat\u00e9gories\u00a0: soit vous travaillez pendant votre voyage, soit vous essayez de limiter vos d\u00e9penses. Le pr\u00e9sent article porte essentiellement sur cette derni\u00e8re cat\u00e9gorie.",
+    "reference": "Fondamentalmente, ricadono in due categorie: lavorare mentre si viaggia, oppure cercare di limitare le spese. In questo articolo ci occupiamo della seconda.",
+    "source_lang": "French",
+    "target_lang": "Italian",
+    "source_text": "En gros, on peut les classer en deux cat\u00e9gories\u00a0: soit vous travaillez pendant votre voyage, soit vous essayez de limiter vos d\u00e9penses. Le pr\u00e9sent article porte essentiellement sur cette derni\u00e8re cat\u00e9gorie."
+  },
+  {
+    "id": 27,
+    "prompt": "Translate this to Italian: Pour ceux qui sont pr\u00eats \u00e0 sacrifier le confort, le temps et la pr\u00e9visibilit\u00e9 pour r\u00e9duire les d\u00e9penses \u00e0 pr\u00e8s de z\u00e9ro, consultez le voyage \u00e0 budget minimum.",
+    "reference": "Per chi \u00e8 disposto a sacrificare comodit\u00e0, tempo e prevedibilit\u00e0 in modo da ridurre le spese il pi\u00f9 possibile, consultare la voce sui viaggi al minimo del budget.",
+    "source_lang": "French",
+    "target_lang": "Italian",
+    "source_text": "Pour ceux qui sont pr\u00eats \u00e0 sacrifier le confort, le temps et la pr\u00e9visibilit\u00e9 pour r\u00e9duire les d\u00e9penses \u00e0 pr\u00e8s de z\u00e9ro, consultez le voyage \u00e0 budget minimum."
+  },
+  {
+    "id": 28,
+    "prompt": "Translate this to Italian: Ces conseils partent du principe que les voyageurs ne volent pas, ne s\u2019introduisent pas dans un lieu public, ne participent pas au march\u00e9 ill\u00e9gal, ne mendient pas ou n\u2019exploitent pas d\u2019autres personnes \u00e0 leur profit.",
+    "reference": "Il consiglio si basa sul presupposto che i viaggiatori non rubino, non violino la propriet\u00e0 privata, non partecipino al mercato illegale, non chiedano l'elemosina o diversamente non sfruttino altre persone a proprio vantaggio.",
+    "source_lang": "French",
+    "target_lang": "Italian",
+    "source_text": "Ces conseils partent du principe que les voyageurs ne volent pas, ne s\u2019introduisent pas dans un lieu public, ne participent pas au march\u00e9 ill\u00e9gal, ne mendient pas ou n\u2019exploitent pas d\u2019autres personnes \u00e0 leur profit."
+  },
+  {
+    "id": 29,
+    "prompt": "Translate this to Italian: Un point de contr\u00f4le d'immigration est habituellement la premi\u00e8re \u00e9tape lorsque vous d\u00e9barquez d'un avion, d'un bateau ou d'un autre v\u00e9hicule.",
+    "reference": "Il punto di controllo dell'immigrazione di solito \u00e8 la prima tappa dopo lo sbarco da un aereo, da una nave o da un altro mezzo di trasporto.",
+    "source_lang": "French",
+    "target_lang": "Italian",
+    "source_text": "Un point de contr\u00f4le d'immigration est habituellement la premi\u00e8re \u00e9tape lorsque vous d\u00e9barquez d'un avion, d'un bateau ou d'un autre v\u00e9hicule."
+  },
+  {
+    "id": 30,
+    "prompt": "Translate this to Italian: Dans certains trains transfrontaliers, les inspections sont men\u00e9es dans le train en marche et vous devez avoir une pi\u00e8ce d'identit\u00e9 valide sur vous lorsque vous voyagez dans l'un de ces trains.",
+    "reference": "Su alcuni treni transfrontalieri i controlli avvengono durante la corsa, per cui \u00e8 necessario portare sempre con s\u00e9 un documento d'identit\u00e0 valido quando si sale a bordo di treni di questo tipo.",
+    "source_lang": "French",
+    "target_lang": "Italian",
+    "source_text": "Dans certains trains transfrontaliers, les inspections sont men\u00e9es dans le train en marche et vous devez avoir une pi\u00e8ce d'identit\u00e9 valide sur vous lorsque vous voyagez dans l'un de ces trains."
+  },
+  {
+    "id": 31,
+    "prompt": "Translate this to Italian: Dans les trains-couchettes qui roulent de nuit, les passeports peuvent \u00eatre collect\u00e9s par le chef de train afin de ne pas interrompre votre sommeil.",
+    "reference": "Alle volte, sui treni notturni, \u00e8 il conducente a ritirare i passaporti per evitare di interrompere il sonno dei passeggeri.",
+    "source_lang": "French",
+    "target_lang": "Italian",
+    "source_text": "Dans les trains-couchettes qui roulent de nuit, les passeports peuvent \u00eatre collect\u00e9s par le chef de train afin de ne pas interrompre votre sommeil."
+  },
+  {
+    "id": 32,
+    "prompt": "Translate this to Italian: L\u2019enregistrement est une exigence suppl\u00e9mentaire pour la proc\u00e9dure de visa. Dans certains pays, vous devez vous faire enregistrer et indiquer l\u2019adresse de votre lieu de s\u00e9jour aupr\u00e8s des autorit\u00e9s locales.",
+    "reference": "La registrazione \u00e8 un ulteriore requisito per il processo di rilascio del visto. In alcuni paesi \u00e8 necessario indicare la propria residenza e il proprio indirizzo presso le autorit\u00e0 locali.",
+    "source_lang": "French",
+    "target_lang": "Italian",
+    "source_text": "L\u2019enregistrement est une exigence suppl\u00e9mentaire pour la proc\u00e9dure de visa. Dans certains pays, vous devez vous faire enregistrer et indiquer l\u2019adresse de votre lieu de s\u00e9jour aupr\u00e8s des autorit\u00e9s locales."
+  },
+  {
+    "id": 33,
+    "prompt": "Translate this to Italian: Cela peut n\u00e9cessiter de remplir un formulaire aupr\u00e8s de la police locale ou une visite aux bureaux de l'immigration.",
+    "reference": "Per farlo, potrebbe essere necessario compilare un modulo presso la polizia locale o recarsi all'ufficio immigrazione.",
+    "source_lang": "French",
+    "target_lang": "Italian",
+    "source_text": "Cela peut n\u00e9cessiter de remplir un formulaire aupr\u00e8s de la police locale ou une visite aux bureaux de l'immigration."
+  },
+  {
+    "id": 34,
+    "prompt": "Translate this to Italian: Dans beaucoup de pays disposant d'une telle loi, les h\u00f4tels locaux s'occuperont eux-m\u00eames de l'enregistrement (n'oubliez pas de demander).",
+    "reference": "In molti Paesi dove \u00e8 in vigore questo tipo di legge, gli hotel locali gestiranno la registrazione (chiedere per maggiore sicurezza).",
+    "source_lang": "French",
+    "target_lang": "Italian",
+    "source_text": "Dans beaucoup de pays disposant d'une telle loi, les h\u00f4tels locaux s'occuperont eux-m\u00eames de l'enregistrement (n'oubliez pas de demander)."
+  },
+  {
+    "id": 35,
+    "prompt": "Translate this to Italian: Dans d'autres cas, seules les personnes r\u00e9sidant hors h\u00e9bergements touristiques doivent s'enregistrer. Toutefois, la loi est beaucoup plus obscure, donc il conviendra de se renseigner au pr\u00e9alable.",
+    "reference": "In altri casi, la registrazione \u00e8 richiesta solo a chi soggiorna al di fuori delle strutture ricettive. Questo, tuttavia, rende la legge meno chiara, quindi \u00e8 consigliabile informarsi anticipatamente.",
+    "source_lang": "French",
+    "target_lang": "Italian",
+    "source_text": "Dans d'autres cas, seules les personnes r\u00e9sidant hors h\u00e9bergements touristiques doivent s'enregistrer. Toutefois, la loi est beaucoup plus obscure, donc il conviendra de se renseigner au pr\u00e9alable."
+  },
+  {
+    "id": 36,
+    "prompt": "Translate this to Italian: L'architecture se rapporte \u00e0 la conception et \u00e0 la construction des b\u00e2timents. L'architecture d'un site est souvent une attraction touristique \u00e0 part enti\u00e8re.",
+    "reference": "L'architettura ha a che fare con la progettazione e la costruzione di edifici. Gli elementi architettonici di un luogo sono spesso un'attrazione turistica a pieno titolo.",
+    "source_lang": "French",
+    "target_lang": "Italian",
+    "source_text": "L'architecture se rapporte \u00e0 la conception et \u00e0 la construction des b\u00e2timents. L'architecture d'un site est souvent une attraction touristique \u00e0 part enti\u00e8re."
+  },
+  {
+    "id": 37,
+    "prompt": "Translate this to Italian: De nombreux b\u00e2timents sont plut\u00f4t agr\u00e9ables \u00e0 regarder, et la vue qu'offrent les grands b\u00e2timents ou des fen\u00eatres savamment plac\u00e9es peut \u00eatre d'une beaut\u00e9 saisissante.",
+    "reference": "Molti palazzi sono piuttosto belli da vedere e il panorama da un edificio alto o da una finestra abilmente posizionata pu\u00f2 essere un piacere per gli occhi.",
+    "source_lang": "French",
+    "target_lang": "Italian",
+    "source_text": "De nombreux b\u00e2timents sont plut\u00f4t agr\u00e9ables \u00e0 regarder, et la vue qu'offrent les grands b\u00e2timents ou des fen\u00eatres savamment plac\u00e9es peut \u00eatre d'une beaut\u00e9 saisissante."
+  },
+  {
+    "id": 38,
+    "prompt": "Translate this to Italian: L\u2019architecture recoupe consid\u00e9rablement d\u2019autres domaines, notamment l\u2019urbanisme, le g\u00e9nie civil, les arts d\u00e9coratifs, la d\u00e9coration int\u00e9rieure et l\u2019am\u00e9nagement paysager.",
+    "reference": "L'architettura si sovrappone in maniera significativa ad altri settori di attivit\u00e0 come l'urbanistica, l'ingegneria civile, le arti decorative, il design di interni e la progettazione di esterni.",
+    "source_lang": "French",
+    "target_lang": "Italian",
+    "source_text": "L\u2019architecture recoupe consid\u00e9rablement d\u2019autres domaines, notamment l\u2019urbanisme, le g\u00e9nie civil, les arts d\u00e9coratifs, la d\u00e9coration int\u00e9rieure et l\u2019am\u00e9nagement paysager."
+  },
+  {
+    "id": 39,
+    "prompt": "Translate this to Italian: \u00c9tant donn\u00e9 l\u2019\u00e9loignement de nombreux pueblos, vous ne pourrez pas trouver une vie nocturne importante sans vous rendre \u00e0 Albuquerque ou \u00e0 Santa Fe.",
+    "reference": "Considerando la notevole distanza di molti dei pueblos, sar\u00e0 possibile trovare una movimentata vita notturna solo viaggiando verso Albuquerque o Santa Fe.",
+    "source_lang": "French",
+    "target_lang": "Italian",
+    "source_text": "\u00c9tant donn\u00e9 l\u2019\u00e9loignement de nombreux pueblos, vous ne pourrez pas trouver une vie nocturne importante sans vous rendre \u00e0 Albuquerque ou \u00e0 Santa Fe."
+  },
+  {
+    "id": 40,
+    "prompt": "Translate this to Italian: Toutefois, presque tous les casinos cit\u00e9s ci-dessus servent des boissons, et plusieurs d'entre eux proposent des distractions de haute qualit\u00e9 (principalement les grands casinos situ\u00e9s \u00e0 proximit\u00e9 d'Albuquerque et de Santa Fe)",
+    "reference": "Tuttavia, quasi tutti i casin\u00f2 elencati sopra servono da bere e molti di loro offrono intrattenimento di lusso (soprattutto quelli pi\u00f9 grandi nei dintorni di Albuquerque e Santa Fe).",
+    "source_lang": "French",
+    "target_lang": "Italian",
+    "source_text": "Toutefois, presque tous les casinos cit\u00e9s ci-dessus servent des boissons, et plusieurs d'entre eux proposent des distractions de haute qualit\u00e9 (principalement les grands casinos situ\u00e9s \u00e0 proximit\u00e9 d'Albuquerque et de Santa Fe)"
+  },
+  {
+    "id": 41,
+    "prompt": "Translate this to Italian: M\u00e9fiez-vous\u00a0: les bars des petites villes ici ne sont pas toujours de bons endroits pour tra\u00eener si vous \u00eates visiteur \u00e9tranger.",
+    "reference": "Attenzione: qui i bar delle piccole citt\u00e0 non sono sempre i luoghi adatti ad un visitatore che proviene da un altro Stato.",
+    "source_lang": "French",
+    "target_lang": "Italian",
+    "source_text": "M\u00e9fiez-vous\u00a0: les bars des petites villes ici ne sont pas toujours de bons endroits pour tra\u00eener si vous \u00eates visiteur \u00e9tranger."
+  },
+  {
+    "id": 42,
+    "prompt": "Translate this to Italian: D'une part, le nord du Nouveau-Mexique conna\u00eet des probl\u00e8mes importants de conduite en \u00e9tat d'ivresse, et la concentration de conducteurs en \u00e9tat d'\u00e9bri\u00e9t\u00e9 est \u00e9lev\u00e9e \u00e0 proximit\u00e9 des bars des petites villes.",
+    "reference": "In primo luogo, nel New Mexico settentrionale la guida in stato di ebbrezza rappresenta un problema non da poco; in prossimit\u00e0 dei bar dei piccoli centri c'\u00e8 un'alta concentrazione di conducenti ubriachi.",
+    "source_lang": "French",
+    "target_lang": "Italian",
+    "source_text": "D'une part, le nord du Nouveau-Mexique conna\u00eet des probl\u00e8mes importants de conduite en \u00e9tat d'ivresse, et la concentration de conducteurs en \u00e9tat d'\u00e9bri\u00e9t\u00e9 est \u00e9lev\u00e9e \u00e0 proximit\u00e9 des bars des petites villes."
+  },
+  {
+    "id": 43,
+    "prompt": "Translate this to Italian: Les peintures murales ou les gribouillages ind\u00e9sirables sont connus sous le nom de graffitis.",
+    "reference": "Si definiscono graffiti i murales o i disegni non desiderati.",
+    "source_lang": "French",
+    "target_lang": "Italian",
+    "source_text": "Les peintures murales ou les gribouillages ind\u00e9sirables sont connus sous le nom de graffitis."
+  },
+  {
+    "id": 44,
+    "prompt": "Translate this to Italian: Bien que ce soit loin d'\u00eatre un ph\u00e9nom\u00e8ne moderne, la plupart des gens l'associent probablement au fait que des jeunes vandalisent des propri\u00e9t\u00e9s publiques et priv\u00e9es en utilisant de la peinture en a\u00e9rosol.",
+    "reference": "Bench\u00e9 questo fenomeno sia tutt'altro che moderno, gran parte delle persone potrebbe associarlo ai giovani che imbrattano le propriet\u00e0 pubbliche e private con la vernice spray.",
+    "source_lang": "French",
+    "target_lang": "Italian",
+    "source_text": "Bien que ce soit loin d'\u00eatre un ph\u00e9nom\u00e8ne moderne, la plupart des gens l'associent probablement au fait que des jeunes vandalisent des propri\u00e9t\u00e9s publiques et priv\u00e9es en utilisant de la peinture en a\u00e9rosol."
+  },
+  {
+    "id": 45,
+    "prompt": "Translate this to Italian: Il existe toutefois aujourd'hui des graffeurs reconnus, des \u00e9v\u00e9nements consacr\u00e9s \u00e0 la discipline et des surfaces \u00ab\u00a0autoris\u00e9es\u00a0\u00bb pour s'y adonner. Dans ces conditions, les graffitis ressemblent plus souvent \u00e0 de v\u00e9ritables \u0153uvres d'art qu'\u00e0 de vulgaires tags ind\u00e9chiffrables.",
+    "reference": "Al giorno d'oggi, tuttavia, nell'ambito dei graffiti esistono anche artisti, eventi e pareti \"legali\" riconosciuti. In questi contesti, i graffiti assomigliano molto di pi\u00f9 a delle vere opere d'arte pi\u00f9 che a dei simboli illeggibili.",
+    "source_lang": "French",
+    "target_lang": "Italian",
+    "source_text": "Il existe toutefois aujourd'hui des graffeurs reconnus, des \u00e9v\u00e9nements consacr\u00e9s \u00e0 la discipline et des surfaces \u00ab\u00a0autoris\u00e9es\u00a0\u00bb pour s'y adonner. Dans ces conditions, les graffitis ressemblent plus souvent \u00e0 de v\u00e9ritables \u0153uvres d'art qu'\u00e0 de vulgaires tags ind\u00e9chiffrables."
+  },
+  {
+    "id": 46,
+    "prompt": "Translate this to Italian: Le lancer de Boomerang est une comp\u00e9tence populaire que de nombreux touristes veulent acqu\u00e9rir.",
+    "reference": "Quella del lancio del boomerang \u00e8 un'abilit\u00e0 apprezzata, che molti turisti desiderano acquisire.",
+    "source_lang": "French",
+    "target_lang": "Italian",
+    "source_text": "Le lancer de Boomerang est une comp\u00e9tence populaire que de nombreux touristes veulent acqu\u00e9rir."
+  },
+  {
+    "id": 47,
+    "prompt": "Translate this to Italian: Si vous voulez apprendre \u00e0 lancer un boomerang qui vous retourne directement dans la main, alors assurez-vous de bien avoir un boomerang con\u00e7u pour revenir.",
+    "reference": "Se vuoi imparare a lanciare un boomerang in modo che ti torni indietro, devi prima assicurarti che il tuo boomerang sia idoneo.",
+    "source_lang": "French",
+    "target_lang": "Italian",
+    "source_text": "Si vous voulez apprendre \u00e0 lancer un boomerang qui vous retourne directement dans la main, alors assurez-vous de bien avoir un boomerang con\u00e7u pour revenir."
+  },
+  {
+    "id": 48,
+    "prompt": "Translate this to Italian: En r\u00e9alit\u00e9, la plupart des boomerangs disponibles en Australie ne reviennent pas. Il est pr\u00e9f\u00e9rable pour les d\u00e9butants de ne pas essayer de faire de lancers dans le vent.",
+    "reference": "Gran parte dei boomerang disponibili in Australia di fatto non torna indietro. Per i principianti, \u00e8 meglio non provare a lanciare in presenza di vento.",
+    "source_lang": "French",
+    "target_lang": "Italian",
+    "source_text": "En r\u00e9alit\u00e9, la plupart des boomerangs disponibles en Australie ne reviennent pas. Il est pr\u00e9f\u00e9rable pour les d\u00e9butants de ne pas essayer de faire de lancers dans le vent."
+  },
+  {
+    "id": 49,
+    "prompt": "Translate this to Italian: On cuit un repas hangi dans une fosse chaude creus\u00e9e dans le sol.",
+    "reference": "Nel tradizionale pasto hangi, il cibo viene cucinato in una buca preriscaldata nel terreno.",
+    "source_lang": "French",
+    "target_lang": "Italian",
+    "source_text": "On cuit un repas hangi dans une fosse chaude creus\u00e9e dans le sol."
+  },
+  {
+    "id": 50,
+    "prompt": "Translate this to Italian: La fosse est soit chauff\u00e9e avec des pierres chaudes provenant d'un feu, soit la chaleur g\u00e9othermique r\u00e9chauffe naturellement certaines zones du sol.",
+    "reference": "La fossa pu\u00f2 essere riscaldata con pietre arroventate sul fuoco, oppure in alcune zone \u00e8 il calore geotermico a riscaldare naturalmente certe parti del terreno.",
+    "source_lang": "French",
+    "target_lang": "Italian",
+    "source_text": "La fosse est soit chauff\u00e9e avec des pierres chaudes provenant d'un feu, soit la chaleur g\u00e9othermique r\u00e9chauffe naturellement certaines zones du sol."
+  },
+  {
+    "id": 51,
+    "prompt": "Translate this to Italian: Le hangi est souvent utilis\u00e9 pour pr\u00e9parer un d\u00eener traditionnel de type r\u00f4ti.",
+    "reference": "Il metodo hangi \u00e8 spesso utilizzato per preparare una cena tradizionale in stile \"barbecue\".",
+    "source_lang": "French",
+    "target_lang": "Italian",
+    "source_text": "Le hangi est souvent utilis\u00e9 pour pr\u00e9parer un d\u00eener traditionnel de type r\u00f4ti."
+  },
+  {
+    "id": 52,
+    "prompt": "Translate this to Italian: Plusieurs endroits \u00e0 Rotorua offrent des hangis g\u00e9othermiques, tandis que d\u2019autres hangis peuvent \u00eatre \u00e9chantillonn\u00e9s \u00e0 Christchurch, Wellington et ailleurs.",
+    "reference": "Ci sono diversi luoghi a Rotorua dove trovare degli hangi geotermici; altri hangi possono essere degustati a Christchurch, Wellington e in altri luoghi.",
+    "source_lang": "French",
+    "target_lang": "Italian",
+    "source_text": "Plusieurs endroits \u00e0 Rotorua offrent des hangis g\u00e9othermiques, tandis que d\u2019autres hangis peuvent \u00eatre \u00e9chantillonn\u00e9s \u00e0 Christchurch, Wellington et ailleurs."
+  },
+  {
+    "id": 53,
+    "prompt": "Translate this to Italian: MetroRail propose deux classes dans les trains de banlieue du Cap et de ses environs : MetroPlus (\u00e9galement appel\u00e9e premi\u00e8re classe) et Metro (appel\u00e9e troisi\u00e8me classe).",
+    "reference": "MetroRail offre due categorie tariffarie sui treni per pendolari di Citt\u00e0 del Capo e dintorni: MetroPlus (chiamata anche Prima Classe) e Metro (chiamata Terza Classe).",
+    "source_lang": "French",
+    "target_lang": "Italian",
+    "source_text": "MetroRail propose deux classes dans les trains de banlieue du Cap et de ses environs : MetroPlus (\u00e9galement appel\u00e9e premi\u00e8re classe) et Metro (appel\u00e9e troisi\u00e8me classe)."
+  },
+  {
+    "id": 54,
+    "prompt": "Translate this to Italian: MetroPlus est plus confortable et moins bond\u00e9, mais plus cher, tout en restant moins cher que le tarif normal des billets de m\u00e9tro en Europe.",
+    "reference": "Il MetroPlus \u00e8 pi\u00f9 confortevole e meno affollato ma un po' pi\u00f9 costoso, malgrado sia comunque pi\u00f9 conveniente di un normale biglietto della metropolitana in Europa.",
+    "source_lang": "French",
+    "target_lang": "Italian",
+    "source_text": "MetroPlus est plus confortable et moins bond\u00e9, mais plus cher, tout en restant moins cher que le tarif normal des billets de m\u00e9tro en Europe."
+  },
+  {
+    "id": 55,
+    "prompt": "Translate this to Italian: Chaque train dispose de wagons Metro et MetroPlus ; les wagons MetroPlus sont toujours en bout du train le plus proche du Cap.",
+    "reference": "Ciascun treno ha carrozze sia Metro che MetroPlus; queste ultime si trovano sempre all'estremit\u00e0 del treno pi\u00f9 vicina a Citt\u00e0 del Capo.",
+    "source_lang": "French",
+    "target_lang": "Italian",
+    "source_text": "Chaque train dispose de wagons Metro et MetroPlus ; les wagons MetroPlus sont toujours en bout du train le plus proche du Cap."
+  },
+  {
+    "id": 56,
+    "prompt": "Translate this to Italian: Porter pour les autres \u2013 ne perdez jamais vos sacs de vue, surtout lorsque vous traversez des fronti\u00e8res internationales.",
+    "reference": "Trasporto per altri - Non lasciare mai le proprie borse dove non possono essere viste, specie quando si attraversano le frontiere internazionali.",
+    "source_lang": "French",
+    "target_lang": "Italian",
+    "source_text": "Porter pour les autres \u2013 ne perdez jamais vos sacs de vue, surtout lorsque vous traversez des fronti\u00e8res internationales."
+  },
+  {
+    "id": 57,
+    "prompt": "Translate this to Italian: Quelqu'un pourrait se servir de vous pour transporter de la drogue \u00e0 votre insu, ce qui vous attirerait de gros ennuis.",
+    "reference": "Potresti scoprire di essere stato usato, a tua insaputa, come corriere della droga, dovendo poi affrontare molti problemi.",
+    "source_lang": "French",
+    "target_lang": "Italian",
+    "source_text": "Quelqu'un pourrait se servir de vous pour transporter de la drogue \u00e0 votre insu, ce qui vous attirerait de gros ennuis."
+  },
+  {
+    "id": 58,
+    "prompt": "Translate this to Italian: Cela inclut l'attente en ligne, car les chiens renifleurs de drogue peuvent \u00eatre utilis\u00e9s \u00e0 tout moment sans pr\u00e9avis.",
+    "reference": "Per esempio l'attesa in fila, dal momento che i cani antidroga potrebbero essere coinvolti in qualsiasi momento senza alcun preavviso.",
+    "source_lang": "French",
+    "target_lang": "Italian",
+    "source_text": "Cela inclut l'attente en ligne, car les chiens renifleurs de drogue peuvent \u00eatre utilis\u00e9s \u00e0 tout moment sans pr\u00e9avis."
+  },
+  {
+    "id": 59,
+    "prompt": "Translate this to Italian: Dans certains pays, les sanctions sont extr\u00eamement draconiennes, m\u00eame pour les premi\u00e8res infractions ; elles peuvent aller jusqu'\u00e0 des peines de prison de plus de dix ans ou la peine de mort.",
+    "reference": "Alcuni paesi prevedono pene molto severe anche quando il reato viene commesso per la prima volta; tra queste rientrano pene detentive di oltre 10 anni o la pena di morte.",
+    "source_lang": "French",
+    "target_lang": "Italian",
+    "source_text": "Dans certains pays, les sanctions sont extr\u00eamement draconiennes, m\u00eame pour les premi\u00e8res infractions ; elles peuvent aller jusqu'\u00e0 des peines de prison de plus de dix ans ou la peine de mort."
+  },
+  {
+    "id": 60,
+    "prompt": "Translate this to Italian: Les sacs sans surveillance sont une cible pour le vol et peuvent \u00e9galement attirer l'attention des autorit\u00e9s qui se m\u00e9fient des alertes \u00e0 la bombe.",
+    "reference": "Le borse incustodite sono esposte a furti e possono destare anche l'attenzione delle autorit\u00e0, che temono possibili bombe.",
+    "source_lang": "French",
+    "target_lang": "Italian",
+    "source_text": "Les sacs sans surveillance sont une cible pour le vol et peuvent \u00e9galement attirer l'attention des autorit\u00e9s qui se m\u00e9fient des alertes \u00e0 la bombe."
+  },
+  {
+    "id": 61,
+    "prompt": "Translate this to Italian: \u00c0 la maison, en raison de cette exposition constante aux germes locaux, les chances sont tr\u00e8s \u00e9lev\u00e9es que vous soyez d\u00e9j\u00e0 immunis\u00e9 contre eux.",
+    "reference": "A casa, data questa costante esposizione ai germi locali, le probabilit\u00e0 di esserne gi\u00e0 immuni sono molto alte.",
+    "source_lang": "French",
+    "target_lang": "Italian",
+    "source_text": "\u00c0 la maison, en raison de cette exposition constante aux germes locaux, les chances sont tr\u00e8s \u00e9lev\u00e9es que vous soyez d\u00e9j\u00e0 immunis\u00e9 contre eux."
+  },
+  {
+    "id": 62,
+    "prompt": "Translate this to Italian: Mais dans d'autres parties du monde, o\u00f9 la faune bact\u00e9riologique est nouvelle pour vous, vous risquez bien plus de rencontrer des probl\u00e8mes.",
+    "reference": "Tuttavia in altre zone del mondo, dove la fauna batteriologica \u00e8 nuova per voi, esistono molte pi\u00f9 probabilit\u00e0 di incorrere in problemi.",
+    "source_lang": "French",
+    "target_lang": "Italian",
+    "source_text": "Mais dans d'autres parties du monde, o\u00f9 la faune bact\u00e9riologique est nouvelle pour vous, vous risquez bien plus de rencontrer des probl\u00e8mes."
+  },
+  {
+    "id": 63,
+    "prompt": "Translate this to Italian: De plus, dans les climats plus chauds, les bact\u00e9ries se d\u00e9veloppent plus rapidement et survivent plus longtemps \u00e0 l'ext\u00e9rieur du corps.",
+    "reference": "In pi\u00f9, in presenza di temperature pi\u00f9 calde i batteri crescono pi\u00f9 velocemente e sopravvivono pi\u00f9 a lungo all'esterno del corpo.",
+    "source_lang": "French",
+    "target_lang": "Italian",
+    "source_text": "De plus, dans les climats plus chauds, les bact\u00e9ries se d\u00e9veloppent plus rapidement et survivent plus longtemps \u00e0 l'ext\u00e9rieur du corps."
+  },
+  {
+    "id": 64,
+    "prompt": "Translate this to Italian: Ainsi les fl\u00e9aux de Delhi Belly, la mal\u00e9diction du pharaon, la vengeance de Montezuma et leurs nombreux amis.",
+    "reference": "Ecco quindi i flagelli de la \"pancia di Delhi\", la \"maledizione del faraone\", la \"vendetta di Montezuma\" e dei loro molti amici.",
+    "source_lang": "French",
+    "target_lang": "Italian",
+    "source_text": "Ainsi les fl\u00e9aux de Delhi Belly, la mal\u00e9diction du pharaon, la vengeance de Montezuma et leurs nombreux amis."
+  },
+  {
+    "id": 65,
+    "prompt": "Translate this to Italian: Comme pour les probl\u00e8mes respiratoires dans les climats plus froids, les probl\u00e8mes intestinaux dans les climats chauds sont assez courants et, dans la plupart des cas, sont particuli\u00e8rement g\u00eanants mais pas vraiment dangereux.",
+    "reference": "Analogamente ai disturbi respiratori nei climi pi\u00f9 freddi, i disturbi intestinali nei climi caldi sono piuttosto diffusi; sono quasi sempre molto fastidiosi, ma non si possono considerare davvero pericolosi.",
+    "source_lang": "French",
+    "target_lang": "Italian",
+    "source_text": "Comme pour les probl\u00e8mes respiratoires dans les climats plus froids, les probl\u00e8mes intestinaux dans les climats chauds sont assez courants et, dans la plupart des cas, sont particuli\u00e8rement g\u00eanants mais pas vraiment dangereux."
+  },
+  {
+    "id": 66,
+    "prompt": "Translate this to Italian: Si vous voyagez pour la premi\u00e8re fois dans un pays en voie de d\u00e9veloppement ou dans une r\u00e9gion du monde que vous ne connaissez pas, ne prenez pas le possible choc culturel \u00e0 le l\u00e9g\u00e8re.",
+    "reference": "Se si visita per la prima volta un Paese in via di sviluppo o una parte nuova del mondo, \u00e8 bene non sottovalutare la possibilit\u00e0 di shock culturale.",
+    "source_lang": "French",
+    "target_lang": "Italian",
+    "source_text": "Si vous voyagez pour la premi\u00e8re fois dans un pays en voie de d\u00e9veloppement ou dans une r\u00e9gion du monde que vous ne connaissez pas, ne prenez pas le possible choc culturel \u00e0 le l\u00e9g\u00e8re."
+  },
+  {
+    "id": 67,
+    "prompt": "Translate this to Italian: Nombreux sont les voyageurs stables et comp\u00e9tents qui ont \u00e9t\u00e9 d\u00e9pass\u00e9s par la nouveaut\u00e9 des voyages dans les pays en d\u00e9veloppement, o\u00f9 de nombreux petits ajustements culturels peuvent vite s'accumuler.",
+    "reference": "Molti viaggiatori capaci ed equilibrati sono stati sopraffatti dalla novit\u00e0 di viaggiare in parti del mondo in via di sviluppo, dove possono concentrarsi velocemente tanti piccoli adattamenti culturali.",
+    "source_lang": "French",
+    "target_lang": "Italian",
+    "source_text": "Nombreux sont les voyageurs stables et comp\u00e9tents qui ont \u00e9t\u00e9 d\u00e9pass\u00e9s par la nouveaut\u00e9 des voyages dans les pays en d\u00e9veloppement, o\u00f9 de nombreux petits ajustements culturels peuvent vite s'accumuler."
+  },
+  {
+    "id": 68,
+    "prompt": "Translate this to Italian: Surtout au d\u00e9but, pensez \u00e0 faire des folies dans les h\u00f4tels, la nourriture et les services de style et de qualit\u00e9 occidentaux pour vous aider \u00e0 vous acclimater.",
+    "reference": "Soprattutto i primi giorni, come aiuto per ambientarvi, potreste concedervi il lusso di hotel, cibo e servizi di qualit\u00e0, in stile occidentale.",
+    "source_lang": "French",
+    "target_lang": "Italian",
+    "source_text": "Surtout au d\u00e9but, pensez \u00e0 faire des folies dans les h\u00f4tels, la nourriture et les services de style et de qualit\u00e9 occidentaux pour vous aider \u00e0 vous acclimater."
+  },
+  {
+    "id": 69,
+    "prompt": "Translate this to Italian: Ne dormez pas sur un matelas ou sur un coussin \u00e0 m\u00eame le sol dans les zones o\u00f9 vous ne connaissez pas la faune locale.",
+    "reference": "Non dormire a terra su un materasso o una stuoia nei luoghi di cui non si conosce la fauna locale.",
+    "source_lang": "French",
+    "target_lang": "Italian",
+    "source_text": "Ne dormez pas sur un matelas ou sur un coussin \u00e0 m\u00eame le sol dans les zones o\u00f9 vous ne connaissez pas la faune locale."
+  },
+  {
+    "id": 70,
+    "prompt": "Translate this to Italian: Si vous allez camper, apportez un lit de camp ou un hamac pour vous tenir \u00e0 l'\u00e9cart des serpents, scorpions et autres.",
+    "reference": "Se si sceglie di campeggiare, portare con s\u00e9 una brandina da campeggio o un'amaca per tenersi alla larga da serpenti, scorpioni e simili.",
+    "source_lang": "French",
+    "target_lang": "Italian",
+    "source_text": "Si vous allez camper, apportez un lit de camp ou un hamac pour vous tenir \u00e0 l'\u00e9cart des serpents, scorpions et autres."
+  },
+  {
+    "id": 71,
+    "prompt": "Translate this to Italian: Emplissez votre maison avec l'ar\u00f4me d'un caf\u00e9 intense le matin et le soir, avec celui d'une relaxante tisane \u00e0 la camomille.",
+    "reference": "Al mattino, avvolgete la vostra casa con l'aroma di un intenso caff\u00e8 e alla sera con quello di un rilassante infuso di camomilla.",
+    "source_lang": "French",
+    "target_lang": "Italian",
+    "source_text": "Emplissez votre maison avec l'ar\u00f4me d'un caf\u00e9 intense le matin et le soir, avec celui d'une relaxante tisane \u00e0 la camomille."
+  },
+  {
+    "id": 72,
+    "prompt": "Translate this to Italian: Lorsque vous \u00eates en s\u00e9jour, vous avez le temps de vous faire plaisir et de prendre quelques minutes suppl\u00e9mentaires pour pr\u00e9parer quelque chose de sp\u00e9cial.",
+    "reference": "Quando si \u00e8 in vacanza a casa, si ha il tempo di concedersi qualcosa di piacevole e di dedicare qualche minuto in pi\u00f9 alla preparazione di una pausa speciale con t\u00e8 o caff\u00e8.",
+    "source_lang": "French",
+    "target_lang": "Italian",
+    "source_text": "Lorsque vous \u00eates en s\u00e9jour, vous avez le temps de vous faire plaisir et de prendre quelques minutes suppl\u00e9mentaires pour pr\u00e9parer quelque chose de sp\u00e9cial."
+  },
+  {
+    "id": 73,
+    "prompt": "Translate this to Italian: Si vous vous sentez d'humeur plus aventureuse, profitez de l'occasion pour pr\u00e9parer un jus ou m\u00e9langer des smoothies :",
+    "reference": "Se vi sentite in vena di sperimentare, cogliete l'occasione per preparare dei succhi o dei frullati:",
+    "source_lang": "French",
+    "target_lang": "Italian",
+    "source_text": "Si vous vous sentez d'humeur plus aventureuse, profitez de l'occasion pour pr\u00e9parer un jus ou m\u00e9langer des smoothies :"
+  },
+  {
+    "id": 74,
+    "prompt": "Translate this to Italian: peut-\u00eatre d\u00e9couvrirez-vous une boisson simple que vous pourrez pr\u00e9parer pour votre petit d\u00e9jeuner lorsque vous retournerez \u00e0 votre routine quotidienne.",
+    "reference": "forse \u00e8 l'occasione per scoprire una bevanda semplice da preparare a colazione una volta ripresa la routine quotidiana.",
+    "source_lang": "French",
+    "target_lang": "Italian",
+    "source_text": "peut-\u00eatre d\u00e9couvrirez-vous une boisson simple que vous pourrez pr\u00e9parer pour votre petit d\u00e9jeuner lorsque vous retournerez \u00e0 votre routine quotidienne."
+  },
+  {
+    "id": 75,
+    "prompt": "Translate this to Italian: Si vous vivez dans une ville o\u00f9 la culture de la boisson est vari\u00e9e, allez dans les bars ou les pubs des quartiers que vous ne fr\u00e9quentez pas.",
+    "reference": "Se nella vostra citt\u00e0 convivono diverse culture del bere, visitate i bar o i pub dei quartieri che non frequentate.",
+    "source_lang": "French",
+    "target_lang": "Italian",
+    "source_text": "Si vous vivez dans une ville o\u00f9 la culture de la boisson est vari\u00e9e, allez dans les bars ou les pubs des quartiers que vous ne fr\u00e9quentez pas."
+  },
+  {
+    "id": 76,
+    "prompt": "Translate this to Italian: Pour ceux qui ne connaissent pas bien le jargon m\u00e9dical, les mots \u00ab infectieux \u00bb et \u00ab contagieux \u00bb ont un sens distinct.",
+    "reference": "Per coloro che non hanno dimestichezza con il gergo medico, i termini \"infettivo\" e \"contagioso\" hanno significati diversi.",
+    "source_lang": "French",
+    "target_lang": "Italian",
+    "source_text": "Pour ceux qui ne connaissent pas bien le jargon m\u00e9dical, les mots \u00ab infectieux \u00bb et \u00ab contagieux \u00bb ont un sens distinct."
+  },
+  {
+    "id": 77,
+    "prompt": "Translate this to Italian: Une maladie infectieuse est celle caus\u00e9e par un agent pathog\u00e8ne, tel qu'un virus, une bact\u00e9rie, un champignon ou d\u2019autres parasites.",
+    "reference": "La malattia infettiva \u00e8 quella causata da agenti patogeni, quali virus, batteri, funghi o da altri parassiti.",
+    "source_lang": "French",
+    "target_lang": "Italian",
+    "source_text": "Une maladie infectieuse est celle caus\u00e9e par un agent pathog\u00e8ne, tel qu'un virus, une bact\u00e9rie, un champignon ou d\u2019autres parasites."
+  },
+  {
+    "id": 78,
+    "prompt": "Translate this to Italian: Une maladie contagieuse est une maladie facilement transmissible lorsqu\u2019on se trouve \u00e0 proximit\u00e9 d\u2019une personne infect\u00e9e.",
+    "reference": "Una malattia contagiosa si diffonde con facilit\u00e0 stando in prossimit\u00e0 di una persona infetta.",
+    "source_lang": "French",
+    "target_lang": "Italian",
+    "source_text": "Une maladie contagieuse est une maladie facilement transmissible lorsqu\u2019on se trouve \u00e0 proximit\u00e9 d\u2019une personne infect\u00e9e."
+  },
+  {
+    "id": 79,
+    "prompt": "Translate this to Italian: De nombreux gouvernements exigent que les visiteurs qui entrent dans leur pays ou les r\u00e9sidents qui le quittent soient vaccin\u00e9s contre toute une s\u00e9rie de maladies.",
+    "reference": "Molti governi richiedono che i visitatori in entrata e i residenti in uscita dal Paese siano vaccinati contro una serie di malattie.",
+    "source_lang": "French",
+    "target_lang": "Italian",
+    "source_text": "De nombreux gouvernements exigent que les visiteurs qui entrent dans leur pays ou les r\u00e9sidents qui le quittent soient vaccin\u00e9s contre toute une s\u00e9rie de maladies."
+  },
+  {
+    "id": 80,
+    "prompt": "Translate this to Italian: Ces exigences peuvent souvent d\u00e9pendre des pays visit\u00e9s par un voyageur, ou qu'il compte visiter.",
+    "reference": "Si tratta di requisiti che spesso dipendono da quali sono i paesi che un viaggiatore ha visitato o intende visitare.",
+    "source_lang": "French",
+    "target_lang": "Italian",
+    "source_text": "Ces exigences peuvent souvent d\u00e9pendre des pays visit\u00e9s par un voyageur, ou qu'il compte visiter."
+  },
+  {
+    "id": 81,
+    "prompt": "Translate this to Italian: Un des points forts de Charlotte, en Caroline du Nord, est l'abondance des services de haute qualit\u00e9 pour les familles.",
+    "reference": "Tra i punti di forza che vanta Charlotte, nel North Carolina, c'\u00e8 l'ampia variet\u00e0 di opzioni di qualit\u00e0 di cui le famiglie possono disporre.",
+    "source_lang": "French",
+    "target_lang": "Italian",
+    "source_text": "Un des points forts de Charlotte, en Caroline du Nord, est l'abondance des services de haute qualit\u00e9 pour les familles."
+  },
+  {
+    "id": 82,
+    "prompt": "Translate this to Italian: Les r\u00e9sidents d\u2019autres r\u00e9gions citent souvent la convivialit\u00e9 familiale comme raison principale de leur installation, et les visiteurs trouvent souvent la ville facile \u00e0 appr\u00e9cier avec des enfants \u00e0 c\u00f4t\u00e9.",
+    "reference": "I residenti di altre regioni spesso fanno riferimento all'ambiente particolarmente adatto alle famiglie come motivo principale per stabilirsi l\u00ec e i visitatori spesso indicano la citt\u00e0 come piacevole da vivere con i bambini.",
+    "source_lang": "French",
+    "target_lang": "Italian",
+    "source_text": "Les r\u00e9sidents d\u2019autres r\u00e9gions citent souvent la convivialit\u00e9 familiale comme raison principale de leur installation, et les visiteurs trouvent souvent la ville facile \u00e0 appr\u00e9cier avec des enfants \u00e0 c\u00f4t\u00e9."
+  },
+  {
+    "id": 83,
+    "prompt": "Translate this to Italian: Au cours des 20 derni\u00e8res ann\u00e9es, le nombre d'options adapt\u00e9es aux enfants dans le quartier des affaires de Charlotte a connu une croissance exponentielle.",
+    "reference": "Negli ultimi 20 anni nella zona Uptown di Charlotte il numero di opzioni a misura di bambino \u00e8 aumentato in modo esponenziale.",
+    "source_lang": "French",
+    "target_lang": "Italian",
+    "source_text": "Au cours des 20 derni\u00e8res ann\u00e9es, le nombre d'options adapt\u00e9es aux enfants dans le quartier des affaires de Charlotte a connu une croissance exponentielle."
+  },
+  {
+    "id": 84,
+    "prompt": "Translate this to Italian: En g\u00e9n\u00e9ral, les familles n\u2019utilisent pas de taxis \u00e0 Charlotte, bien que ces derniers puissent se r\u00e9v\u00e9ler utiles dans certaines circonstances.",
+    "reference": "In genere, a Charlotte, i taxi non sono utilizzati dalle famiglie, anche se possono rivelarsi utili in alcune circostanze.",
+    "source_lang": "French",
+    "target_lang": "Italian",
+    "source_text": "En g\u00e9n\u00e9ral, les familles n\u2019utilisent pas de taxis \u00e0 Charlotte, bien que ces derniers puissent se r\u00e9v\u00e9ler utiles dans certaines circonstances."
+  },
+  {
+    "id": 85,
+    "prompt": "Translate this to Italian: Il y a une surtaxe pour avoir plus de deux passagers, donc cette option pourrait \u00eatre plus co\u00fbteuse qu'indispensable.",
+    "reference": "Se i passeggeri sono pi\u00f9 di 2 \u00e8 previsto un supplemento: quindi questa opzione potrebbe rivelarsi pi\u00f9 costosa del dovuto.",
+    "source_lang": "French",
+    "target_lang": "Italian",
+    "source_text": "Il y a une surtaxe pour avoir plus de deux passagers, donc cette option pourrait \u00eatre plus co\u00fbteuse qu'indispensable."
+  },
+  {
+    "id": 86,
+    "prompt": "Translate this to Italian: L\u2019Antarctique, qui entoure le p\u00f4le Sud, est l\u2019endroit le plus froid sur Terre.",
+    "reference": "L'Antartide circonda il Polo Sud ed \u00e8 il punto pi\u00f9 freddo della Terra.",
+    "source_lang": "French",
+    "target_lang": "Italian",
+    "source_text": "L\u2019Antarctique, qui entoure le p\u00f4le Sud, est l\u2019endroit le plus froid sur Terre."
+  },
+  {
+    "id": 87,
+    "prompt": "Translate this to Italian: Les visites touristiques sont co\u00fbteuses, exigent une bonne condition physique, ne peuvent avoir lieu qu'en \u00e9t\u00e9 (de novembre \u00e0 f\u00e9vrier) et sont largement limit\u00e9es \u00e0 la p\u00e9ninsule, aux \u00eeles, et \u00e0 la mer de Ross.",
+    "reference": "Le visite turistiche sono costose e presuppongono una buona forma fisica, sono possibili solo nel periodo estivo, da novembre a febbraio, e sono per lo pi\u00f9 circoscritte alla penisola, alle isole e al Mare di Ross.",
+    "source_lang": "French",
+    "target_lang": "Italian",
+    "source_text": "Les visites touristiques sont co\u00fbteuses, exigent une bonne condition physique, ne peuvent avoir lieu qu'en \u00e9t\u00e9 (de novembre \u00e0 f\u00e9vrier) et sont largement limit\u00e9es \u00e0 la p\u00e9ninsule, aux \u00eeles, et \u00e0 la mer de Ross."
+  },
+  {
+    "id": 88,
+    "prompt": "Translate this to Italian: Quelques milliers d'employ\u00e9s vivent ici en \u00e9t\u00e9 dans une quarantaine de bases, principalement dans ces r\u00e9gions ; un petit nombre d'entre eux restent en hiver.",
+    "reference": "In estate, principalmente in queste zone, vivono due migliaia di collaboratori suddivisi in circa una cinquantina di basi, mentre durante i mesi invernali rimane solo un numero esiguo di persone.",
+    "source_lang": "French",
+    "target_lang": "Italian",
+    "source_text": "Quelques milliers d'employ\u00e9s vivent ici en \u00e9t\u00e9 dans une quarantaine de bases, principalement dans ces r\u00e9gions ; un petit nombre d'entre eux restent en hiver."
+  },
+  {
+    "id": 89,
+    "prompt": "Translate this to Italian: L'Antarctique int\u00e9rieur est un plateau d\u00e9sol\u00e9 recouvert de 2 \u00e0 3 km de glace.",
+    "reference": "L'entroterra antartico \u00e8 un brullo altipiano ricoperto da 2-3 km di ghiaccio.",
+    "source_lang": "French",
+    "target_lang": "Italian",
+    "source_text": "L'Antarctique int\u00e9rieur est un plateau d\u00e9sol\u00e9 recouvert de 2 \u00e0 3 km de glace."
+  },
+  {
+    "id": 90,
+    "prompt": "Translate this to Italian: Exp\u00e9ditions a\u00e9riennes sp\u00e9cifiques et ponctuelles vers l\u2019int\u00e9rieur des terres, pour l\u2019alpinisme ou pour atteindre le P\u00f4le, disposant d\u2019une vaste base.",
+    "reference": "A volte i tour aerei specializzati si spingono nell\u2019entroterra, per scopi legati all\u2019alpinismo o per raggiungere il Polo, dotato di un\u2019ampia base.",
+    "source_lang": "French",
+    "target_lang": "Italian",
+    "source_text": "Exp\u00e9ditions a\u00e9riennes sp\u00e9cifiques et ponctuelles vers l\u2019int\u00e9rieur des terres, pour l\u2019alpinisme ou pour atteindre le P\u00f4le, disposant d\u2019une vaste base."
+  },
+  {
+    "id": 91,
+    "prompt": "Translate this to Italian: L'autoroute du p\u00f4le Sud est une route de 1\u00a0600\u00a0km entre la station de McMurdo, au bord de la mer de Ross, et le p\u00f4le.",
+    "reference": "La South Pole Traverse, Traversa del polo sud (o autostrada), \u00e8 un percorso di 1.600 km che collega la stazione McMurdo sul Mare di Ross al Polo.",
+    "source_lang": "French",
+    "target_lang": "Italian",
+    "source_text": "L'autoroute du p\u00f4le Sud est une route de 1\u00a0600\u00a0km entre la station de McMurdo, au bord de la mer de Ross, et le p\u00f4le."
+  },
+  {
+    "id": 92,
+    "prompt": "Translate this to Italian: Il s'agit de neige compact\u00e9e, avec des crevasses combl\u00e9es et marqu\u00e9es par des fanions. Il ne peut \u00eatre parcouru que par des tracteurs sp\u00e9cialis\u00e9s, tirant des tra\u00eeneaux transportant carburant et fournitures.",
+    "reference": "\u00c8 costituito da neve compattata in cui i crepacci sono stati riempiti e segnalati da bandiere. Si pu\u00f2 percorrere solo usando motrici specializzate che trainano slitte con carburante e rifornimenti.",
+    "source_lang": "French",
+    "target_lang": "Italian",
+    "source_text": "Il s'agit de neige compact\u00e9e, avec des crevasses combl\u00e9es et marqu\u00e9es par des fanions. Il ne peut \u00eatre parcouru que par des tracteurs sp\u00e9cialis\u00e9s, tirant des tra\u00eeneaux transportant carburant et fournitures."
+  },
+  {
+    "id": 93,
+    "prompt": "Translate this to Italian: Ces derniers ne sont pas tr\u00e8s agiles, de sorte que la piste doit faire une longue embard\u00e9e autour des montagnes transantarctiques pour arriver sur le plateau.",
+    "reference": "Questi mezzi non sono molto agili, quindi il cammino deve subire una lunga deviazione attorno ai monti Transantartici per raggiungere il plateau.",
+    "source_lang": "French",
+    "target_lang": "Italian",
+    "source_text": "Ces derniers ne sont pas tr\u00e8s agiles, de sorte que la piste doit faire une longue embard\u00e9e autour des montagnes transantarctiques pour arriver sur le plateau."
+  },
+  {
+    "id": 94,
+    "prompt": "Translate this to Italian: En hiver, la cause d\u2019accidents la plus fr\u00e9quente est le caract\u00e8re glissant des routes, des trottoirs et surtout des marches.",
+    "reference": "Le cause d'infortunio pi\u00f9 comuni in inverno sono legate a strade, marciapiedi e soprattutto gradini scivolosi.",
+    "source_lang": "French",
+    "target_lang": "Italian",
+    "source_text": "En hiver, la cause d\u2019accidents la plus fr\u00e9quente est le caract\u00e8re glissant des routes, des trottoirs et surtout des marches."
+  },
+  {
+    "id": 95,
+    "prompt": "Translate this to Italian: Des chaussures avec des semelles ad\u00e9quates, c'est le minimum. Les chaussures d'\u00e9t\u00e9 glissent tr\u00e8s souvent sur la glace et sur la neige, m\u00eame certains mod\u00e8les pr\u00e9vus pour l'hiver n'y d\u00e9rogent pas.",
+    "reference": "Sono necessarie per lo meno delle calzature con suole adatte. Le scarpe estive di solito risultano molto scivolose sul ghiaccio e sulla neve, e a volte lo sono anche alcuni stivali invernali.",
+    "source_lang": "French",
+    "target_lang": "Italian",
+    "source_text": "Des chaussures avec des semelles ad\u00e9quates, c'est le minimum. Les chaussures d'\u00e9t\u00e9 glissent tr\u00e8s souvent sur la glace et sur la neige, m\u00eame certains mod\u00e8les pr\u00e9vus pour l'hiver n'y d\u00e9rogent pas."
+  },
+  {
+    "id": 96,
+    "prompt": "Translate this to Italian: Le motif doit \u00eatre suffisamment profond, soit 5\u00a0mm (1/5\u00a0po) ou plus, et le mat\u00e9riau doit \u00eatre suffisamment souple par temps froid.",
+    "reference": "La dentatura della suola deve essere abbastanza profonda, 5 mm (1/5 di pollice) o pi\u00f9, e il materiale deve mantenersi sufficientemente morbido alle basse temperature.",
+    "source_lang": "French",
+    "target_lang": "Italian",
+    "source_text": "Le motif doit \u00eatre suffisamment profond, soit 5\u00a0mm (1/5\u00a0po) ou plus, et le mat\u00e9riau doit \u00eatre suffisamment souple par temps froid."
+  },
+  {
+    "id": 97,
+    "prompt": "Translate this to Italian: Certaines bottes sont munies de crampons et il existe un \u00e9quipement compl\u00e9mentaire \u00e0 crampons pour les conditions glissantes, qui convient \u00e0 la plupart des chaussures et des bottes, pour les talons ou les talons et la semelle.",
+    "reference": "In condizioni scivolose, esistono scarponi chiodati o ramponi da applicare sui tacchi o sui tacchi e le suole che si adattano alla maggior parte delle scarpe e degli scarponi.",
+    "source_lang": "French",
+    "target_lang": "Italian",
+    "source_text": "Certaines bottes sont munies de crampons et il existe un \u00e9quipement compl\u00e9mentaire \u00e0 crampons pour les conditions glissantes, qui convient \u00e0 la plupart des chaussures et des bottes, pour les talons ou les talons et la semelle."
+  },
+  {
+    "id": 98,
+    "prompt": "Translate this to Italian: Les talons doivent \u00eatre bas et larges. Du sable, du gravier ou du sel (chlorure de calcium) est souvent dispers\u00e9 sur les routes ou les chemins pour am\u00e9liorer la traction.",
+    "reference": "I tacchi devono essere bassi e larghi. Su strade e vie pedonali vengono spesso sparsi sabbia, ghiaia o sale per migliorare la presa.",
+    "source_lang": "French",
+    "target_lang": "Italian",
+    "source_text": "Les talons doivent \u00eatre bas et larges. Du sable, du gravier ou du sel (chlorure de calcium) est souvent dispers\u00e9 sur les routes ou les chemins pour am\u00e9liorer la traction."
+  },
+  {
+    "id": 99,
+    "prompt": "Translate this to Italian: Les avalanches ne sont pas des ph\u00e9nom\u00e8nes anormaux ; les pentes escarp\u00e9es ne peuvent retenir qu'une petite quantit\u00e9 de neige, dont l'exc\u00e9dent se r\u00e9pand sous forme d'avalanche.",
+    "reference": "Le valanghe non sono un fenomeno anomalo; esiste un limite alla quantit\u00e0 di neve che i ripidi versanti riescono a trattenere e i volumi in eccesso scenderanno a valle come valanghe.",
+    "source_lang": "French",
+    "target_lang": "Italian",
+    "source_text": "Les avalanches ne sont pas des ph\u00e9nom\u00e8nes anormaux ; les pentes escarp\u00e9es ne peuvent retenir qu'une petite quantit\u00e9 de neige, dont l'exc\u00e9dent se r\u00e9pand sous forme d'avalanche."
+  },
+  {
+    "id": 100,
+    "prompt": "Translate this to Italian: Le probl\u00e8me est que la neige colle, alors si elle s'effondre, c'est qu'il y a eu un \u00e9l\u00e9ment d\u00e9clencheur. Or, un l\u00e9ger effondrement de la neige peut \u00eatre le d\u00e9clencheur pour tout le reste.",
+    "reference": "Il fatto \u00e8 che la neve \u00e8 appiccicosa, quindi per staccarsi necessita di una sorta di spinta e spesso questa spinta \u00e8 rappresentata da una piccola quantit\u00e0 di neve che si stacca.",
+    "source_lang": "French",
+    "target_lang": "Italian",
+    "source_text": "Le probl\u00e8me est que la neige colle, alors si elle s'effondre, c'est qu'il y a eu un \u00e9l\u00e9ment d\u00e9clencheur. Or, un l\u00e9ger effondrement de la neige peut \u00eatre le d\u00e9clencheur pour tout le reste."
+  },
+  {
+    "id": 101,
+    "prompt": "Translate this to Italian: Parfois, l'\u00e9l\u00e9ment d\u00e9clencheur est le r\u00e9chauffement solaire sur la neige, parfois c'est juste davantage de neige, et d'autres fois il peut s'agir d'\u00e9v\u00e9nements naturels ou de l'activit\u00e9 humaine.",
+    "reference": "A volte la causa scatenante \u00e8 il calore del sole che scalda la neve, altre volte sono le ulteriori nevicate, altre volte ancora eventi naturali di altro genere, spesso la causa \u00e8 l'uomo.",
+    "source_lang": "French",
+    "target_lang": "Italian",
+    "source_text": "Parfois, l'\u00e9l\u00e9ment d\u00e9clencheur est le r\u00e9chauffement solaire sur la neige, parfois c'est juste davantage de neige, et d'autres fois il peut s'agir d'\u00e9v\u00e9nements naturels ou de l'activit\u00e9 humaine."
+  },
+  {
+    "id": 102,
+    "prompt": "Translate this to Italian: Une tornade est un tourbillon d'air \u00e0 basse-pression en forme de colonne, l'air alentour est aspir\u00e9 vers l'int\u00e9rieur et le haut.",
+    "reference": "Un tornado \u00e8 un vortice d'aria a pressione estremamente bassa che risucchia verso l'interno e verso l'alto l'aria circostante.",
+    "source_lang": "French",
+    "target_lang": "Italian",
+    "source_text": "Une tornade est un tourbillon d'air \u00e0 basse-pression en forme de colonne, l'air alentour est aspir\u00e9 vers l'int\u00e9rieur et le haut."
+  },
+  {
+    "id": 103,
+    "prompt": "Translate this to Italian: Ils g\u00e9n\u00e8rent des vents violents (souvent de 100 \u00e0 200 miles/heure) et peuvent soulever des objets lourds dans les airs, les transportant au fur et \u00e0 mesure que la tornade se d\u00e9place.",
+    "reference": "Essi danno luogo a forti raffiche di vento (spesso fino a 100-200 miglia orarie) e sono in grado di sollevare in aria oggetti pesanti e di trasportarli insieme al tornado.",
+    "source_lang": "French",
+    "target_lang": "Italian",
+    "source_text": "Ils g\u00e9n\u00e8rent des vents violents (souvent de 100 \u00e0 200 miles/heure) et peuvent soulever des objets lourds dans les airs, les transportant au fur et \u00e0 mesure que la tornade se d\u00e9place."
+  },
+  {
+    "id": 104,
+    "prompt": "Translate this to Italian: Elles commencent comme des entonnoirs descendant des nuages orageux, et deviennent des \u00ab\u2009tornades\u2009\u00bb lorsqu\u2019elles touchent terre.",
+    "reference": "Hanno inizialmente l'aspetto di imbuti che discendono dalle nubi temporalesche e diventano \"tornado\" quanto toccano terra.",
+    "source_lang": "French",
+    "target_lang": "Italian",
+    "source_text": "Elles commencent comme des entonnoirs descendant des nuages orageux, et deviennent des \u00ab\u2009tornades\u2009\u00bb lorsqu\u2019elles touchent terre."
+  },
+  {
+    "id": 105,
+    "prompt": "Translate this to Italian: Les fournisseurs de VPN (r\u00e9seau priv\u00e9 virtuel) personnels sont un excellent moyen de contourner \u00e0 la fois la censure politique et le g\u00e9ofiltrage IP commercial.",
+    "reference": "I fornitori di VPN personali rappresentano un ottimo sistema per eludere sia la censura politica che il filtro IP geografico commerciale.",
+    "source_lang": "French",
+    "target_lang": "Italian",
+    "source_text": "Les fournisseurs de VPN (r\u00e9seau priv\u00e9 virtuel) personnels sont un excellent moyen de contourner \u00e0 la fois la censure politique et le g\u00e9ofiltrage IP commercial."
+  },
+  {
+    "id": 106,
+    "prompt": "Translate this to Italian: Ils sont sup\u00e9rieurs aux proxy web pour plusieurs raisons\u00a0: ils redirigent tout le trafic en ligne, pas seulement le http.",
+    "reference": "Sono ritenuti migliori dei proxy Web una serie di ragioni: innanzitutto, reindirizzano l'interno traffico di Internet, non solamente il traffico http.",
+    "source_lang": "French",
+    "target_lang": "Italian",
+    "source_text": "Ils sont sup\u00e9rieurs aux proxy web pour plusieurs raisons\u00a0: ils redirigent tout le trafic en ligne, pas seulement le http."
+  },
+  {
+    "id": 107,
+    "prompt": "Translate this to Italian: Ils offrent normalement une plus grande largeur de bande et une meilleure qualit\u00e9 de service. Elles sont crypt\u00e9es et donc plus difficiles \u00e0 espionner.",
+    "reference": "Di norma forniscono una larghezza di banda maggiore e una qualit\u00e0 del servizio pi\u00f9 elevata. Essendo crittografati \u00e8 anche pi\u00f9 difficile spiarli.",
+    "source_lang": "French",
+    "target_lang": "Italian",
+    "source_text": "Ils offrent normalement une plus grande largeur de bande et une meilleure qualit\u00e9 de service. Elles sont crypt\u00e9es et donc plus difficiles \u00e0 espionner."
+  },
+  {
+    "id": 108,
+    "prompt": "Translate this to Italian: Les entreprises de m\u00e9dias mentent couramment sur l'objectif de cette mesure, pr\u00e9tendant qu'elle vise \u00e0 \u00ab emp\u00eacher le piratage \u00bb.",
+    "reference": "Le societ\u00e0 di media mentono regolarmente in merito allo scopo della codifica, sostenendo che sia quello di \"prevenire la pirateria\".",
+    "source_lang": "French",
+    "target_lang": "Italian",
+    "source_text": "Les entreprises de m\u00e9dias mentent couramment sur l'objectif de cette mesure, pr\u00e9tendant qu'elle vise \u00e0 \u00ab emp\u00eacher le piratage \u00bb."
+  },
+  {
+    "id": 109,
+    "prompt": "Translate this to Italian: En fait, les codes r\u00e9gionaux n'ont absolument aucun effet sur la copie ill\u00e9gale; une copie bit \u00e0 bit d'un disque fonctionne tr\u00e8s bien sur n'importe quel appareil o\u00f9 l'original peut \u00eatre jou\u00e9.",
+    "reference": "In realt\u00e0 i codici regionali non influiscono in alcun modo sulle copie illegali. Qualunque copia bit a bit di un disco funziona benissimo su un qualunque dispositivo, come se fosse l'originale.",
+    "source_lang": "French",
+    "target_lang": "Italian",
+    "source_text": "En fait, les codes r\u00e9gionaux n'ont absolument aucun effet sur la copie ill\u00e9gale; une copie bit \u00e0 bit d'un disque fonctionne tr\u00e8s bien sur n'importe quel appareil o\u00f9 l'original peut \u00eatre jou\u00e9."
+  },
+  {
+    "id": 110,
+    "prompt": "Translate this to Italian: Le but r\u00e9el est de donner \u00e0 ces entreprises un plus grand contr\u00f4le sur leurs march\u00e9s\u2009; il s\u2019agit de gagner de l\u2019argent.",
+    "reference": "Il vero obiettivo \u00e8 quello di fornire a queste societ\u00e0 un maggiore controllo sui loro mercati: \u00e8 tutta una questione di flussi di denaro.",
+    "source_lang": "French",
+    "target_lang": "Italian",
+    "source_text": "Le but r\u00e9el est de donner \u00e0 ces entreprises un plus grand contr\u00f4le sur leurs march\u00e9s\u2009; il s\u2019agit de gagner de l\u2019argent."
+  },
+  {
+    "id": 111,
+    "prompt": "Translate this to Italian: Les appels \u00e9tant achemin\u00e9s par l'internet, vous n'avez pas besoin d'utiliser une compagnie de t\u00e9l\u00e9phone situ\u00e9e o\u00f9 vous vivez ou o\u00f9 vous voyagez.",
+    "reference": "Poich\u00e9 le telefonate avvengono tramite Internet, non \u00e8 necessario utilizzare una compagnia telefonica situata dove si vive o si viaggia.",
+    "source_lang": "French",
+    "target_lang": "Italian",
+    "source_text": "Les appels \u00e9tant achemin\u00e9s par l'internet, vous n'avez pas besoin d'utiliser une compagnie de t\u00e9l\u00e9phone situ\u00e9e o\u00f9 vous vivez ou o\u00f9 vous voyagez."
+  },
+  {
+    "id": 112,
+    "prompt": "Translate this to Italian: Il n\u2019est pas non plus obligatoire d\u2019obtenir un num\u00e9ro local de la collectivit\u00e9 dans laquelle vous vivez; vous pouvez obtenir une connexion Internet par satellite dans les contr\u00e9es sauvages de Chicken, en Alaska, et s\u00e9lectionner un num\u00e9ro qui indique que vous \u00eates dans l\u2019Arizona ensoleill\u00e9e.",
+    "reference": "Non \u00e8 nemmeno necessario richiedere un numero di telefono che faccia capo al distretto locale in cui si vive: dalla selvaggia regione di Chicken, in Alaska, \u00e8 possibile ottenere una connessione Internet satellitare con un numero apparentemente situato nella soleggiata Arizona.",
+    "source_lang": "French",
+    "target_lang": "Italian",
+    "source_text": "Il n\u2019est pas non plus obligatoire d\u2019obtenir un num\u00e9ro local de la collectivit\u00e9 dans laquelle vous vivez; vous pouvez obtenir une connexion Internet par satellite dans les contr\u00e9es sauvages de Chicken, en Alaska, et s\u00e9lectionner un num\u00e9ro qui indique que vous \u00eates dans l\u2019Arizona ensoleill\u00e9e."
+  },
+  {
+    "id": 113,
+    "prompt": "Translate this to Italian: Souvent, il vous faut acheter un num\u00e9ro international qui autorise les appels en RCTP. L'endroit o\u00f9 votre num\u00e9ro de t\u00e9l\u00e9phone est localis\u00e9 est d\u00e9terminant pour les personnes qui vous appellent.",
+    "reference": "Spesso per essere raggiunti dai telefoni PSTN occorre acquistare separatamente un numero globale. Il luogo a cui fa capo il numero fa differenza per le persone che chiamano.",
+    "source_lang": "French",
+    "target_lang": "Italian",
+    "source_text": "Souvent, il vous faut acheter un num\u00e9ro international qui autorise les appels en RCTP. L'endroit o\u00f9 votre num\u00e9ro de t\u00e9l\u00e9phone est localis\u00e9 est d\u00e9terminant pour les personnes qui vous appellent."
+  },
+  {
+    "id": 114,
+    "prompt": "Translate this to Italian: Les applications de traduction en temps r\u00e9el sont des applis capable de traduire automatiquement des segments entiers de texte, ceci d'une langue vers une autre.",
+    "reference": "App di traduzione di testi in tempo reale: applicazioni capaci di tradurre automaticamente intere porzioni di testo da una lingua a un'altra.",
+    "source_lang": "French",
+    "target_lang": "Italian",
+    "source_text": "Les applications de traduction en temps r\u00e9el sont des applis capable de traduire automatiquement des segments entiers de texte, ceci d'une langue vers une autre."
+  },
+  {
+    "id": 115,
+    "prompt": "Translate this to Italian: Certaines des applications de cette cat\u00e9gorie peuvent m\u00eame traduire des textes en langue \u00e9trang\u00e8re inscrits sur des panneaux ou d'autres objets du quotidien lorsque l'utilisateur pointe son smartphone vers eux.",
+    "reference": "Alcune delle applicazioni rientranti in questa categoria possono addirittura tradurre in lingue straniere testi presenti su cartelli o altri oggetti del mondo reale, quando l'utente punta lo smartphone verso di loro.",
+    "source_lang": "French",
+    "target_lang": "Italian",
+    "source_text": "Certaines des applications de cette cat\u00e9gorie peuvent m\u00eame traduire des textes en langue \u00e9trang\u00e8re inscrits sur des panneaux ou d'autres objets du quotidien lorsque l'utilisateur pointe son smartphone vers eux."
+  },
+  {
+    "id": 116,
+    "prompt": "Translate this to Italian: Les moteurs de traduction se sont consid\u00e9rablement am\u00e9lior\u00e9s, et donnent maintenant souvent des traductions plus ou moins correctes (et plus rarement du charabia), mais il faut faire attention, car ils ont peut-\u00eatre encore tout faux.",
+    "reference": "I motori di traduzione hanno avuto un notevole miglioramento e ora sono spesso in grado di fornire traduzioni pi\u00f9 o meno corrette (e pi\u00f9 raramente incomprensibili), tuttavia \u00e8 ancora possibile che sbaglino completamente, quindi \u00e8 necessario prestare attenzione.",
+    "source_lang": "French",
+    "target_lang": "Italian",
+    "source_text": "Les moteurs de traduction se sont consid\u00e9rablement am\u00e9lior\u00e9s, et donnent maintenant souvent des traductions plus ou moins correctes (et plus rarement du charabia), mais il faut faire attention, car ils ont peut-\u00eatre encore tout faux."
+  },
+  {
+    "id": 117,
+    "prompt": "Translate this to Italian: L'une des applications les plus r\u00e9put\u00e9es dans cette cat\u00e9gorie est Google Translate, qui permet de traduire hors ligne apr\u00e8s avoir t\u00e9l\u00e9charg\u00e9 les donn\u00e9es linguistiques souhait\u00e9es.",
+    "reference": "Una delle principali app in questa categoria \u00e8 Google Traduttore che, una volta scaricati i dati della lingua richiesta, consente la traduzione offline.",
+    "source_lang": "French",
+    "target_lang": "Italian",
+    "source_text": "L'une des applications les plus r\u00e9put\u00e9es dans cette cat\u00e9gorie est Google Translate, qui permet de traduire hors ligne apr\u00e8s avoir t\u00e9l\u00e9charg\u00e9 les donn\u00e9es linguistiques souhait\u00e9es."
+  },
+  {
+    "id": 118,
+    "prompt": "Translate this to Italian: L'utilisation d'applications de navigation par GPS sur votre smartphone peut \u00eatre le moyen le plus simple et le plus pratique pour vos d\u00e9placements en dehors de votre pays de r\u00e9sidence.",
+    "reference": "Il modo pi\u00f9 semplice ed economico per navigare quando si \u00e8 al di fuori del proprio Paese pu\u00f2 essere l'uso di app di navigazione GPS installate sul proprio smartphone.",
+    "source_lang": "French",
+    "target_lang": "Italian",
+    "source_text": "L'utilisation d'applications de navigation par GPS sur votre smartphone peut \u00eatre le moyen le plus simple et le plus pratique pour vos d\u00e9placements en dehors de votre pays de r\u00e9sidence."
+  },
+  {
+    "id": 119,
+    "prompt": "Translate this to Italian: Il peut permettre d\u2019\u00e9conomiser de l\u2019argent en achetant de nouvelles cartes pour un GPS ou un appareil GPS autonome, ou bien en en louant un aupr\u00e8s d\u2019une soci\u00e9t\u00e9 de location de voitures.",
+    "reference": "Pu\u00f2 essere pi\u00f9 economico che non acquistare nuove carte per il GPS o un dispositivo GPS autonomo, o noleggiarne uno presso un autonoleggio.",
+    "source_lang": "French",
+    "target_lang": "Italian",
+    "source_text": "Il peut permettre d\u2019\u00e9conomiser de l\u2019argent en achetant de nouvelles cartes pour un GPS ou un appareil GPS autonome, ou bien en en louant un aupr\u00e8s d\u2019une soci\u00e9t\u00e9 de location de voitures."
+  },
+  {
+    "id": 120,
+    "prompt": "Translate this to Italian: Si vous n\u2019avez pas de connexion de donn\u00e9es sur votre t\u00e9l\u00e9phone, ou s\u2019il est hors de port\u00e9e, ses performances peuvent \u00eatre limit\u00e9es ou indisponibles.",
+    "reference": "Il funzionamento del telefono pu\u00f2 risultare limitato o impossibile se non \u00e8 disponibile una connessione dati o se questa \u00e8 fuori portata.",
+    "source_lang": "French",
+    "target_lang": "Italian",
+    "source_text": "Si vous n\u2019avez pas de connexion de donn\u00e9es sur votre t\u00e9l\u00e9phone, ou s\u2019il est hors de port\u00e9e, ses performances peuvent \u00eatre limit\u00e9es ou indisponibles."
+  },
+  {
+    "id": 121,
+    "prompt": "Translate this to Italian: Chaque magasin du coin est rempli d'une panoplie d\u00e9routante de cartes t\u00e9l\u00e9phoniques pr\u00e9pay\u00e9es qui peuvent \u00eatre utilis\u00e9es \u00e0 partir de t\u00e9l\u00e9phones payants ou de t\u00e9l\u00e9phones ordinaires.",
+    "reference": "Ogni negozio all'angolo offre una complessa variet\u00e0 di schede telefoniche prepagate, che possono essere usate sia dalle cabine telefoniche che dai normali telefoni.",
+    "source_lang": "French",
+    "target_lang": "Italian",
+    "source_text": "Chaque magasin du coin est rempli d'une panoplie d\u00e9routante de cartes t\u00e9l\u00e9phoniques pr\u00e9pay\u00e9es qui peuvent \u00eatre utilis\u00e9es \u00e0 partir de t\u00e9l\u00e9phones payants ou de t\u00e9l\u00e9phones ordinaires."
+  },
+  {
+    "id": 122,
+    "prompt": "Translate this to Italian: Si la plupart des cartes permettent d'appeler partout, certaines sont sp\u00e9cialis\u00e9es dans l'offre de tarifs avantageux pour des groupes de pays sp\u00e9cifiques.",
+    "reference": "Sebbene la maggior parte delle carte vadano bene per chiamare qualunque Paese, alcune si specializzano nel fornire tariffe di chiamata vantaggiose verso gruppi di Paesi specifici.",
+    "source_lang": "French",
+    "target_lang": "Italian",
+    "source_text": "Si la plupart des cartes permettent d'appeler partout, certaines sont sp\u00e9cialis\u00e9es dans l'offre de tarifs avantageux pour des groupes de pays sp\u00e9cifiques."
+  },
+  {
+    "id": 123,
+    "prompt": "Translate this to Italian: L\u2019acc\u00e8s \u00e0 ces services se fait souvent par le biais d\u2019un num\u00e9ro de t\u00e9l\u00e9phone gratuit qui peut \u00eatre appel\u00e9 sans frais depuis presque tous les t\u00e9l\u00e9phones.",
+    "reference": "L'accesso a questi servizi avviene di solito tramite un numero verde che \u00e8 possibile chiamare gratuitamente da quasi tutti i telefoni.",
+    "source_lang": "French",
+    "target_lang": "Italian",
+    "source_text": "L\u2019acc\u00e8s \u00e0 ces services se fait souvent par le biais d\u2019un num\u00e9ro de t\u00e9l\u00e9phone gratuit qui peut \u00eatre appel\u00e9 sans frais depuis presque tous les t\u00e9l\u00e9phones."
+  },
+  {
+    "id": 124,
+    "prompt": "Translate this to Italian: Les r\u00e8gles concernant la photographie r\u00e9guli\u00e8re s'appliquent \u00e9galement \u00e0 l'enregistrement vid\u00e9o, voire m\u00eame davantage.",
+    "reference": "Le regole della fotografia tradizionale si applicano anche alla registrazione video, e non solo.",
+    "source_lang": "French",
+    "target_lang": "Italian",
+    "source_text": "Les r\u00e8gles concernant la photographie r\u00e9guli\u00e8re s'appliquent \u00e9galement \u00e0 l'enregistrement vid\u00e9o, voire m\u00eame davantage."
+  },
+  {
+    "id": 125,
+    "prompt": "Translate this to Italian: S'il est interdit de prendre une simple photo de quelque chose, il ne faut m\u00eame pas penser \u00e0 en enregistrer une vid\u00e9o.",
+    "reference": "Se \u00e8 presente il divieto di scattare foto, non dovreste nemmeno considerare la possibilit\u00e0 di registrare un video.",
+    "source_lang": "French",
+    "target_lang": "Italian",
+    "source_text": "S'il est interdit de prendre une simple photo de quelque chose, il ne faut m\u00eame pas penser \u00e0 en enregistrer une vid\u00e9o."
+  },
+  {
+    "id": 126,
+    "prompt": "Translate this to Italian: Si vous utilisez un drone, v\u00e9rifiez bien \u00e0 l'avance ce que vous \u00eates autoris\u00e9 \u00e0 filmer et quels permis ou licences suppl\u00e9mentaires sont n\u00e9cessaires.",
+    "reference": "Se si utilizza un drone, occorre controllare con adeguato anticipo cosa si pu\u00f2 filmare e che tipo di permessi o licenze aggiuntive sono richieste.",
+    "source_lang": "French",
+    "target_lang": "Italian",
+    "source_text": "Si vous utilisez un drone, v\u00e9rifiez bien \u00e0 l'avance ce que vous \u00eates autoris\u00e9 \u00e0 filmer et quels permis ou licences suppl\u00e9mentaires sont n\u00e9cessaires."
+  },
+  {
+    "id": 127,
+    "prompt": "Translate this to Italian: Faire voler un drone pr\u00e8s d\u2019un a\u00e9roport ou au-dessus d\u2019une foule est presque toujours une mauvaise id\u00e9e, m\u00eame si ce n\u2019est pas ill\u00e9gal dans votre r\u00e9gion.",
+    "reference": "Pilotare un drone in prossimit\u00e0 di un aeroporto o sopra zone affollate \u00e8 generalmente una scelta infelice, anche se non \u00e8 considerata una pratica illegale nella tua regione.",
+    "source_lang": "French",
+    "target_lang": "Italian",
+    "source_text": "Faire voler un drone pr\u00e8s d\u2019un a\u00e9roport ou au-dessus d\u2019une foule est presque toujours une mauvaise id\u00e9e, m\u00eame si ce n\u2019est pas ill\u00e9gal dans votre r\u00e9gion."
+  },
+  {
+    "id": 128,
+    "prompt": "Translate this to Italian: De nos jours, il est rare que les gens r\u00e9servent leur vol directement via la compagnie a\u00e9rienne sans avoir pr\u00e9alablement recherch\u00e9 et compar\u00e9 les prix.",
+    "reference": "Oggigiorno \u00e8 raro prenotare i voli direttamente con la compagnia aerea senza prima cercare e confrontare i prezzi.",
+    "source_lang": "French",
+    "target_lang": "Italian",
+    "source_text": "De nos jours, il est rare que les gens r\u00e9servent leur vol directement via la compagnie a\u00e9rienne sans avoir pr\u00e9alablement recherch\u00e9 et compar\u00e9 les prix."
+  },
+  {
+    "id": 129,
+    "prompt": "Translate this to Italian: Un m\u00eame vol peut parfois pr\u00e9senter de grandes disparit\u00e9s tarifaires entre les agr\u00e9gateurs ; avant de r\u00e9server, il est donc avantageux de comparer les r\u00e9sultats des recherches ainsi que de consulter le site web de la compagnie a\u00e9rienne elle-m\u00eame.",
+    "reference": "Talvolta lo stesso volo pu\u00f2 apparire con prezzi ampiamente diversi nei diversi aggregatori e prima di prenotare vale la pena di confrontare i risultati e di consultare il sito web della compagnia.",
+    "source_lang": "French",
+    "target_lang": "Italian",
+    "source_text": "Un m\u00eame vol peut parfois pr\u00e9senter de grandes disparit\u00e9s tarifaires entre les agr\u00e9gateurs ; avant de r\u00e9server, il est donc avantageux de comparer les r\u00e9sultats des recherches ainsi que de consulter le site web de la compagnie a\u00e9rienne elle-m\u00eame."
+  },
+  {
+    "id": 130,
+    "prompt": "Translate this to Italian: Si vous n\u2019avez pas besoin de visa pour des s\u00e9jours de courte dur\u00e9e dans certains pays en tant que touriste ou pour le voyage d'affaires, le fait d\u2019y aller en tant qu\u2019\u00e9tudiant \u00e9tranger n\u00e9cessite g\u00e9n\u00e9ralement un s\u00e9jour plus long que celui d\u2019un simple touriste.",
+    "reference": "Anche se come turista o per un viaggio d'affari potrebbe non essere necessario un visto per brevi visite in determinati Paesi, il soggiorno in veste di studente internazionale generalmente richiede una permanenza pi\u00f9 lunga rispetto a quella di un turista occasionale.",
+    "source_lang": "French",
+    "target_lang": "Italian",
+    "source_text": "Si vous n\u2019avez pas besoin de visa pour des s\u00e9jours de courte dur\u00e9e dans certains pays en tant que touriste ou pour le voyage d'affaires, le fait d\u2019y aller en tant qu\u2019\u00e9tudiant \u00e9tranger n\u00e9cessite g\u00e9n\u00e9ralement un s\u00e9jour plus long que celui d\u2019un simple touriste."
+  },
+  {
+    "id": 131,
+    "prompt": "Translate this to Italian: En g\u00e9n\u00e9ral, pour s\u00e9journer dans un pays \u00e9tranger sur une longue p\u00e9riode, vous devez obtenir au pr\u00e9alable un visa.",
+    "reference": "In linea di massima, la permanenza in qualsiasi Paese straniero per un periodo di tempo prolungato richiede l'ottenimento di un visto in anticipo.",
+    "source_lang": "French",
+    "target_lang": "Italian",
+    "source_text": "En g\u00e9n\u00e9ral, pour s\u00e9journer dans un pays \u00e9tranger sur une longue p\u00e9riode, vous devez obtenir au pr\u00e9alable un visa."
+  },
+  {
+    "id": 132,
+    "prompt": "Translate this to Italian: Les proc\u00e9dures de demande et exigences en mati\u00e8re de visas \u00e9tudiants sont g\u00e9n\u00e9ralement diff\u00e9rentes de celles des visas standard de tourisme ou d'affaires.",
+    "reference": "I requisiti e le procedure di richiesta previsti per i visti per studenti solitamente sono diversi da quelli per i normali visti turistici o d'affari.",
+    "source_lang": "French",
+    "target_lang": "Italian",
+    "source_text": "Les proc\u00e9dures de demande et exigences en mati\u00e8re de visas \u00e9tudiants sont g\u00e9n\u00e9ralement diff\u00e9rentes de celles des visas standard de tourisme ou d'affaires."
+  },
+  {
+    "id": 133,
+    "prompt": "Translate this to Italian: Pour la plupart des pays, vous aurez besoin d\u2019une lettre d'acceptation de l\u2019\u00e9tablissement dans lequel vous souhaitez \u00e9tudier, ainsi que d\u2019une preuve de fonds suffisants pour subvenir \u00e0 vos besoins au moins pendant la premi\u00e8re ann\u00e9e de votre cursus.",
+    "reference": "Per gran parte dei Paesi, sar\u00e0 necessaria una lettera di offerta da parte dell'istituto presso cui si desidera studiare, oltre a dover dimostrare di avere i fondi sufficienti a mantenersi per almeno il primo anno di corso.",
+    "source_lang": "French",
+    "target_lang": "Italian",
+    "source_text": "Pour la plupart des pays, vous aurez besoin d\u2019une lettre d'acceptation de l\u2019\u00e9tablissement dans lequel vous souhaitez \u00e9tudier, ainsi que d\u2019une preuve de fonds suffisants pour subvenir \u00e0 vos besoins au moins pendant la premi\u00e8re ann\u00e9e de votre cursus."
+  },
+  {
+    "id": 134,
+    "prompt": "Translate this to Italian: Pour le d\u00e9tail des conditions, voyez aupr\u00e8s de l\u2019\u00e9tablissement ainsi que du service d\u2019immigration du pays dans lequel vous souhaitez \u00e9tudier.",
+    "reference": "Per maggiori dettagli sui prerequisiti, rivolgersi all'istituto e al dipartimento d'immigrazione del Paese in cui si desidera studiare.",
+    "source_lang": "French",
+    "target_lang": "Italian",
+    "source_text": "Pour le d\u00e9tail des conditions, voyez aupr\u00e8s de l\u2019\u00e9tablissement ainsi que du service d\u2019immigration du pays dans lequel vous souhaitez \u00e9tudier."
+  },
+  {
+    "id": 135,
+    "prompt": "Translate this to Italian: \u00c0 moins que vous ne soyez un diplomate, travailler \u00e0 l\u2019\u00e9tranger signifie g\u00e9n\u00e9ralement que vous devrez remplir la d\u00e9claration d\u2019imp\u00f4ts sur le revenu dans le pays o\u00f9 vous \u00eates bas\u00e9.",
+    "reference": "Ad eccezione dei diplomatici, quando si lavora all'estero in genere si deve presentare l'imposta sul reddito nel Paese in cui si ha la residenza.",
+    "source_lang": "French",
+    "target_lang": "Italian",
+    "source_text": "\u00c0 moins que vous ne soyez un diplomate, travailler \u00e0 l\u2019\u00e9tranger signifie g\u00e9n\u00e9ralement que vous devrez remplir la d\u00e9claration d\u2019imp\u00f4ts sur le revenu dans le pays o\u00f9 vous \u00eates bas\u00e9."
+  },
+  {
+    "id": 136,
+    "prompt": "Translate this to Italian: L'imp\u00f4t sur le revenu est structur\u00e9 diff\u00e9remment dans diff\u00e9rents pays, et les taux d'imposition et les tranches d'imposition varient largement d'un pays \u00e0 l'autre.",
+    "reference": "L'imposta sul reddito \u00e8 calcolata in modo diverso a seconda del Paese, con aliquote e scaglioni che variano da un Paese all'altro.",
+    "source_lang": "French",
+    "target_lang": "Italian",
+    "source_text": "L'imp\u00f4t sur le revenu est structur\u00e9 diff\u00e9remment dans diff\u00e9rents pays, et les taux d'imposition et les tranches d'imposition varient largement d'un pays \u00e0 l'autre."
+  },
+  {
+    "id": 137,
+    "prompt": "Translate this to Italian: Dans certains pays f\u00e9d\u00e9raux tels que les \u00c9tats-Unis et le Canada, l'imp\u00f4t sur le revenu est pr\u00e9lev\u00e9 \u00e0 la fois au niveau f\u00e9d\u00e9ral et au niveau local, de sorte que les taux et les tranches d'imposition peuvent varier d'une r\u00e9gion \u00e0 l'autre.",
+    "reference": "In alcuni Paesi federali come gli Stati Uniti e il Canada, l'imposta sul reddito \u00e8 riscossa a livello sia federale che locale, per cui possono esserci variazioni nelle aliquote e negli scaglioni di reddito da regione a regione.",
+    "source_lang": "French",
+    "target_lang": "Italian",
+    "source_text": "Dans certains pays f\u00e9d\u00e9raux tels que les \u00c9tats-Unis et le Canada, l'imp\u00f4t sur le revenu est pr\u00e9lev\u00e9 \u00e0 la fois au niveau f\u00e9d\u00e9ral et au niveau local, de sorte que les taux et les tranches d'imposition peuvent varier d'une r\u00e9gion \u00e0 l'autre."
+  },
+  {
+    "id": 138,
+    "prompt": "Translate this to Italian: Alors que le contr\u00f4le de l'immigration est g\u00e9n\u00e9ralement absent ou constitue une formalit\u00e9 \u00e0 l'arriv\u00e9e dans votre pays d'origine, le contr\u00f4le douanier peut \u00eatre une source de tracas.",
+    "reference": "Se il controllo immigrazione \u00e8 di solito assente o solo una formalit\u00e0 al ritorno in patria, i controlli doganali possono rivelarsi una scocciatura.",
+    "source_lang": "French",
+    "target_lang": "Italian",
+    "source_text": "Alors que le contr\u00f4le de l'immigration est g\u00e9n\u00e9ralement absent ou constitue une formalit\u00e9 \u00e0 l'arriv\u00e9e dans votre pays d'origine, le contr\u00f4le douanier peut \u00eatre une source de tracas."
+  },
+  {
+    "id": 139,
+    "prompt": "Translate this to Italian: Assurez-vous de savoir ce que vous pouvez et ne pouvez pas apporter, et d\u00e9clarez tout ce qui d\u00e9passe les limites l\u00e9gales.",
+    "reference": "Assicurarsi di sapere cosa \u00e8 possibile portare con s\u00e9 e cosa invece \u00e8 vietato, e di dichiarare tutto ci\u00f2 che va oltre i limiti consentiti dalla legge.",
+    "source_lang": "French",
+    "target_lang": "Italian",
+    "source_text": "Assurez-vous de savoir ce que vous pouvez et ne pouvez pas apporter, et d\u00e9clarez tout ce qui d\u00e9passe les limites l\u00e9gales."
+  },
+  {
+    "id": 140,
+    "prompt": "Translate this to Italian: Le moyen le plus simple de se lancer dans la r\u00e9daction d\u2019articles de voyage est de se perfectionner sur un blogue de voyage bien \u00e9tabli.",
+    "reference": "Il modo pi\u00f9 semplice per partire nel campo della scrittura di viaggio \u00e8 quello di perfezionare le proprie abilit\u00e0 con un sito web di blog di viaggi affermato.",
+    "source_lang": "French",
+    "target_lang": "Italian",
+    "source_text": "Le moyen le plus simple de se lancer dans la r\u00e9daction d\u2019articles de voyage est de se perfectionner sur un blogue de voyage bien \u00e9tabli."
+  },
+  {
+    "id": 141,
+    "prompt": "Translate this to Italian: Apr\u00e8s, et seulement apr\u00e8s avoir ma\u00eetris\u00e9 le formatage et la r\u00e9vision en ligne, vous pourrez cr\u00e9er votre propre site internet.",
+    "reference": "Una volta acquisita dimestichezza con la formattazione e l'editing sul web, allora sar\u00e0 possibile creare il proprio sito web.",
+    "source_lang": "French",
+    "target_lang": "Italian",
+    "source_text": "Apr\u00e8s, et seulement apr\u00e8s avoir ma\u00eetris\u00e9 le formatage et la r\u00e9vision en ligne, vous pourrez cr\u00e9er votre propre site internet."
+  },
+  {
+    "id": 142,
+    "prompt": "Translate this to Italian: Le b\u00e9n\u00e9volat en voyage est un excellent moyen de faire une diff\u00e9rence, mais il ne s\u2019agit pas seulement de donner.",
+    "reference": "Fare opere di volontariato durante un viaggio \u00e8 un modo eccellente per fare la differenza, ma non consiste solo nel dare.",
+    "source_lang": "French",
+    "target_lang": "Italian",
+    "source_text": "Le b\u00e9n\u00e9volat en voyage est un excellent moyen de faire une diff\u00e9rence, mais il ne s\u2019agit pas seulement de donner."
+  },
+  {
+    "id": 143,
+    "prompt": "Translate this to Italian: Vivre et faire du b\u00e9n\u00e9volat dans un pays \u00e9tranger est une excellente fa\u00e7on de d\u00e9couvrir une culture diff\u00e9rente, de rencontrer de nouvelles personnes, d'apprendre \u00e0 se conna\u00eetre soi-m\u00eame, \u00e0 acqu\u00e9rir de nouvelles perspectives et m\u00eame de nouvelles comp\u00e9tences.",
+    "reference": "Vivere e fare volontariato all'estero \u00e8 un ottimo modo per sperimentare una cultura diversa, incontrare nuove persone, conoscere meglio se stessi, ampliare le proprie prospettive e acquisire nuove capacit\u00e0.",
+    "source_lang": "French",
+    "target_lang": "Italian",
+    "source_text": "Vivre et faire du b\u00e9n\u00e9volat dans un pays \u00e9tranger est une excellente fa\u00e7on de d\u00e9couvrir une culture diff\u00e9rente, de rencontrer de nouvelles personnes, d'apprendre \u00e0 se conna\u00eetre soi-m\u00eame, \u00e0 acqu\u00e9rir de nouvelles perspectives et m\u00eame de nouvelles comp\u00e9tences."
+  },
+  {
+    "id": 144,
+    "prompt": "Translate this to Italian: Cela peut \u00e9galement \u00eatre un bon moyen d'\u00e9tirer un budget pour permettre un s\u00e9jour plus long quelque part, car de nombreux emplois de b\u00e9n\u00e9voles offrent le g\u00eete et le couvert et certains versent un petit salaire.",
+    "reference": "Pu\u00f2 essere un buon modo per aumentare il proprio budget e permettersi un soggiorno pi\u00f9 lungo, dato che molti lavori di volontariato offrono vitto e alloggio e alcuni prevedono anche un piccolo stipendio.",
+    "source_lang": "French",
+    "target_lang": "Italian",
+    "source_text": "Cela peut \u00e9galement \u00eatre un bon moyen d'\u00e9tirer un budget pour permettre un s\u00e9jour plus long quelque part, car de nombreux emplois de b\u00e9n\u00e9voles offrent le g\u00eete et le couvert et certains versent un petit salaire."
+  },
+  {
+    "id": 145,
+    "prompt": "Translate this to Italian: Les Vikings ont utilis\u00e9 les voies navigables russes pour atteindre la mer Noire et la mer Caspienne. Certaines parties de ces itin\u00e9raires peuvent toujours \u00eatre utilis\u00e9es. V\u00e9rifiez la n\u00e9cessit\u00e9 \u00e9ventuelle de permis sp\u00e9ciaux, qui peuvent \u00eatre difficiles \u00e0 obtenir.",
+    "reference": "I vichinghi utilizzavano i corsi d'acqua russi per raggiungere il Mar Nero e il Mar Caspio. \u00c8 ancora possibile usare alcune di queste rotte. Potrebbero essere necessari dei permessi speciali, talvolta difficili da ottenere.",
+    "source_lang": "French",
+    "target_lang": "Italian",
+    "source_text": "Les Vikings ont utilis\u00e9 les voies navigables russes pour atteindre la mer Noire et la mer Caspienne. Certaines parties de ces itin\u00e9raires peuvent toujours \u00eatre utilis\u00e9es. V\u00e9rifiez la n\u00e9cessit\u00e9 \u00e9ventuelle de permis sp\u00e9ciaux, qui peuvent \u00eatre difficiles \u00e0 obtenir."
+  },
+  {
+    "id": 146,
+    "prompt": "Translate this to Italian: Le canal de la mer Blanche relie l'oc\u00e9an Arctique \u00e0 la mer Baltique, via le lac Onega, le lac Ladoga et Saint-P\u00e9tersbourg, passant principalement par les rivi\u00e8res et les lacs.",
+    "reference": "Il canale Mar Bianco-Mar Baltico collega il Mar Glaciale Artico al Mar Baltico passando per il lago Onega, il lago Ladoga e San Pietroburgo, nella maggior parte dei casi attraverso fiumi e laghi.",
+    "source_lang": "French",
+    "target_lang": "Italian",
+    "source_text": "Le canal de la mer Blanche relie l'oc\u00e9an Arctique \u00e0 la mer Baltique, via le lac Onega, le lac Ladoga et Saint-P\u00e9tersbourg, passant principalement par les rivi\u00e8res et les lacs."
+  },
+  {
+    "id": 147,
+    "prompt": "Translate this to Italian: Le lac Onega est \u00e9galement reli\u00e9 \u00e0 la Volga, de sorte qu'il est encore possible de venir de la mer Caspienne en passant par la Russie.",
+    "reference": "Il lago Onega \u00e8 inoltre collegato al Volga: in questo modo giungere dal Mar Caspio attraverso la Russia \u00e8 ancora possibile.",
+    "source_lang": "French",
+    "target_lang": "Italian",
+    "source_text": "Le lac Onega est \u00e9galement reli\u00e9 \u00e0 la Volga, de sorte qu'il est encore possible de venir de la mer Caspienne en passant par la Russie."
+  },
+  {
+    "id": 148,
+    "prompt": "Translate this to Italian: Rassurez-vous\u00a0: une fois que vous aurez atteint les ports de plaisance, tout sera clair. Vous rencontrerez d'autres auto-stoppeurs, qui vous feront part de leurs informations.",
+    "reference": "Una volta raggiunti i porti turistici, tutto sar\u00e0 piuttosto ovvio. Sar\u00e0 possibile incontrare altri autostoppisti delle barche che saranno felici di condividere le loro informazioni.",
+    "source_lang": "French",
+    "target_lang": "Italian",
+    "source_text": "Rassurez-vous\u00a0: une fois que vous aurez atteint les ports de plaisance, tout sera clair. Vous rencontrerez d'autres auto-stoppeurs, qui vous feront part de leurs informations."
+  },
+  {
+    "id": 149,
+    "prompt": "Translate this to Italian: Fondamentalement, vous afficherez des annonces pour proposer votre aide, arpenterez les quais, aborderez les personnes nettoyant leurs yachts, essayerez de faire connaissance avec des navigateurs au bar, etc.",
+    "reference": "Di base, dovrai distribuire avvisi in cui offri il tuo aiuto, passeggiare su e gi\u00f9 per le banchine, approcciarti alle persone che puliscono i loro yacht, cercare di entrare in contatto con i marinai al bar, eccetera.",
+    "source_lang": "French",
+    "target_lang": "Italian",
+    "source_text": "Fondamentalement, vous afficherez des annonces pour proposer votre aide, arpenterez les quais, aborderez les personnes nettoyant leurs yachts, essayerez de faire connaissance avec des navigateurs au bar, etc."
+  },
+  {
+    "id": 150,
+    "prompt": "Translate this to Italian: Essayez de parler au plus grand nombre de personnes possible. Au bout d\u2019un certain temps, tout le monde vous conna\u00eetra et vous donnera des indications sur le bateau qui cherche quelqu\u2019un.",
+    "reference": "Cercate di parlare con quante pi\u00f9 persone possibile. Dopo un po\u2019 chiunque vi conoscer\u00e0 e vi dar\u00e0 indicazioni su quali imbarcazioni stanno cercando.",
+    "source_lang": "French",
+    "target_lang": "Italian",
+    "source_text": "Essayez de parler au plus grand nombre de personnes possible. Au bout d\u2019un certain temps, tout le monde vous conna\u00eetra et vous donnera des indications sur le bateau qui cherche quelqu\u2019un."
+  },
+  {
+    "id": 151,
+    "prompt": "Translate this to Italian: Vous devez choisir avec soin votre compagnie a\u00e9rienne Frequent Flyer dans le cadre d'une alliance.",
+    "reference": "\u00c8 bene scegliere con attenzione la compagnia all'interno di un'alleanza aerea per il frequent flyer.",
+    "source_lang": "French",
+    "target_lang": "Italian",
+    "source_text": "Vous devez choisir avec soin votre compagnie a\u00e9rienne Frequent Flyer dans le cadre d'une alliance."
+  },
+  {
+    "id": 152,
+    "prompt": "Translate this to Italian: M\u00eame si vous pensez qu\u2019il est intuitif de rejoindre la compagnie a\u00e9rienne avec laquelle vous voyagez le plus, vous devez savoir que les privil\u00e8ges offerts sont souvent diff\u00e9rents et que le syst\u00e8me de points de fid\u00e9lit\u00e9 peut \u00eatre plus g\u00e9n\u00e9reux avec une autre compagnie de la m\u00eame alliance.",
+    "reference": "Nonostante si possa pensare che sia opportuno iscriversi presso la compagnia aerea con cui si vola di pi\u00f9, \u00e8 bene considerare che i vantaggi offerti sono spesso diversi e i punti per i frequent flyer potrebbero essere maggiori presso una compagnia diversa della stessa alleanza.",
+    "source_lang": "French",
+    "target_lang": "Italian",
+    "source_text": "M\u00eame si vous pensez qu\u2019il est intuitif de rejoindre la compagnie a\u00e9rienne avec laquelle vous voyagez le plus, vous devez savoir que les privil\u00e8ges offerts sont souvent diff\u00e9rents et que le syst\u00e8me de points de fid\u00e9lit\u00e9 peut \u00eatre plus g\u00e9n\u00e9reux avec une autre compagnie de la m\u00eame alliance."
+  },
+  {
+    "id": 153,
+    "prompt": "Translate this to Italian: Les compagnies a\u00e9riennes telles que Airlines such as Emirates, Etihad Airways, Qatar Airways et Turkish Airlines ont grandement d\u00e9velopp\u00e9 leur offres en Afrique, et offrent des liaisons vers les villes africaines majeures \u00e0 des tarifs comp\u00e9titifs compar\u00e9s aux autres compagnies a\u00e9riennes europ\u00e9ennes.",
+    "reference": "Linee aeree come Emirates, Etihad Airways, Qatar Airways e Turkish Airlines hanno molto intensificato i propri servizi in Africa e, a prezzi concorrenziali rispetto ad altre compagnie europee, offrono collegamenti con molte importanti citt\u00e0 africane.",
+    "source_lang": "French",
+    "target_lang": "Italian",
+    "source_text": "Les compagnies a\u00e9riennes telles que Airlines such as Emirates, Etihad Airways, Qatar Airways et Turkish Airlines ont grandement d\u00e9velopp\u00e9 leur offres en Afrique, et offrent des liaisons vers les villes africaines majeures \u00e0 des tarifs comp\u00e9titifs compar\u00e9s aux autres compagnies a\u00e9riennes europ\u00e9ennes."
+  },
+  {
+    "id": 154,
+    "prompt": "Translate this to Italian: En 2014 la compagnie Turkish Airlines dessert 39\u00a0destinations dans 30 pays d'Afrique.",
+    "reference": "Dal 2014, la Turkish Airlines raggiunge 39 destinazioni in 30 Paesi africani.",
+    "source_lang": "French",
+    "target_lang": "Italian",
+    "source_text": "En 2014 la compagnie Turkish Airlines dessert 39\u00a0destinations dans 30 pays d'Afrique."
+  },
+  {
+    "id": 155,
+    "prompt": "Translate this to Italian: Si vous avez plus de temps pour voyager, comparez le prix total du billet vers l'Afrique avec le prix d'un billet pour faire le tour du monde.",
+    "reference": "Se hai pi\u00f9 tempo per il viaggio, puoi confrontare la tua tariffa totale per l\u2019Africa con la tariffa del giro del mondo.",
+    "source_lang": "French",
+    "target_lang": "Italian",
+    "source_text": "Si vous avez plus de temps pour voyager, comparez le prix total du billet vers l'Afrique avec le prix d'un billet pour faire le tour du monde."
+  },
+  {
+    "id": 156,
+    "prompt": "Translate this to Italian: N'oubliez pas d'ajouter les frais suppl\u00e9mentaires de visas, de taxes de d\u00e9part, de transport terrestre, etc. pour tous ces endroits en dehors de l'Afrique.",
+    "reference": "Non dimenticate di calcolare i costi supplementari per visti aggiuntivi, tasse di uscita, trasporti di terra e altro per tutte le localit\u00e0 all'esterno dell'Africa.",
+    "source_lang": "French",
+    "target_lang": "Italian",
+    "source_text": "N'oubliez pas d'ajouter les frais suppl\u00e9mentaires de visas, de taxes de d\u00e9part, de transport terrestre, etc. pour tous ces endroits en dehors de l'Afrique."
+  },
+  {
+    "id": 157,
+    "prompt": "Translate this to Italian: Si vous voulez faire le tour du monde en avion en restant uniquement dans l'h\u00e9misph\u00e8re sud, le choix des vols et des destinations sera limit\u00e9 \u00e0 cause du manque de routes transoc\u00e9aniques.",
+    "reference": "Se si desidera volare nell'intero emisfero australe, si ha una scelta limitata di voli e di destinazioni a causa della mancanza di tratte transoceaniche.",
+    "source_lang": "French",
+    "target_lang": "Italian",
+    "source_text": "Si vous voulez faire le tour du monde en avion en restant uniquement dans l'h\u00e9misph\u00e8re sud, le choix des vols et des destinations sera limit\u00e9 \u00e0 cause du manque de routes transoc\u00e9aniques."
+  },
+  {
+    "id": 158,
+    "prompt": "Translate this to Italian: Il n\u2019existe aucune alliance de compagnies a\u00e9riennes couvrant les jonctions des trois oc\u00e9ans de l\u2019h\u00e9misph\u00e8re sud (et SkyTeam ne couvre aucune d\u2019entre elles).",
+    "reference": "Nessuna alleanza aerea copre tutti e tre gli attraversamenti oceanici nell'emisfero sud (e SkyTeam non ne copre nessuno).",
+    "source_lang": "French",
+    "target_lang": "Italian",
+    "source_text": "Il n\u2019existe aucune alliance de compagnies a\u00e9riennes couvrant les jonctions des trois oc\u00e9ans de l\u2019h\u00e9misph\u00e8re sud (et SkyTeam ne couvre aucune d\u2019entre elles)."
+  },
+  {
+    "id": 159,
+    "prompt": "Translate this to Italian: Cependant, Star Alliance couvre tout sauf le Pacifique Sud oriental de Santiago du Chili \u00e0 Tahiti, qui est un vol LATAM Oneworld.",
+    "reference": "Tuttavia, il voli Star Alliance coprono quasi tutto, tranne il Pacifico orientale meridionale da Santiago del Cile fino a Tahiti: questa zona \u00e8 coperta dalla LATAM Oneworld.",
+    "source_lang": "French",
+    "target_lang": "Italian",
+    "source_text": "Cependant, Star Alliance couvre tout sauf le Pacifique Sud oriental de Santiago du Chili \u00e0 Tahiti, qui est un vol LATAM Oneworld."
+  },
+  {
+    "id": 160,
+    "prompt": "Translate this to Italian: Ce vol n\u2019est pas la seule option si vous voulez \u00e9viter le Pacifique Sud et la c\u00f4te ouest de l\u2019Am\u00e9rique du Sud. (voir ci-dessous)",
+    "reference": "Se si preferisce evitare il Pacifico meridionale e la costa occidentale del Sud America (vedere sotto), esistono altre possibilit\u00e0, oltre a questo volo.",
+    "source_lang": "French",
+    "target_lang": "Italian",
+    "source_text": "Ce vol n\u2019est pas la seule option si vous voulez \u00e9viter le Pacifique Sud et la c\u00f4te ouest de l\u2019Am\u00e9rique du Sud. (voir ci-dessous)"
+  },
+  {
+    "id": 161,
+    "prompt": "Translate this to Italian: En 1994, la r\u00e9gion azerba\u00efdjanaise du Haut-Karabakh, ethniquement arm\u00e9nienne, a men\u00e9 une guerre contre les Az\u00e9ris.",
+    "reference": "Nel 1994 la regione azerbaigiana del Nagorno Karabakh, a maggioranza armena, dichiar\u00f2 guerra contro gli azeri.",
+    "source_lang": "French",
+    "target_lang": "Italian",
+    "source_text": "En 1994, la r\u00e9gion azerba\u00efdjanaise du Haut-Karabakh, ethniquement arm\u00e9nienne, a men\u00e9 une guerre contre les Az\u00e9ris."
+  },
+  {
+    "id": 162,
+    "prompt": "Translate this to Italian: Avec le soutien de l'Arm\u00e9nie, une nouvelle r\u00e9publique a \u00e9t\u00e9 cr\u00e9\u00e9e. Cependant, aucune nation \u00e9tablie, pas m\u00eame l'Arm\u00e9nie, ne la reconna\u00eet officiellement.",
+    "reference": "Con il sostegno armeno \u00e8 stata costituita una nuova repubblica, che tuttavia non \u00e8 riconosciuta ufficialmente da nessuna nazione consolidata, neanche dall'Armenia.",
+    "source_lang": "French",
+    "target_lang": "Italian",
+    "source_text": "Avec le soutien de l'Arm\u00e9nie, une nouvelle r\u00e9publique a \u00e9t\u00e9 cr\u00e9\u00e9e. Cependant, aucune nation \u00e9tablie, pas m\u00eame l'Arm\u00e9nie, ne la reconna\u00eet officiellement."
+  },
+  {
+    "id": 163,
+    "prompt": "Translate this to Italian: Les incidents diplomatiques sur la r\u00e9gion continuent d'entacher les relations entre l'Arm\u00e9nie et l'Azerba\u00efdjan.",
+    "reference": "Le relazioni tra Armenia e Azerbaijan continuano ad essere compromesse dalle discussioni a livello diplomatico sulla regione.",
+    "source_lang": "French",
+    "target_lang": "Italian",
+    "source_text": "Les incidents diplomatiques sur la r\u00e9gion continuent d'entacher les relations entre l'Arm\u00e9nie et l'Azerba\u00efdjan."
+  },
+  {
+    "id": 164,
+    "prompt": "Translate this to Italian: Le quartier du canal (Grachtengordel en n\u00e9erlandais) est le c\u00e9l\u00e8bre quartier du XVIIe si\u00e8cle qui entoure la Binnenstad d'Amsterdam.",
+    "reference": "Il quartiere dei canali (in olandese Grachtengordel) \u00e8 il celebre quartiere risalente al XVII secolo che circonda il Binnenstad di Amsterdam.",
+    "source_lang": "French",
+    "target_lang": "Italian",
+    "source_text": "Le quartier du canal (Grachtengordel en n\u00e9erlandais) est le c\u00e9l\u00e8bre quartier du XVIIe si\u00e8cle qui entoure la Binnenstad d'Amsterdam."
+  },
+  {
+    "id": 165,
+    "prompt": "Translate this to Italian: Tout le quartier est inscrit au patrimoine mondial de l'UNESCO pour sa valeur culturelle et historique unique, et les prix de l'immobilier y sont parmi les plus \u00e9lev\u00e9s du pays.",
+    "reference": "L'intero quartiere \u00e8 dichiarato patrimonio mondiale dall'UNESCO per il suo valore culturale e storico senza eguali. Inoltre, il suo valore immobiliare \u00e8 tra i pi\u00f9 alti del Paese.",
+    "source_lang": "French",
+    "target_lang": "Italian",
+    "source_text": "Tout le quartier est inscrit au patrimoine mondial de l'UNESCO pour sa valeur culturelle et historique unique, et les prix de l'immobilier y sont parmi les plus \u00e9lev\u00e9s du pays."
+  },
+  {
+    "id": 166,
+    "prompt": "Translate this to Italian: Cinque Terre, qui signifie Cinq Terres, comprend les cinq petits villages c\u00f4tiers de Riomaggiore, Manarola, Corniglia, Vernazza et Monterosso dans la r\u00e9gion italienne de la Ligurie.",
+    "reference": "Situate nella regione Liguria, in Italia, le Cinque Terre abbracciano le cinque piccole citt\u00e0 costiere di Riomaggiore, Manarola, Corniglia, Vernazza e Monterosso.",
+    "source_lang": "French",
+    "target_lang": "Italian",
+    "source_text": "Cinque Terre, qui signifie Cinq Terres, comprend les cinq petits villages c\u00f4tiers de Riomaggiore, Manarola, Corniglia, Vernazza et Monterosso dans la r\u00e9gion italienne de la Ligurie."
+  },
+  {
+    "id": 167,
+    "prompt": "Translate this to Italian: Ils sont inscrits sur la liste du patrimoine mondial de l\u2019UNESCO.",
+    "reference": "Fanno parte della lista del Patrimonio mondiale dell'UNESCO.",
+    "source_lang": "French",
+    "target_lang": "Italian",
+    "source_text": "Ils sont inscrits sur la liste du patrimoine mondial de l\u2019UNESCO."
+  },
+  {
+    "id": 168,
+    "prompt": "Translate this to Italian: Au fil des si\u00e8cles, les gens ont soigneusement construit des terrasses sur le paysage accident\u00e9 et escarp\u00e9 jusqu'aux falaises qui surplombent la mer.",
+    "reference": "Nel corso dei secoli, gli abitanti di questi luoghi hanno costruito con perizia delle terrazze per sfruttare queste terre accidentate e ripide, costruendo fino sulle scogliere che si affacciano sul mare.",
+    "source_lang": "French",
+    "target_lang": "Italian",
+    "source_text": "Au fil des si\u00e8cles, les gens ont soigneusement construit des terrasses sur le paysage accident\u00e9 et escarp\u00e9 jusqu'aux falaises qui surplombent la mer."
+  },
+  {
+    "id": 169,
+    "prompt": "Translate this to Italian: Une partie de son charme r\u00e9side dans l'absence de d\u00e9veloppement visible des entreprises. Des chemins, des trains et des bateaux relient les villages, et les voitures en provenance de l'ext\u00e9rieur ne peuvent y acc\u00e9der.",
+    "reference": "La mancanza di uno sviluppo societario concreto \u00e8 parte del suo fascino. Sentieri, treni e barche collegano i villaggi, non raggiungibili con l'auto.",
+    "source_lang": "French",
+    "target_lang": "Italian",
+    "source_text": "Une partie de son charme r\u00e9side dans l'absence de d\u00e9veloppement visible des entreprises. Des chemins, des trains et des bateaux relient les villages, et les voitures en provenance de l'ext\u00e9rieur ne peuvent y acc\u00e9der."
+  },
+  {
+    "id": 170,
+    "prompt": "Translate this to Italian: Les variantes du fran\u00e7ais pratiqu\u00e9es en Belgique et en Suisse diff\u00e8rent l\u00e9g\u00e8rement du fran\u00e7ais parl\u00e9 en France, bien qu'elles soient suffisamment similaires pour \u00eatre mutuellement intelligibles.",
+    "reference": "Le varianti del francese parlate in Belgio e Svizzera si discostano lievemente dal francese parlato in Francia, pur essendo sufficientemente simili da essere reciprocamente comprensibili.",
+    "source_lang": "French",
+    "target_lang": "Italian",
+    "source_text": "Les variantes du fran\u00e7ais pratiqu\u00e9es en Belgique et en Suisse diff\u00e8rent l\u00e9g\u00e8rement du fran\u00e7ais parl\u00e9 en France, bien qu'elles soient suffisamment similaires pour \u00eatre mutuellement intelligibles."
+  },
+  {
+    "id": 171,
+    "prompt": "Translate this to Italian: Le syst\u00e8me de num\u00e9rotation de la Belgique et de la Suisse francophones pr\u00e9sente notamment quelques petites particularit\u00e9s qui diff\u00e8rent du fran\u00e7ais parl\u00e9 en France, et la prononciation de certains mots est l\u00e9g\u00e8rement diff\u00e9rente.",
+    "reference": "In particolare, nel Belgio e nella Svizzera francofoni il sistema di numerazione ha alcune sottili peculiarit\u00e0, che lo differenziano da quello del francese parlato in Francia, inoltre la pronuncia di alcune parole \u00e8 un po' diversa.",
+    "source_lang": "French",
+    "target_lang": "Italian",
+    "source_text": "Le syst\u00e8me de num\u00e9rotation de la Belgique et de la Suisse francophones pr\u00e9sente notamment quelques petites particularit\u00e9s qui diff\u00e8rent du fran\u00e7ais parl\u00e9 en France, et la prononciation de certains mots est l\u00e9g\u00e8rement diff\u00e9rente."
+  },
+  {
+    "id": 172,
+    "prompt": "Translate this to Italian: N\u00e9anmoins, tous les Belges et les Suisses francophones auraient appris le fran\u00e7ais standard \u00e0 l'\u00e9cole, de sorte qu'ils seraient en mesure de vous comprendre m\u00eame si vous utilisiez le syst\u00e8me de num\u00e9rotation fran\u00e7ais standard.",
+    "reference": "Ciononostante, il belgi e gli svizzeri di lingua francese a scuola studiano il francese standard, quindi sono in grado di capirvi anche se usate il sistema di numerazione del francese standard.",
+    "source_lang": "French",
+    "target_lang": "Italian",
+    "source_text": "N\u00e9anmoins, tous les Belges et les Suisses francophones auraient appris le fran\u00e7ais standard \u00e0 l'\u00e9cole, de sorte qu'ils seraient en mesure de vous comprendre m\u00eame si vous utilisiez le syst\u00e8me de num\u00e9rotation fran\u00e7ais standard."
+  },
+  {
+    "id": 173,
+    "prompt": "Translate this to Italian: Dans de nombreuses r\u00e9gions du monde, faire un signe de la main est un geste amical signifiant \u00ab\u2009bonjour\u2009\u00bb.",
+    "reference": "In varie parti del mondo, salutare con la mano \u00e8 un gesto cordiale che significa \"ciao\".",
+    "source_lang": "French",
+    "target_lang": "Italian",
+    "source_text": "Dans de nombreuses r\u00e9gions du monde, faire un signe de la main est un geste amical signifiant \u00ab\u2009bonjour\u2009\u00bb."
+  },
+  {
+    "id": 174,
+    "prompt": "Translate this to Italian: En revanche, en Malaisie, du moins chez les Malais des zones rurales, cela signifie \u00ab viens par ici \u00bb, comme le fait de plier l'index vers soi, geste utilis\u00e9 dans certains pays occidentaux, et il ne devrait \u00eatre utilis\u00e9 qu'en ce sens.",
+    "reference": "Tuttavia, in Malesia, o quanto meno nelle zone rurali, esso ha il significato di \"vieni qui\", proprio come il dito indice flesso verso il corpo, un gesto utilizzato in alcuni Paesi occidentali, e dovrebbe essere utilizzato solo a tale scopo.",
+    "source_lang": "French",
+    "target_lang": "Italian",
+    "source_text": "En revanche, en Malaisie, du moins chez les Malais des zones rurales, cela signifie \u00ab viens par ici \u00bb, comme le fait de plier l'index vers soi, geste utilis\u00e9 dans certains pays occidentaux, et il ne devrait \u00eatre utilis\u00e9 qu'en ce sens."
+  },
+  {
+    "id": 175,
+    "prompt": "Translate this to Italian: De m\u00eame, un voyageur britannique en Espagne pourrait confondre un signe d'adieu fait par une personne qui tourne la paume de sa main vers elle-m\u00eame (plut\u00f4t que vers la personne \u00e0 qui elle adresse le signe) avec une invitation \u00e0 revenir.",
+    "reference": "Analogamente, un viaggiatore britannico in Spagna pu\u00f2 confondere un gesto di addio fatto con il palmo rivolto verso la persona che sta salutando (e non verso la persona che viene salutata) come un gesto che indica di tornare indietro.",
+    "source_lang": "French",
+    "target_lang": "Italian",
+    "source_text": "De m\u00eame, un voyageur britannique en Espagne pourrait confondre un signe d'adieu fait par une personne qui tourne la paume de sa main vers elle-m\u00eame (plut\u00f4t que vers la personne \u00e0 qui elle adresse le signe) avec une invitation \u00e0 revenir."
+  },
+  {
+    "id": 176,
+    "prompt": "Translate this to Italian: Les langues auxiliaires sont des langues, artificielles ou construites, cr\u00e9\u00e9es dans le but de faciliter la communication entre des peuples qui, autrement, auraient des difficult\u00e9s \u00e0 communiquer.",
+    "reference": "I linguaggi ausiliari sono linguaggi artificiali o costruiti, creati con l\u2019intento di facilitare la comunicazione tra popoli i quali in caso contrario avrebbero difficolt\u00e0 a comunicare tra loro.",
+    "source_lang": "French",
+    "target_lang": "Italian",
+    "source_text": "Les langues auxiliaires sont des langues, artificielles ou construites, cr\u00e9\u00e9es dans le but de faciliter la communication entre des peuples qui, autrement, auraient des difficult\u00e9s \u00e0 communiquer."
+  },
+  {
+    "id": 177,
+    "prompt": "Translate this to Italian: Elles sont distinctes des langues v\u00e9hiculaires, qui sont des langues naturelles ou organiques qui deviennent dominantes pour une raison ou une autre en tant que moyen de communication entre les locuteurs d'autres langues.",
+    "reference": "Si distinguono dalle lingue franche, lingue naturali o organiche che, per un motivo o per un altro, divengono la lingua dominante per la comunicazione tra persone di lingua diversa.",
+    "source_lang": "French",
+    "target_lang": "Italian",
+    "source_text": "Elles sont distinctes des langues v\u00e9hiculaires, qui sont des langues naturelles ou organiques qui deviennent dominantes pour une raison ou une autre en tant que moyen de communication entre les locuteurs d'autres langues."
+  },
+  {
+    "id": 178,
+    "prompt": "Translate this to Italian: Avec la chaleur de la journ\u00e9e, les voyageurs peuvent apercevoir des mirages qui donnent l'illusion de l'eau (ou d'autres choses).",
+    "reference": "A causa del calore del giorno, pu\u00f2 succedere ai viaggiatori di sperimentare i miraggi, che danno l'illusione di vedere dell'acqua (o altro).",
+    "source_lang": "French",
+    "target_lang": "Italian",
+    "source_text": "Avec la chaleur de la journ\u00e9e, les voyageurs peuvent apercevoir des mirages qui donnent l'illusion de l'eau (ou d'autres choses)."
+  },
+  {
+    "id": 179,
+    "prompt": "Translate this to Italian: Celles-ci peuvent \u00eatre dangereuses si le voyageur poursuit le mirage, gaspillant ainsi une \u00e9nergie pr\u00e9cieuse et l\u2019eau restante.",
+    "reference": "Possono essere pericolosi: se il viaggiatore rincorre il miraggio, consumer\u00e0 energia preziosa e l\u2019acqua residua.",
+    "source_lang": "French",
+    "target_lang": "Italian",
+    "source_text": "Celles-ci peuvent \u00eatre dangereuses si le voyageur poursuit le mirage, gaspillant ainsi une \u00e9nergie pr\u00e9cieuse et l\u2019eau restante."
+  },
+  {
+    "id": 180,
+    "prompt": "Translate this to Italian: M\u00eame le plus chaud des d\u00e9serts peut devenir extr\u00eamement froid la nuit. L'hypothermie est un risque r\u00e9el si vous n'avez pas de v\u00eatements chauds.",
+    "reference": "Anche il deserto pi\u00f9 caldo la notte pu\u00f2 diventare estremamente freddo. Senza indumenti caldi esiste un rischio reale di ipotermia.",
+    "source_lang": "French",
+    "target_lang": "Italian",
+    "source_text": "M\u00eame le plus chaud des d\u00e9serts peut devenir extr\u00eamement froid la nuit. L'hypothermie est un risque r\u00e9el si vous n'avez pas de v\u00eatements chauds."
+  },
+  {
+    "id": 181,
+    "prompt": "Translate this to Italian: C'est surtout en \u00e9t\u00e9 qu'il vous faudra faire attention aux moustiques si vous comptez faire de la randonn\u00e9e en for\u00eat tropicale.",
+    "reference": "Soprattutto in estate, se si prevedono escursioni nella foresta pluviale, \u00e8 necessario fare attenzione alle zanzare.",
+    "source_lang": "French",
+    "target_lang": "Italian",
+    "source_text": "C'est surtout en \u00e9t\u00e9 qu'il vous faudra faire attention aux moustiques si vous comptez faire de la randonn\u00e9e en for\u00eat tropicale."
+  },
+  {
+    "id": 182,
+    "prompt": "Translate this to Italian: M\u00eame si vous conduisez dans la for\u00eat tropicale, quelques secondes avec les portes ouvertes pendant que vous montez dans le v\u00e9hicule suffisent pour que les moustiques montent dans le v\u00e9hicule avec vous.",
+    "reference": "Anche se guidate nella foresta pluviale subtropicale, bastano pochi secondi con le porte aperte quando si sale sul veicolo per far entrare le zanzare a bordo.",
+    "source_lang": "French",
+    "target_lang": "Italian",
+    "source_text": "M\u00eame si vous conduisez dans la for\u00eat tropicale, quelques secondes avec les portes ouvertes pendant que vous montez dans le v\u00e9hicule suffisent pour que les moustiques montent dans le v\u00e9hicule avec vous."
+  },
+  {
+    "id": 183,
+    "prompt": "Translate this to Italian: La grippe aviaire, ou de mani\u00e8re plus formelle l'influenza aviaire, peut infecter \u00e0 la fois les oiseaux et les mammif\u00e8res.",
+    "reference": "L'influenza degli uccelli, o pi\u00f9 formalmente influenza aviaria, pu\u00f2 contagiare tanto gli uccelli quanto i mammiferi.",
+    "source_lang": "French",
+    "target_lang": "Italian",
+    "source_text": "La grippe aviaire, ou de mani\u00e8re plus formelle l'influenza aviaire, peut infecter \u00e0 la fois les oiseaux et les mammif\u00e8res."
+  },
+  {
+    "id": 184,
+    "prompt": "Translate this to Italian: Moins d'un millier de cas ont \u00e9t\u00e9 rapport\u00e9s chez les humains, mais certains ont \u00e9t\u00e9 mortels.",
+    "reference": "Negli esseri umani sono stati segnalati meno di mille casi, ma alcuni di questi si sono rivelati mortali.",
+    "source_lang": "French",
+    "target_lang": "Italian",
+    "source_text": "Moins d'un millier de cas ont \u00e9t\u00e9 rapport\u00e9s chez les humains, mais certains ont \u00e9t\u00e9 mortels."
+  },
+  {
+    "id": 185,
+    "prompt": "Translate this to Italian: La plupart impliquaient des personnes qui travaillent avec des volailles, mais il existe \u00e9galement un certain risque pour les observateurs d'oiseaux.",
+    "reference": "La maggioranza di casi ha riguardato allevatori di pollame, ma esiste un certo rischio anche per gli osservatori di uccelli.",
+    "source_lang": "French",
+    "target_lang": "Italian",
+    "source_text": "La plupart impliquaient des personnes qui travaillent avec des volailles, mais il existe \u00e9galement un certain risque pour les observateurs d'oiseaux."
+  },
+  {
+    "id": 186,
+    "prompt": "Translate this to Italian: Les fjords et les vall\u00e9es escarp\u00e9es qui c\u00e8dent soudainement la place \u00e0 un haut plateau plus ou moins r\u00e9gulier sont typiques de la Norv\u00e8ge.",
+    "reference": "I fiordi e le valli scoscese, tipici della Norvegia, lasciano improvvisamente il posto a un altopiano pi\u00f9 o meno uniforme.",
+    "source_lang": "French",
+    "target_lang": "Italian",
+    "source_text": "Les fjords et les vall\u00e9es escarp\u00e9es qui c\u00e8dent soudainement la place \u00e0 un haut plateau plus ou moins r\u00e9gulier sont typiques de la Norv\u00e8ge."
+  },
+  {
+    "id": 187,
+    "prompt": "Translate this to Italian: Ces plateaux sont souvent appel\u00e9s \u00ab\u2009vidde\u2009\u00bb, pour d\u00e9signer un vaste espace sans arbre, une \u00e9tendue sans limites.",
+    "reference": "Questi altopiani sono spesso chiamati \"vidde\", che vuol dire un ampio spazio aperto privo di alberi, una distesa sterminata.",
+    "source_lang": "French",
+    "target_lang": "Italian",
+    "source_text": "Ces plateaux sont souvent appel\u00e9s \u00ab\u2009vidde\u2009\u00bb, pour d\u00e9signer un vaste espace sans arbre, une \u00e9tendue sans limites."
+  },
+  {
+    "id": 188,
+    "prompt": "Translate this to Italian: Dans le Rogaland et \u00e0 Adger, ils sont souvent qualifi\u00e9s de \u00ab hei \u00bb, ce qui signifie landes d\u00e9bois\u00e9es souvent couvertes de bruy\u00e8re.",
+    "reference": "Nel Rogaland e nell'Agder vengono generalmente chiamati \"hei\", termine che indica una brughiera priva di alberi di solito ricoperta di erica.",
+    "source_lang": "French",
+    "target_lang": "Italian",
+    "source_text": "Dans le Rogaland et \u00e0 Adger, ils sont souvent qualifi\u00e9s de \u00ab hei \u00bb, ce qui signifie landes d\u00e9bois\u00e9es souvent couvertes de bruy\u00e8re."
+  },
+  {
+    "id": 189,
+    "prompt": "Translate this to Italian: Les glaciers ne sont pas stables, mais se d\u00e9tachent de la montagne. Cela provoque des fissures, des crevasses, qui peuvent \u00eatre obscurcies par des ponts de neige.",
+    "reference": "I ghiacciai non sono stabili, ma si muovono verso il basso lungo la montagna. Questo d\u00e0 luogo alla formazione di crepe, voragini, crepacci, che a volte restano nascosti da ponti di neve.",
+    "source_lang": "French",
+    "target_lang": "Italian",
+    "source_text": "Les glaciers ne sont pas stables, mais se d\u00e9tachent de la montagne. Cela provoque des fissures, des crevasses, qui peuvent \u00eatre obscurcies par des ponts de neige."
+  },
+  {
+    "id": 190,
+    "prompt": "Translate this to Italian: Les murs et les toits des grottes de glace peuvent s\u2019effondrer et les fissures se refermer.",
+    "reference": "Le pareti e il soffitto delle caverne di ghiaccio sono soggetti a crolli e le crepe possono richiudersi.",
+    "source_lang": "French",
+    "target_lang": "Italian",
+    "source_text": "Les murs et les toits des grottes de glace peuvent s\u2019effondrer et les fissures se refermer."
+  },
+  {
+    "id": 191,
+    "prompt": "Translate this to Italian: Au bord des glaciers, d'immenses blocs se d\u00e9tachent, tombent, et peut-\u00eatre rebondissent ou roulent en s'\u00e9loignant du bord.",
+    "reference": "Dai margini dei ghiacciai si staccano enormi blocchi, che poi cadono e a volte si allontanano dal ghiacciaio sobbalzando o rotolando.",
+    "source_lang": "French",
+    "target_lang": "Italian",
+    "source_text": "Au bord des glaciers, d'immenses blocs se d\u00e9tachent, tombent, et peut-\u00eatre rebondissent ou roulent en s'\u00e9loignant du bord."
+  },
+  {
+    "id": 192,
+    "prompt": "Translate this to Italian: La saison touristique des stations de montagne culmine g\u00e9n\u00e9ralement pendant l'\u00e9t\u00e9 indien.",
+    "reference": "Il picco della stagione turistica per le destinazioni collinari si verifica normalmente durante l'estate indiana.",
+    "source_lang": "French",
+    "target_lang": "Italian",
+    "source_text": "La saison touristique des stations de montagne culmine g\u00e9n\u00e9ralement pendant l'\u00e9t\u00e9 indien."
+  },
+  {
+    "id": 193,
+    "prompt": "Translate this to Italian: Cependant, leur beaut\u00e9 et leur charme \u00e9voluent en hiver, avec de nombreuses stations de montagne pourvues de bonnes quantit\u00e9s de neige et proposant des activit\u00e9s telles que le ski et le snowboard.",
+    "reference": "Hanno tuttavia una bellezza e un fascino diversi durante l'inverno, quando periodo in cui diverse stazioni di collina sono ricoperte da una buona quantit\u00e0 di neve e sono possibili attivit\u00e0 come lo sci e lo snowboard.",
+    "source_lang": "French",
+    "target_lang": "Italian",
+    "source_text": "Cependant, leur beaut\u00e9 et leur charme \u00e9voluent en hiver, avec de nombreuses stations de montagne pourvues de bonnes quantit\u00e9s de neige et proposant des activit\u00e9s telles que le ski et le snowboard."
+  },
+  {
+    "id": 194,
+    "prompt": "Translate this to Italian: Seules quelques compagnies a\u00e9riennes proposent encore des tarifs de deuil, qui r\u00e9duisent l\u00e9g\u00e8rement le co\u00fbt des voyages fun\u00e9raires de derni\u00e8re minute.",
+    "reference": "Solo un ristretto numero di compagnie aeree offre ancora tariffe per i viaggi dovuti a un lutto, offrendo piccoli sconti in caso di viaggi legati a un lutto improvviso.",
+    "source_lang": "French",
+    "target_lang": "Italian",
+    "source_text": "Seules quelques compagnies a\u00e9riennes proposent encore des tarifs de deuil, qui r\u00e9duisent l\u00e9g\u00e8rement le co\u00fbt des voyages fun\u00e9raires de derni\u00e8re minute."
+  },
+  {
+    "id": 195,
+    "prompt": "Translate this to Italian: Les compagnies a\u00e9riennes qui les proposent sont notamment Air Canada, Delta Air Lines, Lufthansa pour les vols en provenance des \u00c9tats-Unis ou du Canada, et WestJet.",
+    "reference": "Tra le compagnie aeree che possono offrire questo servizio ci sono Air Canada, Delta Air Lines, Lufthansa (per i voli in partenza da Stati Uniti o Canada) e WestJet.",
+    "source_lang": "French",
+    "target_lang": "Italian",
+    "source_text": "Les compagnies a\u00e9riennes qui les proposent sont notamment Air Canada, Delta Air Lines, Lufthansa pour les vols en provenance des \u00c9tats-Unis ou du Canada, et WestJet."
+  },
+  {
+    "id": 196,
+    "prompt": "Translate this to Italian: Dans tous les cas, vous devez r\u00e9server par t\u00e9l\u00e9phone directement aupr\u00e8s de la compagnie a\u00e9rienne.",
+    "reference": "In ogni caso, \u00e8 necessario effettuare una prenotazione telefonica direttamente presso la compagnia aerea.",
+    "source_lang": "French",
+    "target_lang": "Italian",
+    "source_text": "Dans tous les cas, vous devez r\u00e9server par t\u00e9l\u00e9phone directement aupr\u00e8s de la compagnie a\u00e9rienne."
+  },
+  {
+    "id": 197,
+    "prompt": "Translate this to Italian: \u00ab\u00a0Nous avons \u00e0 pr\u00e9sent des souris de 4\u00a0mois qui ne sont pas diab\u00e9tiques alors qu'elles l'\u00e9taient auparavant\u00a0\u00bb, a-t-il ajout\u00e9.",
+    "reference": "\"Abbiamo topi di quattro mesi che prima erano diabetici e ora non lo sono pi\u00f9\", ha aggiunto.",
+    "source_lang": "French",
+    "target_lang": "Italian",
+    "source_text": "\u00ab\u00a0Nous avons \u00e0 pr\u00e9sent des souris de 4\u00a0mois qui ne sont pas diab\u00e9tiques alors qu'elles l'\u00e9taient auparavant\u00a0\u00bb, a-t-il ajout\u00e9."
+  },
+  {
+    "id": 198,
+    "prompt": "Translate this to Italian: Le Dr Ehud Ur, professeur de m\u00e9decine \u00e0 l'Universit\u00e9 Dalhousie de Halifax (Nouvelle-\u00c9cosse) et pr\u00e9sident de la division clinique et scientifique de l'Association canadienne du diab\u00e8te, a averti que la recherche en \u00e9tait encore \u00e0 ses d\u00e9buts.",
+    "reference": "Lo studio \u00e8 ancora in fase iniziale, come dichiarato cautelativamente dal dottor Ehud Ur, professore di medicina alla Dalhousie University di Halifax, Nuova Scozia, e direttore del dipartimento clinico e scientifico della Canadian Diabetes Association.",
+    "source_lang": "French",
+    "target_lang": "Italian",
+    "source_text": "Le Dr Ehud Ur, professeur de m\u00e9decine \u00e0 l'Universit\u00e9 Dalhousie de Halifax (Nouvelle-\u00c9cosse) et pr\u00e9sident de la division clinique et scientifique de l'Association canadienne du diab\u00e8te, a averti que la recherche en \u00e9tait encore \u00e0 ses d\u00e9buts."
+  },
+  {
+    "id": 199,
+    "prompt": "Translate this to Italian: \u00c0 l'instar d'autres experts, il se montre sceptique quant \u00e0 la possibilit\u00e9 de gu\u00e9rir le diab\u00e8te, faisant remarquer que ces r\u00e9sultats ne sont pas applicables aux personnes qui souffrent d\u00e9j\u00e0 de diab\u00e8te de type 1.",
+    "reference": "Come altri esperti, \u00e8 scettico circa la possibilit\u00e0 di curare il diabete, sottolineando che questi risultati non hanno rilevanza per chi \u00e8 gi\u00e0 affetto dal diabete di tipo 1.",
+    "source_lang": "French",
+    "target_lang": "Italian",
+    "source_text": "\u00c0 l'instar d'autres experts, il se montre sceptique quant \u00e0 la possibilit\u00e9 de gu\u00e9rir le diab\u00e8te, faisant remarquer que ces r\u00e9sultats ne sont pas applicables aux personnes qui souffrent d\u00e9j\u00e0 de diab\u00e8te de type 1."
+  }
+]
