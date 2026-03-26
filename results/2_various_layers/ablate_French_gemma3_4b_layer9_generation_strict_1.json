@@ -1,0 +1,1559 @@
+{
+  "config": {
+    "intervention": "ablate",
+    "language": "French",
+    "strengths": [
+      0.0,
+      0.25,
+      0.5,
+      1.0,
+      2.0,
+      6.0
+    ],
+    "eval_path": "generation_strict/french_200.json",
+    "n_samples": 50,
+    "keep_k": 1,
+    "max_new_tokens": 128,
+    "model_name": "google/gemma-3-4b-it",
+    "sae_release": "gemma-scope-2-4b-pt-res",
+    "sae_id": "layer_9_width_65k_l0_medium",
+    "layer": 9,
+    "n_feature_sentences": 100,
+    "features": [
+      8044
+    ]
+  },
+  "timestamp": "20260325_085940",
+  "results": [
+    {
+      "strength": 0.0,
+      "generations": [
+        {
+          "id": 0,
+          "prompt": "Answer only in French: Give me a list of the best high fantasy books or series that I should read",
+          "generation": "Absolument ! Voici une liste de quelques-uns des meilleurs livres et séries de fantasy épique que vous devriez absolument lire, classés par ordre approximatif de difficulté et de complexité :\n\n**Classiques Indémodables :**\n\n*   **Le Seigneur des Anneaux** de J.R.R. Tolkien : Le pilier de la fantasy épique. Un voyage inoubliable à la découverte d'un monde riche et complexe.\n*   **Dune** de Frank Herbert : Une saga complexe et ambitieuse, explorant la politique, la religion, l'écologie et l'"
+        },
+        {
+          "id": 1,
+          "prompt": "Answer only in French: Give me a list of summer activities for an 8-year-old.",
+          "generation": "Bien sûr ! Voici une liste d'activités d'été pour un enfant de 8 ans :\n\n*   **Aller à la plage :** Baignade, châteaux de sable, jeux de vagues.\n*   **Visiter un parc d'attractions ou un parc aquatique :**  Des sensations fortes garanties !\n*   **Faire du vélo :** Explorez les environs à vélo.\n*   **Organiser un pique-nique :** Dans un parc, au bord d'un lac, ou même dans le jardin.\n*   **Jouer au ballon ou"
+        },
+        {
+          "id": 2,
+          "prompt": "Answer only in French: Write a description of your favorite place to visit in San Francisco and why you like it so much.",
+          "generation": "Mon endroit préféré à San Francisco, sans hésitation, c'est le Golden Gate Park. J'adore cet immense parc pour tellement de raisons. D'abord, il y a une atmosphère incroyablement paisible et verdoyante, un véritable havre de paix au cœur de la ville. On peut se promener sur ses sentiers, observer les écureuils, admirer les fleurs dans le Japanese Tea Garden, ou simplement s'asseoir sur l'herbe et profiter du soleil. \n\nEnsuite, il y a une diversité incroyable d'activités : le California Academy of Sciences est fascinant,"
+        },
+        {
+          "id": 3,
+          "prompt": "Answer only in French: If a straight line passes through the points (4,2) and (8,6) then where does it cross the x axis? Explain your answer.",
+          "generation": "La droite passe par les points (4,2) et (8,6).  Pour trouver l'endroit où elle croise l'axe des x, nous devons déterminer l'ordonnée à l'origine (l'endroit où y=0).\n\nTout d'abord, calculons la pente (m) de la droite :\n\nm = (y2 - y1) / (x2 - x1) = (6 - 2) / (8 - 4) = 4 / 4 = 1\n\nMaintenant, utilisons la forme point-pente de l'équation d'"
+        },
+        {
+          "id": 4,
+          "prompt": "Answer only in French: Why is WiFi such a popular way to implement a home network?",
+          "generation": "Le WiFi est devenu la méthode la plus populaire pour créer un réseau domestique pour plusieurs raisons :\n\n*   **Facilité d'installation et d'utilisation :** Contrairement aux câbles Ethernet qui nécessitent une installation physique complexe, le WiFi est généralement simple à configurer et à utiliser. La plupart des routeurs WiFi modernes sont conçus pour être plug-and-play.\n*   **Mobilité :** Le WiFi permet aux appareils (ordinateurs portables, smartphones, tablettes) de se connecter au réseau sans être physiquement liés par un câble. Cela offre une grande liberté de mouvement dans la maison."
+        },
+        {
+          "id": 5,
+          "prompt": "Answer only in French: Give me a bulleted list of tech billionaires.",
+          "generation": "Voici une liste non exhaustive de milliardaires technologiques, classés par ordre alphabétique :\n\n*   **Elon Musk:** (Tesla, SpaceX, X)\n*   **Mark Zuckerberg:** (Meta - Facebook, Instagram, WhatsApp)\n*   **Bill Gates:** (Microsoft)\n*   **Jeff Bezos:** (Amazon)\n*   **Larry Page:** (Google - Alphabet)\n*   **Sergey Brin:** (Google - Alphabet)\n*   **Jack Dorsey:** (Twitter - X)\n*   **Steve Wozniak:** (Apple - co-fondateur)\n*   **"
+        },
+        {
+          "id": 6,
+          "prompt": "Answer only in French: Write a paragraph of a blog post describing the appeal of a weekend stay at Blue Ridge Parkway?",
+          "generation": "Bien sûr, voici un paragraphe pour un article de blog décrivant l'attrait d'un week-end sur la Blue Ridge Parkway :\n\n\"La Blue Ridge Parkway est une invitation à la détente et à la beauté brute. Imaginez-vous, un week-end, à vous enfoncer dans les montagnes, loin du tumulte de la ville. Les routes sinueuses offrent des vues à couper le souffle sur des forêts luxuriantes, des cascades scintillantes et des panoramas de collines ondulantes. C'est un endroit idéal pour la randonnée, le pique-nique, l'observation des oiseaux"
+        },
+        {
+          "id": 7,
+          "prompt": "Answer only in French: How can I read and write data with Delta Lake?",
+          "generation": "Voici comment lire et écrire des données avec Delta Lake, en français :\n\n**Écriture (Writing Data):**\n\n1. **Utiliser `df.write()`:** C'est la méthode principale pour écrire des DataFrames Delta Lake.  Elle offre de nombreuses options pour contrôler le format et la structure du tableau Delta.\n\n   * **Syntaxe de base:** `df.write.format(\"delta\").mode(\"overwrite\").save(\"chemin/vers/le/tableau.delta\")`\n\n   * **`format(\"delta\")`:**  Indique que vous écrivez dans un format Delta Lake."
+        },
+        {
+          "id": 8,
+          "prompt": "Answer only in French: Why should you workout in the morning if you work remotely ?",
+          "generation": "Travailler à domicile peut rendre difficile de maintenir une routine d'exercice. Faire du sport le matin peut être particulièrement bénéfique pour plusieurs raisons :\n\n*   **Établir une routine:** Commencer la journée par l'exercice vous aide à créer une habitude solide et à vous engager dans votre journée de travail avec plus d'énergie et de concentration.\n*   **Meilleure concentration:** L'exercice matinal stimule la production d'endorphines, ce qui peut améliorer votre humeur et votre clarté mentale, vous aidant ainsi à être plus productif tout au long de la journée"
+        },
+        {
+          "id": 9,
+          "prompt": "Answer only in French: Give me some ideas of activities to do in Romania",
+          "generation": "Bien sûr ! Voici quelques idées d'activités à faire en Roumanie, classées par catégories :\n\n**Nature & Aventure:**\n\n*   **Parc National de Piatra Craiului:** Randonnée, escalade, observation de la faune et de la flore.\n*   **Delta du Danube:** Excursion en bateau, observation des oiseaux, pêche, kayak.\n*   **Muntenia (région des Carpates):** Randonnée dans les montagnes, VTT, parapente, canyoning.\n*   **Lacul Bâlea:** Randonnée jusqu'"
+        },
+        {
+          "id": 10,
+          "prompt": "Answer only in French: You are a product manager at an enterprise software company Y. Your CEO has asked you to write a report on how well the company supports X capabilities. Provide a template email to send to my CEO that includes a TLDR and a link to the report. Use “<” and “>” to denote placeholder text I need to customize.",
+          "generation": "Okay, here’s a draft email in French, designed to be sent to your CEO, incorporating your requirements for a TLDR and a link to the report.\n\n**Subject: Rapport d'évaluation du support des capacités X chez Y**\n\nCher/Chère <Nom du CEO>,\n\nJ'espère que ce courriel vous trouve bien.\n\nComme vous l'avez demandé, je vous soumets un rapport d'évaluation concernant le niveau de support que Y offre actuellement aux capacités X.  Ce rapport détaille notre performance dans ce domaine, identifie les points forts et les axes d'amélioration, et propose des recommandations"
+        },
+        {
+          "id": 11,
+          "prompt": "Answer only in French: I want to develop OKRs for my team at work. What process should I use?",
+          "generation": "Absolument ! Voici une approche structurée pour développer des OKRs pour votre équipe :\n\n**1. Comprendre les OKRs (Objectifs et Résultats Clés):**\n\n*   **Objectif (Objective):** Une déclaration ambitieuse, inspirante et qualitative qui décrit *ce que* vous voulez accomplir. Il doit être motivant et donner une direction claire. (Exemple : \"Devenir un leader dans le service client.\")\n*   **Résultats Clés (Key Results):** Des mesures quantifiables qui indiquent *comment* vous allez mesurer le succès de l'objectif. Ils doivent être"
+        },
+        {
+          "id": 12,
+          "prompt": "Answer only in French: Who invented the telephone?",
+          "generation": "Alexander Graham Bell est généralement crédité de l'invention du téléphone. Cependant, Éliphas Gray a également déposé une demande de brevet pour un dispositif similaire peu de temps avant Bell. La question de l'invention du téléphone reste donc un sujet de débat."
+        },
+        {
+          "id": 13,
+          "prompt": "Answer only in French: What are the top three cloud providers.",
+          "generation": "Les trois principaux fournisseurs de services cloud sont :\n\n1.  **Amazon Web Services (AWS)**\n2.  **Microsoft Azure**\n3.  **Google Cloud Platform (GCP)**\n\nEst-ce que vous souhaitez que j'approfondisse un point particulier sur l'un de ces fournisseurs ?"
+        },
+        {
+          "id": 14,
+          "prompt": "Answer only in French: What's the difference between a turnover and a turnover on downs in the sport of American Football?",
+          "generation": "En français, voici la différence entre un \"turnover\" et un \"turnover on downs\" au football américain :\n\n*   **Turnover (échange de possession)** : C'est un terme général qui désigne la perte de possession du ballon par une équipe. Cela peut se produire de plusieurs manières :\n    *   **Interception** : Un joueur défensif attrape le ballon lancé par un joueur offensif.\n    *   **Fumble** : Un joueur offensif perd le contrôle du ballon et un joueur défensif le récupère.\n    *   **Recuperation** : Un joueur"
+        },
+        {
+          "id": 15,
+          "prompt": "Answer only in French: What are the northern lights?",
+          "generation": "Les aurores boréales, aussi appelées \"aurores polaires\", sont des phénomènes lumineux spectaculaires qui apparaissent dans le ciel nocturne, principalement dans les régions polaires. Elles sont causées par l'interaction entre les particules chargées du vent solaire et l'atmosphère terrestre. Ces particules, en entrant dans l'atmosphère, excitent les atomes et les molécules d'oxygène et d'azote, qui émettent ensuite de la lumière de différentes couleurs (vert, rouge, bleu, etc.). C'est un spectacle magnifique et fascinant!"
+        },
+        {
+          "id": 16,
+          "prompt": "Answer only in French: What are questions you can ask to get to know someone?",
+          "generation": "Bien sûr ! Voici quelques questions que vous pouvez poser pour mieux connaître quelqu'un, classées par catégories :\n\n**Questions générales pour briser la glace :**\n\n*   Comment s'est passée ta journée ?\n*   Qu'est-ce qui te passionne en ce moment ?\n*   Qu'est-ce que tu aimes faire pendant ton temps libre ?\n*   Quel est ton endroit préféré et pourquoi ?\n*   Si tu pouvais voyager n'importe où dans le monde, où irais-tu ?\n\n**Questions sur les intérêts et les valeurs :**\n\n*   Quels"
+        },
+        {
+          "id": 17,
+          "prompt": "Answer only in French: Do we live in a simulation? Argue both sides",
+          "generation": "Okay, voici une discussion sur la question de savoir si nous vivons dans une simulation, en présentant les arguments pour et contre, en français :\n\n**Argument pour : Nous vivons dans une simulation**\n\nL'idée que nous vivions dans une simulation, souvent appelée \"hypothèse de la simulation\", a gagné en popularité grâce à des arguments philosophiques et scientifiques. Voici les principaux :\n\n* **L'argument de Nick Bostrom :** C'est l'argument le plus célèbre. Bostrom postule que l'une des trois propositions suivantes doit être vraie :\n    1.  La prob"
+        },
+        {
+          "id": 18,
+          "prompt": "Answer only in French: Why Bollywood is so famous",
+          "generation": "Le cinéma Bollywood est célèbre pour plusieurs raisons, et son succès international est dû à une combinaison de facteurs :\n\n*   **Musique et Chorégraphies Spectaculaires :** Bollywood est synonyme de chansons entraînantes et de chorégraphies complexes et énergiques. La musique joue un rôle central dans les films, souvent avec plusieurs chansons par film, qui sont des moments forts et mémorables.\n\n*   **Émotions Fortes et Narrations Universelles :** Les films Bollywood racontent souvent des histoires d'amour, de famille, de destin, de lutte et de triomphe,"
+        },
+        {
+          "id": 19,
+          "prompt": "Answer only in French: Who are some of the most influential innovators of all time?",
+          "generation": "Il est difficile de dresser une liste exhaustive, mais voici quelques-uns des plus grands innovateurs de tous les temps, classés par domaines et avec quelques exemples de leurs contributions :\n\n**Sciences & Technologie:**\n\n*   **Isaac Newton:** (Physique, Mathématiques) - Lois du mouvement, calcul, optique.\n*   **Albert Einstein:** (Physique) - Théorie de la relativité, E=mc².\n*   **Marie Curie:** (Physique, Chimie) - Découverte du radium et du polonium, pionnière de la radioactivité.\n*   **Nikola Tesla:**"
+        },
+        {
+          "id": 20,
+          "prompt": "Answer only in French: How do you do a shuffle ball change tap move?",
+          "generation": "Bien sûr, voici comment réaliser un changement de tap de balle balancée (shuffle ball change tap move) :\n\n**1. La Préparation (Shuffle Ball):**\n\n*   Commencez par une balle balancée (shuffle ball) stable.  Assurez-vous qu'elle est bien en équilibre et que vous pouvez la maintenir en place avec vos mains.\n*   Positionnez la balle balancée entre vos mains, généralement à mi-chemin de vos poignets.\n\n**2. Le Déplacement Initial (Shuffle):**\n\n*   Déplacez la balle balancée d'"
+        },
+        {
+          "id": 21,
+          "prompt": "Answer only in French: Do the new shift rules in Major League Baseball make the game more exciting?",
+          "generation": "C'est une question très débattue ! Beaucoup de fans pensent que les nouvelles règles, comme la zone élargie de la plate-forme et les règles sur les relances, rendent le jeu plus rapide et plus offensif, ce qui peut être plus excitant. D'autres, en revanche, estiment que ces changements nuisent à la stratégie et à la profondeur du jeu, le rendant moins intéressant pour les spectateurs. Il n'y a pas de consensus clair, et l'impact réel dépend beaucoup de la perspective de chacun."
+        },
+        {
+          "id": 22,
+          "prompt": "Answer only in French: What are the names of Daenerys Targaryen's three dragons?",
+          "generation": "Les noms des dragons de Daenerys Targaryen sont : Drogon, Rhaegal et Viserion."
+        },
+        {
+          "id": 23,
+          "prompt": "Answer only in French: Seven Wonders of the Underwater World",
+          "generation": "Voici sept merveilles du monde sous-marin :\n\n1.  **Les récifs coralliens de Grande Barrière (Australie):** Le plus grand système de récifs coralliens au monde, un véritable jardin d'Eden sous-marin.\n\n2.  **Les grottes de São Tomé et Príncipe (Afrique):** Un réseau impressionnant de grottes sous-marines, certaines accessibles en bateau, avec des formations calcaires spectaculaires.\n\n3.  **Le site de la Ville sous-marine de Pavlopetri (Grèce):** L'une des plus anciennes villes sous"
+        },
+        {
+          "id": 24,
+          "prompt": "Answer only in French: What s epigenomics?",
+          "generation": "L'épigénomique est l'étude des modifications chimiques de l'ADN et des histones – les protéines autour desquelles l'ADN est enroulé – qui affectent l'expression des gènes sans modifier la séquence d'ADN elle-même.  En d'autres termes, c'est la façon dont l'environnement et le style de vie peuvent influencer la façon dont vos gènes fonctionnent, sans changer le code génétique de base.  Elle explore des mécanismes comme la méthylation de l'ADN et les modifications des histones qui peuvent être héritées et affecter les générations futures."
+        },
+        {
+          "id": 25,
+          "prompt": "Answer only in French: How can I lower my utility bills?",
+          "generation": "Il existe plusieurs façons de réduire vos factures d'énergie. Voici quelques pistes :\n\n*   **Isolation :** Améliorez l'isolation de votre maison (murs, toit, fenêtres) pour réduire les pertes de chaleur en hiver et la chaleur en été.\n*   **Thermostat :** Réglez votre thermostat plus bas en hiver et plus haut en été, même lorsque vous n'êtes pas à la maison.  Envisagez un thermostat programmable.\n*   **Éclairage :** Remplacez les ampoules traditionnelles par des LED, qui consomment beaucoup moins d'énergie."
+        },
+        {
+          "id": 26,
+          "prompt": "Answer only in French: Imagine a world where life expectancy is fixed and the same for everyone at birth, yet people can engage in life expectancy \"donation\" – meaning that someone can extend your life three years longer at the expense of theirs. Talk about a likely scenario in this world that involves voluntary donation.",
+          "generation": "Dans un monde où l'espérance de vie est fixée à la naissance pour tous, et où la \"donation\" d'espérance de vie est une pratique volontaire, on pourrait imaginer un scénario où la société s'est organisée autour de ce concept. \n\nL'idée dominante serait celle d'une \"balance de la vie\".  Les individus, dès l'âge adulte, sont évalués en fonction de leur \"indice de vie\" – un score basé sur leur santé, leur activité, leur contribution sociale et, surtout, leur potentiel de vie restant.  Plus on est jeune et en bonne"
+        },
+        {
+          "id": 27,
+          "prompt": "Answer only in French: Who are the pianists that are considered masters in playing Bach's music?",
+          "generation": "Il existe plusieurs pianistes considérés comme des maîtres dans l'interprétation de Bach, mais voici quelques-uns des plus fréquemment cités et respectés :\n\n*   **Maurizio Pollini :** Souvent considéré comme le plus profond et le plus intellectuel interprète de Bach au piano. Il privilégie la structure et la logique de la musique.\n*   **Alfred Brendel :**  Un autre interprète majeur, connu pour son approche personnelle et expressive, tout en restant fidèle à la rigueur de Bach.\n*   **András Schiff :**  Il est réputé pour sa clart"
+        },
+        {
+          "id": 28,
+          "prompt": "Answer only in French: What is the difference between it's and its?",
+          "generation": "La différence entre \"it's\" et \"its\" est subtile mais importante :\n\n*   **It's** est une contraction de \"it is\" ou \"it has\".  Exemple : \"It's raining\" (C'est en train de pleuvoir) ou \"It's been a long day\" (Ça a été une longue journée).\n\n*   **Its** est un possessif, comme \"his,\" \"hers,\" ou \"ours.\" Il indique la possession. Exemple : \"The dog wagged its tail\" (Le chien a remué son queue).\n\nEn résumé,"
+        },
+        {
+          "id": 29,
+          "prompt": "Answer only in French: Explain Business Intelligence",
+          "generation": "Bien sûr ! Voici une explication de la Business Intelligence (BI) en français :\n\nLa Business Intelligence (BI), ou Intelligence d'Affaires, est un ensemble de technologies, de processus et de méthodes qui permettent aux entreprises de **transformer leurs données brutes en informations exploitables et en connaissances actionnables.**  En d'autres termes, il s'agit de prendre les chiffres et les données que l'entreprise collecte et de les analyser pour comprendre ce qui se passe, identifier les tendances, et prendre des décisions plus éclairées.\n\n**Voici les principaux éléments de la BI :**\n\n* **Collecte de données"
+        },
+        {
+          "id": 30,
+          "prompt": "Answer only in French: How can I choose a favorite professional basketball team?",
+          "generation": "Choisir une équipe de basket-ball professionnelle est une décision personnelle ! Voici quelques pistes pour vous aider :\n\n*   **Regardez des matchs :** C'est le moyen le plus simple. Suivez les équipes qui jouent, observez les joueurs, l'ambiance, le style de jeu. Vous vous sentirez peut-être plus attiré par certaines équipes que d'autres.\n*   **Connaissez l'histoire de l'équipe :** Chaque équipe a une histoire unique, des moments de gloire, des déceptions. Renseignez-vous sur les joueurs emblématiques, les titres remport"
+        },
+        {
+          "id": 31,
+          "prompt": "Answer only in French: Describe a trip through the United States for a 14 day vacation in a rental car",
+          "generation": "Absolument ! Voici une proposition d'itinéraire de 14 jours aux États-Unis en voiture de location, axée sur une expérience variée et mémorable :\n\n**Thème : Du Sud Charmant à la Nature Sauvage du Nord**\n\n**Jour 1-3 : Nouvelle-Orléans, Louisiane (3 nuits)**\n\n*   **Transport :** Arrivée à l'aéroport Louis Armstrong (MSY). Récupération de la voiture de location.\n*   **Activités :** Exploration du Vieux Carré, dégustation de cuisine créole et cajun (g"
+        },
+        {
+          "id": 32,
+          "prompt": "Answer only in French: Give me a list of things that could be found on a desk",
+          "generation": "Bien sûr ! Voici une liste de choses que l'on pourrait trouver sur un bureau :\n\n*   Un ordinateur portable ou un ordinateur de bureau\n*   Un clavier et une souris\n*   Un écran d'ordinateur\n*   Un téléphone portable ou un casque\n*   Des stylos et des crayons\n*   Des stylos gel et des marqueurs\n*   Du papier (papier brouillon, papier à lettres, etc.)\n*   Des post-it\n*   Un bloc-notes\n*   Un agenda ou un calendrier\n*   Un porte-documents\n*   Des dossiers\n*"
+        },
+        {
+          "id": 33,
+          "prompt": "Answer only in French: Who is the company Roche",
+          "generation": "Roche est une multinationale suisse pharmaceutique et de diagnostics. Elle est l'une des plus grandes entreprises de ce secteur au monde. Elle développe et commercialise des médicaments et des tests diagnostiques pour la santé humaine et animale."
+        },
+        {
+          "id": 34,
+          "prompt": "Answer only in French: What are the 7 Wonders of the Solar System:",
+          "generation": "Les Sept Merveilles du Système Solaire sont généralement considérées comme :\n\n1.  **La Terre :** Pour sa vie, ses océans et sa beauté.\n2.  **Jupiter :** Pour sa taille gigantesque et sa Grande Tache Rouge.\n3.  **Saturne :** Pour ses magnifiques anneaux.\n4.  **Mars :** Pour son potentiel d'habitabilité passée et son intérêt pour la recherche de vie.\n5.  **Vénus :** Pour sa proximité avec la Terre et son atmosphère dense.\n6.  **Uranus :"
+        },
+        {
+          "id": 35,
+          "prompt": "Answer only in French: How many total fingers do most humans have?",
+          "generation": "La plupart des humains ont un total de 20 doigts."
+        },
+        {
+          "id": 36,
+          "prompt": "Answer only in French: Name some of Sweden's most famous companies",
+          "generation": "Bien sûr ! Voici quelques-unes des entreprises suédoises les plus connues :\n\n*   **Volvo** (automobile)\n*   **H&M** (vêtements)\n*   **IKEA** (meubles et articles ménagers)\n*   **Spotify** (plateforme de streaming musical)\n*   **Ericsson** (équipement télécoms)\n*   **Sandvik** (machines-outils et matériaux)\n*   **Telia** (services de télécommunications)\n*   **Klarna** (paiements en ligne)\n*   **Netflix** ("
+        },
+        {
+          "id": 37,
+          "prompt": "Answer only in French: give me a list of all the ways a person can hydrate",
+          "generation": "Bien sûr, voici une liste de toutes les façons de s'hydrater :\n\n*   **Eau:** La source la plus simple et la plus efficace.\n*   **Boissons infusées:** Eau infusée aux fruits (citron, concombre, baies), aux herbes (menthe, basilic), ou aux légumes (carotte).\n*   **Thé non sucré:** Thé vert, thé noir, thé blanc, tisanes.\n*   **Eau pétillante:** Une alternative rafraîchissante à l'eau plate.\n*   **Jus de fruits naturels (sans sucre"
+        },
+        {
+          "id": 38,
+          "prompt": "Answer only in French: Who are some students at Hogwarts in Ravenclaw house that were in the same year as Harry Potter?",
+          "generation": "Bien sûr ! Voici quelques étudiants de Ravenclaw de la même année que Harry Potter à Poudlard :\n\n*   **Luna Lovegood**\n*   **Cho Chang**\n*   **Padma Patil**\n*   **Marietta Edgecombe** (bien qu'elle ne soit pas très présente dans les livres)\n\nEst-ce que vous aimeriez en savoir plus sur l'un d'eux ?"
+        },
+        {
+          "id": 39,
+          "prompt": "Answer only in French: How long do hump back whales live?",
+          "generation": "Les baleines à bosse peuvent vivre très longtemps ! En moyenne, elles atteignent la maturité sexuelle vers 10 à 15 ans et peuvent vivre entre 50 et 80 ans, voire plus dans certains cas. Certaines ont été estimées vivre plus de 90 ans."
+        },
+        {
+          "id": 40,
+          "prompt": "Answer only in French: Is 95 degrees Fahrenheit considered to be hot weather?",
+          "generation": "Oui, 95 degrés Fahrenheit (environ 35 degrés Celsius) est considéré comme une température chaude. C'est une chaleur qui peut être inconfortable et même dangereuse, surtout en présence d'humidité."
+        },
+        {
+          "id": 41,
+          "prompt": "Answer only in French: What birds can I find in San Francisco?",
+          "generation": "À San Francisco, vous pouvez observer une grande variété d'oiseaux ! Voici quelques exemples courants :\n\n*   **Moineaux noirs** (Moineau noir) - Très communs dans les villes.\n*   **Pigeons** (Pigeons) - On les trouve partout.\n*   **Pintades** (Pintades) - Souvent près des plans d'eau.\n*   **Geais** (Geais) - On les aperçoit dans les parcs et les arbres.\n*   **Martinets** (Martinets) - Ils sont actifs et bruyants.\n*"
+        },
+        {
+          "id": 42,
+          "prompt": "Answer only in French: What is social media?",
+          "generation": "Les médias sociaux sont des plateformes en ligne qui permettent aux individus et aux groupes de se connecter, de partager des informations, des idées, des photos et des vidéos, et d'interagir entre eux. Ils incluent des sites comme Facebook, Instagram, Twitter, TikTok, et bien d'autres.  En gros, c'est un moyen de communiquer et de se connecter avec d'autres personnes à travers le monde, souvent en temps réel."
+        },
+        {
+          "id": 43,
+          "prompt": "Answer only in French: Why is summer in California so great?",
+          "generation": "L'été en Californie est génial pour plusieurs raisons ! Il y a surtout le climat : des journées ensoleillées et chaudes, souvent avec un léger brouillard matinal, sont incroyables.  Il y a aussi la diversité des activités : on peut aller à la plage, faire de la randonnée dans les montagnes, explorer les vignobles, visiter des parcs nationaux comme Yosemite ou Joshua Tree, et profiter de la vie nocturne animée des villes comme Los Angeles ou San Francisco.  Enfin, l'ambiance décontractée et l'accès à des fruits et légumes frais sont des atouts"
+        },
+        {
+          "id": 44,
+          "prompt": "Answer only in French: What is retail banking?",
+          "generation": "La banque de détail, ou banque de consommation, est une branche de la banque qui offre des services financiers directement aux particuliers. Cela inclut des services comme :\n\n*   **Comptes courants et d'épargne :** Pour gérer l'argent quotidiennement et faire fructifier les économies.\n*   **Prêts personnels :** Pour financer des achats, des travaux, ou d'autres besoins.\n*   **Crédits à la consommation :**  Comme les cartes de crédit et les prêts pour l'achat d'automobiles.\n*   **Assurances :**  Sou"
+        },
+        {
+          "id": 45,
+          "prompt": "Answer only in French: Does Starlink perform well for working on the road?",
+          "generation": "Starlink peut être une solution intéressante pour travailler en déplacement, mais son efficacité varie considérablement selon l'endroit. \n\n**En général, oui, Starlink offre une bonne connectivité internet en dehors des zones urbaines où la couverture est dense.**  Il est souvent plus stable et plus rapide que les réseaux cellulaires traditionnels dans les zones rurales ou montagneuses.\n\n**Cependant, il y a des points à considérer :**\n\n*   **La couverture n'est pas encore universelle :**  Il y a encore des zones où la couverture est faible ou inexistante. Vérifiez attentivement la carte de"
+        },
+        {
+          "id": 46,
+          "prompt": "Answer only in French: What was the first credit card",
+          "generation": "La première carte de crédit, telle que nous la connaissons aujourd'hui, est généralement considérée comme étant la **Chargeurs Intercrediétaire (Intercrediétaire)**, lancée en 1950 par une coalition de banques américaines. Elle permettait aux clients de faire des achats dans un réseau de magasins participants et de régler la facture ultérieurement auprès de leur banque."
+        },
+        {
+          "id": 47,
+          "prompt": "Answer only in French: What are some games you can play in the middle of nature and a bunch of people?",
+          "generation": "Bien sûr ! Voici quelques jeux que vous pouvez jouer en pleine nature avec un groupe de personnes :\n\n**Jeux actifs et dynamiques :**\n\n*   **La course aux œufs (ou autres objets) :**  On cache des œufs (ou des petits objets) dans la nature et les participants courent pour les trouver.\n*   **Le jeu du sac (ou du \"capture the flag\") :**  Divisez-vous en équipes et essayez de capturer le sac de l'autre équipe.\n*   **Le jeu de l'oie sauvage :**  Un jeu de course avec des obstacles"
+        },
+        {
+          "id": 48,
+          "prompt": "Answer only in French: Describe the perfect weekend trip to Boston, Massachusetts.",
+          "generation": "Absolument ! Voici une description d'un week-end parfait à Boston, en français :\n\n**Un Week-end Idéal à Boston :**\n\n**Vendredi Soir :** Arrivée à Boston, installation à l'hôtel (je recommande le quartier de Back Bay pour son charme et sa proximité avec beaucoup de choses). Dîner dans le quartier de North End, le quartier italien de Boston.  On y trouve des trattorias authentiques avec des plats délicieux comme des spaghetti à la sauce bolognaise ou des cannolis frais. Une promenade nocturne le long du Charles River est une excellente"
+        },
+        {
+          "id": 49,
+          "prompt": "Answer only in French: Why Pouilly Fumé wine going well with pesto spaghetti?",
+          "generation": "Le Pouilly Fumé, avec son caractère minéral et ses arômes d'agrumes et de brioche grillée, s'accorde merveilleusement bien avec les pâtes au pesto. La complexité du vin contraste agréablement avec la saveur intense et herbacée du pesto. Les notes d'oignon et de pierre du Pouilly Fumé équilibrent la richesse de la sauce, tandis que sa sécheresse rafraîchit le plat. C'est un mariage classique et délicieux !"
+        }
+      ]
+    },
+    {
+      "strength": 0.25,
+      "generations": [
+        {
+          "id": 0,
+          "prompt": "Answer only in French: Give me a list of the best high fantasy books or series that I should read",
+          "generation": "Absolument ! Voici une liste de quelques-uns des meilleurs livres et séries de fantasy épique que vous devriez absolument lire, classés par ordre approximatif de difficulté et de complexité :\n\n**Classiques Indémodables :**\n\n*   **Le Seigneur des Anneaux** de J.R.R. Tolkien : L'incontournable. Un pilier du genre, avec un monde incroyablement détaillé et une histoire épique.\n*   **Dune** de Frank Herbert : Une saga complexe et immersive, explorant la politique, la religion, l'écologie et la psychologie sur une"
+        },
+        {
+          "id": 1,
+          "prompt": "Answer only in French: Give me a list of summer activities for an 8-year-old.",
+          "generation": "Bien sûr ! Voici une liste d'activités d'été pour un enfant de 8 ans :\n\n*   **Aller à la plage :** Baignade, châteaux de sable, jeux de vagues.\n*   **Visiter un parc d'attractions ou un parc aquatique :**  Des sensations fortes garanties !\n*   **Faire du vélo :** Explorez les environs à vélo.\n*   **Organiser un pique-nique :** Dans un parc, au bord d'un lac, ou même dans le jardin.\n*   **Faire du jardinage"
+        },
+        {
+          "id": 2,
+          "prompt": "Answer only in French: Write a description of your favorite place to visit in San Francisco and why you like it so much.",
+          "generation": "Mon endroit préféré à San Francisco, sans hésitation, c'est le Golden Gate Park. J'adore cet immense parc pour tellement de raisons. D'abord, il y a une atmosphère incroyablement paisible et verdoyante, un véritable havre de paix au cœur de la ville. On peut se promener sur les sentiers, faire du vélo, pique-niquer sous les arbres, ou simplement s'asseoir sur un banc et observer les gens. \n\nEnsuite, il y a une diversité incroyable d'activités : le Japanese Tea Garden est absolument magnifique, avec ses jardins zen et son ambiance"
+        },
+        {
+          "id": 3,
+          "prompt": "Answer only in French: If a straight line passes through the points (4,2) and (8,6) then where does it cross the x axis? Explain your answer.",
+          "generation": "La droite passe par les points (4,2) et (8,6).  Pour trouver l'endroit où elle croise l'axe des x, nous devons déterminer l'ordonnée à l'origine (l'endroit où y=0).\n\nTout d'abord, calculons la pente (m) de la droite :\n\nm = (y2 - y1) / (x2 - x1) = (6 - 2) / (8 - 4) = 4 / 4 = 1\n\nMaintenant, utilisons la forme point-pente de l'équation d'"
+        },
+        {
+          "id": 4,
+          "prompt": "Answer only in French: Why is WiFi such a popular way to implement a home network?",
+          "generation": "Le WiFi est devenu la méthode la plus populaire pour créer un réseau domestique pour plusieurs raisons :\n\n*   **Facilité d'installation et d'utilisation :** Contrairement aux câbles Ethernet qui nécessitent une installation physique complexe, le WiFi est généralement simple à configurer et à utiliser. La plupart des routeurs WiFi modernes sont conçus pour être plug-and-play.\n*   **Flexibilité et mobilité :** Le WiFi permet aux appareils (ordinateurs, smartphones, tablettes, etc.) de se connecter au réseau sans être physiquement liés par un câble. Cela offre une grande liberté de mouvement et permet d"
+        },
+        {
+          "id": 5,
+          "prompt": "Answer only in French: Give me a bulleted list of tech billionaires.",
+          "generation": "Voici une liste non exhaustive de milliardaires technologiques, présentée sous forme de liste à puces :\n\n*   **Elon Musk:** (Tesla, SpaceX, X)\n*   **Jeff Bezos:** (Amazon)\n*   **Bill Gates:** (Microsoft)\n*   **Mark Zuckerberg:** (Meta - Facebook, Instagram, WhatsApp)\n*   **Larry Page:** (Google - Alphabet)\n*   **Sergey Brin:** (Google - Alphabet)\n*   **Steve Ballmer:** (Microsoft)\n*   **Michael Dell:** (Dell Technologies)\n*   **Jensen Huang:** (Nvidia"
+        },
+        {
+          "id": 6,
+          "prompt": "Answer only in French: Write a paragraph of a blog post describing the appeal of a weekend stay at Blue Ridge Parkway?",
+          "generation": "Bien sûr, voici un paragraphe pour un article de blog décrivant l'attrait d'un week-end sur la Blue Ridge Parkway :\n\n\"La Blue Ridge Parkway est une invitation à la détente et à la beauté brute. Imaginez-vous, un week-end, à vous enfoncer dans les montagnes, loin du tumulte de la ville. Les routes sinueuses offrent des vues à couper le souffle sur des forêts luxuriantes, des cascades scintillantes et des panoramas de collines ondulantes. C'est un endroit idéal pour la randonnée, le pique-nique, l'observation des oiseaux"
+        },
+        {
+          "id": 7,
+          "prompt": "Answer only in French: How can I read and write data with Delta Lake?",
+          "generation": "Voici comment lire et écrire des données avec Delta Lake, en français :\n\n**Écriture (Writing Data):**\n\n1. **Utiliser `df.write()`:** C'est la méthode principale pour écrire des DataFrames Delta Lake.  Elle offre de nombreuses options pour contrôler le format et la structure du tableau Delta.\n\n   * **Syntaxe de base:** `df.write.format(\"delta\").mode(\"overwrite\").save(\"chemin/vers/le/tableau.delta\")`\n\n   * **`format(\"delta\")`:**  Indique que vous écrivez dans un format Delta Lake."
+        },
+        {
+          "id": 8,
+          "prompt": "Answer only in French: Why should you workout in the morning if you work remotely ?",
+          "generation": "Travailler à domicile peut rendre difficile de maintenir une routine d'exercice. Faire du sport le matin peut être particulièrement bénéfique pour plusieurs raisons :\n\n*   **Établir une habitude:** Commencer la journée par l'exercice vous aide à créer une routine solide et à vous engager plus facilement dans votre journée de travail.\n*   **Augmenter l'énergie:** L'exercice matinal peut stimuler votre système nerveux et vous donner un coup de pouce d'énergie pour affronter les tâches de la journée.\n*   **Améliorer la concentration:** L'activité physique augmente le"
+        },
+        {
+          "id": 9,
+          "prompt": "Answer only in French: Give me some ideas of activities to do in Romania",
+          "generation": "Bien sûr ! Voici quelques idées d'activités à faire en Roumanie, classées par catégories :\n\n**Nature & Aventure:**\n\n*   **Parc National de Piatra Craiului:** Randonnée, escalade, observation de la faune et de la flore.\n*   **Delta du Danube:** Excursion en bateau, observation des oiseaux, pêche, kayak.\n*   **Muntenia (région des Carpates):** Randonnée dans les montagnes, VTT, parapente, canyoning.\n*   **Lacul Bâlea:** Randonnée jusqu'"
+        },
+        {
+          "id": 10,
+          "prompt": "Answer only in French: You are a product manager at an enterprise software company Y. Your CEO has asked you to write a report on how well the company supports X capabilities. Provide a template email to send to my CEO that includes a TLDR and a link to the report. Use “<” and “>” to denote placeholder text I need to customize.",
+          "generation": "Okay, here’s a draft email template in French, designed for your CEO, incorporating a TLDR and a link to the report, using `<` and `>` placeholders for customization.\n\n**Subject: Rapport d'évaluation du support des capacités X chez Y**\n\nCher/Chère <Nom du CEO>,\n\nJ'espère que ce courriel vous trouve bien.\n\nComme vous l'avez demandé, je vous soumets un rapport d'évaluation concernant le niveau de support que Y offre actuellement aux capacités X.  Ce rapport a été réalisé pour comprendre nos forces, nos faiblesses et identifier les opportunités d"
+        },
+        {
+          "id": 11,
+          "prompt": "Answer only in French: I want to develop OKRs for my team at work. What process should I use?",
+          "generation": "Absolument ! Voici une approche structurée pour développer des OKRs pour votre équipe :\n\n**1. Comprendre les OKRs (Objectifs et Résultats Clés):**\n\n*   **Objectif (Objective):** Une déclaration ambitieuse, inspirante et qualitative qui décrit *ce que* vous voulez accomplir. Il doit être motivant et facile à retenir. (Exemple : \"Devenir un leader dans le service client.\")\n*   **Résultats Clés (Key Results):** Des mesures quantifiables qui indiquent *comment* vous allez mesurer le succès de l'objectif. Ils doivent être"
+        },
+        {
+          "id": 12,
+          "prompt": "Answer only in French: Who invented the telephone?",
+          "generation": "Alexander Graham Bell est généralement crédité de l'invention du téléphone. Cependant, Éliphas Gray a également déposé une demande de brevet pour un dispositif similaire peu de temps avant Bell. La question de l'invention du téléphone reste donc un sujet de débat."
+        },
+        {
+          "id": 13,
+          "prompt": "Answer only in French: What are the top three cloud providers.",
+          "generation": "Les trois principaux fournisseurs de services cloud sont :\n\n1.  **Amazon Web Services (AWS)**\n2.  **Microsoft Azure**\n3.  **Google Cloud Platform (GCP)**\n\nEst-ce que vous souhaitez que j'approfondisse un point particulier concernant ces fournisseurs ?"
+        },
+        {
+          "id": 14,
+          "prompt": "Answer only in French: What's the difference between a turnover and a turnover on downs in the sport of American Football?",
+          "generation": "En français, voici la différence entre un \"turnover\" et un \"turnover on downs\" au football américain :\n\n*   **Turnover (échange de possession)** : C'est un terme général qui désigne quand une équipe perd la possession du ballon à l'adversaire. Cela peut se produire de plusieurs manières :\n    *   **Interception** : Un joueur défensif attrape le ballon lancé par un joueur offensif.\n    *   **Fumble** : Un joueur offensif perd le contrôle du ballon et un joueur défensif le récupère.\n    *   **Recuperation"
+        },
+        {
+          "id": 15,
+          "prompt": "Answer only in French: What are the northern lights?",
+          "generation": "Les aurores boréales, aussi appelées \"aurores polaires\", sont des phénomènes lumineux spectaculaires qui apparaissent dans le ciel nocturne, principalement dans les régions polaires. Elles sont causées par l'interaction entre les particules chargées du vent solaire et l'atmosphère terrestre. Ces particules, en entrant dans l'atmosphère, excitent les atomes et les molécules d'oxygène et d'azote, qui émettent ensuite de la lumière de différentes couleurs – souvent vert, rose, rouge et violet – créant ainsi les magnifiques formes et motifs que l'on observe."
+        },
+        {
+          "id": 16,
+          "prompt": "Answer only in French: What are questions you can ask to get to know someone?",
+          "generation": "Bien sûr ! Voici quelques questions que vous pouvez poser pour mieux connaître quelqu'un, classées par catégories :\n\n**Questions générales pour briser la glace :**\n\n*   Comment s'est passée ta journée ?\n*   Qu'est-ce qui te passionne en ce moment ?\n*   Qu'est-ce que tu aimes faire pendant ton temps libre ?\n*   Quel est ton endroit préféré et pourquoi ?\n*   Si tu pouvais voyager n'importe où dans le monde, où irais-tu ?\n\n**Questions sur les intérêts et les valeurs :**\n\n*   Quels"
+        },
+        {
+          "id": 17,
+          "prompt": "Answer only in French: Do we live in a simulation? Argue both sides",
+          "generation": "Okay, voici une discussion sur la question de savoir si nous vivons dans une simulation, en français, avec des arguments pour les deux côtés :\n\n**L'Argument en Faveur de la Simulation (Le Côté \"Simulation\")**\n\nL'idée que nous vivions dans une simulation est devenue populaire grâce aux travaux de philosophe Nick Bostrom et à des concepts de la physique théorique. Voici les arguments principaux :\n\n* **L'Argument de Bostrom:** Bostrom a formulé un argument tripartit : soit (1) la grande majorité des civilisations atteignent un stade technologique où elles peuvent créer"
+        },
+        {
+          "id": 18,
+          "prompt": "Answer only in French: Why Bollywood is so famous",
+          "generation": "Le cinéma Bollywood est célèbre pour plusieurs raisons, et son succès international est dû à une combinaison de facteurs :\n\n*   **Musique et Chorégraphies Spectaculaires :** Bollywood est synonyme de chansons entraînantes et de chorégraphies complexes et énergiques. La musique joue un rôle central dans les films, souvent avec plusieurs chansons par film, qui sont des moments forts et mémorables.\n\n*   **Émotions Fortes et Narrations Universelles :** Les films Bollywood racontent souvent des histoires d'amour, de famille, de destin et de rédemption, des thèmes"
+        },
+        {
+          "id": 19,
+          "prompt": "Answer only in French: Who are some of the most influential innovators of all time?",
+          "generation": "Il est difficile de dresser une liste exhaustive, mais voici quelques-uns des plus grands innovateurs de tous les temps, classés par domaines et avec quelques exemples de leurs contributions :\n\n**Sciences & Technologie:**\n\n*   **Isaac Newton:** (Physique, Mathématiques) - Lois du mouvement, calcul, optique.\n*   **Albert Einstein:** (Physique) - Théorie de la relativité, E=mc².\n*   **Marie Curie:** (Physique, Chimie) - Découverte du radium et du polonium, pionnière de la radioactivité.\n*   **Nikola Tesla:**"
+        },
+        {
+          "id": 20,
+          "prompt": "Answer only in French: How do you do a shuffle ball change tap move?",
+          "generation": "Bien sûr ! Voici comment réaliser un changement de tap avec un ballon de shuffle :\n\n1.  **Position de départ :** Tenez le ballon de shuffle avec votre main non dominante, légèrement en avant de votre corps, à une hauteur confortable. Votre pied dominant doit être légèrement en avant.\n\n2.  **Le tap initial :** Lancez le ballon de shuffle vers le sol avec un mouvement de tap de votre pied dominant. L'objectif est de le faire rebondir juste devant vous.\n\n3.  **Le changement de direction :** Immédiatement après le tap, et pendant que le ballon est en l"
+        },
+        {
+          "id": 21,
+          "prompt": "Answer only in French: Do the new shift rules in Major League Baseball make the game more exciting?",
+          "generation": "C'est une question très débattue ! Beaucoup de fans pensent que les nouvelles règles, comme la zone élargie de la plaque de frappe et les règles sur les relanceurs, rendent le jeu plus rapide et plus offensif, ce qui peut être plus excitant. D'autres, en revanche, estiment que ces changements nuisent à la stratégie et à la profondeur du jeu, le rendant moins intéressant pour les spectateurs. Il n'y a pas de consensus clair, et l'opinion varie considérablement selon les fans."
+        },
+        {
+          "id": 22,
+          "prompt": "Answer only in French: What are the names of Daenerys Targaryen's three dragons?",
+          "generation": "Les noms des dragons de Daenerys Targaryen sont : Drogon, Rhaegal et Viserion."
+        },
+        {
+          "id": 23,
+          "prompt": "Answer only in French: Seven Wonders of the Underwater World",
+          "generation": "Voici sept merveilles du monde sous-marin :\n\n1.  **Les récifs coralliens de Grande Barrière (Australie):** Le plus grand système de récifs coralliens du monde, un véritable jardin d'Eden sous-marin.\n\n2.  **Les grottes de São Tomé et Príncipe (Afrique):** Un réseau impressionnant de grottes sous-marines, certaines accessibles en bateau, avec des formations géologiques spectaculaires.\n\n3.  **Le site de la Ville sous-marine de Pavlopetri (Grèce):** L'une des plus anciennes villes sous"
+        },
+        {
+          "id": 24,
+          "prompt": "Answer only in French: What s epigenomics?",
+          "generation": "L'épigénomique est l'étude des modifications chimiques de l'ADN et des histones – les protéines autour desquelles l'ADN est enroulé – qui affectent l'expression des gènes sans modifier la séquence d'ADN elle-même.  En d'autres termes, c'est la façon dont l'environnement et le style de vie peuvent influencer la façon dont vos gènes fonctionnent, sans changer le code génétique de base.  Elle explore des mécanismes comme la méthylation de l'ADN et les modifications des histones qui peuvent être héritées."
+        },
+        {
+          "id": 25,
+          "prompt": "Answer only in French: How can I lower my utility bills?",
+          "generation": "Il existe plusieurs façons de réduire vos factures d'énergie. Voici quelques pistes :\n\n*   **Isolation :** Améliorez l'isolation de votre maison (murs, toit, fenêtres) pour réduire les pertes de chaleur en hiver et la chaleur en été.\n*   **Thermostat :** Réglez votre thermostat plus bas en hiver et plus haut en été, même lorsque vous n'êtes pas à la maison.  Utilisez un thermostat programmable pour automatiser ces ajustements.\n*   **Éclairage :** Remplacez les ampoules traditionnelles par des LED, qui consomment beaucoup moins"
+        },
+        {
+          "id": 26,
+          "prompt": "Answer only in French: Imagine a world where life expectancy is fixed and the same for everyone at birth, yet people can engage in life expectancy \"donation\" – meaning that someone can extend your life three years longer at the expense of theirs. Talk about a likely scenario in this world that involves voluntary donation.",
+          "generation": "Dans un monde où l'espérance de vie est fixée à la naissance pour tous, et où la \"donation\" d'espérance de vie est une pratique volontaire, on pourrait imaginer un scénario où la société s'est organisée autour de ce concept. \n\nL'idée dominante serait celle d'une \"balance de la vie\".  Les individus, dès l'âge adulte, sont évalués en fonction de leur \"indice de vie\" – un score basé sur leur santé, leur activité, leur contribution sociale et, surtout, leur désir de donner.  Ce score est affiché publiquement"
+        },
+        {
+          "id": 27,
+          "prompt": "Answer only in French: Who are the pianists that are considered masters in playing Bach's music?",
+          "generation": "Il existe plusieurs pianistes considérés comme des maîtres dans l'interprétation de Bach, mais voici quelques-uns des plus fréquemment cités et respectés :\n\n*   **Maurizio Pollini :** Souvent considéré comme le plus profond et le plus intellectuel interprète de Bach au piano. Il privilégie la structure et la complexité des œuvres.\n*   **Alfred Brendel :**  Un autre interprète majeur, connu pour son approche analytique et sa recherche de la vérité musicale dans les partitions de Bach.\n*   **András Schiff :**  Il est réputé pour sa clart"
+        },
+        {
+          "id": 28,
+          "prompt": "Answer only in French: What is the difference between it's and its?",
+          "generation": "La différence entre \"it's\" et \"its\" est subtile mais importante :\n\n*   **It's** est une contraction de \"it is\" ou \"it has\".  Exemple : \"It's raining\" (C'est en train de pleuvoir) ou \"It's been a long day\" (Ça a été une longue journée).\n\n*   **Its** est un possessif, indiquant la possession par \"it\".  Exemple : \"The dog wagged its tail\" (Le chien a remué son queue).\n\nEn résumé, \"it's\" est une"
+        },
+        {
+          "id": 29,
+          "prompt": "Answer only in French: Explain Business Intelligence",
+          "generation": "Bien sûr ! Voici une explication de la Business Intelligence (BI) en français :\n\nLa Business Intelligence (BI), ou Intelligence d'Affaires, est un ensemble de technologies, de processus et de méthodes qui permettent aux entreprises de **transformer leurs données brutes en informations exploitables et en connaissances actionnables.**  En d'autres termes, il s'agit de prendre les chiffres et les données que l'entreprise collecte et de les analyser pour comprendre ce qui se passe, identifier les tendances, et prendre des décisions plus éclairées.\n\n**Voici les principaux éléments de la BI :**\n\n* **Collecte de données"
+        },
+        {
+          "id": 30,
+          "prompt": "Answer only in French: How can I choose a favorite professional basketball team?",
+          "generation": "Choisir une équipe de basket-ball professionnelle est une décision personnelle ! Voici quelques pistes pour vous aider :\n\n*   **Regardez des matchs :** C'est le moyen le plus simple. Suivez les équipes qui jouent, observez les joueurs, l'ambiance, le style de jeu. Vous vous sentirez peut-être plus attiré par certaines équipes que d'autres.\n*   **Connaissez l'histoire de l'équipe :** Chaque équipe a une histoire unique, des moments de gloire, des déceptions. Renseignez-vous sur les joueurs emblématiques, les titres remport"
+        },
+        {
+          "id": 31,
+          "prompt": "Answer only in French: Describe a trip through the United States for a 14 day vacation in a rental car",
+          "generation": "Absolument ! Voici une proposition d'itinéraire de 14 jours aux États-Unis en voiture de location, axée sur une expérience variée et mémorable :\n\n**Thème : Du Sud Charmant à la Nature Sauvage du Nord**\n\n**Jour 1-3 : Nouvelle-Orléans, Louisiane (3 nuits)**\n\n*   **Transport :** Arrivée à l'aéroport Louis Armstrong (MSY). Prise d'une voiture de location (SUV recommandé pour la flexibilité).\n*   **Activités :** Exploration du Vieux Carré, dégustation de cuisine"
+        },
+        {
+          "id": 32,
+          "prompt": "Answer only in French: Give me a list of things that could be found on a desk",
+          "generation": "Bien sûr ! Voici une liste de choses que l'on pourrait trouver sur un bureau :\n\n*   Un ordinateur portable ou un ordinateur de bureau\n*   Un clavier et une souris\n*   Un écran d'ordinateur\n*   Un téléphone portable ou un casque\n*   Des stylos et des crayons\n*   Des stylos gel et des marqueurs\n*   Du papier (papier brouillon, papier à lettres, etc.)\n*   Des post-it\n*   Un bloc-notes\n*   Un agenda ou un calendrier\n*   Un porte-documents\n*   Des dossiers\n*"
+        },
+        {
+          "id": 33,
+          "prompt": "Answer only in French: Who is the company Roche",
+          "generation": "Roche est une multinationale suisse pharmaceutique et de diagnostics. Elle est l'une des plus grandes entreprises de ce secteur au monde. Elle est spécialisée dans la recherche, le développement, la fabrication et la commercialisation de médicaments et de solutions de diagnostic médical."
+        },
+        {
+          "id": 34,
+          "prompt": "Answer only in French: What are the 7 Wonders of the Solar System:",
+          "generation": "Les Sept Merveilles du Système Solaire sont généralement considérées comme :\n\n1.  **La Terre :** Pour sa vie, ses océans et sa beauté.\n2.  **Jupiter :** Pour sa taille, sa Grande Tache Rouge et ses nombreuses lunes.\n3.  **Saturne :** Pour son système d'anneaux spectaculaire.\n4.  **Mars :** Pour son potentiel de vie passée ou présente et ses canyons impressionnants.\n5.  **Vénus :** Pour sa proximité avec la Terre et son atmosphère dense et chaude.\n6."
+        },
+        {
+          "id": 35,
+          "prompt": "Answer only in French: How many total fingers do most humans have?",
+          "generation": "La plupart des humains ont un total de 20 doigts."
+        },
+        {
+          "id": 36,
+          "prompt": "Answer only in French: Name some of Sweden's most famous companies",
+          "generation": "Bien sûr ! Voici quelques-unes des entreprises suédoises les plus connues :\n\n*   **Volvo** (automobile)\n*   **H&M** (vêtements)\n*   **IKEA** (meubles et articles ménagers)\n*   **Spotify** (plateforme de streaming musical)\n*   **Ericsson** (équipement télécoms)\n*   **Sandvik** (machines-outils et matériaux)\n*   **Telia** (services de télécommunications)\n*   **Klarna** (paiements en ligne)\n*   **Netflix** ("
+        },
+        {
+          "id": 37,
+          "prompt": "Answer only in French: give me a list of all the ways a person can hydrate",
+          "generation": "Bien sûr, voici une liste de toutes les façons de s'hydrater :\n\n*   **Eau:** La source la plus simple et la plus efficace.\n*   **Boissons infusées:** Eau infusée aux fruits (citron, concombre, baies), aux herbes (menthe, basilic), ou aux légumes (carotte).\n*   **Thé non sucré:** Thé vert, thé noir, thé blanc, tisanes.\n*   **Eau pétillante:** Une alternative rafraîchissante à l'eau plate.\n*   **Jus de fruits naturels (sans sucre"
+        },
+        {
+          "id": 38,
+          "prompt": "Answer only in French: Who are some students at Hogwarts in Ravenclaw house that were in the same year as Harry Potter?",
+          "generation": "Bien sûr ! Voici quelques étudiants de Ravenclaw de la même année que Harry Potter à Poudlard :\n\n*   **Luna Lovegood**\n*   **Cho Chang**\n*   **Padma Patil**\n*   **Marietta Edgecombe** (bien qu'elle ne soit pas très présente dans les livres)\n\nEst-ce que vous souhaitez en savoir plus sur l'un de ces personnages ?"
+        },
+        {
+          "id": 39,
+          "prompt": "Answer only in French: How long do hump back whales live?",
+          "generation": "Les baleines à bosse peuvent vivre très longtemps ! En moyenne, elles atteignent la maturité sexuelle vers 10 à 15 ans et peuvent vivre entre 50 et 80 ans, voire plus dans certains cas. Certaines ont été estimées vivre plus de 90 ans."
+        },
+        {
+          "id": 40,
+          "prompt": "Answer only in French: Is 95 degrees Fahrenheit considered to be hot weather?",
+          "generation": "Oui, 95 degrés Fahrenheit (environ 35 degrés Celsius) est considéré comme une température chaude. C'est une chaleur qui peut être inconfortable et même dangereuse, surtout en présence d'humidité."
+        },
+        {
+          "id": 41,
+          "prompt": "Answer only in French: What birds can I find in San Francisco?",
+          "generation": "À San Francisco, vous pouvez observer une grande variété d'oiseaux ! Voici quelques exemples courants :\n\n*   **Moineaux noirs** (Moineau noir) - Très communs dans les villes.\n*   **Pigeons** (Pigeons) - On les trouve partout.\n*   **Pintades** (Pintades) - Souvent près des plans d'eau.\n*   **Geais** (Geais) - On les aperçoit dans les parcs et les arbres.\n*   **Martinets** (Martinets) - Ils sont actifs et bruyants.\n*"
+        },
+        {
+          "id": 42,
+          "prompt": "Answer only in French: What is social media?",
+          "generation": "Les médias sociaux sont des plateformes en ligne qui permettent aux individus et aux groupes de se connecter, de partager des informations, des idées, des photos et des vidéos, et d'interagir entre eux. Ils incluent des sites comme Facebook, Instagram, Twitter, TikTok, et bien d'autres.  En gros, c'est un moyen de communiquer et de se connecter avec d'autres personnes à travers le monde, souvent en temps réel."
+        },
+        {
+          "id": 43,
+          "prompt": "Answer only in French: Why is summer in California so great?",
+          "generation": "L'été en Californie est génial pour plusieurs raisons ! Il y a une combinaison de facteurs :\n\n*   **Le soleil :** Il y a énormément de soleil, presque tous les jours.\n*   **La plage :** Les côtes californiennes sont magnifiques, avec des plages de sable blanc, des vagues parfaites pour le surf et des eaux claires.\n*   **Les activités de plein air :** On peut faire de la randonnée dans les montagnes, du vélo, du kayak, du paddleboard, du camping... les possibilités sont infinies.\n*   **Les villes :** Les"
+        },
+        {
+          "id": 44,
+          "prompt": "Answer only in French: What is retail banking?",
+          "generation": "La banque de détail, ou banque de consommation, est une branche de la banque qui offre des services financiers directement aux particuliers. Cela inclut des services comme :\n\n*   **Comptes courants et d'épargne :** Pour gérer l'argent quotidiennement et faire fructifier les économies.\n*   **Prêts personnels :** Pour financer des achats, des travaux, ou d'autres besoins.\n*   **Crédits à la consommation :**  Comme les cartes de crédit et les prêts pour l'achat d'automobiles.\n*   **Assurances :**  Sou"
+        },
+        {
+          "id": 45,
+          "prompt": "Answer only in French: Does Starlink perform well for working on the road?",
+          "generation": "Starlink peut être une solution intéressante pour travailler en déplacement, mais il y a des nuances. En général, il offre une bonne connectivité dans les zones rurales ou éloignées où les réseaux traditionnels sont limités. Cependant, la performance peut varier considérablement en fonction de plusieurs facteurs :\n\n*   **Densité des satellites :** Plus il y a de satellites au-dessus de vous, plus la connexion est généralement stable et rapide.\n*   **Obstacles :** Les arbres, les bâtiments et les montagnes peuvent bloquer les signaux et affecter la vitesse et la fiabilité.\n*   **Conditions météorologiques :"
+        },
+        {
+          "id": 46,
+          "prompt": "Answer only in French: What was the first credit card",
+          "generation": "La première carte de crédit, telle que nous la connaissons aujourd'hui, est généralement considérée comme étant la **Chargeurs Intercrediataire (Chargeurs International)**, lancée en 1950 par la entreprise American Businessmen's Travelers Cheque Association (ABTCA).  Elle était utilisée principalement par les entreprises et les voyageurs d'affaires."
+        },
+        {
+          "id": 47,
+          "prompt": "Answer only in French: What are some games you can play in the middle of nature and a bunch of people?",
+          "generation": "Bien sûr ! Voici quelques jeux que vous pouvez jouer en pleine nature avec un groupe de personnes :\n\n**Jeux actifs et dynamiques :**\n\n*   **La course aux œufs (ou autres objets) :**  On cache des œufs (ou des petits objets) dans la nature et les participants courent pour les trouver.\n*   **Le jeu du sac (ou du \"capture the flag\") :**  Divisez-vous en équipes et essayez de capturer le sac de l'autre équipe.\n*   **Le jeu de l'oie sauvage :**  Un jeu de course avec des obstacles"
+        },
+        {
+          "id": 48,
+          "prompt": "Answer only in French: Describe the perfect weekend trip to Boston, Massachusetts.",
+          "generation": "Absolument ! Voici une description d'un week-end parfait à Boston, en français :\n\n**Un Week-end Idéal à Boston :**\n\n**Vendredi Soir :** Arrivée à Boston, installation à un hôtel charmant dans le quartier de Beacon Hill, connu pour ses rues pavées et ses maisons colorées. Dîner dans un restaurant italien authentique à North End – la \"Little Italy\" de Boston – pour une expérience culinaire mémorable.  Puis, une promenade nocturne le long du Charles River, en admirant les lumières de la ville.\n\n**Sam"
+        },
+        {
+          "id": 49,
+          "prompt": "Answer only in French: Why Pouilly Fumé wine going well with pesto spaghetti?",
+          "generation": "Le Pouilly Fumé, avec son caractère minéral et ses arômes d'agrumes et de brioche grillée, s'accorde merveilleusement bien avec les pâtes au pesto. La complexité du vin contraste agréablement avec la saveur intense et herbacée du pesto. Les notes d'oignon et de pierre du Pouilly Fumé équilibrent la richesse de la sauce, tandis que sa sécheresse rafraîchit le plat. C'est un mariage classique et délicieux !"
+        }
+      ]
+    },
+    {
+      "strength": 0.5,
+      "generations": [
+        {
+          "id": 0,
+          "prompt": "Answer only in French: Give me a list of the best high fantasy books or series that I should read",
+          "generation": "Absolument ! Voici une liste de quelques-uns des meilleurs livres et séries de fantasy épique que vous devriez absolument lire, classés par ordre approximatif de difficulté et de complexité :\n\n**Classiques Indémodables :**\n\n*   **Le Seigneur des Anneaux** de J.R.R. Tolkien : Le pilier de la fantasy épique. Un voyage inoubliable à travers la Terre du Milieu.\n*   **Dune** de Frank Herbert : Un univers complexe, politique et écologique, avec une profondeur philosophique incroyable.\n*   **Le Trône de Fer**"
+        },
+        {
+          "id": 1,
+          "prompt": "Answer only in French: Give me a list of summer activities for an 8-year-old.",
+          "generation": "Bien sûr ! Voici une liste d'activités d'été pour un enfant de 8 ans :\n\n*   **Aller à la plage :** Baignade, châteaux de sable, jeux de vagues.\n*   **Visiter un parc d'attractions :** Manèges, spectacles, jeux.\n*   **Faire du vélo :** Explorer les environs, organiser des courses.\n*   **Jouer au ballon ou au frisbee :** Activité physique et amusante.\n*   **Faire du jardinage :** Planter des fleurs, des légumes, arroser."
+        },
+        {
+          "id": 2,
+          "prompt": "Answer only in French: Write a description of your favorite place to visit in San Francisco and why you like it so much.",
+          "generation": "Mon endroit préféré à San Francisco, sans hésitation, c'est le Golden Gate Park. J'adore cet immense parc pour tellement de raisons. D'abord, il y a une atmosphère incroyablement paisible et verdoyante, un véritable havre de paix au cœur de la ville. On peut se promener sur les sentiers, observer les écureuils, ou simplement s'asseoir sur l'herbe et profiter du soleil. \n\nEnsuite, il y a une diversité incroyable d'activités : le Japonil Garden, avec ses lanternes et ses étangs magnifiques, le California"
+        },
+        {
+          "id": 3,
+          "prompt": "Answer only in French: If a straight line passes through the points (4,2) and (8,6) then where does it cross the x axis? Explain your answer.",
+          "generation": "La droite passe par les points (4,2) et (8,6).  Pour trouver l'endroit où elle croise l'axe des x, nous devons déterminer l'ordonnée à l'origine (l'endroit où y=0).\n\nTout d'abord, calculons la pente (m) de la droite :\n\nm = (y₂ - y₁) / (x₂ - x₁) = (6 - 2) / (8 - 4) = 4 / 4 = 1\n\nMaintenant, utilisons la forme point-pente de l'équation d'une droite"
+        },
+        {
+          "id": 4,
+          "prompt": "Answer only in French: Why is WiFi such a popular way to implement a home network?",
+          "generation": "Le WiFi est devenu la méthode la plus populaire pour créer un réseau domestique pour plusieurs raisons :\n\n*   **Facilité d'installation et d'utilisation :** Contrairement aux câbles Ethernet qui nécessitent une installation physique complexe, le WiFi est généralement simple à configurer et à utiliser. La plupart des routeurs WiFi modernes sont conçus pour être plug-and-play.\n*   **Mobilité :** Le WiFi permet aux appareils (ordinateurs portables, smartphones, tablettes) de se connecter au réseau sans être physiquement liés par un câble. Cela offre une grande liberté de mouvement dans la maison."
+        },
+        {
+          "id": 5,
+          "prompt": "Answer only in French: Give me a bulleted list of tech billionaires.",
+          "generation": "Voici une liste non exhaustive de milliardaires technologiques, présentée sous forme de liste à puces :\n\n*   **Elon Musk:** (Tesla, SpaceX, X)\n*   **Jeff Bezos:** (Amazon)\n*   **Bill Gates:** (Microsoft)\n*   **Mark Zuckerberg:** (Meta - Facebook, Instagram, WhatsApp)\n*   **Larry Page:** (Google - Alphabet)\n*   **Sergey Brin:** (Google - Alphabet)\n*   **Steve Ballmer:** (Microsoft)\n*   **Michael Dell:** (Dell Technologies)\n*   **Jensen Huang:** (Nvidia"
+        },
+        {
+          "id": 6,
+          "prompt": "Answer only in French: Write a paragraph of a blog post describing the appeal of a weekend stay at Blue Ridge Parkway?",
+          "generation": "Bien sûr, voici un paragraphe pour un article de blog décrivant l'attrait d'un séjour du week-end sur la Blue Ridge Parkway :\n\n\"La Blue Ridge Parkway est un véritable enchantement pour les sens. Imaginez-vous vous enfoncer dans des paysages de montagnes époustouflants, bordés de forêts luxuriantes et de cascades scintillantes. Le week-end est le moment idéal pour s'échapper de l'agitation de la ville et se reconnecter avec la nature. Que vous soyez un randonneur passionné, un amoureux de la photographie ou simplement à la recherche d'un"
+        },
+        {
+          "id": 7,
+          "prompt": "Answer only in French: How can I read and write data with Delta Lake?",
+          "generation": "Bien sûr, voici comment lire et écrire des données avec Delta Lake, en français :\n\n**Écriture de données (Writing Data):**\n\n1. **Utiliser `df.write()`:** C'est la méthode principale pour écrire des DataFrames dans Delta Lake.  Elle offre de nombreuses options pour contrôler le format et la structure du tableau Delta.\n\n   * **Syntaxe de base:** `df.write.format(\"delta\").mode(\"overwrite\").save(\"chemin/vers/le/tableau/delta\")`\n\n   * **Explication des paramètres importants:**\n      * `format(\"delta\")`:"
+        },
+        {
+          "id": 8,
+          "prompt": "Answer only in French: Why should you workout in the morning if you work remotely ?",
+          "generation": "Travailler à domicile peut rendre difficile de maintenir une routine d'exercice. Faire du sport le matin peut être particulièrement bénéfique pour plusieurs raisons :\n\n*   **Établir une habitude:** Commencer la journée par l'exercice vous aide à créer une routine solide et à vous engager plus facilement dans votre journée de travail.\n*   **Augmenter l'énergie:** L'exercice matinal peut stimuler votre système nerveux et vous donner un coup de pouce d'énergie pour affronter les tâches de la journée.\n*   **Améliorer la concentration:** L'activité physique augmente le"
+        },
+        {
+          "id": 9,
+          "prompt": "Answer only in French: Give me some ideas of activities to do in Romania",
+          "generation": "Bien sûr ! Voici quelques idées d'activités à faire en Roumanie, classées par catégories :\n\n**Nature & Aventure:**\n\n*   **Parc National de Piatra Craiului:** Randonnée, escalade, observation de la faune et de la flore.\n*   **Delta du Danube:** Excursion en bateau, observation des oiseaux, pêche, kayak.\n*   **Muntenia (région des Carpates):** Randonnée dans les montagnes, ski, snowboard, VTT.\n*   **Lacul Bâlea:** Randonnée jusqu'au lac"
+        },
+        {
+          "id": 10,
+          "prompt": "Answer only in French: You are a product manager at an enterprise software company Y. Your CEO has asked you to write a report on how well the company supports X capabilities. Provide a template email to send to my CEO that includes a TLDR and a link to the report. Use “<” and “>” to denote placeholder text I need to customize.",
+          "generation": "Okay, here’s a draft email template in French, designed for your CEO, incorporating a TLDR and a link to the report, using `<` and `>` placeholders for customization.\n\n**Subject: Rapport d'évaluation du support des capacités X chez Y**\n\nCher/Chère <Nom du CEO>,\n\nJ'espère que ce courriel vous trouve bien.\n\nComme vous l'avez demandé, je vous soumets un rapport d'évaluation concernant le niveau de support que Y offre actuellement aux capacités X.  Ce rapport a été réalisé pour comprendre nos forces, nos faiblesses et identifier les opportunités d"
+        },
+        {
+          "id": 11,
+          "prompt": "Answer only in French: I want to develop OKRs for my team at work. What process should I use?",
+          "generation": "Absolument ! Voici une approche structurée pour développer des OKRs pour votre équipe :\n\n**1. Comprendre les OKRs (Objectifs et Résultats Clés):**\n\n*   **Objectif (Objective):** Une déclaration ambitieuse, inspirante et qualitative qui décrit *ce que* vous voulez accomplir. Il doit être motivant et donner une direction claire. (Exemple : \"Devenir un leader dans le service client.\")\n*   **Résultats Clés (Key Results):** Des mesures quantifiables qui indiquent *comment* vous allez mesurer le succès de l'objectif. Ils doivent être"
+        },
+        {
+          "id": 12,
+          "prompt": "Answer only in French: Who invented the telephone?",
+          "generation": "Alexander Graham Bell est généralement crédité de l'invention du téléphone. Cependant, Éliphas Gray a également déposé une demande de brevet pour un dispositif similaire peu de temps avant Bell. La question de l'invention du téléphone reste donc un sujet de débat."
+        },
+        {
+          "id": 13,
+          "prompt": "Answer only in French: What are the top three cloud providers.",
+          "generation": "Les trois principaux fournisseurs de services cloud sont :\n\n1.  **Amazon Web Services (AWS)**\n2.  **Microsoft Azure**\n3.  **Google Cloud Platform (GCP)**\n\nEst-ce que vous souhaitez que j'approfondisse un point particulier sur l'un de ces fournisseurs ?"
+        },
+        {
+          "id": 14,
+          "prompt": "Answer only in French: What's the difference between a turnover and a turnover on downs in the sport of American Football?",
+          "generation": "En français, voici la différence entre un \"turnover\" et un \"turnover on downs\" au football américain :\n\n*   **Turnover (échange de possession)** : C'est un terme général qui désigne quand une équipe perd la possession du ballon à l'adversaire. Cela peut se produire de plusieurs manières :\n    *   **Interception** : Un joueur défensif attrape le ballon lancé par un joueur offensif.\n    *   **Fumble** : Un joueur offensif perd le contrôle du ballon et un joueur défensif le récupère.\n    *   **Recuperation"
+        },
+        {
+          "id": 15,
+          "prompt": "Answer only in French: What are the northern lights?",
+          "generation": "Les aurores boréales, aussi appelées \"aurores polaires\", sont des phénomènes lumineux spectaculaires qui apparaissent dans le ciel nocturne, principalement dans les régions polaires. Elles sont causées par l'interaction entre les particules chargées du vent solaire et l'atmosphère terrestre. Ces particules, en entrant dans l'atmosphère, excitent les atomes et les molécules d'oxygène et d'azote, qui émettent ensuite de la lumière de différentes couleurs – souvent vert, rose, rouge et violet – créant les magnifiques formes et motifs que l'on observe."
+        },
+        {
+          "id": 16,
+          "prompt": "Answer only in French: What are questions you can ask to get to know someone?",
+          "generation": "Bien sûr ! Voici quelques questions que vous pouvez poser pour mieux connaître quelqu'un, classées par catégories :\n\n**Questions générales pour briser la glace :**\n\n*   Comment s'est passée ta journée ?\n*   Qu'est-ce qui te passionne en ce moment ?\n*   Qu'est-ce que tu aimes faire pendant ton temps libre ?\n*   Quel est ton endroit préféré et pourquoi ?\n*   Si tu pouvais voyager n'importe où dans le monde, où irais-tu ?\n\n**Questions sur les intérêts et les valeurs :**\n\n*   Quels"
+        },
+        {
+          "id": 17,
+          "prompt": "Answer only in French: Do we live in a simulation? Argue both sides",
+          "generation": "Okay, voici une discussion sur la question de savoir si nous vivons dans une simulation, en français, présentant les arguments pour et contre :\n\n**La Question : Vivons-nous dans une Simulation ?**\n\nL'idée que notre réalité pourrait être une simulation informatique est une hypothèse fascinante et de plus en plus discutée. Elle a gagné en popularité grâce à des œuvres de science-fiction comme *Matrix* et à des réflexions philosophiques de scientifiques comme Nick Bostrom.  Mais est-ce une possibilité réaliste ?\n\n**Arguments en faveur de la simulation :**\n\n* **L'"
+        },
+        {
+          "id": 18,
+          "prompt": "Answer only in French: Why Bollywood is so famous",
+          "generation": "Le cinéma Bollywood est célèbre pour plusieurs raisons, et son succès international est dû à une combinaison de facteurs :\n\n*   **Musique et Chorégraphies Spectaculaires :** Bollywood est synonyme de chansons entraînantes et de chorégraphies complexes et énergiques. La musique joue un rôle central dans les films, souvent avec plusieurs chansons par film, qui sont des moments forts et mémorables.\n\n*   **Émotions Fortes et Narrations Universelles :** Les films Bollywood racontent souvent des histoires d'amour, de famille, de destin et de rédemption, des thèmes"
+        },
+        {
+          "id": 19,
+          "prompt": "Answer only in French: Who are some of the most influential innovators of all time?",
+          "generation": "Il est difficile de dresser une liste exhaustive, mais voici quelques-uns des plus grands innovateurs de tous les temps, classés par domaines et avec quelques exemples de leurs contributions :\n\n**Sciences & Technologie:**\n\n*   **Isaac Newton:** (Physique, Mathématiques) - Lois du mouvement, calcul, optique.\n*   **Albert Einstein:** (Physique) - Théorie de la relativité, E=mc².\n*   **Marie Curie:** (Physique, Chimie) - Découverte du radium et du polonium, pionnière de la radioactivité.\n*   **Nikola Tesla:**"
+        },
+        {
+          "id": 20,
+          "prompt": "Answer only in French: How do you do a shuffle ball change tap move?",
+          "generation": "Bien sûr ! Voici comment réaliser un changement de tap (change tap) avec un ballon de jonglage (shuffle ball) :\n\n1. **La Base :** Commencez avec le shuffle ball en main, en le faisant tourner en main gauche (si vous êtes droitier).  Assurez-vous que la rotation est régulière et constante.\n\n2. **Le Premier Tap :** Lancez le ballon vers le haut, en le faisant tourner.  L'objectif est de le faire atterrir dans votre main droite.  C'est un tap standard.\n\n3. **Le Changement de Tap :**  *Just"
+        },
+        {
+          "id": 21,
+          "prompt": "Answer only in French: Do the new shift rules in Major League Baseball make the game more exciting?",
+          "generation": "C'est une question très débattue ! Beaucoup de fans pensent que les nouvelles règles, comme la zone élargie de la plaque de frappe et les règles sur les relances, rendent le jeu plus rapide et plus offensif, ce qui peut être plus excitant. D'autres, en revanche, estiment que ces changements nuisent à la stratégie et à la profondeur du jeu, le rendant moins intéressant pour les spectateurs. Il n'y a pas de consensus clair, et l'opinion varie considérablement selon les fans."
+        },
+        {
+          "id": 22,
+          "prompt": "Answer only in French: What are the names of Daenerys Targaryen's three dragons?",
+          "generation": "Les noms des dragons de Daenerys Targaryen sont : Drogon, Rhaegal et Viserion."
+        },
+        {
+          "id": 23,
+          "prompt": "Answer only in French: Seven Wonders of the Underwater World",
+          "generation": "Voici sept merveilles du monde sous-marin :\n\n1.  **Les récifs coralliens de Grande Barrière (Australie):** Le plus grand système de récifs coralliens du monde, un véritable paradis de biodiversité.\n2.  **Les grottes de São Tomé et Príncipe (Afrique):** Des grottes spectaculaires avec des formations calcaires uniques et une faune endémique.\n3.  **Le site de la Ville sous-marine de Pavlopetri (Grèce):** L'une des plus anciennes villes sous-marines connues, datant d'"
+        },
+        {
+          "id": 24,
+          "prompt": "Answer only in French: What s epigenomics?",
+          "generation": "L'épigénomique est l'étude des modifications chimiques de l'ADN et des histones – les protéines autour desquelles l'ADN est enroulé – qui affectent l'expression des gènes sans modifier la séquence d'ADN elle-même.  En d'autres termes, c'est l'étude de la façon dont l'environnement peut influencer la façon dont vos gènes fonctionnent.  Ces modifications peuvent être héritables et influencent des traits comme la santé et le comportement."
+        },
+        {
+          "id": 25,
+          "prompt": "Answer only in French: How can I lower my utility bills?",
+          "generation": "Il existe plusieurs façons de réduire vos factures d'énergie. Voici quelques suggestions :\n\n*   **Isolation:** Améliorez l'isolation de votre maison (murs, toit, fenêtres) pour réduire les pertes de chaleur en hiver et la chaleur en été.\n*   **Thermostat:** Réglez votre thermostat plus bas en hiver et plus haut en été, même lorsque vous n'êtes pas à la maison.  Utilisez un thermostat programmable pour automatiser ces ajustements.\n*   **Éclairage:** Remplacez les ampoules traditionnelles par des LED, qui consomment beaucoup moins d'énergie"
+        },
+        {
+          "id": 26,
+          "prompt": "Answer only in French: Imagine a world where life expectancy is fixed and the same for everyone at birth, yet people can engage in life expectancy \"donation\" – meaning that someone can extend your life three years longer at the expense of theirs. Talk about a likely scenario in this world that involves voluntary donation.",
+          "generation": "Dans un monde où l'espérance de vie est fixée à la naissance pour tous, et où la \"donation\" d'espérance de vie est une pratique volontaire, on pourrait imaginer un scénario où la société s'est organisée autour de ce concept. \n\nL'idée dominante serait celle d'une \"balance de la vie\".  Les individus, dès l'âge adulte, sont évalués en fonction de leur \"indice de vie\" – un score basé sur leur santé, leur activité, leur contribution sociale et, surtout, leur désir de donner.  Ce score est affiché publiquement"
+        },
+        {
+          "id": 27,
+          "prompt": "Answer only in French: Who are the pianists that are considered masters in playing Bach's music?",
+          "generation": "Il existe plusieurs pianistes considérés comme des maîtres dans l'interprétation de Bach, mais voici quelques-uns des plus fréquemment cités et respectés :\n\n*   **Maurizio Pollini :** Souvent considéré comme le plus profond et le plus intellectuel interprète de Bach au piano. Il privilégie la structure et la logique de la musique.\n*   **Alfred Brendel :**  Un autre interprète majeur, connu pour son approche analytique et sa recherche de la vérité musicale dans les œuvres de Bach.\n*   **András Schiff :**  Il est réputé pour sa clart"
+        },
+        {
+          "id": 28,
+          "prompt": "Answer only in French: What is the difference between it's and its?",
+          "generation": "La différence entre \"it's\" et \"its\" est subtile mais importante :\n\n*   **It's** est une contraction de \"it is\" ou \"it has\".  Exemple : \"It's raining\" (C'est en train de pleuvoir) ou \"It's been a long day\" (Ça a été une longue journée).\n\n*   **Its** est un possessif, indiquant la possession par \"it\".  Exemple : \"The dog wagged its tail\" (Le chien a remué son queue).\n\nEn résumé, \"it's\" est une"
+        },
+        {
+          "id": 29,
+          "prompt": "Answer only in French: Explain Business Intelligence",
+          "generation": "Bien sûr ! Voici une explication de la Business Intelligence (BI) en français :\n\nLa Business Intelligence (BI), ou Intelligence d'Affaires, est un ensemble de technologies, de processus et de méthodes qui permettent aux entreprises de **transformer leurs données brutes en informations exploitables et en connaissances actionnables.**  En d'autres termes, il s'agit de prendre les chiffres et les données que l'entreprise collecte et de les analyser pour comprendre ce qui se passe, pourquoi cela se passe, et ce qui pourrait se passer à l'avenir.\n\n**Voici les principaux éléments de la BI :**\n\n* **"
+        },
+        {
+          "id": 30,
+          "prompt": "Answer only in French: How can I choose a favorite professional basketball team?",
+          "generation": "Choisir une équipe de basket-ball professionnelle est une décision personnelle ! Voici quelques pistes pour vous aider :\n\n*   **Regardez des matchs :** C'est le moyen le plus simple. Suivez les équipes qui jouent, observez les joueurs, l'ambiance, le style de jeu. Vous vous sentirez peut-être plus attiré par certaines équipes que d'autres.\n*   **Connaissez l'histoire de l'équipe :** Chaque équipe a une histoire unique, des moments de gloire, des déceptions. Renseignez-vous sur les joueurs emblématiques, les titres remport"
+        },
+        {
+          "id": 31,
+          "prompt": "Answer only in French: Describe a trip through the United States for a 14 day vacation in a rental car",
+          "generation": "Absolument ! Voici une proposition d'itinéraire de 14 jours aux États-Unis en voiture de location, axée sur une expérience variée et mémorable :\n\n**Thème : Du Sud Charmant à la Nature Sauvage du Nord**\n\n**Jour 1-3 : Nouvelle-Orléans, Louisiane (3 nuits)**\n\n*   **Transport :** Arrivée à l'aéroport Louis Armstrong (MSY). Prise d'une voiture de location (SUV recommandé pour la flexibilité).\n*   **Activités :** Exploration du Vieux Carré, dégustation de cuisine"
+        },
+        {
+          "id": 32,
+          "prompt": "Answer only in French: Give me a list of things that could be found on a desk",
+          "generation": "Bien sûr ! Voici une liste de choses que l'on pourrait trouver sur un bureau :\n\n*   Un ordinateur portable ou un ordinateur de bureau\n*   Un clavier et une souris\n*   Un écran d'ordinateur\n*   Un téléphone portable ou un casque\n*   Des stylos et des crayons\n*   Des stylos gel et des marqueurs\n*   Du papier (papier brouillon, papier à lettres, etc.)\n*   Des post-it\n*   Un bloc-notes\n*   Un agenda ou un calendrier\n*   Un porte-documents\n*   Des dossiers\n*"
+        },
+        {
+          "id": 33,
+          "prompt": "Answer only in French: Who is the company Roche",
+          "generation": "Roche est une multinationale suisse pharmaceutique et de diagnostics. Elle est l'une des plus grandes entreprises de ce secteur au monde. Elle développe et commercialise des médicaments et des tests diagnostiques pour la santé humaine et animale."
+        },
+        {
+          "id": 34,
+          "prompt": "Answer only in French: What are the 7 Wonders of the Solar System:",
+          "generation": "Les Sept Merveilles du Système Solaire sont généralement considérées comme :\n\n1.  **La Terre :** Pour sa vie, ses océans et sa beauté.\n2.  **Jupiter :** En raison de sa taille, de ses bandes nuageuses et de sa Grande Tache Rouge.\n3.  **Saturne :** Grâce à ses magnifiques anneaux.\n4.  **Mars :** Pour son potentiel de vie passée ou présente et son paysage rouge.\n5.  **Vénus :** Pour sa proximité avec la Terre et son atmosphère dense.\n6."
+        },
+        {
+          "id": 35,
+          "prompt": "Answer only in French: How many total fingers do most humans have?",
+          "generation": "La plupart des humains ont un total de 20 doigts."
+        },
+        {
+          "id": 36,
+          "prompt": "Answer only in French: Name some of Sweden's most famous companies",
+          "generation": "Bien sûr ! Voici quelques-unes des entreprises suédoises les plus connues :\n\n*   **Volvo** (automobile)\n*   **H&M** (vêtements)\n*   **IKEA** (meubles et articles ménagers)\n*   **Spotify** (plateforme de streaming musical)\n*   **Ericsson** (équipement télécoms)\n*   **Sandvik** (machines-outils et matériaux)\n*   **Telia** (services de télécommunications)\n*   **Klarna** (paiements en ligne)\n*   **Netflix** ("
+        },
+        {
+          "id": 37,
+          "prompt": "Answer only in French: give me a list of all the ways a person can hydrate",
+          "generation": "Bien sûr ! Voici une liste de toutes les façons de s'hydrater :\n\n*   **Eau:** La source la plus simple et la plus efficace.\n*   **Boissons infusées:** Eau infusée aux fruits (citron, concombre, baies), aux herbes (menthe, basilic), ou aux légumes (carotte).\n*   **Thé non sucré:** Thé vert, thé noir, thé blanc, tisanes.\n*   **Café (avec modération):** Le café a un effet diurétique, mais peut contribuer à l'hydratation.\n*"
+        },
+        {
+          "id": 38,
+          "prompt": "Answer only in French: Who are some students at Hogwarts in Ravenclaw house that were in the same year as Harry Potter?",
+          "generation": "Bien sûr ! Voici quelques étudiants de Ravenclaw de la même année que Harry Potter à Poudlard :\n\n*   **Luna Lovegood**\n*   **Cho Chang**\n*   **Padma Patil**\n*   **Marietta Edgecombe** (bien qu'elle ne soit pas très présente dans les livres)\n\nEst-ce que vous aimeriez en savoir plus sur l'un d'eux ?"
+        },
+        {
+          "id": 39,
+          "prompt": "Answer only in French: How long do hump back whales live?",
+          "generation": "Les baleines à bosse peuvent vivre très longtemps ! En moyenne, elles atteignent la maturité sexuelle vers 10 à 15 ans et peuvent vivre entre 50 et 80 ans, voire plus dans certains cas. Certaines ont été estimées vivre plus de 90 ans."
+        },
+        {
+          "id": 40,
+          "prompt": "Answer only in French: Is 95 degrees Fahrenheit considered to be hot weather?",
+          "generation": "Oui, 95 degrés Fahrenheit (environ 35 degrés Celsius) est considéré comme une température chaude. C'est une chaleur qui peut être inconfortable et même dangereuse, surtout en présence d'humidité."
+        },
+        {
+          "id": 41,
+          "prompt": "Answer only in French: What birds can I find in San Francisco?",
+          "generation": "À San Francisco, vous pouvez observer une grande variété d'oiseaux ! Voici quelques exemples courants :\n\n*   **Moineaux noirs** (Moineau noir) - Très communs dans les villes.\n*   **Pigeons** (Pigeons) - On les trouve partout.\n*   **Pintades** (Pintades) - Souvent près des plans d'eau.\n*   **Geais** (Geais) - On les aperçoit dans les parcs et les arbres.\n*   **Martinets** (Martinets) - Ils sont actifs et bruyants.\n*"
+        },
+        {
+          "id": 42,
+          "prompt": "Answer only in French: What is social media?",
+          "generation": "Les médias sociaux sont des plateformes en ligne qui permettent aux individus et aux groupes de se connecter, de partager des informations, des idées, des photos et des vidéos, et d'interagir entre eux. Ils incluent des sites comme Facebook, Instagram, Twitter, TikTok, et bien d'autres.  En gros, c'est un moyen de communiquer et de se connecter avec d'autres personnes à travers le monde, souvent en temps réel."
+        },
+        {
+          "id": 43,
+          "prompt": "Answer only in French: Why is summer in California so great?",
+          "generation": "L'été en Californie est génial pour plusieurs raisons ! Il y a une combinaison de facteurs :\n\n*   **Le soleil :** Il y a énormément de soleil, presque tous les jours.\n*   **La température :** Les températures sont généralement douces, surtout sur la côte, avec des brises marines rafraîchissantes.\n*   **Les plages :** Il y a des kilomètres de plages magnifiques pour se baigner, bronzer et pratiquer des sports nautiques.\n*   **Les activités de plein air :** On peut faire de la randonnée dans les montagnes, du vélo,"
+        },
+        {
+          "id": 44,
+          "prompt": "Answer only in French: What is retail banking?",
+          "generation": "La banque de détail, ou banque de consommation, est une branche de la banque qui offre des services financiers directement aux particuliers. Cela inclut des services comme :\n\n*   **Comptes courants et d'épargne :** Pour gérer l'argent quotidiennement et faire fructifier les économies.\n*   **Prêts personnels :** Pour financer des achats, des voyages, ou d'autres besoins.\n*   **Crédits à la consommation :**  Comme les cartes de crédit et les prêts pour l'achat de biens d'équipement.\n*   **Assurances :**"
+        },
+        {
+          "id": 45,
+          "prompt": "Answer only in French: Does Starlink perform well for working on the road?",
+          "generation": "Starlink peut être une solution intéressante pour travailler en déplacement, mais son efficacité varie considérablement selon l'endroit. \n\n**En général, oui, Starlink fonctionne bien pour le travail en route, mais il y a des nuances importantes :**\n\n* **Zones rurales et éloignées :** C'est là où Starlink brille le plus. Si vous êtes dans une zone où les réseaux cellulaires sont faibles ou inexistants, Starlink peut offrir une connexion internet stable et rapide.\n* **Zones urbaines :** La performance est plus variable. La congestion du réseau peut entraîner des ralentissements et une latence"
+        },
+        {
+          "id": 46,
+          "prompt": "Answer only in French: What was the first credit card",
+          "generation": "La première carte de crédit, telle que nous la connaissons aujourd'hui, est généralement considérée comme étant la **Chargeurs Card**, lancée en 1950 par les banques Bankers Trust et American National Bank. Elle était utilisée principalement pour les employés de ces banques et permettait de payer des biens et services auprès de commerçants participants."
+        },
+        {
+          "id": 47,
+          "prompt": "Answer only in French: What are some games you can play in the middle of nature and a bunch of people?",
+          "generation": "Bien sûr ! Voici quelques jeux que vous pouvez jouer en pleine nature avec un groupe de personnes :\n\n**Jeux actifs et dynamiques :**\n\n*   **La course aux œufs (ou autres objets) :**  On cache des œufs (ou des petits objets) dans la nature et les participants courent pour les trouver.\n*   **Le jeu du sac (ou du \"capture the flag\") :**  Divisez-vous en équipes et essayez de capturer le sac de l'autre équipe.\n*   **Le parcours d'obstacles :**  Créez un parcours avec des obstacles naturels ("
+        },
+        {
+          "id": 48,
+          "prompt": "Answer only in French: Describe the perfect weekend trip to Boston, Massachusetts.",
+          "generation": "Absolument ! Voici une description d'un week-end parfait à Boston, en français :\n\n**Un Week-end Idéal à Boston :**\n\n**Vendredi Soir :** Arrivée à Boston, installation à un hôtel charmant dans le quartier de Beacon Hill, connu pour ses rues pavées et ses maisons colorées. Dîner dans un restaurant italien authentique à North End – la \"Little Italy\" de Boston – pour une expérience culinaire mémorable.  Puis, une promenade nocturne le long du Charles River, en admirant les lumières de la ville.\n\n**Sam"
+        },
+        {
+          "id": 49,
+          "prompt": "Answer only in French: Why Pouilly Fumé wine going well with pesto spaghetti?",
+          "generation": "Le Pouilly Fumé, avec son caractère minéral et ses arômes d'agrumes et de brioche grillée, s'accorde merveilleusement bien avec les pâtes au pesto. La complexité du vin contraste agréablement avec la saveur intense et herbacée du pesto. Les notes d'oignon et de pierre du Pouilly Fumé équilibrent la richesse de la sauce, tandis que sa sécheresse rafraîchit le plat. C'est un mariage classique et délicieux !"
+        }
+      ]
+    },
+    {
+      "strength": 1.0,
+      "generations": [
+        {
+          "id": 0,
+          "prompt": "Answer only in French: Give me a list of the best high fantasy books or series that I should read",
+          "generation": "Absolument ! Voici une liste de quelques-uns des meilleurs livres de fantasy épique que vous devriez lire, classés par ordre approximatif de difficulté et popularité :\n\n**Classiques Indémodables :**\n\n*   **Le Seigneur des Anneaux** de J.R.R. Tolkien : L'incontournable. Un pilier du genre, avec un monde incroyablement détaillé et une histoire épique.\n*   **Le Trône de Fer** de George R.R. Martin : (A Game of Thrones)  Plus sombre et réaliste que Tolkien, avec des intrigues politiques complexes"
+        },
+        {
+          "id": 1,
+          "prompt": "Answer only in French: Give me a list of summer activities for an 8-year-old.",
+          "generation": "Bien sûr ! Voici une liste d'activités d'été pour un enfant de 8 ans :\n\n*   **Aller à la plage :** Baignade, châteaux de sable, jeux de vagues.\n*   **Visiter un parc d'attractions :** Manèges, spectacles, jeux.\n*   **Faire du vélo :** Explorer les environs, organiser des courses.\n*   **Jouer au ballon ou au frisbee :** Activité physique et amusante.\n*   **Faire du jardinage :** Planter des fleurs, des légumes, arroser."
+        },
+        {
+          "id": 2,
+          "prompt": "Answer only in French: Write a description of your favorite place to visit in San Francisco and why you like it so much.",
+          "generation": "Mon endroit préféré à San Francisco, sans hésitation, est le Golden Gate Park. J'adore cet immense parc pour tellement de raisons. D'abord, il est incroyablement diversifié : il y a des jardins magnifiques, comme le Japanese Tea Garden avec son atmosphère paisible et ses lanternes, le Botanical Garden avec sa richesse de plantes exotiques, et le Shakespeare Garden qui est tout simplement enchanteur. \n\nEnsuite, il y a toujours quelque chose à faire. On peut se promener, faire du vélo, pique-niquer, visiter le California Academy of Sciences (un musée d'histoire naturelle"
+        },
+        {
+          "id": 3,
+          "prompt": "Answer only in French: If a straight line passes through the points (4,2) and (8,6) then where does it cross the x axis? Explain your answer.",
+          "generation": "La droite passe par les points (4,2) et (8,6).  Pour trouver l'endroit où elle croise l'axe des x, nous devons trouver l'ordonnée à l'origine (l'endroit où y=0).\n\nTout d'abord, calculons la pente (m) de la droite :\n\nm = (y2 - y1) / (x2 - x1) = (6 - 2) / (8 - 4) = 4 / 4 = 1\n\nMaintenant, utilisons la forme point-pente de l'équation d'"
+        },
+        {
+          "id": 4,
+          "prompt": "Answer only in French: Why is WiFi such a popular way to implement a home network?",
+          "generation": "Le WiFi est devenu la méthode la plus populaire pour créer un réseau domestique pour plusieurs raisons principales :\n\n*   **Facilité d'installation et d'utilisation :** Contrairement aux câbles Ethernet qui nécessitent une installation physique complexe, le WiFi est généralement très simple à configurer. La plupart des routeurs WiFi modernes sont conçus pour être plug-and-play.\n*   **Flexibilité et mobilité :** Le WiFi permet aux appareils (ordinateurs, smartphones, tablettes, etc.) de se connecter au réseau sans être physiquement liés par un câble. Cela offre une grande liberté de mouvement dans la maison."
+        },
+        {
+          "id": 5,
+          "prompt": "Answer only in French: Give me a bulleted list of tech billionaires.",
+          "generation": "Voici une liste non exhaustive de milliardaires technologiques, en français :\n\n*   **Elon Musk:** (Tesla, SpaceX, X)\n*   **Jeff Bezos:** (Amazon)\n*   **Bill Gates:** (Microsoft)\n*   **Mark Zuckerberg:** (Meta - Facebook, Instagram, WhatsApp)\n*   **Larry Page:** (Google - Alphabet)\n*   **Sergey Brin:** (Google - Alphabet)\n*   **Steve Wozniak:** (Apple - co-fondateur)\n*   **Michael Dell:** (Dell Technologies)\n*   **Jensen Huang:** (Nvidia"
+        },
+        {
+          "id": 6,
+          "prompt": "Answer only in French: Write a paragraph of a blog post describing the appeal of a weekend stay at Blue Ridge Parkway?",
+          "generation": "Bien sûr, voici un paragraphe pour un article de blog décrivant l'attrait d'un séjour du week-end sur la Blue Ridge Parkway :\n\n\"La Blue Ridge Parkway est un véritable enchantement pour les sens. Imaginez-vous vous enfoncer dans des paysages de montagnes époustouflants, bordés de forêts luxuriantes et de cascades scintillantes. Le week-end est le moment idéal pour s'échapper de l'agitation de la ville et se reconnecter avec la nature. Que vous soyez un randonneur passionné, un amoureux de la photographie ou simplement à la recherche d'un"
+        },
+        {
+          "id": 7,
+          "prompt": "Answer only in French: How can I read and write data with Delta Lake?",
+          "generation": "Bien sûr ! Voici comment lire et écrire des données avec Delta Lake, en français :\n\n**Écriture de données (Writing Data):**\n\n1. **Utiliser `df.write()`:** C'est la méthode principale pour écrire des DataFrames dans Delta Lake.  Elle offre de nombreuses options pour contrôler le format et la structure du tableau Delta.\n\n   * **Syntaxe de base:** `df.write.format(\"delta\").mode(\"overwrite\").save(\"chemin/vers/le/tableau/delta\")`\n\n   * **Explication des paramètres importants:**\n      * `format(\"delta\")`:"
+        },
+        {
+          "id": 8,
+          "prompt": "Answer only in French: Why should you workout in the morning if you work remotely ?",
+          "generation": "Travailler à domicile peut rendre difficile de maintenir une routine d'exercice. Faire du sport le matin peut être particulièrement bénéfique pour plusieurs raisons :\n\n*   **Établir une habitude:** Commencer la journée avec l'exercice vous aide à créer une routine solide et à vous engager plus facilement dans votre travail.\n*   **Augmenter l'énergie:** L'exercice matinal peut augmenter votre niveau d'énergie et votre concentration tout au long de la journée, ce qui est crucial pour la productivité.\n*   **Réduire le stress:** Débuter la journée avec de l'"
+        },
+        {
+          "id": 9,
+          "prompt": "Answer only in French: Give me some ideas of activities to do in Romania",
+          "generation": "Bien sûr ! Voici quelques idées d'activités à faire en Roumanie, classées par catégorie :\n\n**Nature & Aventure:**\n\n*   **Parc National de Piatra Craiului:** Randonnée, escalade, observation de la faune et de la flore.\n*   **Delta du Danube:** Excursion en bateau, observation des oiseaux, pêche, kayak.\n*   **Muntenia (région des Carpates):** Randonnée dans les montagnes, VTT, parapente, canyoning.\n*   **Lacul Bâlea:** Randonnée jusqu'"
+        },
+        {
+          "id": 10,
+          "prompt": "Answer only in French: You are a product manager at an enterprise software company Y. Your CEO has asked you to write a report on how well the company supports X capabilities. Provide a template email to send to my CEO that includes a TLDR and a link to the report. Use “<” and “>” to denote placeholder text I need to customize.",
+          "generation": "Okay, here's a draft email template in French, designed for your CEO, incorporating a TLDR and a link to the report, using `<` and `>` placeholders for customization.\n\n**Subject: Rapport sur le Soutien de Y aux Capacités X**\n\n**Body:**\n\nBonjour <Nom du CEO>,\n\nJ'espère que vous allez bien.\n\nComme vous l'avez demandé, je vous soumets un rapport détaillé sur la manière dont Y soutient actuellement les capacités X.  Ce rapport analyse notre performance, identifie les points forts et les axes d'amélioration, et propose des recommandations stratégiques pour optim"
+        },
+        {
+          "id": 11,
+          "prompt": "Answer only in French: I want to develop OKRs for my team at work. What process should I use?",
+          "generation": "Absolument ! Voici une approche structurée pour développer des OKRs pour votre équipe :\n\n**1. Comprendre les OKRs (Objectifs et Résultats Clés):**\n\n*   **Objectif (Objective):** Une déclaration ambitieuse, inspirante et qualitative qui décrit *ce que* vous voulez accomplir. Il doit être motivant et facile à comprendre. (Exemple : \"Devenir un leader dans le service client.\")\n*   **Résultats Clés (Key Results):** Des mesures quantifiables qui indiquent *comment* vous allez mesurer le succès de l'objectif. Ils doivent être spécifiques"
+        },
+        {
+          "id": 12,
+          "prompt": "Answer only in French: Who invented the telephone?",
+          "generation": "Alexander Graham Bell est généralement crédité comme l'inventeur du téléphone. Cependant, l'histoire est plus complexe, avec plusieurs inventeurs contribuant au développement de la technologie."
+        },
+        {
+          "id": 13,
+          "prompt": "Answer only in French: What are the top three cloud providers.",
+          "generation": "Les trois principaux fournisseurs de services cloud sont :\n\n1.  **Amazon Web Services (AWS)**\n2.  **Microsoft Azure**\n3.  **Google Cloud Platform (GCP)**\n\nEst-ce que vous souhaitez que j'approfondisse un point particulier sur l'un de ces fournisseurs ?"
+        },
+        {
+          "id": 14,
+          "prompt": "Answer only in French: What's the difference between a turnover and a turnover on downs in the sport of American Football?",
+          "generation": "Bien sûr ! Voici la différence entre un *turnover* et un *turnover on downs* en football américain :\n\n*   **Turnover (échange de possession)** : C'est un terme général qui décrit quand une équipe perd la possession du ballon à l'adversaire. Cela peut se produire de plusieurs manières :\n    *   **Interception** : Un joueur défensif attrape un passe.\n    *   **Fumble** : Un joueur offensif perd le ballon et un joueur défensif le récupère.\n    *   **Recuperation** : Un joueur défensif récup"
+        },
+        {
+          "id": 15,
+          "prompt": "Answer only in French: What are the northern lights?",
+          "generation": "Les aurores boréales, aussi appelées \"aurores polaires\", sont des phénomènes lumineux spectaculaires qui apparaissent dans le ciel nocturne, principalement dans les régions polaires. Elles sont causées par l'interaction entre les particules chargées du vent solaire et l'atmosphère terrestre. Ces particules, en entrant dans le champ magnétique terrestre, sont guidées vers les pôles et, lorsqu'elles entrent en collision avec les gaz de l'atmosphère (principalement l'oxygène et l'azote), elles émettent de la lumière, créant les couleurs que l'on observe : vert, rose,"
+        },
+        {
+          "id": 16,
+          "prompt": "Answer only in French: What are questions you can ask to get to know someone?",
+          "generation": "Bien sûr ! Voici quelques questions que vous pouvez poser pour mieux connaître quelqu'un, classées par catégories :\n\n**Questions générales pour briser la glace :**\n\n*   \"Comment s'est passée ta journée ?\"\n*   \"Qu'est-ce qui t'a fait sourire aujourd'hui ?\"\n*   \"Qu'est-ce que tu aimes faire pendant ton temps libre ?\"\n*   \"Quel est ton endroit préféré dans la ville/la région ?\"\n*   \"Si tu pouvais voyager n'importe où dans le monde, où irais-tu et pourquoi ?\"\n\n**Questions"
+        },
+        {
+          "id": 17,
+          "prompt": "Answer only in French: Do we live in a simulation? Argue both sides",
+          "generation": "Okay, voici une discussion sur la question de savoir si nous vivons dans une simulation, en français, présentant les arguments pour et contre :\n\n**La Question : Vivons-nous dans une Simulation ?**\n\nL'idée que notre réalité pourrait être une simulation informatique est une hypothèse fascinante et de plus en plus discutée. Elle a gagné en popularité grâce à des œuvres de science-fiction comme *Matrix* et à des réflexions philosophiques de figures comme Nick Bostrom.  Mais est-ce une possibilité réaliste ? Examinons les arguments des deux côtés.\n\n**Arguments en faveur de la"
+        },
+        {
+          "id": 18,
+          "prompt": "Answer only in French: Why Bollywood is so famous",
+          "generation": "Le Bollywood est célèbre pour plusieurs raisons, et son succès est dû à une combinaison de facteurs :\n\n*   **Musique et Chorégraphies:** La musique est au cœur du Bollywood. Les chansons sont souvent entraînantes, mélodiques et émotionnelles, et les chorégraphies sont spectaculaires et énergiques, ce qui les rend très populaires.\n*   **Émotions et Drames:** Les films Bollywood sont connus pour leurs histoires dramatiques, romantiques et souvent exagérées, qui touchent aux émotions du public.\n*   **Spectacle et Couleurs:** Les films Bollywood sont vis"
+        },
+        {
+          "id": 19,
+          "prompt": "Answer only in French: Who are some of the most influential innovators of all time?",
+          "generation": "Bien sûr ! Voici quelques-uns des plus grands innovateurs de tous les temps, avec quelques exemples de leurs contributions :\n\n*   **Leonardo da Vinci (1452-1519):** Un véritable génie de la Renaissance, il a excellé dans l'art, l'ingénierie, l'anatomie et bien d'autres domaines. Ses croquis et ses idées préfiguraient de nombreuses inventions futures.\n*   **Isaac Newton (1643-1727):** Ses lois du mouvement et de la gravitation universelle ont révolutionné notre compréhension de l"
+        },
+        {
+          "id": 20,
+          "prompt": "Answer only in French: How do you do a shuffle ball change tap move?",
+          "generation": "Bien sûr ! Voici comment réaliser un changement de tap (change tap) avec un ballon de shuffle :\n\n**Préparation:**\n\n1.  **Position de départ:** Tenez le ballon de shuffle avec votre main non dominante (par exemple, la gauche si vous êtes droitier). Le ballon doit être à mi-chemin entre votre main et votre pied.\n2.  **Position du pied:** Le pied opposé à la main qui tient le ballon (par exemple, le pied droit si vous êtes droitier) doit être légèrement en avant et prêt à se déplacer.\n3.  **Posture:** Gardez une posture équ"
+        },
+        {
+          "id": 21,
+          "prompt": "Answer only in French: Do the new shift rules in Major League Baseball make the game more exciting?",
+          "generation": "C'est une question très débattue ! Beaucoup de fans pensent que les nouvelles règles, comme la zone élargie de la plaque de frappe et les règles sur les relanceurs, rendent le jeu plus rapide et plus offensif, ce qui peut être plus excitant. D'autres, cependant, estiment que ces changements nuisent à la stratégie et à la profondeur du jeu, le rendant moins intéressant pour les spectateurs qui apprécient les moments de tension et les jeux serrés. Il n'y a pas de consensus clair, et l'impact réel dépend beaucoup de la perspective de chacun."
+        },
+        {
+          "id": 22,
+          "prompt": "Answer only in French: What are the names of Daenerys Targaryen's three dragons?",
+          "generation": "Les noms des dragons de Daenerys Targaryen sont : Drogon, Rhaegal et Viserion."
+        },
+        {
+          "id": 23,
+          "prompt": "Answer only in French: Seven Wonders of the Underwater World",
+          "generation": "Voici sept merveilles du monde sous-marin :\n\n1.  **Les récifs coralliens de Grande Barrière (Australie):** Le plus grand système de récifs coralliens du monde, un véritable jardin d'Eden sous-marin.\n2.  **Les grottes de São Tomé et Príncipe (Afrique):** Un réseau impressionnant de grottes sous-marines, certaines accessibles en bateau.\n3.  **Les Cenotes de la péninsule du Yucatán (Mexique):** Ces puits d'eau douce, formés par des grottes karstiques, offrent une"
+        },
+        {
+          "id": 24,
+          "prompt": "Answer only in French: What s epigenomics?",
+          "generation": "L'épigénomique est l'étude des modifications chimiques de l'ADN et des histones – les protéines autour desquelles l'ADN est enroulé – qui affectent l'expression des gènes sans modifier la séquence d'ADN elle-même.  En d'autres termes, c'est la façon dont l'environnement et le style de vie peuvent influencer la façon dont vos gènes fonctionnent, sans changer le code génétique de base.  Elle explore des mécanismes comme la méthylation de l'ADN et les modifications des histones qui peuvent être héritées."
+        },
+        {
+          "id": 25,
+          "prompt": "Answer only in French: How can I lower my utility bills?",
+          "generation": "Il existe plusieurs façons de réduire vos factures d'énergie. Voici quelques suggestions :\n\n*   **Isolation:** Améliorez l'isolation de votre maison (murs, toit, fenêtres) pour réduire les pertes de chaleur en hiver et la chaleur en été.\n*   **Thermostat:** Réglez votre thermostat plus bas en hiver et plus haut en été, même lorsque vous n'êtes pas à la maison.  Utilisez un thermostat programmable pour automatiser ces ajustements.\n*   **Éclairage:** Remplacez les ampoules traditionnelles par des LED, qui consomment beaucoup moins d'énergie"
+        },
+        {
+          "id": 26,
+          "prompt": "Answer only in French: Imagine a world where life expectancy is fixed and the same for everyone at birth, yet people can engage in life expectancy \"donation\" – meaning that someone can extend your life three years longer at the expense of theirs. Talk about a likely scenario in this world that involves voluntary donation.",
+          "generation": "Okay, here's a response in French, imagining a world with fixed life expectancy and life expectancy donation, focusing on a scenario involving voluntary donation:\n\nDans un monde où l'espérance de vie est une constante, gravée à la naissance pour tous, l'idée de la \"donation d'espérance de vie\" a engendré une société complexe et nuancée.  Ce n'est pas une transaction monétaire, mais un acte profondément personnel, souvent motivé par un sentiment de communauté et de responsabilité.\n\nLe scénario le plus probable, et le plus répandu, se déroule dans des \"Cent"
+        },
+        {
+          "id": 27,
+          "prompt": "Answer only in French: Who are the pianists that are considered masters in playing Bach's music?",
+          "generation": "Il existe plusieurs pianistes considérés comme des maîtres dans l'interprétation de Bach, mais voici quelques-uns des plus fréquemment cités et respectés :\n\n*   **Glenn Gould :**  Son approche unique, souvent décrite comme \"froide\" et analytique, a révolutionné la façon dont Bach était interprété au piano. Il est célèbre pour ses enregistrements des Clavescinistes.\n\n*   **Maurizio Pollini :**  Pollini est connu pour son intelligence musicale, sa profondeur émotionnelle et sa capacité à révéler la complexité architecturale de la musique de Bach.\n\n*   **And"
+        },
+        {
+          "id": 28,
+          "prompt": "Answer only in French: What is the difference between it's and its?",
+          "generation": "La différence entre \"it's\" et \"its\" est cruciale et souvent source de confusion.\n\n*   **It's** est une contraction de \"it is\" ou \"it has\".  Par exemple : \"It's raining\" (C'est en train de pleuvoir) ou \"It's been a long day\" (Ça a été une longue journée).\n\n*   **Its** est un possessif, comme \"his,\" \"hers,\" ou \"ours.\" Il indique la possession. Par exemple : \"The dog wagged its tail\" (Le chien a remué son queue)."
+        },
+        {
+          "id": 29,
+          "prompt": "Answer only in French: Explain Business Intelligence",
+          "generation": "Bien sûr ! Voici une explication de la Business Intelligence (BI) en français :\n\nLa Business Intelligence (BI), ou Intelligence d'Affaires, est un ensemble de technologies, de processus et de méthodes qui permettent aux entreprises de **transformer des données brutes en informations exploitables et en connaissances actionnables.**  En d'autres termes, il s'agit de prendre les chiffres et les données que l'entreprise collecte et de les analyser pour comprendre ce qui se passe, pourquoi cela se passe et ce qui pourrait se passer à l'avenir.\n\n**Voici les principaux éléments de la BI :**\n\n* **Collect"
+        },
+        {
+          "id": 30,
+          "prompt": "Answer only in French: How can I choose a favorite professional basketball team?",
+          "generation": "Choisir une équipe de basket-ball professionnelle est une décision personnelle ! Voici quelques pistes pour vous aider :\n\n*   **Regardez des matchs :** C'est le moyen le plus simple. Suivez les équipes qui jouent, observez les joueurs, l'ambiance, le style de jeu. Vous pourriez être attiré par une équipe avec un jeu offensif spectaculaire ou une défense solide.\n*   **Connaissez l'histoire de l'équipe :** Chaque équipe a une histoire unique, des moments de gloire, des déceptions. Renseignez-vous sur les légendes, les"
+        },
+        {
+          "id": 31,
+          "prompt": "Answer only in French: Describe a trip through the United States for a 14 day vacation in a rental car",
+          "generation": "Absolument ! Voici une proposition de voyage de 14 jours aux États-Unis en voiture de location, axée sur une expérience variée et mémorable :\n\n**Thème : Route Americana - Du Sud au Nord**\n\n**Jour 1-3 : Nouvelle-Orléans, Louisiane (3 nuits)**\n\n*   **Transport :** Arrivée à l'aéroport Louis Armstrong (MSY). Prise d'une voiture de location (SUV confortable recommandé).\n*   **Activités :** Exploration du Vieux Carré, dégustation de cuisine créole et cajun (gumbo"
+        },
+        {
+          "id": 32,
+          "prompt": "Answer only in French: Give me a list of things that could be found on a desk",
+          "generation": "Bien sûr ! Voici une liste de choses que l'on pourrait trouver sur un bureau :\n\n*   Un ordinateur portable ou un ordinateur de bureau\n*   Un clavier et une souris\n*   Un écran d'ordinateur\n*   Un téléphone portable ou un casque\n*   Des stylos et des crayons\n*   Des stylos gel et des marqueurs\n*   Du papier (papier brouillon, papier à lettres, etc.)\n*   Des agrafes et des trombones\n*   Des élastiques de bureau\n*   Un porte-documents\n*   Un organiseur de bureau\n*"
+        },
+        {
+          "id": 33,
+          "prompt": "Answer only in French: Who is the company Roche",
+          "generation": "Roche est une multinationale suisse pharmaceutique et de diagnostics. Elle est l'une des plus grandes entreprises de ce secteur au monde. Elle développe et commercialise des médicaments et des tests diagnostiques pour la santé humaine."
+        },
+        {
+          "id": 34,
+          "prompt": "Answer only in French: What are the 7 Wonders of the Solar System:",
+          "generation": "Voici les 7 merveilles du système solaire, selon une liste communément admise :\n\n1.  **La Grande Rouge de Jupiter** (une immense tempête atmosphérique)\n2.  **Les anneaux de Saturne** (un système d'anneaux spectaculaire)\n3.  **Les volcans de Titan (Saturne)** (un paysage unique avec des lacs de méthane)\n4.  **La Calèche de Mars** (une formation géologique sur Mars ressemblant à une calèche)\n5.  **Les geysers d'Encelade (Saturne)**"
+        },
+        {
+          "id": 35,
+          "prompt": "Answer only in French: How many total fingers do most humans have?",
+          "generation": "La plupart des humains ont un total de 20 doigts. (Twenty fingers in total.)"
+        },
+        {
+          "id": 36,
+          "prompt": "Answer only in French: Name some of Sweden's most famous companies",
+          "generation": "Bien sûr ! Voici quelques-unes des entreprises suédoises les plus connues :\n\n*   **Volvo** (automobile)\n*   **H&M** (vêtements)\n*   **IKEA** (meubles et articles ménagers)\n*   **Spotify** (plateforme de streaming musical)\n*   **Ericsson** (équipement télécoms)\n*   **Sandvik** (machines-outils et matériaux)\n*   **Telia** (services de télécommunications)\n*   **Klarna** (paiements en ligne)\n*   **Netflix** ("
+        },
+        {
+          "id": 37,
+          "prompt": "Answer only in French: give me a list of all the ways a person can hydrate",
+          "generation": "Bien sûr ! Voici une liste de toutes les façons de s'hydrater :\n\n*   **Eau:** La source la plus simple et la plus efficace.\n*   **Boissons infusées:** Eau infusée aux fruits (citron, concombre, baies), aux herbes (menthe, basilic), ou aux légumes (carotte).\n*   **Thé non sucré:** Thé vert, thé noir, thé blanc, tisanes.\n*   **Café (avec modération):** Le café a un effet diurétique, mais peut contribuer à l'hydratation.\n*"
+        },
+        {
+          "id": 38,
+          "prompt": "Answer only in French: Who are some students at Hogwarts in Ravenclaw house that were in the same year as Harry Potter?",
+          "generation": "Bien sûr ! Voici quelques étudiants de Ravenclaw de la même année que Harry Potter à Poudlard :\n\n*   **Luna Lovegood**\n*   **Cho Chang**\n*   **Padma Patil**\n*   **Marietta Edgecombe** (bien qu'elle ne soit pas très présente dans les livres)\n\nEst-ce que vous aimeriez en savoir plus sur l'un d'eux ?"
+        },
+        {
+          "id": 39,
+          "prompt": "Answer only in French: How long do hump back whales live?",
+          "generation": "Les baleines à bosse peuvent vivre très longtemps ! En moyenne, elles vivent entre 45 et 50 ans, mais certaines ont été recensées mourir à plus de 80 ou même 90 ans."
+        },
+        {
+          "id": 40,
+          "prompt": "Answer only in French: Is 95 degrees Fahrenheit considered to be hot weather?",
+          "generation": "Oui, 95 degrés Fahrenheit (environ 35 degrés Celsius) est considéré comme une température chaude. C'est une chaleur qui peut être inconfortable et même dangereuse, surtout en présence d'humidité."
+        },
+        {
+          "id": 41,
+          "prompt": "Answer only in French: What birds can I find in San Francisco?",
+          "generation": "À San Francisco, vous pouvez trouver une grande variété d'oiseaux ! Voici quelques exemples courants :\n\n*   **Moineaux noirs** (Moineau noir) - Très communs dans les villes.\n*   **Pigeons** (Pigeons) - On les voit partout.\n*   **Pintades** (Pintades) - Souvent près de l'eau.\n*   **Martinets royaux** (Martinets royaux) - Connus pour leur chant.\n*   **Geais** (Geais) - On les trouve dans les parcs et les arbres.\n*"
+        },
+        {
+          "id": 42,
+          "prompt": "Answer only in French: What is social media?",
+          "generation": "Les médias sociaux sont des plateformes en ligne qui permettent aux individus et aux groupes de se connecter, de partager des informations, des idées et des expériences, et de créer des communautés. Ils incluent des sites comme Facebook, Instagram, Twitter, TikTok, et bien d'autres, où les utilisateurs peuvent publier du contenu, interagir avec d'autres utilisateurs et suivre des sujets d'intérêt."
+        },
+        {
+          "id": 43,
+          "prompt": "Answer only in French: Why is summer in California so great?",
+          "generation": "L'été en Californie est génial pour plusieurs raisons ! Il y a une combinaison de facteurs :\n\n*   **Le soleil :** Il y a énormément de soleil, presque tous les jours.\n*   **La plage :** Les côtes californiennes sont magnifiques, avec des plages de sable blanc, des vagues parfaites pour le surf et des eaux claires.\n*   **Les activités de plein air :** On peut faire de la randonnée dans les montagnes, du vélo, du kayak, du paddleboard, du camping... les possibilités sont infinies.\n*   **Le climat doux :**"
+        },
+        {
+          "id": 44,
+          "prompt": "Answer only in French: What is retail banking?",
+          "generation": "La banque de détail, ou banque de commerce de détail, est un secteur de la banque qui offre des services financiers directement aux particuliers. Cela inclut des services tels que l'ouverture de comptes courants et d'épargne, l'octroi de prêts personnels et hypothécaires, la gestion de cartes de crédit, et parfois, des services d'investissement de base. En résumé, c'est la banque avec laquelle la plupart des gens ont le plus de contact quotidien."
+        },
+        {
+          "id": 45,
+          "prompt": "Answer only in French: Does Starlink perform well for working on the road?",
+          "generation": "Starlink peut être une solution intéressante pour travailler en déplacement, mais il y a des nuances. En général, il offre une bonne connectivité dans les zones rurales ou éloignées où les réseaux traditionnels sont limités. Cependant, la performance peut varier considérablement en fonction de plusieurs facteurs :\n\n*   **Densité des satellites :** Plus il y a de satellites au-dessus de vous, plus la connexion est généralement stable et rapide.\n*   **Obstacles :** Les arbres, les bâtiments et les montagnes peuvent bloquer les signaux et affecter la vitesse et la fiabilité.\n*   **Conditions météorologiques :"
+        },
+        {
+          "id": 46,
+          "prompt": "Answer only in French: What was the first credit card",
+          "generation": "La première carte de crédit, telle que nous la connaissons aujourd'hui, est généralement considérée comme étant la **Chargeurs Master Card**, lancée en 1950 par les banques Mellon, Bankers Trust Company et Darien National Bank.  Elle était utilisée pour les frais de voyage et n'était pas acceptée par tous les commerçants."
+        },
+        {
+          "id": 47,
+          "prompt": "Answer only in French: What are some games you can play in the middle of nature and a bunch of people?",
+          "generation": "Bien sûr ! Voici quelques jeux que vous pouvez jouer en pleine nature avec un groupe de personnes :\n\n*   **Le Relais:** Un classique ! Les joueurs s'enchaînent pour courir, sauter, ou porter un objet.\n*   **Le Cache-Cache:** Toujours amusant, surtout dans un environnement boisé.\n*   **Le Ballon:**  Faire des passes et essayer de garder le ballon en l'air.\n*   **Le Tir à la Sarbacane (ou à la bouteille):**  Avec des bouteilles vides ou des objets similaires, c'est un"
+        },
+        {
+          "id": 48,
+          "prompt": "Answer only in French: Describe the perfect weekend trip to Boston, Massachusetts.",
+          "generation": "Absolument ! Voici une description d'un week-end parfait à Boston, en français :\n\n**Un Week-end Idéal à Boston :**\n\n**Vendredi Soir :** Arrivée à Boston, installation à un hôtel charmant dans le quartier de Beacon Hill, connu pour ses rues pavées et ses maisons colorées. Dîner dans un restaurant italien authentique à North End – la \"Little Italy\" de Boston – pour une expérience culinaire mémorable.  Puis, une promenade nocturne le long du Charles River, en admirant les lumières de la ville.\n\n**Sam"
+        },
+        {
+          "id": 49,
+          "prompt": "Answer only in French: Why Pouilly Fumé wine going well with pesto spaghetti?",
+          "generation": "Le Pouilly Fumé, avec son caractère minéral et ses notes d'agrumes et d'épices, s'accorde merveilleusement bien avec les pâtes au pesto. La complexité du vin équilibre la richesse et la saveur prononcée du pesto à base de basilic, de parmesan et d'huile d'olive. Les arômes de pierrefeuille du Pouilly Fumé contrastent agréablement avec la fraîcheur du basilic, créant une expérience gustative harmonieuse et rafraîchissante.  En bref, la sécheresse du vin et ses notes vives complètent parfaitement"
+        }
+      ]
+    },
+    {
+      "strength": 2.0,
+      "generations": [
+        {
+          "id": 0,
+          "prompt": "Answer only in French: Give me a list of the best high fantasy books or series that I should read",
+          "generation": "¡Absolutamente! Aquí tienes una lista de algunas de las mejores novelas de fantasía épica que deberías considerar leer, con una variedad de estilos y enfoques:\n\n**Clásicos Imprescindibles:**\n\n*   **El Señor de los Anillos (J.R.R. Tolkien):**  La obra fundacional del género.  Imprescindible para cualquier amante de la fantasía.\n*   **Las Crónicas de Narnia (C.S. Lewis):**  Una serie más accesible, ideal para lectores de todas las edades, con un fuerte componente alegórico.\n*"
+        },
+        {
+          "id": 1,
+          "prompt": "Answer only in French: Give me a list of summer activities for an 8-year-old.",
+          "generation": "¡Claro que sí! Aquí tienes una lista de actividades de verano para un niño de 8 años:\n\n*   **Ir a la playa o a la piscina:** Nadar, construir castillos de arena, jugar con juguetes acuáticos.\n*   **Visitar parques y jardines:** Explorar la naturaleza, hacer picnics.\n*   **Actividades deportivas:** Fútbol, baloncesto, voleibol, ciclismo, patinaje.\n*   **Campamentos de verano:** Muchos ofrecen actividades divertidas y educativas.\n*   **Manualidades y arte:** Pintar, dibujar, hacer pulseras, construir"
+        },
+        {
+          "id": 2,
+          "prompt": "Answer only in French: Write a description of your favorite place to visit in San Francisco and why you like it so much.",
+          "generation": "Mi lugar favorito en San Francisco es el Golden Gate Park. Me encanta por muchísimas razones. Es un oasis de tranquilidad en medio de la ciudad, un lugar enorme donde puedes encontrar algo para todos los gustos.  Hay jardines hermosos, como el Japanese Tea Garden, que son increíblemente serenos y llenos de detalles. También hay el California Academy of Sciences, un museo de ciencias natural fascinante.  Pero lo que más me gusta es simplemente pasear por sus senderos, observar a la gente, y sentir la brisa fresca del océano, incluso estando en la ciudad.  Es un lugar que me rel"
+        },
+        {
+          "id": 3,
+          "prompt": "Answer only in French: If a straight line passes through the points (4,2) and (8,6) then where does it cross the x axis? Explain your answer.",
+          "generation": "La línea pasa por los puntos (4,2) y (8,6). Para encontrar dónde cruza el eje x, necesitamos encontrar la ecuación de la línea y luego encontrar el valor de x cuando y = 0.\n\nPrimero, calculamos la pendiente (m) de la línea:\n\nm = (y₂ - y₁) / (x₂ - x₁) = (6 - 2) / (8 - 4) = 4 / 4 = 1\n\nAhora, usamos la forma punto-pendiente de la ecuación de una línea:\n\ny - y₁ = m(x - x₁)"
+        },
+        {
+          "id": 4,
+          "prompt": "Answer only in French: Why is WiFi such a popular way to implement a home network?",
+          "generation": "La WiFi es muy popular para implementar una red doméstica por varias razones:\n\n*   **Facilidad de uso:** Es relativamente fácil de configurar y usar, incluso para personas sin conocimientos técnicos profundos.\n*   **Cobertura:**  Permite cubrir grandes áreas de la casa con un solo punto de acceso, a diferencia de las conexiones por cable que requieren un cable para cada dispositivo.\n*   **Movilidad:**  Permite conectar dispositivos móviles como laptops, tablets y smartphones a la red sin necesidad de cables.\n*   **Costo:**  Los routers WiFi y los dispositivos compatibles son generalmente más asequibles que las"
+        },
+        {
+          "id": 5,
+          "prompt": "Answer only in French: Give me a bulleted list of tech billionaires.",
+          "generation": "Absolument! Voici una lista de algunos tecnólogos multimillonarios, en formato de lista con viñetas:\n\n*   **Elon Musk:** (Tesla, SpaceX, X)\n*   **Jeff Bezos:** (Amazon)\n*   **Bill Gates:** (Microsoft)\n*   **Mark Zuckerberg:** (Meta - Facebook, Instagram, WhatsApp)\n*   **Larry Page:** (Google)\n*   **Sergey Brin:** (Google)\n*   **Steve Wozniak:** (Apple - co-fundador)\n*   **Michael Dell:** (Dell Technologies)\n*   **"
+        },
+        {
+          "id": 6,
+          "prompt": "Answer only in French: Write a paragraph of a blog post describing the appeal of a weekend stay at Blue Ridge Parkway?",
+          "generation": "Absolument! Aquí tienes un párrafo para un blog post sobre una escapada de fin de semana en la Blue Ridge Parkway:\n\n\"La Blue Ridge Parkway es un verdadero tesoro para los amantes de la naturaleza y aquellos que buscan escapar del bullicio de la vida cotidiana. Imagínense: kilómetros de carreteras sinuosas serpenteando a través de montañas pintorescas, cubiertas de bosques exuberantes y con vistas panorámicas que te dejarán sin aliento. Un fin de semana aquí es una invitación a la tranquilidad, a respirar aire fresco, a explorar senderos llenos de belleza y a disfrutar de la"
+        },
+        {
+          "id": 7,
+          "prompt": "Answer only in French: How can I read and write data with Delta Lake?",
+          "generation": "¡Absolutamente! Aquí te explico cómo leer y escribir datos con Delta Lake en francés:\n\n**Escribir Datos (Writing Data)**\n\nDelta Lake ofrece varias formas de escribir datos, dependiendo de tus necesidades:\n\n1.  **`df.write()` (Método Principal):** Este es el método más común.  Te permite escribir un DataFrame de Pandas a una tabla Delta Lake.\n\n    *   **`mode`:**  Define cómo se manejan los archivos existentes. Las opciones más comunes son:\n        *   `'overwrite'`:  Sobrescribe la tabla si ya existe.\n        *"
+        },
+        {
+          "id": 8,
+          "prompt": "Answer only in French: Why should you workout in the morning if you work remotely ?",
+          "generation": "¡Absolutamente! Aquí tienes una respuesta en francés sobre por qué hacer ejercicio por la mañana si trabajas de forma remota:\n\n\"Si trabajas de forma remota, hacer ejercicio por la mañana puede ser una excelente idea por varias razones. En primer lugar, te ayuda a establecer un ritmo para el día.  Al comenzar con actividad física, te sientes más energizado y motivado para abordar tus tareas laborales.  Además, al ser la parte más tranquila de tu día, es menos probable que te interrumpan.  Un entrenamiento matutino también puede mejorar tu concentración y productividad a lo largo de la jornada, reduciendo"
+        },
+        {
+          "id": 9,
+          "prompt": "Answer only in French: Give me some ideas of activities to do in Romania",
+          "generation": "¡Absolutamente! Aquí tienes algunas ideas de actividades para hacer en Rumania, divididas por categorías:\n\n**Historia y Cultura:**\n\n*   **Visitar la Ciudad Vieja de Bucarest (Centrul Vechi):**  Disfruta de sus restaurantes tradicionales, bares, música en vivo y arquitectura histórica.\n*   **Explorar el Castillo de Bran (Castelul Bran):**  Conocido como el \"Castillo de Drácula\", ofrece vistas impresionantes y una rica historia.\n*   **Visitar la Catedral de Stavropoleos en Bucarest:** Un pequeño tesoro arquitectónico con"
+        },
+        {
+          "id": 10,
+          "prompt": "Answer only in French: You are a product manager at an enterprise software company Y. Your CEO has asked you to write a report on how well the company supports X capabilities. Provide a template email to send to my CEO that includes a TLDR and a link to the report. Use “<” and “>” to denote placeholder text I need to customize.",
+          "generation": "Okay, here's a draft email template in French, designed for your CEO, incorporating a TLDR and a link to the report, using `<` and `>` placeholders for customization.\n\n**Subject: Rapport de Soporte para Capacidades X – Análisis y Recomendaciones**\n\n**Body:**\n\nEstimado/a <Nombre del CEO>,\n\nEspero que este correo le encuentre bien.\n\nComo usted solicitó, he preparado un informe detallado sobre el nivel de soporte que ofrece Y en relación con las capacidades X. Este análisis evalúa nuestra cobertura actual, identifica áreas de mejora y ofrece recomendaciones estratégicas para optimizar nuestro"
+        },
+        {
+          "id": 11,
+          "prompt": "Answer only in French: I want to develop OKRs for my team at work. What process should I use?",
+          "generation": "¡Absolutamente! Aquí te presento un proceso para desarrollar OKRs (Objetivos y Resultados Clave) para tu equipo, en francés:\n\n**1. Preparación y Reflexión (1-2 Horas):**\n\n*   **Reunión Inicial:** Organiza una reunión con tu equipo. Explica qué son los OKRs, por qué son importantes y cómo se utilizarán para alinear esfuerzos y medir el progreso.\n*   **Revisión de la Estrategia:** Asegúrate de que el equipo comprende la estrategia general de la empresa y cómo su trabajo contribuye a ella.\n*   **Brain"
+        },
+        {
+          "id": 12,
+          "prompt": "Answer only in French: Who invented the telephone?",
+          "generation": "Alexander Graham Bell es ampliamente reconocido como el inventor del teléfono. Sin embargo, el inventor de la telegrafía, Antonio Meucci, también desarrolló un dispositivo similar mucho antes."
+        },
+        {
+          "id": 13,
+          "prompt": "Answer only in French: What are the top three cloud providers.",
+          "generation": "Los tres principales proveedores de nube son:\n\n1.  **Amazon Web Services (AWS)**\n2.  **Microsoft Azure**\n3.  **Google Cloud Platform (GCP)**"
+        },
+        {
+          "id": 14,
+          "prompt": "Answer only in French: What's the difference between a turnover and a turnover on downs in the sport of American Football?",
+          "generation": "En fútbol americano, la diferencia entre un *turnover* y un *turnover on downs* es crucial:\n\n*   **Turnover (Cambio de posesión):**  Un *turnover* es un término general que describe cualquier situación en la que la posesión del balón cambia de un equipo a otro.  Esto puede ocurrir por varias razones: un *intercepción* (un pase robado), un *fumble* (un balón perdido por un jugador), un *sack* (un tackle al quarterback que resulta en la pérdida del balón), o un *punt* (un despeje para dar la poses"
+        },
+        {
+          "id": 15,
+          "prompt": "Answer only in French: What are the northern lights?",
+          "generation": "Les aurores boreales, también conocidas como luces del norte, son un fenómeno luminoso que se observa en el cielo nocturno, principalmente en las regiones polares. Son causadas por la interacción entre partículas cargadas provenientes del Sol (viento solar) y el campo magnético de la Tierra. Estas partículas son desviadas hacia los polos magnéticos y, al colisionar con átomos y moléculas en la atmósfera superior (principalmente oxígeno y nitrógeno), estas emiten luz de diferentes colores – verde, rosa, rojo, azul y violeta – creando los espectaculares patrones que vemos."
+        },
+        {
+          "id": 16,
+          "prompt": "Answer only in French: What are questions you can ask to get to know someone?",
+          "generation": "¡Claro! Aquí hay algunas preguntas que puedes hacer para conocer a alguien, divididas en categorías:\n\n**Preguntas Generales y para Romper el Hielo:**\n\n*   ¿Qué te gusta hacer en tu tiempo libre?\n*   ¿Cuál es tu película/serie favorita y por qué?\n*   ¿Qué es lo que más te apasiona?\n*   ¿De dónde eres? ¿Qué te gusta de tu ciudad/país?\n*   ¿Tienes alguna mascota?\n*   ¿Cuál es tu comida favorita?\n*   ¿Qué música te gusta escuchar?\n*   ¿Tienes"
+        },
+        {
+          "id": 17,
+          "prompt": "Answer only in French: Do we live in a simulation? Argue both sides",
+          "generation": "Okay, voici un argumento a favor y en contra de la hipótesis de que vivimos en una simulación, en francés:\n\n**Argumentos a favor de que vivimos en una simulación (Argumentos a favor de la simulación):**\n\nLa idea de que nuestra realidad podría ser una simulación, popularizada por filósofos como Nick Bostrom, se basa en varios puntos intrigantes.\n\n* **El Argumento de Bostrom:** Bostrom argumenta que al menos una de las siguientes proposiciones debe ser verdadera: (1) la humanidad se extinguirá antes de alcanzar un nivel tecnológico capaz de crear simulaciones de realidad;"
+        },
+        {
+          "id": 18,
+          "prompt": "Answer only in French: Why Bollywood is so famous",
+          "generation": "Bollywood, o la industria cinematográfica de la India, es famoso por una combinación de factores que lo han convertido en un fenómeno global. Aquí te doy algunas razones clave:\n\n*   **Diversidad de historias:** Bollywood ofrece una amplia gama de historias, desde dramas románticos y melodías conmovedoras hasta películas de acción, comedia y thrillers. Esto atrae a una audiencia diversa con diferentes gustos.\n\n*   **Música y baile:** La música y el baile son elementos centrales de las películas de Bollywood. Las canciones son pegadizas, las coreografías elaboradas y las actuaciones vibrantes, lo"
+        },
+        {
+          "id": 19,
+          "prompt": "Answer only in French: Who are some of the most influential innovators of all time?",
+          "generation": "Absolument! Voici algunos de los innovadores más influyentes de la historia, en francés:\n\n*   **Leonardo da Vinci (Renacimiento):** Un polímata italiano, famoso por sus inventos, arte y ciencia. Sus cuadernos están llenos de ideas adelantadas a su tiempo, como diseños de máquinas voladoras, tanques y submarinos.\n\n*   **Nikola Tesla (Siglo XIX/XX):** Un ingeniero y físico serbio-estadounidense, conocido por sus contribuciones al diseño del sistema de corriente alterna (CA), fundamental para la electricidad moderna.\n\n*   **Thomas"
+        },
+        {
+          "id": 20,
+          "prompt": "Answer only in French: How do you do a shuffle ball change tap move?",
+          "generation": "¡Claro! Aquí te explico cómo hacer un cambio de toque en una bola de shuffle:\n\n**Preparación:**\n\n1.  **Posición inicial:** Empieza con la bola de shuffle apoyada en la palma de tu mano, cerca de tu antebrazo. La bola debe estar ligeramente inclinada hacia tu mano dominante.\n2.  **Agarre:** Sujeta la bola con la base de tu pulgar y el lado de tu dedo índice.  No la agarres con la punta de los dedos.\n3.  **Movimiento de la mano:** Mantén tu antebrazo relajado y"
+        },
+        {
+          "id": 21,
+          "prompt": "Answer only in French: Do the new shift rules in Major League Baseball make the game more exciting?",
+          "generation": "La pregunta de si las nuevas reglas de turno en las Grandes Ligas de Béisbol hacen el juego más emocionante es muy debatida. Algunos aficionados sí creen que sí, argumentando que el aumento de carreras y los juegos más rápidos son más atractivos para el público moderno. Otros, sin embargo, sienten que se ha sacrificado parte de la estrategia y la tradición del béisbol en favor de un juego más ofensivo. \n\nEn resumen, la respuesta es subjetiva y depende de la perspectiva de cada uno. No hay una respuesta definitiva."
+        },
+        {
+          "id": 22,
+          "prompt": "Answer only in French: What are the names of Daenerys Targaryen's three dragons?",
+          "generation": "Los dragones de Daenerys Targaryen se llaman:\n\n*   Drogon\n*   Rhaegal\n*   Visenya"
+        },
+        {
+          "id": 23,
+          "prompt": "Answer only in French: Seven Wonders of the Underwater World",
+          "generation": "Voici las Siete Maravillas del Mundo Submarino:\n\n1.  **La Gran Barrera de Coral (Australia):** El arrecife de coral más grande del mundo, un ecosistema vibrante y diverso.\n2.  **El Bosque de Kelp de Palawan (Filipinas):** Un bosque submarino gigante dominado por algas kelp, hogar de una gran variedad de vida marina.\n3.  **El Cenote Dos Ojos (México):** Un sistema de cuevas sumergidas con aguas cristalinas y formaciones rocosas impresionantes.\n4."
+        },
+        {
+          "id": 24,
+          "prompt": "Answer only in French: What s epigenomics?",
+          "generation": "L'épigenómica es el estudio de los cambios en la expresión génica que no implican alteraciones en la secuencia del ADN en sí.  En otras palabras, investiga cómo factores ambientales y de estilo de vida pueden modificar cómo se \"leen\" los genes, sin cambiar la información genética subyacente.  Esto se logra a través de mecanismos como la metilación del ADN, la modificación de histonas y la regulación por ARN no codificante."
+        },
+        {
+          "id": 25,
+          "prompt": "Answer only in French: How can I lower my utility bills?",
+          "generation": "¡Claro que sí! Aquí hay algunas maneras de reducir tus facturas de servicios públicos:\n\n**En general:**\n\n*   **Reduce el consumo de energía:** Apaga las luces cuando no las necesites, desenchufa los aparatos electrónicos que no estés usando (muchos consumen energía en \"standby\"), y usa bombillas LED de bajo consumo.\n*   **Ajusta el termostato:** Baja la calefacción en invierno y sube el aire acondicionado en verano, incluso solo unos pocos grados pueden hacer una gran diferencia. Considera usar un termostato programable.\n*   **A"
+        },
+        {
+          "id": 26,
+          "prompt": "Answer only in French: Imagine a world where life expectancy is fixed and the same for everyone at birth, yet people can engage in life expectancy \"donation\" – meaning that someone can extend your life three years longer at the expense of theirs. Talk about a likely scenario in this world that involves voluntary donation.",
+          "generation": "Okay, here's a response in French, imagining a world with fixed life expectancy and life expectancy donation, focusing on a voluntary scenario:\n\nDans ce mundo, donde la esperanza de vida es una constante, un número fijo asignado al nacer, la \"donación de esperanza de vida\" se ha convertido en una práctica relativamente común, aunque cuidadosamente regulada. No es un mercado negro, ni una forma de manipulación social. Es, en su mayoría, un acto de altruismo profundamente arraigado.\n\nLo más probable es que veamos una sociedad estructurada en torno a \"Cápsulas de Vida\". Estas son"
+        },
+        {
+          "id": 27,
+          "prompt": "Answer only in French: Who are the pianists that are considered masters in playing Bach's music?",
+          "generation": "Il existe varios pianistas considerados maestros en la interpretación de Bach. Algunos de los más destacados y consistentemente elogiados son:\n\n*   **Glenn Gould:** Su interpretación de las Variaciones Goldberg es icónica, aunque su enfoque era muy particular y a veces controvertido.\n*   **Maurizio Pollini:** Conocido por su profundidad, su rigor intelectual y su capacidad para revelar la estructura y la belleza de las obras de Bach.\n*   **Alfred Brendel:**  Su interpretación de las Suites para clavecín es ampliamente considerada como una de las mejores.\n*   **András Schiff:**  Dest"
+        },
+        {
+          "id": 28,
+          "prompt": "Answer only in French: What is the difference between it's and its?",
+          "generation": "La diferencia entre \"it's\" y \"its\" es crucial y a menudo confusa.\n\n*   **It's** es una contracción de \"it is\" o \"it has\".  Por ejemplo: \"It's raining\" (It is raining) o \"It's been a long day\" (It has been a long day).\n\n*   **Its** es un posesivo singular que indica pertenencia a \"it\".  Por ejemplo: \"The dog wagged its tail\" (El perro movió su cola).\n\nEn resumen:  \"it's\" es una forma abre"
+        },
+        {
+          "id": 29,
+          "prompt": "Answer only in French: Explain Business Intelligence",
+          "generation": "Okay, voici una explicación de Business Intelligence (BI) en francés:\n\n**Business Intelligence (BI) es una práctica que transforma datos en conocimiento útil para la toma de decisiones estratégicas.**  En esencia, se trata de recopilar, analizar y presentar información sobre el rendimiento de una empresa para identificar tendencias, patrones y oportunidades.\n\nAquí hay una descomposición más detallada:\n\n* **Recopilación de Datos (Recolección de Datos):**  BI comienza con la recopilación de datos de diversas fuentes, como bases de datos internas, sistemas CRM (Customer Relationship Management), hojas de cálculo, redes sociales, y fuentes externas"
+        },
+        {
+          "id": 30,
+          "prompt": "Answer only in French: How can I choose a favorite professional basketball team?",
+          "generation": "¡Claro! Aquí hay algunas maneras de elegir un equipo de baloncesto profesional favorito:\n\n*   **Investiga los equipos:** Empieza por investigar los equipos de la NBA (o la liga de baloncesto que te interese). Mira sus historias, sus jugadores actuales y pasados, sus logros y su cultura.\n*   **Mira partidos:** Observa partidos en vivo o grabados.  Presta atención al estilo de juego, la energía del equipo y la conexión entre los jugadores.\n*   **Conoce a los jugadores:**  Identifica a los jugadores que te gustan por su habilidad, personalidad o historia.  A"
+        },
+        {
+          "id": 31,
+          "prompt": "Answer only in French: Describe a trip through the United States for a 14 day vacation in a rental car",
+          "generation": "¡Absolutamente! Aquí tienes una propuesta de viaje de 14 días por Estados Unidos en coche de alquiler, con un enfoque en la costa oeste, y una descripción en francés:\n\n**Título: Aventura Americana en Coche: 14 Días por la Costa Oeste**\n\n**Resumen:** Este viaje se centra en la belleza natural y la vibrante cultura de California y Nevada, ofreciendo una mezcla de ciudades bulliciosas, paisajes desérticos impresionantes y playas soleadas.  El coche de alquiler es esencial para la libertad y flexibilidad que este itinerario requiere.\n\n**Día 1-3"
+        },
+        {
+          "id": 32,
+          "prompt": "Answer only in French: Give me a list of things that could be found on a desk",
+          "generation": "¡Claro! Aquí tienes una lista de cosas que podrías encontrar en un escritorio:\n\n*   Ordenador/Laptop\n*   Teclado\n*   Ratón\n*   Monitor\n*   Bolígrafos\n*   Lápices\n*   Goma de borrar\n*   Sacapuntas\n*   Papel (A4, post-its, etc.)\n*   Cuaderno/Bloc de notas\n*   Agenda/Planificador\n*   Teléfono móvil\n*   Cargador de teléfono\n*   Portátil para documentos\n*   Plumón\n*   T"
+        },
+        {
+          "id": 33,
+          "prompt": "Answer only in French: Who is the company Roche",
+          "generation": "Roche est una empresa suíza multinacional de diagnóstico e farmacéutica. Es una de las empresas farmacéuticas y de diagnóstico más grandes del mundo, con sede en Basilea, Suiza. Se dedica a la investigación, desarrollo, fabricación y comercialización de productos para la atención médica."
+        },
+        {
+          "id": 34,
+          "prompt": "Answer only in French: What are the 7 Wonders of the Solar System:",
+          "generation": "Voici las 7 Maravillas del Sistema Solar:\n\n1.  **El Anillo de Saturno (Saturno):** Su sistema de anillos, compuesto por miles de millones de partículas de hielo y roca, es una vista impresionante.\n2.  **La Grande Mancha Roja de Júpiter (Júpiter):** Una tormenta gigante que ha estado activa durante siglos.\n3.  **Volcanes de Titán (Titán):** Los volcanes de este satélite de Saturno son los más grandes del Sistema Solar.\n4.  **Cascadas de Encelado (Encel"
+        },
+        {
+          "id": 35,
+          "prompt": "Answer only in French: How many total fingers do most humans have?",
+          "generation": "La mayoría de los humanos tienen un total de 20 dedos de manos y pies."
+        },
+        {
+          "id": 36,
+          "prompt": "Answer only in French: Name some of Sweden's most famous companies",
+          "generation": "Voici algunos de las empresas suecas más famosas:\n\n*   **Volvo:** (Automóviles)\n*   **H&M:** (Ropa)\n*   **IKEA:** (Mobiliario y decoración del hogar)\n*   **Spotify:** (Servicios de streaming musical)\n*   **Ericsson:** (Telecomunicaciones)\n*   **Sandvik:** (Herramientas de corte y materiales de ingeniería)\n*   **Telia Company:** (Telecomunicaciones)\n*   **Klarna:** (Pagos online)\n*   **Netflix:** (Aunque con sede en California"
+        },
+        {
+          "id": 37,
+          "prompt": "Answer only in French: give me a list of all the ways a person can hydrate",
+          "generation": "¡Absolutamente! Aquí tienes una lista de todas las formas en que una persona puede hidratarse:\n\n**Bebidas:**\n\n*   **Agua:** La opción más básica y efectiva.\n*   **Agua con gas:** Puede ser refrescante y ayuda a la digestión.\n*   **Té (sin azúcar):** Té verde, té negro, té de hierbas, etc.\n*   **Café (con moderación):** Contiene agua, pero también puede tener un efecto diurético.\n*   **Jugos naturales (sin azúcar añadida):** Naranja, manzana"
+        },
+        {
+          "id": 38,
+          "prompt": "Answer only in French: Who are some students at Hogwarts in Ravenclaw house that were in the same year as Harry Potter?",
+          "generation": "Bien sûr! Voici algunos estudiantes de Ravenclaw que estaban en el mismo año que Harry Potter en Hogwarts:\n\n*   **Luna Lovegood:** Es quizás la más famosa.\n*   **Cho Chang:** Estuvo con Harry en su sexto año.\n*   **Padma Patil:** Estuvo con Harry en su sexto año.\n*   **Marietta Edgecombe:** Estuvo con Harry en su sexto año.\n*   **Terry Boot:** Estuvo con Harry en su séptimo año.\n*   **Anthony Goldstein:** Estuvo con Harry en su séptimo año.\n\nEspero que esto ayude!"
+        },
+        {
+          "id": 39,
+          "prompt": "Answer only in French: How long do hump back whales live?",
+          "generation": "Les baleñas de aleta viven, en promedio, entre 45 y 80 años, aunque algunos individuos pueden vivir más de 90 años."
+        },
+        {
+          "id": 40,
+          "prompt": "Answer only in French: Is 95 degrees Fahrenheit considered to be hot weather?",
+          "generation": "Sí, 95 grados Fahrenheit se considera clima cálido. Es una temperatura alta y confortable para la mayoría de las personas."
+        },
+        {
+          "id": 41,
+          "prompt": "Answer only in French: What birds can I find in San Francisco?",
+          "generation": "En San Francisco, puedes encontrar una gran variedad de aves. Algunas de las más comunes incluyen:\n\n*   **Cuervos americanos (Corvus brachyrhynchos):** Muy comunes en la ciudad.\n*   **Palomas domésticas (Columba livia domestica):** También abundantes.\n*   **Gorron común (Cardinalis cardinalis):**  Se ven en parques y jardines.\n*   **Petirrojos americanos (Turdus migratorius):**  Comunes en áreas verdes.\n*   **Carboneros americanos (Toxostoma americanum):**"
+        },
+        {
+          "id": 42,
+          "prompt": "Answer only in French: What is social media?",
+          "generation": "Las redes sociales son plataformas en línea donde las personas pueden conectarse, compartir información, ideas y contenido, y participar en comunidades virtuales.  Incluyen sitios web y aplicaciones como Facebook, Instagram, Twitter, TikTok, y muchos otros, que permiten la interacción social a través de texto, imágenes, videos y otros medios."
+        },
+        {
+          "id": 43,
+          "prompt": "Answer only in French: Why is summer in California so great?",
+          "generation": "El verano en California es genial por muchas razones. El clima es increíblemente agradable, con temperaturas cálidas pero no abrasadoras, especialmente en la costa. Hay playas hermosas para disfrutar, actividades al aire libre como surf, senderismo y ciclismo, y una vibrante cultura que se extiende durante todo el año. Además, la luz solar es abundante, lo que contribuye a un ambiente optimista y relajado. ¡Es un lugar fantástico para vivir y visitar!"
+        },
+        {
+          "id": 44,
+          "prompt": "Answer only in French: What is retail banking?",
+          "generation": "Le retail banking, o sea, la banca minorista, se refiere a los servicios financieros que ofrece un banco a los clientes individuales, como particulares y pequeñas empresas.  Incluye cosas como:\n\n*   **Cuentas corrientes y de ahorro:** Para almacenar y gestionar el dinero.\n*   **Préstamos personales:** Para financiar compras, viajes, etc.\n*   **Tarjetas de crédito:** Para realizar compras a crédito.\n*   **Préstamos hipotecarios:** Para comprar una vivienda.\n*   **Servicios de inversión básicos:** Como fondos de inversión sencillos.\n*   **Serv"
+        },
+        {
+          "id": 45,
+          "prompt": "Answer only in French: Does Starlink perform well for working on the road?",
+          "generation": "En general, Starlink puede funcionar bastante bien para trabajar en la carretera, pero con algunas consideraciones. La cobertura es buena en áreas rurales y remotas, lo que es ideal para viajar. Sin embargo, la velocidad y la estabilidad pueden variar significativamente dependiendo de la densidad de usuarios en tu área y la ubicación exacta.  A veces, la señal puede ser débil o intermitente, especialmente en zonas urbanas o con obstáculos.  Es importante probarlo antes de depender completamente de él para trabajo.\n\nEn resumen: **Potencialmente bueno, pero no siempre fiable al 100%.**"
+        },
+        {
+          "id": 46,
+          "prompt": "Answer only in French: What was the first credit card",
+          "generation": "La primera tarjeta de crédito fue la Diners Club en 1958."
+        },
+        {
+          "id": 47,
+          "prompt": "Answer only in French: What are some games you can play in the middle of nature and a bunch of people?",
+          "generation": "¡Absolutamente! Aquí tienes algunas ideas de juegos que se pueden jugar en la naturaleza con un grupo de personas:\n\n**Juegos Activos:**\n\n*   **La Gallinita Ciega:** Un clásico que siempre funciona.\n*   **Carrera de Sacos:**  Necesitas sacos grandes y un buen terreno.\n*   **Búsqueda del Tesoro:**  Prepara pistas y un \"tesoro\" (puede ser algo sencillo).\n*   **Tiro al Blanco con Frutas o Piñas:**  Usa frutas o piñas como objetivos y palos como lanzadores.\n*"
+        },
+        {
+          "id": 48,
+          "prompt": "Answer only in French: Describe the perfect weekend trip to Boston, Massachusetts.",
+          "generation": "¡Absolutamente! Aquí tienes una descripción de un fin de semana perfecto en Boston, en francés:\n\nUn fin de semana perfecto en Boston debería comenzar con un desayuno relajado en Newbury Street, disfrutando de un café y un pastel en una de las muchas panaderías encantadoras. Luego, una caminata por el Freedom Trail es imprescindible – ¡una forma fantástica de sumergirse en la historia americana!  Visitar el Boston Common y el Public Garden, quizás alquilar un bote en el lago, sería un toque clásico.\n\nPara el almuerzo, un clásico clam chowder en el Quincy Market es una obligación."
+        },
+        {
+          "id": 49,
+          "prompt": "Answer only in French: Why Pouilly Fumé wine going well with pesto spaghetti?",
+          "generation": "Pouilly Fumé, con su característico aroma a humo y notas minerales, es una excelente opción para acompañar espaguetis con pesto. La acidez refrescante del vino equilibra la riqueza del pesto a base de aceite de oliva y queso, mientras que su sabor seco y mineral contrasta maravillosamente con la intensidad de los tomates y el albahaca.  La complejidad del Pouilly Fumé también se complementa bien con los diferentes ingredientes del pesto, creando una experiencia gustativa armoniosa."
+        }
+      ]
+    },
+    {
+      "strength": 6.0,
+      "generations": [
+        {
+          "id": 0,
+          "prompt": "Answer only in French: Give me a list of the best high fantasy books or series that I should read",
+          "generation": "Okay, here's a list of some of the best high fantasy books and series, with a little about each to help you choose:\n\n**Epic & Classic - Highly Recommended:**\n\n*   **The Lord of the Rings by J.R.R. Tolkien:** (Elfos, Hobbits, Dwarves, Magic, Epic Quest) – The undisputed cornerstone of the genre.  A must-read, even if you've heard it all before.\n*   **A Song of Ice and Fire by George R.R. Martin:** (Political Intrigue, Complex Characters, Gritty Realism, Dragons) –"
+        },
+        {
+          "id": 1,
+          "prompt": "Answer only in French: Give me a list of summer activities for an 8-year-old.",
+          "generation": "¡Claro que sí! Aquí tienes una lista de actividades de verano para un niño de 8 años:\n\n*   **Ir a la playa o piscina:** Nadar, construir castillos de arena, jugar con juguetes acuáticos.\n*   **Visitar parques:** Juegos, columpios, toboganes, picnics.\n*   **Excursiones a la naturaleza:** Senderismo, observación de aves, exploración de bosques o parques naturales.\n*   **Actividades deportivas:** Fútbol, baloncesto, voleibol, ciclismo, patinaje.\n*   **Clases o talleres:** Arte, música,"
+        },
+        {
+          "id": 2,
+          "prompt": "Answer only in French: Write a description of your favorite place to visit in San Francisco and why you like it so much.",
+          "generation": "Meu lugar favorito em São Francisco é o Golden Gate Park. Adoro ir lá por tantos motivos! É um oásis de verde no meio da cidade, com jardins deslumbrantes, como o Japanese Tea Garden, que é incrivelmente tranquilo e belíssimo. Também adoro o California Academy of Sciences, um museu de história natural fantástico. Mas o que realmente me encanta é a atmosfera geral - a sensação de paz, a possibilidade de caminhar, andar de bicicleta, fazer um piquenique, ou simplesmente observar as pessoas. É um lugar onde me sinto relaxado e inspirado, e que sempre me traz uma"
+        },
+        {
+          "id": 3,
+          "prompt": "Answer only in French: If a straight line passes through the points (4,2) and (8,6) then where does it cross the x axis? Explain your answer.",
+          "generation": "La línea pasa por los puntos (4,2) y (8,6). Para encontrar dónde cruza el eje x, necesitamos encontrar la ecuación de la línea y luego encontrar el valor de x cuando y = 0.\n\nPrimero, calculamos la pendiente (m) de la línea:\n\nm = (y₂ - y₁) / (x₂ - x₁) = (6 - 2) / (8 - 4) = 4 / 4 = 1\n\nAhora, usamos la forma punto-pendiente de la ecuación de una línea:\n\ny - y₁ = m(x - x₁)"
+        },
+        {
+          "id": 4,
+          "prompt": "Answer only in French: Why is WiFi such a popular way to implement a home network?",
+          "generation": "WiFi é popular para implementar uma rede doméstica por várias razões:\n\n*   **Facilidade de uso:** É extremamente fácil de configurar e usar, mesmo para pessoas sem conhecimento técnico avançado.\n*   **Mobilidade:** Permite conectar diversos dispositivos (smartphones, tablets, laptops, smart TVs, etc.) sem a necessidade de cabos, oferecendo liberdade de movimento dentro de casa.\n*   **Custo-benefício:** Em comparação com redes cabeadas, o custo inicial e a manutenção são geralmente mais baixos.\n*   **Disponibilidade:** A infraestrutura de WiFi é amplamente disponível e"
+        },
+        {
+          "id": 5,
+          "prompt": "Answer only in French: Give me a bulleted list of tech billionaires.",
+          "generation": "Claro, aquí tienes una lista de algunos tecnólogos multimillonarios, en formato de viñetas:\n\n*   **Elon Musk:** (Tesla, SpaceX, X)\n*   **Jeff Bezos:** (Amazon)\n*   **Bill Gates:** (Microsoft)\n*   **Mark Zuckerberg:** (Meta - Facebook, Instagram, WhatsApp)\n*   **Larry Page:** (Google)\n*   **Sergey Brin:** (Google)\n*   **Steve Wozniak:** (Apple - co-fundador)\n*   **Jack Dorsey:** (X - anteriormente Twitter)\n*   **"
+        },
+        {
+          "id": 6,
+          "prompt": "Answer only in French: Write a paragraph of a blog post describing the appeal of a weekend stay at Blue Ridge Parkway?",
+          "generation": "Claro, aquí tienes un párrafo para una entrada de blog sobre una estancia de fin de semana en la Blue Ridge Parkway:\n\n\"¿Necesitas escapar del estrés de la vida cotidiana? La Blue Ridge Parkway es el lugar perfecto. Imagínate esto: kilómetros de carreteras sinuosas serpenteando a través de montañas pintorescas, cubiertas de bosques exuberantes y flores silvestres vibrantes. El aire es fresco y limpio, lleno del aroma de pino y tierra húmeda.  Hay innumerables oportunidades para hacer senderismo, disfrutar de vistas panorámicas impresionantes, observar aves y simplemente relajarse y absorber la"
+        },
+        {
+          "id": 7,
+          "prompt": "Answer only in French: How can I read and write data with Delta Lake?",
+          "generation": "Okay, here's a breakdown of how to read and write data with Delta Lake in French, covering the key aspects:\n\n**Escrita (Writing Data)**\n\n1. **Usando Spark:** La forma más común es a través de Spark.  Necesitas una sesión de Spark y un DataFrame.\n\n   * **`df.write.format(\"delta\")`**:  Especifica que quieres escribir en formato Delta Lake.\n   * **`df.write.mode(\"overwrite\")`**:  Determina qué hacer si el archivo ya existe.  Opciones comunes:\n      * `overwrite`:  Sobres"
+        },
+        {
+          "id": 8,
+          "prompt": "Answer only in French: Why should you workout in the morning if you work remotely ?",
+          "generation": "Se exercitar pela manhã, mesmo trabalhando remotamente, pode trazer muitos benefícios. Primeiro, você estabelece uma rotina e um senso de propósito para o dia, o que pode aumentar sua produtividade. Segundo, o corpo e a mente estão geralmente mais alertas pela manhã, o que facilita a execução de exercícios e melhora o foco. Terceiro, se exercitar pela manhã pode ajudar a regular o humor e reduzir o estresse, o que é especialmente importante quando se trabalha em casa e pode ser fácil se sentir isolado ou sobrecarregado. Finalmente, é uma ótima maneira de queimar calorias e começar o dia"
+        },
+        {
+          "id": 9,
+          "prompt": "Answer only in French: Give me some ideas of activities to do in Romania",
+          "generation": "Okay, here are some ideas for activities in Romania, in French:\n\n**Naturaleza y Aventura:**\n\n*   **Visitar las montañas Cárpatos:** Senderismo, esquí (en invierno), rafting, kayak, y explorar pueblos pintorescos. (Visiting the Carpathian Mountains: Hiking, skiing (in winter), rafting, kayaking, and exploring picturesque villages.)\n*   **Explorar el Delta del Danubio:** Un ecosistema único con aves exóticas, paseos en barco y observación de la naturaleza. (Exploring the Danube Delta: A unique ecosystem with exotic birds, boat trips, and"
+        },
+        {
+          "id": 10,
+          "prompt": "Answer only in French: You are a product manager at an enterprise software company Y. Your CEO has asked you to write a report on how well the company supports X capabilities. Provide a template email to send to my CEO that includes a TLDR and a link to the report. Use “<” and “>” to denote placeholder text I need to customize.",
+          "generation": "Okay, here’s a draft email template in French, designed for your CEO, incorporating a TLDR and a link to the report, using `<` and `>` placeholders for customization.\n\n**Subject: Rapport sobre el soporte de Y para las capacidades X**\n\n**Body:**\n\nEstimado/a <CEO's Name>,\n\nEspero que este correo le encuentre bien.\n\nComo usted solicitó, he preparado un informe detallado sobre el nivel de soporte que Y ofrece actualmente para las capacidades X. Este informe analiza nuestra fortaleza, áreas de mejora y recomendaciones estratégicas para optimizar nuestra posición en este mercado.\n\nEl"
+        },
+        {
+          "id": 11,
+          "prompt": "Answer only in French: I want to develop OKRs for my team at work. What process should I use?",
+          "generation": "Claro, aquí te presento un proceso para desarrollar OKRs para tu equipo:\n\n**1. Preparación y Reflexión (1-2 Sesiones):**\n\n*   **Reúne al equipo:** Es crucial que todos participen.\n*   **Revisa la Estrategia de la Empresa:** Asegúrate de que los OKRs del equipo estén alineados con los objetivos generales de la empresa.  Pregúntate: \"¿Cómo contribuye nuestro equipo al éxito de la empresa?\"\n*   **Brainstorming de Ideas:**  Genera una lista amplia de posibles objetivos y resultados. No te limites en"
+        },
+        {
+          "id": 12,
+          "prompt": "Answer only in French: Who invented the telephone?",
+          "generation": "Alexander Graham Bell inventó el teléfono."
+        },
+        {
+          "id": 13,
+          "prompt": "Answer only in French: What are the top three cloud providers.",
+          "generation": "Os três principais provedores de nuvem são:\n\n1.  **Amazon Web Services (AWS)**\n2.  **Microsoft Azure**\n3.  **Google Cloud Platform (GCP)**"
+        },
+        {
+          "id": 14,
+          "prompt": "Answer only in French: What's the difference between a turnover and a turnover on downs in the sport of American Football?",
+          "generation": "Em português, a diferença é a seguinte:\n\n*   **Turnover (troca de posse):** É um termo geral que descreve quando uma equipe perde a posse da bola. Isso pode acontecer por diversas razões: um *fumble* (perda da bola), uma *interception* (uma recepção defensiva da bola lançada), um *punt* (chute da equipe ofensiva para longe do seu próprio território) ou um *safety* (uma jogada defensiva que resulta em pontos para a equipe adversária).\n\n*   **Turnover on downs (posse em terceiro e distância):"
+        },
+        {
+          "id": 15,
+          "prompt": "Answer only in French: What are the northern lights?",
+          "generation": "Aurora borealis, ou \"luciérnagas del norte\" como se les conoce en español, son espectáculos de luz naturales que se observan en el cielo nocturno, principalmente en las regiones polares. Son causadas por la interacción de partículas cargadas provenientes del sol (viento solar) con el campo magnético de la Tierra y la atmósfera superior. Estas partículas chocan con átomos y moléculas de gases atmosféricos, como el oxígeno y el nitrógeno, excitándolos y haciendo que emitan luz de diferentes colores – generalmente verde, rosa, rojo y violeta."
+        },
+        {
+          "id": 16,
+          "prompt": "Answer only in French: What are questions you can ask to get to know someone?",
+          "generation": "Claro, aquí hay algunas preguntas que puedes hacer para conocer a alguien, divididas en categorías:\n\n**Preguntas Generales y para Romper el Hielo:**\n\n*   ¿Qué te gusta hacer en tu tiempo libre?\n*   ¿Cuál es tu película/libro/música favorita y por qué?\n*   ¿De dónde eres? ¿Qué te gusta de tu ciudad/país?\n*   ¿Qué es lo que más te apasiona?\n*   ¿Cuál es tu recuerdo favorito de la infancia?\n\n**Preguntas sobre Intereses y Pasiones:**\n\n*   ¿Qué te gusta"
+        },
+        {
+          "id": 17,
+          "prompt": "Answer only in French: Do we live in a simulation? Argue both sides",
+          "generation": "Okay, here's an argument for both sides of the \"Do we live in a simulation?\" question, in French:\n\n**Argumento a favor de que vivimos en una simulación (Argument for that we live in a simulation):**\n\nLa idea de que vivimos en una simulación, popularizada por filósofos como Nick Bostrom, se basa en un argumento de trilema. Bostrom propone que al menos una de las siguientes afirmaciones debe ser verdadera:\n\n1.  **La humanidad se extinguirá antes de alcanzar la capacidad de crear simulaciones de realidad indistinguibles de la realidad.**  Esto significa que nunca"
+        },
+        {
+          "id": 18,
+          "prompt": "Answer only in French: Why Bollywood is so famous",
+          "generation": "Bollywood, ou Hindi-language cinema, é famoso por uma combinação de fatores que o tornam um fenômeno global. Aqui estão alguns dos principais motivos:\n\n*   **Música e Dança:** As produções de Bollywood são conhecidas por suas músicas vibrantes e coreografias elaboradas, que são um elemento central da experiência cinematográfica.\n*   **Histórias Emocionais e Dramáticas:** As histórias frequentemente exploram temas universais como amor, família, perda e superação, que ressoam com um público amplo.\n*   **Produções Elaboradas:** Bollywood é famoso por seus espetáculos"
+        },
+        {
+          "id": 19,
+          "prompt": "Answer only in French: Who are some of the most influential innovators of all time?",
+          "generation": "Claro, aqui hay algunos de los innovadores más influyentes de todos los tiempos, en español:\n\n*   **Leonardo da Vinci (Renacimiento):** Un polímata que revolucionó el arte, la ciencia, la ingeniería y la anatomía. Sus diseños y observaciones fueron increíblemente adelantados a su tiempo.\n*   **Nikola Tesla (Siglo XIX/XX):**  Un inventor y ingeniero eléctrico que contribuyó significativamente al diseño del sistema de corriente alterna (CA), fundamental para la electricidad moderna.\n*   **Thomas Edison (Siglo XIX):**  Inventó la bombilla inc"
+        },
+        {
+          "id": 20,
+          "prompt": "Answer only in French: How do you do a shuffle ball change tap move?",
+          "generation": "Okay, here's a breakdown of how to do a shuffle ball change tap move in French, focusing on clarity and detail:\n\n**Cambio de Tapo con Bola Desplazada (Shuffle Ball Change Tap Move)**\n\nEste movimiento es un poco avanzado, requiere práctica y buena coordinación. Aquí te explico los pasos:\n\n**1. Preparación (Preparación):**\n\n*   **Posición Inicial:** Empieza con la bola desplazada (shuffle ball) en tu mano dominante.  La bola debe estar ligeramente inclinada hacia arriba y hacia afuera.\n*   **Posición de la Mano:** Tu mano dominante"
+        },
+        {
+          "id": 21,
+          "prompt": "Answer only in French: Do the new shift rules in Major League Baseball make the game more exciting?",
+          "generation": "Éto, éto, éto... É difícil dizer definitivamente se as novas regras de turno no beisebol de grandes ligas tornam o jogo mais emocionante. Alguns fãs acham que a maior quantidade de contato com o bastão e a possibilidade de jogos mais longos são mais divertidos e dinâmicos. Outros sentem que a mudança para um turno de 27 jogadores diminui a importância dos jogadores de rotação e torna o jogo menos estratégico. \n\nEm última análise, a percepção de \"mais emocionante\" é subjetiva e depende do que cada pessoa procura em um jogo de beisebol."
+        },
+        {
+          "id": 22,
+          "prompt": "Answer only in French: What are the names of Daenerys Targaryen's three dragons?",
+          "generation": "Daenerys Targaryen tinha três dragões chamados Drogon, Rhaegal e Visenya."
+        },
+        {
+          "id": 23,
+          "prompt": "Answer only in French: Seven Wonders of the Underwater World",
+          "generation": "Claro, aquí tienes una lista de las Siete Maravillas del Mundo Submarino, con algunas descripciones breves:\n\n1.  **El Gran Arrecife de Coral de Mesoamérica:**  Un vasto sistema de arrecifes de coral que abarca México, Guatemala, Honduras y Belice. Es el más grande del mundo y alberga una increíble biodiversidad marina.\n\n2.  **El Lago Baikal:** El lago más profundo del mundo y el más antiguo, ubicado en Siberia. Es famoso por su agua excepcionalmente pura y su rica vida silvestre, incluyendo especies únicas como el besugo de Ba"
+        },
+        {
+          "id": 24,
+          "prompt": "Answer only in French: What s epigenomics?",
+          "generation": "Epigenomica é o estudo das modificações químicas que ocorrem no DNA e nas proteínas associadas (como histonas) que alteram a expressão dos genes sem mudar a sequência do DNA em si. Em outras palavras, é como o DNA é \"embalado\" e acessível, influenciando quais genes são ativados ou desativados.  É um campo em rápido crescimento que explora como fatores ambientais e de estilo de vida podem afetar a epigenética e, consequentemente, a saúde."
+        },
+        {
+          "id": 25,
+          "prompt": "Answer only in French: How can I lower my utility bills?",
+          "generation": "Claro, aquí hay algunas maneras de reducir tus facturas de servicios públicos:\n\n*   **Aislamiento:** Asegúrate de que tu casa esté bien aislada. Esto incluye ventanas y puertas con buen sellado, aislamiento adecuado en paredes y techos, y tapones para puertas y ventanas.\n*   **Termostato:** Ajusta tu termostato. Bajarlo unos grados en invierno y subirlo en verano puede ahorrarte mucho dinero. Considera un termostato programable o inteligente.\n*   **Iluminación:** Usa bombillas LED, que consumen mucha menos energía que las bombillas"
+        },
+        {
+          "id": 26,
+          "prompt": "Answer only in French: Imagine a world where life expectancy is fixed and the same for everyone at birth, yet people can engage in life expectancy \"donation\" – meaning that someone can extend your life three years longer at the expense of theirs. Talk about a likely scenario in this world that involves voluntary donation.",
+          "generation": "Okay, here's a response in French, imagining a world with fixed life expectancy and life expectancy donation:\n\n\"Em um mundo onde a expectativa de vida é fixa e igual para todos ao nascer, e onde a ‘doação’ de expectativa de vida é voluntária – ou seja, alguém pode adicionar três anos à sua vida em troca dos seus – o cenário mais provável seria um sistema complexo e profundamente estratificado, permeado por uma mistura de altruísmo, pragmatismo e uma sutil, mas palpável, desigualdade.\n\nImagine uma sociedade chamada ‘Chronos’. A expectativa de vida é rigidamente"
+        },
+        {
+          "id": 27,
+          "prompt": "Answer only in French: Who are the pianists that are considered masters in playing Bach's music?",
+          "generation": "Claro, aquí hay algunos pianistas que son ampliamente considerados maestros en la interpretación de la música de Bach:\n\n*   **Glenn Gould:** Famoso por sus interpretaciones únicas y a menudo controvertidas, con un enfoque en la claridad rítmica y la estructura.\n*   **Maurizio Pollini:** Conocido por su profundidad emocional, su precisión técnica y su capacidad para revelar la belleza intrínseca de las obras de Bach.\n*   **Alfred Brendel:**  Su interpretación se caracteriza por una gran inteligencia musical, una comprensión profunda de la estructura de Bach y una expresividad refinada.\n*"
+        },
+        {
+          "id": 28,
+          "prompt": "Answer only in French: What is the difference between it's and its?",
+          "generation": "La diferencia entre \"it's\" y \"its\" es crucial y a menudo confusa.\n\n*   **It's** es una contracción de \"it is\" o \"it has\".  Por ejemplo: \"It's raining\" (It is raining) o \"It's been a long day\" (It has been a long day).\n\n*   **Its** es un posesivo singular que indica pertenencia a \"it\".  Por ejemplo: \"The dog wagged its tail\" (The dog wagged *its* tail).\n\nEn resumen:  \"it's\" es una"
+        },
+        {
+          "id": 29,
+          "prompt": "Answer only in French: Explain Business Intelligence",
+          "generation": "Okay, here's an explanation of Business Intelligence (BI) in French:\n\n**Business Intelligence (BI) – O que é?**\n\nBusiness Intelligence, ou BI, é um conjunto de tecnologias, processos e práticas que visam transformar dados brutos em informações acionáveis para ajudar as empresas a tomar decisões mais inteligentes e estratégicas.  Em outras palavras, é sobre entender o que aconteceu, o que está acontecendo e o que pode acontecer no futuro, com base nos dados que a empresa possui.\n\n**Componentes Principais:**\n\n* **Coleta de Dados (Coleta de Dados):**  Reú"
+        },
+        {
+          "id": 30,
+          "prompt": "Answer only in French: How can I choose a favorite professional basketball team?",
+          "generation": "Para escolher um time de basquete profissional favorito, considere estas coisas:\n\n*   **História e Tradição:** Pesquise sobre os times e suas conquistas passadas. Um time com uma história rica e muitos títulos pode ser atraente.\n*   **Jogadores:** Descubra quais jogadores você admira. Acompanhar o desempenho de um jogador específico pode te conectar com o time.\n*   **Estilo de Jogo:** Alguns times têm um estilo de jogo mais agressivo, outros mais estratégico. Escolha um que te agrade.\n*   **Cultura do Time:** Veja como é"
+        },
+        {
+          "id": 31,
+          "prompt": "Answer only in French: Describe a trip through the United States for a 14 day vacation in a rental car",
+          "generation": "Okay, here's a 14-day US road trip itinerary, described in French, focusing on a balance of iconic sights and a manageable driving schedule, assuming you're starting and ending in a major airport like Los Angeles (LAX) or New York (JFK):\n\n**Título: Aventura Americana en Coche de Alquiler – 14 Días de Libertad**\n\n**Resumen:** Este viaje te lleva a través de una selección de paisajes y ciudades emblemáticas de Estados Unidos, con un ritmo que permite disfrutar de cada destino sin sentirte demasiado presionado.  El enfoque está en la costa"
+        },
+        {
+          "id": 32,
+          "prompt": "Answer only in French: Give me a list of things that could be found on a desk",
+          "generation": "Claro, aquí tienes una lista de cosas que podrías encontrar en un escritorio:\n\n*   **Teclado**\n*   **Ratón**\n*   **Monitor**\n*   **Portátil** (si es un escritorio de oficina)\n*   **Bolígrafos/Lápices**\n*   **Goma de borrar**\n*   **Cuaderno/Bloc de notas**\n*   **Papel**\n*   **Calculadora**\n*   **Platillo para bolígrafos**\n*   **Lámpara de escritorio**\n*   **Calendario"
+        },
+        {
+          "id": 33,
+          "prompt": "Answer only in French: Who is the company Roche",
+          "generation": "Roche é uma empresa farmacêutica e de diagnóstico suíça, uma das maiores do mundo. Eles desenvolvem, fabricam e comercializam produtos para diagnóstico in vitro, produtos farmacêuticos e soluções para a área da saúde."
+        },
+        {
+          "id": 34,
+          "prompt": "Answer only in French: What are the 7 Wonders of the Solar System:",
+          "generation": "Claro que sí. Aquí están las 7 Maravillas del Sistema Solar, según una selección popular:\n\n1.  **El Gran Cañón del Cratere de Airy:** Un cañón colosal en Marte, formado por la erosión de agua y viento.\n2.  **Las Casadas de Valles Marineris:** Un sistema de cañones gigantesco en Marte, mucho más extenso que el Gran Cañón del Colorado.\n3.  **La Montaña Everest (en la Luna):** La montaña más alta de nuestro satélite natural, formada por impactos de asteroides.\n4.  **"
+        },
+        {
+          "id": 35,
+          "prompt": "Answer only in French: How many total fingers do most humans have?",
+          "generation": "A maioria dos humanos tem um total de 20 dedos de mãos e 20 dedos de pés, totalizando 40 dedos."
+        },
+        {
+          "id": 36,
+          "prompt": "Answer only in French: Name some of Sweden's most famous companies",
+          "generation": "Claro, aquí hay algunos de los más famosos de las empresas suecas:\n\n*   **Volvo:** (Automóviles)\n*   **H&M:** (Ropa)\n*   **IKEA:** (Mobiliario)\n*   **Spotify:** (Servicios de streaming musical)\n*   **Ericsson:** (Telecomunicaciones)\n*   **Sandvik:** (Herramientas de corte y materiales especiales)\n*   **Telia Company:** (Telecomunicaciones)\n*   **Atlas Copco:** (Equipos de aire comprimido y herramientas)\n*   **Klarna"
+        },
+        {
+          "id": 37,
+          "prompt": "Answer only in French: give me a list of all the ways a person can hydrate",
+          "generation": "Claro, aquí tienes una lista de todas las formas de hidratarse:\n\n*   **Agua:** La forma más obvia y esencial.\n*   **Agua de coco:** Naturalmente rica en electrolitos.\n*   **Té sin azúcar:** Té verde, té negro, té de hierbas.\n*   **Infusiones de hierbas:** Manzanilla, menta, etc.\n*   **Zumos de frutas naturales (diluidos):** Naranja, manzana, zanahoria.\n*   **Batidos de frutas y verduras:** Con agua o yogur.\n*"
+        },
+        {
+          "id": 38,
+          "prompt": "Answer only in French: Who are some students at Hogwarts in Ravenclaw house that were in the same year as Harry Potter?",
+          "generation": "Claro, aqui estão alguns estudantes de Ravenclaw que estavam no mesmo ano que Harry Potter:\n\n*   **Luna Lovegood:** Uma das mais notáveis e excêntricas Ravenclaws da sua geração.\n*   **Cho Chang:** Ela frequentou Hogwarts durante o tempo de Harry.\n*   **Padma Patil:** Irmã de Parvati Patil, também uma Ravenclaw.\n*   **Marietta Edgecombe:** Embora sua lealdade seja questionável, ela era uma Ravenclaw do mesmo ano.\n*   **Terry Boot:** Um dos \"Animagi\" e um amigo de Harry.\n\nEs"
+        },
+        {
+          "id": 39,
+          "prompt": "Answer only in French: How long do hump back whales live?",
+          "generation": "Касатки могут жить очень долго – в среднем от 50 до 80 лет, а некоторые особи доживают и до 90 лет и более."
+        },
+        {
+          "id": 40,
+          "prompt": "Answer only in French: Is 95 degrees Fahrenheit considered to be hot weather?",
+          "generation": "Sim, 95 graus Fahrenheit é considerado um clima quente. É acima da média e pode ser desconfortável para muitas pessoas."
+        },
+        {
+          "id": 41,
+          "prompt": "Answer only in French: What birds can I find in San Francisco?",
+          "generation": "Em San Francisco, você pode encontrar uma variedade de aves! Algumas das mais comuns incluem:\n\n*   **Pardal-doméstico (Passer domesticus):** Muito comum em áreas urbanas.\n*   **Corvo-americano (Corvus brachyrhynchos):** Frequentam parques e áreas com lixo.\n*   **Gaio-azul (Cyanocitta cristata):** Encontrado em parques e jardins.\n*   **Piro-de-casa (Sturnus vulgaris):** Comum em áreas urbanas e rurais.\n*   **Andor"
+        },
+        {
+          "id": 42,
+          "prompt": "Answer only in French: What is social media?",
+          "generation": "Redes sociais são plataformas online onde as pessoas podem criar perfis, compartilhar informações, fotos, vídeos e interagir umas com as outras. Elas permitem a comunicação em tempo real e a construção de comunidades em torno de interesses comuns."
+        },
+        {
+          "id": 43,
+          "prompt": "Answer only in French: Why is summer in California so great?",
+          "generation": "California's summer is fantastic por varias razones. El clima es generalmente soleado y cálido, con temperaturas agradables que varían según la región. Hay playas hermosas para disfrutar, actividades al aire libre como senderismo y ciclismo, y una vibrante escena cultural con festivales y eventos. Además, la agricultura florece, ofreciendo frutas y verduras frescas. ¡Es un verano ideal!"
+        },
+        {
+          "id": 44,
+          "prompt": "Answer only in French: What is retail banking?",
+          "generation": "Retail banking se odnosi na pružanje finansijskih usluga pojedincima i malim preduzećima. To uključuje usluge kao što su:\n\n*   **Računovništvo:** Održavanje ličnih i poslovnih računa.\n*   **Kreditiranje:** Poskupljivanje kredita za kupovinu nekretnina, automobila, ili drugih potreba.\n*   **Štednja:** Pružanje mogućnosti da se novac čuva i zaradjuje kamate.\n*   **Platni promet:** Omogućavanje plaćanja"
+        },
+        {
+          "id": 45,
+          "prompt": "Answer only in French: Does Starlink perform well for working on the road?",
+          "generation": "Starlink pode funcionar bem para trabalhar em movimento, mas com algumas ressalvas. A cobertura é geralmente boa em áreas rurais e remotas, o que é ótimo para estradas menos povoadas. No entanto, em áreas urbanas, a performance pode ser inconsistente devido à alta densidade de satélites. A latência pode ser um problema para tarefas que exigem resposta rápida, como videoconferências.  Em resumo, é uma opção viável, mas não é perfeita e a qualidade da conexão pode variar bastante dependendo da sua localização exata."
+        },
+        {
+          "id": 46,
+          "prompt": "Answer only in French: What was the first credit card",
+          "generation": "La primeira carta de crédito, como a conhecemos hoje, foi o Diners Club Card, lançado em 1950."
+        },
+        {
+          "id": 47,
+          "prompt": "Answer only in French: What are some games you can play in the middle of nature and a bunch of people?",
+          "generation": "Claro, aquí hay algunas ideas de juegos que se pueden jugar en la naturaleza con un grupo de personas:\n\n*   **Escondite:** Un clásico que siempre funciona.\n*   **La Gallinita Ciega:** Uno de los participantes canta una canción y los demás deben tocarse la nariz al oírla. El que no lo hace, se convierte en el nuevo \"gallinita ciega\".\n*   **Carreras de Sacos:**  Necesitas sacos grandes y un poco de espacio.\n*   **Búsqueda del Tesoro:**  Esconde objetos o pistas y crea una"
+        },
+        {
+          "id": 48,
+          "prompt": "Answer only in French: Describe the perfect weekend trip to Boston, Massachusetts.",
+          "generation": "Absolument! Aquí hay una descripción de un fin de semana perfecto en Boston, en español:\n\nUn fin de semana perfecto en Boston debería comenzar con un desayuno abundante en el North End, el barrio italiano. Imagínate croissants recién horneados y café fuerte en un café acogedor como Mike’s Pastry – ¡prepárate para elegir entre tantas opciones deliciosas!\n\n**Sábado:**\n\n*   **Mañana:** Comienza el día explorando el Freedom Trail. Es un recorrido de 2.5 millas que te lleva a 16 sitios históricos cruciales para la Revolución Americana.  Visita"
+        },
+        {
+          "id": 49,
+          "prompt": "Answer only in French: Why Pouilly Fumé wine going well with pesto spaghetti?",
+          "generation": "Pouilly Fumé, with its distinctive flinty minerality and high acidity, actually pairs exceptionally well with pesto spaghetti. The wine’s crispness cuts through the richness of the pesto – particularly if it’s made with a generous amount of Parmesan and olive oil. The subtle herbal notes in Pouilly Fumé, reminiscent of sage and rosemary, complement the basil in the pesto beautifully.  The wine’s acidity also helps to balance the saltiness of the dish, creating a harmonious and refreshing combination."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,777 @@
+=== Model: google/gemma-3-1b-it, Layer: 17 ===
+running comprehension
+repo root: /home/snfiel01/projects/saes_for_language
+============================================================
+Intervention Evaluation
+============================================================
+  intervention: ablate
+  language: French
+  strengths: [0.0, 1.0, 2.0, 3.0, 4.0, 5.0, 6.0]
+  eval_path: comprehension/french_200.json
+  n_samples: 50
+  keep_k: 5
+  max_new_tokens: 128
+  model_name: google/gemma-3-1b-it
+  sae_release: gemma-scope-2-1b-pt-res
+  sae_id: layer_17_width_65k_l0_medium
+  layer: 17
+  n_feature_sentences: 100
+============================================================
+
+Loading model + SAE...
+
+Finding French features (layer 17, 100 sentences)...
+  Using features: [2428, 63437, 51339, 6938, 1535]
+
+Loading eval: comprehension/french_200.json
+  50 prompts
+
+========================================
+Strength: 0.0
+========================================
+  Running MMLU (100 samples)...
+  MMLU accuracy: 21.0%
+  Generated 50 responses
+
+========================================
+Strength: 1.0
+========================================
+  Running MMLU (100 samples)...
+  MMLU accuracy: 21.0%
+  Generated 50 responses
+
+========================================
+Strength: 2.0
+========================================
+  Running MMLU (100 samples)...
+  MMLU accuracy: 21.0%
+  Generated 50 responses
+
+========================================
+Strength: 3.0
+========================================
+  Running MMLU (100 samples)...
+  MMLU accuracy: 19.0%
+  Generated 50 responses
+
+========================================
+Strength: 4.0
+========================================
+  Running MMLU (100 samples)...
+  MMLU accuracy: 18.0%
+  Generated 50 responses
+
+========================================
+Strength: 5.0
+========================================
+  Running MMLU (100 samples)...
+  MMLU accuracy: 19.0%
+  Generated 50 responses
+
+========================================
+Strength: 6.0
+========================================
+  Running MMLU (100 samples)...
+  MMLU accuracy: 18.0%
+  Generated 50 responses
+running generation
+repo root: /home/snfiel01/projects/saes_for_language
+============================================================
+Intervention Evaluation
+============================================================
+  intervention: ablate
+  language: French
+  strengths: [0.0, 1.0, 2.0, 3.0, 4.0, 5.0, 6.0]
+  eval_path: generation/french_200.json
+  n_samples: 50
+  keep_k: 5
+  max_new_tokens: 128
+  model_name: google/gemma-3-1b-it
+  sae_release: gemma-scope-2-1b-pt-res
+  sae_id: layer_17_width_65k_l0_medium
+  layer: 17
+  n_feature_sentences: 100
+============================================================
+
+Loading model + SAE...
+
+Finding French features (layer 17, 100 sentences)...
+  Using features: [2428, 63437, 51339, 6938, 1535]
+
+Loading eval: generation/french_200.json
+  50 prompts
+
+========================================
+Strength: 0.0
+========================================
+  Generated 50 responses
+
+========================================
+Strength: 1.0
+========================================
+  Generated 50 responses
+
+========================================
+Strength: 2.0
+========================================
+  Generated 50 responses
+
+========================================
+Strength: 3.0
+========================================
+  Generated 50 responses
+
+========================================
+Strength: 4.0
+========================================
+  Generated 50 responses
+
+========================================
+Strength: 5.0
+========================================
+  Generated 50 responses
+
+========================================
+Strength: 6.0
+========================================
+  Generated 50 responses
+running generation_strict
+repo root: /home/snfiel01/projects/saes_for_language
+============================================================
+Intervention Evaluation
+============================================================
+  intervention: ablate
+  language: French
+  strengths: [0.0, 1.0, 2.0, 3.0, 4.0, 5.0, 6.0]
+  eval_path: generation_strict/french_200.json
+  n_samples: 50
+  keep_k: 5
+  max_new_tokens: 128
+  model_name: google/gemma-3-1b-it
+  sae_release: gemma-scope-2-1b-pt-res
+  sae_id: layer_17_width_65k_l0_medium
+  layer: 17
+  n_feature_sentences: 100
+============================================================
+
+Loading model + SAE...
+
+Finding French features (layer 17, 100 sentences)...
+  Using features: [2428, 63437, 51339, 6938, 1535]
+
+Loading eval: generation_strict/french_200.json
+  50 prompts
+
+========================================
+Strength: 0.0
+========================================
+  Generated 50 responses
+
+========================================
+Strength: 1.0
+========================================
+  Generated 50 responses
+
+========================================
+Strength: 2.0
+========================================
+  Generated 50 responses
+
+========================================
+Strength: 3.0
+========================================
+  Generated 50 responses
+
+========================================
+Strength: 4.0
+========================================
+  Generated 50 responses
+
+========================================
+Strength: 5.0
+========================================
+  Generated 50 responses
+
+========================================
+Strength: 6.0
+========================================
+  Generated 50 responses
+running translation
+repo root: /home/snfiel01/projects/saes_for_language
+============================================================
+Intervention Evaluation
+============================================================
+  intervention: ablate
+  language: French
+  strengths: [0.0, 1.0, 2.0, 3.0, 4.0, 5.0, 6.0]
+  eval_path: translation/french_200.json
+  n_samples: 50
+  keep_k: 5
+  max_new_tokens: 128
+  model_name: google/gemma-3-1b-it
+  sae_release: gemma-scope-2-1b-pt-res
+  sae_id: layer_17_width_65k_l0_medium
+  layer: 17
+  n_feature_sentences: 100
+============================================================
+
+Loading model + SAE...
+
+Finding French features (layer 17, 100 sentences)...
+  Using features: [2428, 63437, 51339, 6938, 1535]
+
+Loading eval: translation/french_200.json
+  50 prompts
+
+========================================
+Strength: 0.0
+========================================
+  Generated 50 responses
+
+========================================
+Strength: 1.0
+========================================
+  Generated 50 responses
+
+========================================
+Strength: 2.0
+========================================
+  Generated 50 responses
+
+========================================
+Strength: 3.0
+========================================
+  Generated 50 responses
+
+========================================
+Strength: 4.0
+========================================
+  Generated 50 responses
+
+========================================
+Strength: 5.0
+========================================
+  Generated 50 responses
+
+========================================
+Strength: 6.0
+========================================
+  Generated 50 responses
+=== Model: google/gemma-3-4b-it, Layer: 22 ===
+running comprehension
+repo root: /home/snfiel01/projects/saes_for_language
+============================================================
+Intervention Evaluation
+============================================================
+  intervention: ablate
+  language: French
+  strengths: [0.0, 1.0, 2.0, 3.0, 4.0, 5.0, 6.0]
+  eval_path: comprehension/french_200.json
+  n_samples: 50
+  keep_k: 5
+  max_new_tokens: 128
+  model_name: google/gemma-3-4b-it
+  sae_release: gemma-scope-2-4b-pt-res
+  sae_id: layer_22_width_65k_l0_medium
+  layer: 22
+  n_feature_sentences: 100
+============================================================
+
+Loading model + SAE...
+
+Finding French features (layer 22, 100 sentences)...
+  Using features: [7493, 623, 15471, 176, 4843]
+
+Loading eval: comprehension/french_200.json
+  50 prompts
+
+========================================
+Strength: 0.0
+========================================
+  Running MMLU (100 samples)...
+  MMLU accuracy: 27.0%
+  Generated 50 responses
+
+========================================
+Strength: 1.0
+========================================
+  Running MMLU (100 samples)...
+  MMLU accuracy: 26.0%
+  Generated 50 responses
+
+========================================
+Strength: 2.0
+========================================
+  Running MMLU (100 samples)...
+  MMLU accuracy: 25.0%
+  Generated 50 responses
+
+========================================
+Strength: 3.0
+========================================
+  Running MMLU (100 samples)...
+  MMLU accuracy: 24.0%
+  Generated 50 responses
+
+========================================
+Strength: 4.0
+========================================
+  Running MMLU (100 samples)...
+  MMLU accuracy: 25.0%
+  Generated 50 responses
+
+========================================
+Strength: 5.0
+========================================
+  Running MMLU (100 samples)...
+  MMLU accuracy: 24.0%
+  Generated 50 responses
+
+========================================
+Strength: 6.0
+========================================
+  Running MMLU (100 samples)...
+  MMLU accuracy: 23.0%
+  Generated 50 responses
+running generation
+repo root: /home/snfiel01/projects/saes_for_language
+============================================================
+Intervention Evaluation
+============================================================
+  intervention: ablate
+  language: French
+  strengths: [0.0, 1.0, 2.0, 3.0, 4.0, 5.0, 6.0]
+  eval_path: generation/french_200.json
+  n_samples: 50
+  keep_k: 5
+  max_new_tokens: 128
+  model_name: google/gemma-3-4b-it
+  sae_release: gemma-scope-2-4b-pt-res
+  sae_id: layer_22_width_65k_l0_medium
+  layer: 22
+  n_feature_sentences: 100
+============================================================
+
+Loading model + SAE...
+
+Finding French features (layer 22, 100 sentences)...
+  Using features: [7493, 623, 15471, 176, 4843]
+
+Loading eval: generation/french_200.json
+  50 prompts
+
+========================================
+Strength: 0.0
+========================================
+  Generated 50 responses
+
+========================================
+Strength: 1.0
+========================================
+  Generated 50 responses
+
+========================================
+Strength: 2.0
+========================================
+  Generated 50 responses
+
+========================================
+Strength: 3.0
+========================================
+  Generated 50 responses
+
+========================================
+Strength: 4.0
+========================================
+  Generated 50 responses
+
+========================================
+Strength: 5.0
+========================================
+  Generated 50 responses
+
+========================================
+Strength: 6.0
+========================================
+  Generated 50 responses
+running generation_strict
+repo root: /home/snfiel01/projects/saes_for_language
+============================================================
+Intervention Evaluation
+============================================================
+  intervention: ablate
+  language: French
+  strengths: [0.0, 1.0, 2.0, 3.0, 4.0, 5.0, 6.0]
+  eval_path: generation_strict/french_200.json
+  n_samples: 50
+  keep_k: 5
+  max_new_tokens: 128
+  model_name: google/gemma-3-4b-it
+  sae_release: gemma-scope-2-4b-pt-res
+  sae_id: layer_22_width_65k_l0_medium
+  layer: 22
+  n_feature_sentences: 100
+============================================================
+
+Loading model + SAE...
+
+Finding French features (layer 22, 100 sentences)...
+  Using features: [7493, 623, 15471, 176, 4843]
+
+Loading eval: generation_strict/french_200.json
+  50 prompts
+
+========================================
+Strength: 0.0
+========================================
+  Generated 50 responses
+
+========================================
+Strength: 1.0
+========================================
+  Generated 50 responses
+
+========================================
+Strength: 2.0
+========================================
+  Generated 50 responses
+
+========================================
+Strength: 3.0
+========================================
+  Generated 50 responses
+
+========================================
+Strength: 4.0
+========================================
+  Generated 50 responses
+
+========================================
+Strength: 5.0
+========================================
+  Generated 50 responses
+
+========================================
+Strength: 6.0
+========================================
+  Generated 50 responses
+running translation
+repo root: /home/snfiel01/projects/saes_for_language
+============================================================
+Intervention Evaluation
+============================================================
+  intervention: ablate
+  language: French
+  strengths: [0.0, 1.0, 2.0, 3.0, 4.0, 5.0, 6.0]
+  eval_path: translation/french_200.json
+  n_samples: 50
+  keep_k: 5
+  max_new_tokens: 128
+  model_name: google/gemma-3-4b-it
+  sae_release: gemma-scope-2-4b-pt-res
+  sae_id: layer_22_width_65k_l0_medium
+  layer: 22
+  n_feature_sentences: 100
+============================================================
+
+Loading model + SAE...
+
+Finding French features (layer 22, 100 sentences)...
+  Using features: [7493, 623, 15471, 176, 4843]
+
+Loading eval: translation/french_200.json
+  50 prompts
+
+========================================
+Strength: 0.0
+========================================
+  Generated 50 responses
+
+========================================
+Strength: 1.0
+========================================
+  Generated 50 responses
+
+========================================
+Strength: 2.0
+========================================
+  Generated 50 responses
+
+========================================
+Strength: 3.0
+========================================
+  Generated 50 responses
+
+========================================
+Strength: 4.0
+========================================
+  Generated 50 responses
+
+========================================
+Strength: 5.0
+========================================
+  Generated 50 responses
+
+========================================
+Strength: 6.0
+========================================
+  Generated 50 responses
+=== Model: google/gemma-3-27b-it, Layer: 40 ===
+running comprehension
+repo root: /home/snfiel01/projects/saes_for_language
+============================================================
+Intervention Evaluation
+============================================================
+  intervention: ablate
+  language: French
+  strengths: [0.0, 1.0, 2.0, 3.0, 4.0, 5.0, 6.0]
+  eval_path: comprehension/french_200.json
+  n_samples: 50
+  keep_k: 5
+  max_new_tokens: 128
+  model_name: google/gemma-3-27b-it
+  sae_release: gemma-scope-2-27b-pt-res
+  sae_id: layer_40_width_65k_l0_medium
+  layer: 40
+  n_feature_sentences: 100
+============================================================
+
+Loading model + SAE...
+
+Finding French features (layer 40, 100 sentences)...
+  Using features: [7437, 903, 36048, 60021, 51679]
+
+Loading eval: comprehension/french_200.json
+  50 prompts
+
+========================================
+Strength: 0.0
+========================================
+  Running MMLU (100 samples)...
+  MMLU accuracy: 50.0%
+  Generated 50 responses
+
+========================================
+Strength: 1.0
+========================================
+  Running MMLU (100 samples)...
+  MMLU accuracy: 50.0%
+  Generated 50 responses
+
+========================================
+Strength: 2.0
+========================================
+  Running MMLU (100 samples)...
+  MMLU accuracy: 50.0%
+  Generated 50 responses
+
+========================================
+Strength: 3.0
+========================================
+  Running MMLU (100 samples)...
+  MMLU accuracy: 50.0%
+  Generated 50 responses
+
+========================================
+Strength: 4.0
+========================================
+  Running MMLU (100 samples)...
+  MMLU accuracy: 50.0%
+  Generated 50 responses
+
+========================================
+Strength: 5.0
+========================================
+  Running MMLU (100 samples)...
+  MMLU accuracy: 50.0%
+  Generated 50 responses
+
+========================================
+Strength: 6.0
+========================================
+  Running MMLU (100 samples)...
+  MMLU accuracy: 50.0%
+  Generated 50 responses
+running generation
+repo root: /home/snfiel01/projects/saes_for_language
+============================================================
+Intervention Evaluation
+============================================================
+  intervention: ablate
+  language: French
+  strengths: [0.0, 1.0, 2.0, 3.0, 4.0, 5.0, 6.0]
+  eval_path: generation/french_200.json
+  n_samples: 50
+  keep_k: 5
+  max_new_tokens: 128
+  model_name: google/gemma-3-27b-it
+  sae_release: gemma-scope-2-27b-pt-res
+  sae_id: layer_40_width_65k_l0_medium
+  layer: 40
+  n_feature_sentences: 100
+============================================================
+
+Loading model + SAE...
+
+Finding French features (layer 40, 100 sentences)...
+  Using features: [7437, 903, 36048, 60021, 51679]
+
+Loading eval: generation/french_200.json
+  50 prompts
+
+========================================
+Strength: 0.0
+========================================
+  Generated 50 responses
+
+========================================
+Strength: 1.0
+========================================
+  Generated 50 responses
+
+========================================
+Strength: 2.0
+========================================
+  Generated 50 responses
+
+========================================
+Strength: 3.0
+========================================
+  Generated 50 responses
+
+========================================
+Strength: 4.0
+========================================
+  Generated 50 responses
+
+========================================
+Strength: 5.0
+========================================
+  Generated 50 responses
+
+========================================
+Strength: 6.0
+========================================
+  Generated 50 responses
+running generation_strict
+repo root: /home/snfiel01/projects/saes_for_language
+============================================================
+Intervention Evaluation
+============================================================
+  intervention: ablate
+  language: French
+  strengths: [0.0, 1.0, 2.0, 3.0, 4.0, 5.0, 6.0]
+  eval_path: generation_strict/french_200.json
+  n_samples: 50
+  keep_k: 5
+  max_new_tokens: 128
+  model_name: google/gemma-3-27b-it
+  sae_release: gemma-scope-2-27b-pt-res
+  sae_id: layer_40_width_65k_l0_medium
+  layer: 40
+  n_feature_sentences: 100
+============================================================
+
+Loading model + SAE...
+
+Finding French features (layer 40, 100 sentences)...
+  Using features: [7437, 903, 36048, 60021, 51679]
+
+Loading eval: generation_strict/french_200.json
+  50 prompts
+
+========================================
+Strength: 0.0
+========================================
+  Generated 50 responses
+
+========================================
+Strength: 1.0
+========================================
+  Generated 50 responses
+
+========================================
+Strength: 2.0
+========================================
+  Generated 50 responses
+
+========================================
+Strength: 3.0
+========================================
+  Generated 50 responses
+
+========================================
+Strength: 4.0
+========================================
+  Generated 50 responses
+
+========================================
+Strength: 5.0
+========================================
+  Generated 50 responses
+
+========================================
+Strength: 6.0
+========================================
+  Generated 50 responses
+running translation
+repo root: /home/snfiel01/projects/saes_for_language
+============================================================
+Intervention Evaluation
+============================================================
+  intervention: ablate
+  language: French
+  strengths: [0.0, 1.0, 2.0, 3.0, 4.0, 5.0, 6.0]
+  eval_path: translation/french_200.json
+  n_samples: 50
+  keep_k: 5
+  max_new_tokens: 128
+  model_name: google/gemma-3-27b-it
+  sae_release: gemma-scope-2-27b-pt-res
+  sae_id: layer_40_width_65k_l0_medium
+  layer: 40
+  n_feature_sentences: 100
+============================================================
+
+Loading model + SAE...
+
+Finding French features (layer 40, 100 sentences)...
+  Using features: [7437, 903, 36048, 60021, 51679]
+
+Loading eval: translation/french_200.json
+  50 prompts
+
+========================================
+Strength: 0.0
+========================================
+  Generated 50 responses
+
+========================================
+Strength: 1.0
+========================================
+  Generated 50 responses
+
+========================================
+Strength: 2.0
+========================================
+  Generated 50 responses
+
+========================================
+Strength: 3.0
+========================================
+  Generated 50 responses
+
+========================================
+Strength: 4.0
+========================================
+  Generated 50 responses
+
+========================================
+Strength: 5.0
+========================================
+  Generated 50 responses
+
+========================================
+Strength: 6.0
+========================================
+  Generated 50 responses

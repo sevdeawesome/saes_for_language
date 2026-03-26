@@ -16,7 +16,15 @@ This is a SLURM cluster with H100 GPUs; you're likely on a login node — ask fo
 
 ### Data
 
-`data/flores_5lang_N1000.json` — 1000 parallel sentences across 5 languages (French, English, German, Dutch, Italian). Each entry has the same content in all languages, enabling clean comparison of SAE activations across languages to find language-specific features.
+`data/flores_5lang_N1000.json` — 1000 parallel sentences across 5 languages (French, English, German, Dutch, Italian). Each entry has the same content in all languages, enabling clean comparison of SAE activations across languages to find language-specific features. **Use 0-800 for feature-finding, 800-1000 for eval.**
+
+### Eval Datasets (all use FLORES 800-1000 or Dolly)
+- `data/generation/` — "Answer in {lang}: {dolly_prompt}" — tests language production
+- `data/generation_strict/` — "Answer only in {lang}: {dolly_prompt}" — stricter production test
+- `data/do_not/` — "Do not answer in {lang}: {dolly_prompt}" — tests steering against instruction
+- `data/comprehension/` — "Translate this to English: {text_in_lang}" — tests understanding of source language
+- `data/translation/` — "Translate this to {lang}: {english_text}" — tests production via translation
+- `data/translate_to/` — "{source}_to_{target}_200.json" — all 20 language pair permutations
 
 ### Keep Codebase Trim
 

@@ -1,1201 +1,1201 @@
 [
   {
     "id": 0,
-    "prompt": "Answer in Italian: Give me a list of the best high fantasy books or series that I should read",
+    "prompt": "Answer only in Italian: Give me a list of the best high fantasy books or series that I should read",
     "target_lang": "Italian",
     "category": "brainstorming"
   },
   {
     "id": 1,
-    "prompt": "Answer in Italian: Give me a list of summer activities for an 8-year-old.",
+    "prompt": "Answer only in Italian: Give me a list of summer activities for an 8-year-old.",
     "target_lang": "Italian",
     "category": "brainstorming"
   },
   {
     "id": 2,
-    "prompt": "Answer in Italian: Write a description of your favorite place to visit in San Francisco and why you like it so much.",
+    "prompt": "Answer only in Italian: Write a description of your favorite place to visit in San Francisco and why you like it so much.",
     "target_lang": "Italian",
     "category": "creative_writing"
   },
   {
     "id": 3,
-    "prompt": "Answer in Italian: If a straight line passes through the points (4,2) and (8,6) then where does it cross the x axis? Explain your answer.",
+    "prompt": "Answer only in Italian: If a straight line passes through the points (4,2) and (8,6) then where does it cross the x axis? Explain your answer.",
     "target_lang": "Italian",
     "category": "creative_writing"
   },
   {
     "id": 4,
-    "prompt": "Answer in Italian: Why is WiFi such a popular way to implement a home network?",
+    "prompt": "Answer only in Italian: Why is WiFi such a popular way to implement a home network?",
     "target_lang": "Italian",
     "category": "general_qa"
   },
   {
     "id": 5,
-    "prompt": "Answer in Italian: Give me a bulleted list of tech billionaires.",
+    "prompt": "Answer only in Italian: Give me a bulleted list of tech billionaires.",
     "target_lang": "Italian",
     "category": "brainstorming"
   },
   {
     "id": 6,
-    "prompt": "Answer in Italian: Write a paragraph of a blog post describing the appeal of a weekend stay at Blue Ridge Parkway?",
+    "prompt": "Answer only in Italian: Write a paragraph of a blog post describing the appeal of a weekend stay at Blue Ridge Parkway?",
     "target_lang": "Italian",
     "category": "creative_writing"
   },
   {
     "id": 7,
-    "prompt": "Answer in Italian: How can I read and write data with Delta Lake?",
+    "prompt": "Answer only in Italian: How can I read and write data with Delta Lake?",
     "target_lang": "Italian",
     "category": "general_qa"
   },
   {
     "id": 8,
-    "prompt": "Answer in Italian: Why should you workout in the morning if you work remotely ?",
+    "prompt": "Answer only in Italian: Why should you workout in the morning if you work remotely ?",
     "target_lang": "Italian",
     "category": "general_qa"
   },
   {
     "id": 9,
-    "prompt": "Answer in Italian: Give me some ideas of activities to do in Romania",
+    "prompt": "Answer only in Italian: Give me some ideas of activities to do in Romania",
     "target_lang": "Italian",
     "category": "brainstorming"
   },
   {
     "id": 10,
-    "prompt": "Answer in Italian: You are a product manager at an enterprise software company Y. Your CEO has asked you to write a report on how well the company supports X capabilities. Provide a template email to send to my CEO that includes a TLDR and a link to the report. Use \u201c<\u201d and \u201c>\u201d to denote placeholder text I need to customize.",
+    "prompt": "Answer only in Italian: You are a product manager at an enterprise software company Y. Your CEO has asked you to write a report on how well the company supports X capabilities. Provide a template email to send to my CEO that includes a TLDR and a link to the report. Use \u201c<\u201d and \u201c>\u201d to denote placeholder text I need to customize.",
     "target_lang": "Italian",
     "category": "creative_writing"
   },
   {
     "id": 11,
-    "prompt": "Answer in Italian: I want to develop OKRs for my team at work. What process should I use?",
+    "prompt": "Answer only in Italian: I want to develop OKRs for my team at work. What process should I use?",
     "target_lang": "Italian",
     "category": "general_qa"
   },
   {
     "id": 12,
-    "prompt": "Answer in Italian: Who invented the telephone?",
+    "prompt": "Answer only in Italian: Who invented the telephone?",
     "target_lang": "Italian",
     "category": "open_qa"
   },
   {
     "id": 13,
-    "prompt": "Answer in Italian: What are the top three cloud providers.",
+    "prompt": "Answer only in Italian: What are the top three cloud providers.",
     "target_lang": "Italian",
     "category": "brainstorming"
   },
   {
     "id": 14,
-    "prompt": "Answer in Italian: What's the difference between a turnover and a turnover on downs in the sport of American Football?",
+    "prompt": "Answer only in Italian: What's the difference between a turnover and a turnover on downs in the sport of American Football?",
     "target_lang": "Italian",
     "category": "open_qa"
   },
   {
     "id": 15,
-    "prompt": "Answer in Italian: What are the northern lights?",
+    "prompt": "Answer only in Italian: What are the northern lights?",
     "target_lang": "Italian",
     "category": "open_qa"
   },
   {
     "id": 16,
-    "prompt": "Answer in Italian: What are questions you can ask to get to know someone?",
+    "prompt": "Answer only in Italian: What are questions you can ask to get to know someone?",
     "target_lang": "Italian",
     "category": "open_qa"
   },
   {
     "id": 17,
-    "prompt": "Answer in Italian: Do we live in a simulation? Argue both sides",
+    "prompt": "Answer only in Italian: Do we live in a simulation? Argue both sides",
     "target_lang": "Italian",
     "category": "creative_writing"
   },
   {
     "id": 18,
-    "prompt": "Answer in Italian: Why Bollywood is so famous",
+    "prompt": "Answer only in Italian: Why Bollywood is so famous",
     "target_lang": "Italian",
     "category": "brainstorming"
   },
   {
     "id": 19,
-    "prompt": "Answer in Italian: Who are some of the most influential innovators of all time?",
+    "prompt": "Answer only in Italian: Who are some of the most influential innovators of all time?",
     "target_lang": "Italian",
     "category": "brainstorming"
   },
   {
     "id": 20,
-    "prompt": "Answer in Italian: How do you do a shuffle ball change tap move?",
+    "prompt": "Answer only in Italian: How do you do a shuffle ball change tap move?",
     "target_lang": "Italian",
     "category": "creative_writing"
   },
   {
     "id": 21,
-    "prompt": "Answer in Italian: Do the new shift rules in Major League Baseball make the game more exciting?",
+    "prompt": "Answer only in Italian: Do the new shift rules in Major League Baseball make the game more exciting?",
     "target_lang": "Italian",
     "category": "creative_writing"
   },
   {
     "id": 22,
-    "prompt": "Answer in Italian: What are the names of Daenerys Targaryen's three dragons?",
+    "prompt": "Answer only in Italian: What are the names of Daenerys Targaryen's three dragons?",
     "target_lang": "Italian",
     "category": "open_qa"
   },
   {
     "id": 23,
-    "prompt": "Answer in Italian: Seven Wonders of the Underwater World",
+    "prompt": "Answer only in Italian: Seven Wonders of the Underwater World",
     "target_lang": "Italian",
     "category": "brainstorming"
   },
   {
     "id": 24,
-    "prompt": "Answer in Italian: What s epigenomics?",
+    "prompt": "Answer only in Italian: What s epigenomics?",
     "target_lang": "Italian",
     "category": "open_qa"
   },
   {
     "id": 25,
-    "prompt": "Answer in Italian: How can I lower my utility bills?",
+    "prompt": "Answer only in Italian: How can I lower my utility bills?",
     "target_lang": "Italian",
     "category": "brainstorming"
   },
   {
     "id": 26,
-    "prompt": "Answer in Italian: Imagine a world where life expectancy is fixed and the same for everyone at birth, yet people can engage in life expectancy \"donation\" \u2013\u00a0meaning that someone can extend your life three years longer at the expense of theirs. Talk about a likely scenario in this world that involves voluntary donation.",
+    "prompt": "Answer only in Italian: Imagine a world where life expectancy is fixed and the same for everyone at birth, yet people can engage in life expectancy \"donation\" \u2013\u00a0meaning that someone can extend your life three years longer at the expense of theirs. Talk about a likely scenario in this world that involves voluntary donation.",
     "target_lang": "Italian",
     "category": "creative_writing"
   },
   {
     "id": 27,
-    "prompt": "Answer in Italian: Who are the pianists that are considered masters in playing Bach's music?",
+    "prompt": "Answer only in Italian: Who are the pianists that are considered masters in playing Bach's music?",
     "target_lang": "Italian",
     "category": "open_qa"
   },
   {
     "id": 28,
-    "prompt": "Answer in Italian: What is the difference between it's and its?",
+    "prompt": "Answer only in Italian: What is the difference between it's and its?",
     "target_lang": "Italian",
     "category": "open_qa"
   },
   {
     "id": 29,
-    "prompt": "Answer in Italian: Explain Business Intelligence",
+    "prompt": "Answer only in Italian: Explain Business Intelligence",
     "target_lang": "Italian",
     "category": "general_qa"
   },
   {
     "id": 30,
-    "prompt": "Answer in Italian: How can I choose a favorite professional basketball team?",
+    "prompt": "Answer only in Italian: How can I choose a favorite professional basketball team?",
     "target_lang": "Italian",
     "category": "brainstorming"
   },
   {
     "id": 31,
-    "prompt": "Answer in Italian: Describe a trip through the United States for a 14 day vacation in a rental car",
+    "prompt": "Answer only in Italian: Describe a trip through the United States for a 14 day vacation in a rental car",
     "target_lang": "Italian",
     "category": "creative_writing"
   },
   {
     "id": 32,
-    "prompt": "Answer in Italian: Give me a list of things that could be found on a desk",
+    "prompt": "Answer only in Italian: Give me a list of things that could be found on a desk",
     "target_lang": "Italian",
     "category": "brainstorming"
   },
   {
     "id": 33,
-    "prompt": "Answer in Italian: Who is the company Roche",
+    "prompt": "Answer only in Italian: Who is the company Roche",
     "target_lang": "Italian",
     "category": "open_qa"
   },
   {
     "id": 34,
-    "prompt": "Answer in Italian: What are the 7 Wonders of the Solar System:",
+    "prompt": "Answer only in Italian: What are the 7 Wonders of the Solar System:",
     "target_lang": "Italian",
     "category": "brainstorming"
   },
   {
     "id": 35,
-    "prompt": "Answer in Italian: How many total fingers do most humans have?",
+    "prompt": "Answer only in Italian: How many total fingers do most humans have?",
     "target_lang": "Italian",
     "category": "open_qa"
   },
   {
     "id": 36,
-    "prompt": "Answer in Italian: Name some of Sweden's most famous companies",
+    "prompt": "Answer only in Italian: Name some of Sweden's most famous companies",
     "target_lang": "Italian",
     "category": "open_qa"
   },
   {
     "id": 37,
-    "prompt": "Answer in Italian: give me a list of all the ways a person can hydrate",
+    "prompt": "Answer only in Italian: give me a list of all the ways a person can hydrate",
     "target_lang": "Italian",
     "category": "brainstorming"
   },
   {
     "id": 38,
-    "prompt": "Answer in Italian: Who are some students at Hogwarts in Ravenclaw house that were in the same year as Harry Potter?",
+    "prompt": "Answer only in Italian: Who are some students at Hogwarts in Ravenclaw house that were in the same year as Harry Potter?",
     "target_lang": "Italian",
     "category": "brainstorming"
   },
   {
     "id": 39,
-    "prompt": "Answer in Italian: How long do hump back whales live?",
+    "prompt": "Answer only in Italian: How long do hump back whales live?",
     "target_lang": "Italian",
     "category": "open_qa"
   },
   {
     "id": 40,
-    "prompt": "Answer in Italian: Is 95 degrees Fahrenheit considered to be hot weather?",
+    "prompt": "Answer only in Italian: Is 95 degrees Fahrenheit considered to be hot weather?",
     "target_lang": "Italian",
     "category": "open_qa"
   },
   {
     "id": 41,
-    "prompt": "Answer in Italian: What birds can I find in San Francisco?",
+    "prompt": "Answer only in Italian: What birds can I find in San Francisco?",
     "target_lang": "Italian",
     "category": "general_qa"
   },
   {
     "id": 42,
-    "prompt": "Answer in Italian: What is social media?",
+    "prompt": "Answer only in Italian: What is social media?",
     "target_lang": "Italian",
     "category": "open_qa"
   },
   {
     "id": 43,
-    "prompt": "Answer in Italian: Why is summer in California so great?",
+    "prompt": "Answer only in Italian: Why is summer in California so great?",
     "target_lang": "Italian",
     "category": "general_qa"
   },
   {
     "id": 44,
-    "prompt": "Answer in Italian: What is retail banking?",
+    "prompt": "Answer only in Italian: What is retail banking?",
     "target_lang": "Italian",
     "category": "open_qa"
   },
   {
     "id": 45,
-    "prompt": "Answer in Italian: Does Starlink perform well for working on the road?",
+    "prompt": "Answer only in Italian: Does Starlink perform well for working on the road?",
     "target_lang": "Italian",
     "category": "general_qa"
   },
   {
     "id": 46,
-    "prompt": "Answer in Italian: What was the first credit card",
+    "prompt": "Answer only in Italian: What was the first credit card",
     "target_lang": "Italian",
     "category": "open_qa"
   },
   {
     "id": 47,
-    "prompt": "Answer in Italian: What are some games you can play in the middle of nature and a bunch of people?",
+    "prompt": "Answer only in Italian: What are some games you can play in the middle of nature and a bunch of people?",
     "target_lang": "Italian",
     "category": "brainstorming"
   },
   {
     "id": 48,
-    "prompt": "Answer in Italian: Describe the perfect weekend trip to Boston, Massachusetts.",
+    "prompt": "Answer only in Italian: Describe the perfect weekend trip to Boston, Massachusetts.",
     "target_lang": "Italian",
     "category": "creative_writing"
   },
   {
     "id": 49,
-    "prompt": "Answer in Italian: Why Pouilly Fum\u00e9 wine going well with pesto spaghetti?",
+    "prompt": "Answer only in Italian: Why Pouilly Fum\u00e9 wine going well with pesto spaghetti?",
     "target_lang": "Italian",
     "category": "general_qa"
   },
   {
     "id": 50,
-    "prompt": "Answer in Italian: Write a paragraph on how cricket format has evolved over time",
+    "prompt": "Answer only in Italian: Write a paragraph on how cricket format has evolved over time",
     "target_lang": "Italian",
     "category": "creative_writing"
   },
   {
     "id": 51,
-    "prompt": "Answer in Italian: How many people live in California?",
+    "prompt": "Answer only in Italian: How many people live in California?",
     "target_lang": "Italian",
     "category": "brainstorming"
   },
   {
     "id": 52,
-    "prompt": "Answer in Italian: Write an argument for keeping public lands under federal control in the Intermountain West.",
+    "prompt": "Answer only in Italian: Write an argument for keeping public lands under federal control in the Intermountain West.",
     "target_lang": "Italian",
     "category": "creative_writing"
   },
   {
     "id": 53,
-    "prompt": "Answer in Italian: Which field hockey team has won the Stanley Cup twice in a row?",
+    "prompt": "Answer only in Italian: Which field hockey team has won the Stanley Cup twice in a row?",
     "target_lang": "Italian",
     "category": "open_qa"
   },
   {
     "id": 54,
-    "prompt": "Answer in Italian: Give me a list of Greek foods that are absolutely amazing",
+    "prompt": "Answer only in Italian: Give me a list of Greek foods that are absolutely amazing",
     "target_lang": "Italian",
     "category": "brainstorming"
   },
   {
     "id": 55,
-    "prompt": "Answer in Italian: Who is the most influential president in history?",
+    "prompt": "Answer only in Italian: Who is the most influential president in history?",
     "target_lang": "Italian",
     "category": "general_qa"
   },
   {
     "id": 56,
-    "prompt": "Answer in Italian: Write an apology letter to my wife for eating the last of the Oreo cookies and drinking the last of the milk.",
+    "prompt": "Answer only in Italian: Write an apology letter to my wife for eating the last of the Oreo cookies and drinking the last of the milk.",
     "target_lang": "Italian",
     "category": "creative_writing"
   },
   {
     "id": 57,
-    "prompt": "Answer in Italian: What are some good Indian dishes?",
+    "prompt": "Answer only in Italian: What are some good Indian dishes?",
     "target_lang": "Italian",
     "category": "brainstorming"
   },
   {
     "id": 58,
-    "prompt": "Answer in Italian: What is the sun made of?",
+    "prompt": "Answer only in Italian: What is the sun made of?",
     "target_lang": "Italian",
     "category": "general_qa"
   },
   {
     "id": 59,
-    "prompt": "Answer in Italian: List great neighborhoods to raise a family in East County San Diego",
+    "prompt": "Answer only in Italian: List great neighborhoods to raise a family in East County San Diego",
     "target_lang": "Italian",
     "category": "brainstorming"
   },
   {
     "id": 60,
-    "prompt": "Answer in Italian: What are interesting plot twists for a novel?",
+    "prompt": "Answer only in Italian: What are interesting plot twists for a novel?",
     "target_lang": "Italian",
     "category": "brainstorming"
   },
   {
     "id": 61,
-    "prompt": "Answer in Italian: Name the spyware used by Israel to hack Whatsapp?",
+    "prompt": "Answer only in Italian: Name the spyware used by Israel to hack Whatsapp?",
     "target_lang": "Italian",
     "category": "open_qa"
   },
   {
     "id": 62,
-    "prompt": "Answer in Italian: What math classes are offered at high schools in the United States?",
+    "prompt": "Answer only in Italian: What math classes are offered at high schools in the United States?",
     "target_lang": "Italian",
     "category": "open_qa"
   },
   {
     "id": 63,
-    "prompt": "Answer in Italian: Give me a bulleted list of the the first five books in the bible new testament?",
+    "prompt": "Answer only in Italian: Give me a bulleted list of the the first five books in the bible new testament?",
     "target_lang": "Italian",
     "category": "brainstorming"
   },
   {
     "id": 64,
-    "prompt": "Answer in Italian: Explain Anthropocene to 13-year-old kid",
+    "prompt": "Answer only in Italian: Explain Anthropocene to 13-year-old kid",
     "target_lang": "Italian",
     "category": "creative_writing"
   },
   {
     "id": 65,
-    "prompt": "Answer in Italian: Which country produces the most pineapples?",
+    "prompt": "Answer only in Italian: Which country produces the most pineapples?",
     "target_lang": "Italian",
     "category": "open_qa"
   },
   {
     "id": 66,
-    "prompt": "Answer in Italian: How can I do a figure skating salchow jump?",
+    "prompt": "Answer only in Italian: How can I do a figure skating salchow jump?",
     "target_lang": "Italian",
     "category": "general_qa"
   },
   {
     "id": 67,
-    "prompt": "Answer in Italian: Should I visit Chicago?",
+    "prompt": "Answer only in Italian: Should I visit Chicago?",
     "target_lang": "Italian",
     "category": "general_qa"
   },
   {
     "id": 68,
-    "prompt": "Answer in Italian: Was Dracula a real person.",
+    "prompt": "Answer only in Italian: Was Dracula a real person.",
     "target_lang": "Italian",
     "category": "general_qa"
   },
   {
     "id": 69,
-    "prompt": "Answer in Italian: What is the best format for storing data in a lakehouse?",
+    "prompt": "Answer only in Italian: What is the best format for storing data in a lakehouse?",
     "target_lang": "Italian",
     "category": "general_qa"
   },
   {
     "id": 70,
-    "prompt": "Answer in Italian: Please describe a fantasy animal",
+    "prompt": "Answer only in Italian: Please describe a fantasy animal",
     "target_lang": "Italian",
     "category": "creative_writing"
   },
   {
     "id": 71,
-    "prompt": "Answer in Italian: Who won the Second World War?",
+    "prompt": "Answer only in Italian: Who won the Second World War?",
     "target_lang": "Italian",
     "category": "open_qa"
   },
   {
     "id": 72,
-    "prompt": "Answer in Italian: When was the first episode of the TV show, The X-Files?",
+    "prompt": "Answer only in Italian: When was the first episode of the TV show, The X-Files?",
     "target_lang": "Italian",
     "category": "open_qa"
   },
   {
     "id": 73,
-    "prompt": "Answer in Italian: Give me the recipe for the traditional crepe",
+    "prompt": "Answer only in Italian: Give me the recipe for the traditional crepe",
     "target_lang": "Italian",
     "category": "brainstorming"
   },
   {
     "id": 74,
-    "prompt": "Answer in Italian: Give me a list of common German car manufacturers",
+    "prompt": "Answer only in Italian: Give me a list of common German car manufacturers",
     "target_lang": "Italian",
     "category": "brainstorming"
   },
   {
     "id": 75,
-    "prompt": "Answer in Italian: Name four Ivy League schools.",
+    "prompt": "Answer only in Italian: Name four Ivy League schools.",
     "target_lang": "Italian",
     "category": "open_qa"
   },
   {
     "id": 76,
-    "prompt": "Answer in Italian: Give me a list of the most realistic action movies ever seen",
+    "prompt": "Answer only in Italian: Give me a list of the most realistic action movies ever seen",
     "target_lang": "Italian",
     "category": "brainstorming"
   },
   {
     "id": 77,
-    "prompt": "Answer in Italian: What is SaaS?",
+    "prompt": "Answer only in Italian: What is SaaS?",
     "target_lang": "Italian",
     "category": "brainstorming"
   },
   {
     "id": 78,
-    "prompt": "Answer in Italian: describe experience of child fighting with autism",
+    "prompt": "Answer only in Italian: describe experience of child fighting with autism",
     "target_lang": "Italian",
     "category": "creative_writing"
   },
   {
     "id": 79,
-    "prompt": "Answer in Italian: Can you offer tips for visiting Mexico City for fun?",
+    "prompt": "Answer only in Italian: Can you offer tips for visiting Mexico City for fun?",
     "target_lang": "Italian",
     "category": "brainstorming"
   },
   {
     "id": 80,
-    "prompt": "Answer in Italian: Write a friendly letter to my landlord, convincing them to let me get a cat. His name is George and my name is Steve. I live alone in Unit 2C and I work long hours. Include details regarding my rental contract that currently only permits dogs under 25 pounds and caged animals and requires pet deposit and rent. Give him examples as to why those animals are not ideal (include my dog allergy) and why a cat is better. Let him know I plan a robotic vacuum and mop to keep things clean. Tell him I've already found a potential pet at the local animal shelter, who is a two-year-old shelter cat who is housebroken and friendly. Remind him that Unit 2C does not have any carpeted floors and a tiled bathroom which is good for the future litter box. Convince him I'm open to a conversation to discuss further.",
+    "prompt": "Answer only in Italian: Write a friendly letter to my landlord, convincing them to let me get a cat. His name is George and my name is Steve. I live alone in Unit 2C and I work long hours. Include details regarding my rental contract that currently only permits dogs under 25 pounds and caged animals and requires pet deposit and rent. Give him examples as to why those animals are not ideal (include my dog allergy) and why a cat is better. Let him know I plan a robotic vacuum and mop to keep things clean. Tell him I've already found a potential pet at the local animal shelter, who is a two-year-old shelter cat who is housebroken and friendly. Remind him that Unit 2C does not have any carpeted floors and a tiled bathroom which is good for the future litter box. Convince him I'm open to a conversation to discuss further.",
     "target_lang": "Italian",
     "category": "creative_writing"
   },
   {
     "id": 81,
-    "prompt": "Answer in Italian: where is India?",
+    "prompt": "Answer only in Italian: where is India?",
     "target_lang": "Italian",
     "category": "general_qa"
   },
   {
     "id": 82,
-    "prompt": "Answer in Italian: What is oxidation reduction potential?",
+    "prompt": "Answer only in Italian: What is oxidation reduction potential?",
     "target_lang": "Italian",
     "category": "open_qa"
   },
   {
     "id": 83,
-    "prompt": "Answer in Italian: What are some of the best TV shows on HBO?",
+    "prompt": "Answer only in Italian: What are some of the best TV shows on HBO?",
     "target_lang": "Italian",
     "category": "general_qa"
   },
   {
     "id": 84,
-    "prompt": "Answer in Italian: Can I feed table food to dogs?",
+    "prompt": "Answer only in Italian: Can I feed table food to dogs?",
     "target_lang": "Italian",
     "category": "general_qa"
   },
   {
     "id": 85,
-    "prompt": "Answer in Italian: If a candidate running to be the President of the United States is indicted during his campaign, can he continue running for election?",
+    "prompt": "Answer only in Italian: If a candidate running to be the President of the United States is indicted during his campaign, can he continue running for election?",
     "target_lang": "Italian",
     "category": "brainstorming"
   },
   {
     "id": 86,
-    "prompt": "Answer in Italian: In which medium does sound travel faster and why",
+    "prompt": "Answer only in Italian: In which medium does sound travel faster and why",
     "target_lang": "Italian",
     "category": "general_qa"
   },
   {
     "id": 87,
-    "prompt": "Answer in Italian: Tell me a terrifying fact about moray eels.",
+    "prompt": "Answer only in Italian: Tell me a terrifying fact about moray eels.",
     "target_lang": "Italian",
     "category": "general_qa"
   },
   {
     "id": 88,
-    "prompt": "Answer in Italian: What is the difference between benefits and compensation?",
+    "prompt": "Answer only in Italian: What is the difference between benefits and compensation?",
     "target_lang": "Italian",
     "category": "open_qa"
   },
   {
     "id": 89,
-    "prompt": "Answer in Italian: What makes a good teacher?",
+    "prompt": "Answer only in Italian: What makes a good teacher?",
     "target_lang": "Italian",
     "category": "creative_writing"
   },
   {
     "id": 90,
-    "prompt": "Answer in Italian: What is the best way to approach a new cat?",
+    "prompt": "Answer only in Italian: What is the best way to approach a new cat?",
     "target_lang": "Italian",
     "category": "general_qa"
   },
   {
     "id": 91,
-    "prompt": "Answer in Italian: Why are cats better than dogs?",
+    "prompt": "Answer only in Italian: Why are cats better than dogs?",
     "target_lang": "Italian",
     "category": "general_qa"
   },
   {
     "id": 92,
-    "prompt": "Answer in Italian: Make a list, using dot points, of the five foods I might find in the dairy section of a supermarket",
+    "prompt": "Answer only in Italian: Make a list, using dot points, of the five foods I might find in the dairy section of a supermarket",
     "target_lang": "Italian",
     "category": "brainstorming"
   },
   {
     "id": 93,
-    "prompt": "Answer in Italian: Write a story on humans on Mars.",
+    "prompt": "Answer only in Italian: Write a story on humans on Mars.",
     "target_lang": "Italian",
     "category": "creative_writing"
   },
   {
     "id": 94,
-    "prompt": "Answer in Italian: What's the appeal of a vacation rental on the Big Island of Hawaii?",
+    "prompt": "Answer only in Italian: What's the appeal of a vacation rental on the Big Island of Hawaii?",
     "target_lang": "Italian",
     "category": "creative_writing"
   },
   {
     "id": 95,
-    "prompt": "Answer in Italian: Can you suggest 5 benefits of Genetical modification technologies like CRISPR ?",
+    "prompt": "Answer only in Italian: Can you suggest 5 benefits of Genetical modification technologies like CRISPR ?",
     "target_lang": "Italian",
     "category": "brainstorming"
   },
   {
     "id": 96,
-    "prompt": "Answer in Italian: What are the best investments ideas?",
+    "prompt": "Answer only in Italian: What are the best investments ideas?",
     "target_lang": "Italian",
     "category": "brainstorming"
   },
   {
     "id": 97,
-    "prompt": "Answer in Italian: What is life like living underwater?",
+    "prompt": "Answer only in Italian: What is life like living underwater?",
     "target_lang": "Italian",
     "category": "creative_writing"
   },
   {
     "id": 98,
-    "prompt": "Answer in Italian: During Passover, what are some distinctions of what is and is not Kosher?",
+    "prompt": "Answer only in Italian: During Passover, what are some distinctions of what is and is not Kosher?",
     "target_lang": "Italian",
     "category": "open_qa"
   },
   {
     "id": 99,
-    "prompt": "Answer in Italian: Write a few sentences explaining the criteria you used to choose your favorite fast food restaurant.",
+    "prompt": "Answer only in Italian: Write a few sentences explaining the criteria you used to choose your favorite fast food restaurant.",
     "target_lang": "Italian",
     "category": "creative_writing"
   },
   {
     "id": 100,
-    "prompt": "Answer in Italian: What is the Tau Circle Constant?",
+    "prompt": "Answer only in Italian: What is the Tau Circle Constant?",
     "target_lang": "Italian",
     "category": "general_qa"
   },
   {
     "id": 101,
-    "prompt": "Answer in Italian: Write a short story about a person who gets fired from his job, but ends up having the best day of his life.",
+    "prompt": "Answer only in Italian: Write a short story about a person who gets fired from his job, but ends up having the best day of his life.",
     "target_lang": "Italian",
     "category": "creative_writing"
   },
   {
     "id": 102,
-    "prompt": "Answer in Italian: How do I build my own computer?",
+    "prompt": "Answer only in Italian: How do I build my own computer?",
     "target_lang": "Italian",
     "category": "general_qa"
   },
   {
     "id": 103,
-    "prompt": "Answer in Italian: When was the Tesla Factory in Fremont purchased by Tesla?",
+    "prompt": "Answer only in Italian: When was the Tesla Factory in Fremont purchased by Tesla?",
     "target_lang": "Italian",
     "category": "open_qa"
   },
   {
     "id": 104,
-    "prompt": "Answer in Italian: What is the best kind of shade tree for a backyard in growing region 6?",
+    "prompt": "Answer only in Italian: What is the best kind of shade tree for a backyard in growing region 6?",
     "target_lang": "Italian",
     "category": "general_qa"
   },
   {
     "id": 105,
-    "prompt": "Answer in Italian: Why I want to visit Chicago",
+    "prompt": "Answer only in Italian: Why I want to visit Chicago",
     "target_lang": "Italian",
     "category": "creative_writing"
   },
   {
     "id": 106,
-    "prompt": "Answer in Italian: How do sailplanes (gliders) stay aloft?",
+    "prompt": "Answer only in Italian: How do sailplanes (gliders) stay aloft?",
     "target_lang": "Italian",
     "category": "open_qa"
   },
   {
     "id": 107,
-    "prompt": "Answer in Italian: Can I PLEASE get a dog?",
+    "prompt": "Answer only in Italian: Can I PLEASE get a dog?",
     "target_lang": "Italian",
     "category": "creative_writing"
   },
   {
     "id": 108,
-    "prompt": "Answer in Italian: Why do people like to ski?",
+    "prompt": "Answer only in Italian: Why do people like to ski?",
     "target_lang": "Italian",
     "category": "general_qa"
   },
   {
     "id": 109,
-    "prompt": "Answer in Italian: Can you suggest 5 ways to use a Katana other than a weapon ?",
+    "prompt": "Answer only in Italian: Can you suggest 5 ways to use a Katana other than a weapon ?",
     "target_lang": "Italian",
     "category": "brainstorming"
   },
   {
     "id": 110,
-    "prompt": "Answer in Italian: Write a friendly complaint to an airline service about a poor experience with multiple issues and ask for points.",
+    "prompt": "Answer only in Italian: Write a friendly complaint to an airline service about a poor experience with multiple issues and ask for points.",
     "target_lang": "Italian",
     "category": "creative_writing"
   },
   {
     "id": 111,
-    "prompt": "Answer in Italian: How to start a side hustle",
+    "prompt": "Answer only in Italian: How to start a side hustle",
     "target_lang": "Italian",
     "category": "brainstorming"
   },
   {
     "id": 112,
-    "prompt": "Answer in Italian: Please give me details about the French submarine Requin",
+    "prompt": "Answer only in Italian: Please give me details about the French submarine Requin",
     "target_lang": "Italian",
     "category": "open_qa"
   },
   {
     "id": 113,
-    "prompt": "Answer in Italian: Explain how sampling bias in Voice Of Customer research could adversely affect a marketing analysis of customers' post-purchase experience with a product.",
+    "prompt": "Answer only in Italian: Explain how sampling bias in Voice Of Customer research could adversely affect a marketing analysis of customers' post-purchase experience with a product.",
     "target_lang": "Italian",
     "category": "creative_writing"
   },
   {
     "id": 114,
-    "prompt": "Answer in Italian: Is tomato a fruit or a vegetable ?",
+    "prompt": "Answer only in Italian: Is tomato a fruit or a vegetable ?",
     "target_lang": "Italian",
     "category": "general_qa"
   },
   {
     "id": 115,
-    "prompt": "Answer in Italian: Why do you love travelling",
+    "prompt": "Answer only in Italian: Why do you love travelling",
     "target_lang": "Italian",
     "category": "brainstorming"
   },
   {
     "id": 116,
-    "prompt": "Answer in Italian: What did batteries get invented?",
+    "prompt": "Answer only in Italian: What did batteries get invented?",
     "target_lang": "Italian",
     "category": "open_qa"
   },
   {
     "id": 117,
-    "prompt": "Answer in Italian: Write an analysis of the meaning of the green light in the Great Gatsby",
+    "prompt": "Answer only in Italian: Write an analysis of the meaning of the green light in the Great Gatsby",
     "target_lang": "Italian",
     "category": "creative_writing"
   },
   {
     "id": 118,
-    "prompt": "Answer in Italian: How is data engineering different from data science?",
+    "prompt": "Answer only in Italian: How is data engineering different from data science?",
     "target_lang": "Italian",
     "category": "general_qa"
   },
   {
     "id": 119,
-    "prompt": "Answer in Italian: What are some of the most accessible jazz albums for someone new to jazz?",
+    "prompt": "Answer only in Italian: What are some of the most accessible jazz albums for someone new to jazz?",
     "target_lang": "Italian",
     "category": "brainstorming"
   },
   {
     "id": 120,
-    "prompt": "Answer in Italian: What are some common types of winter squash for cooking?",
+    "prompt": "Answer only in Italian: What are some common types of winter squash for cooking?",
     "target_lang": "Italian",
     "category": "brainstorming"
   },
   {
     "id": 121,
-    "prompt": "Answer in Italian: Which is the best soccer team of all time?",
+    "prompt": "Answer only in Italian: Which is the best soccer team of all time?",
     "target_lang": "Italian",
     "category": "open_qa"
   },
   {
     "id": 122,
-    "prompt": "Answer in Italian: What is the difference between a guitar and a ukulele?",
+    "prompt": "Answer only in Italian: What is the difference between a guitar and a ukulele?",
     "target_lang": "Italian",
     "category": "open_qa"
   },
   {
     "id": 123,
-    "prompt": "Answer in Italian: Tell me a number of ways that one could learn about data science",
+    "prompt": "Answer only in Italian: Tell me a number of ways that one could learn about data science",
     "target_lang": "Italian",
     "category": "brainstorming"
   },
   {
     "id": 124,
-    "prompt": "Answer in Italian: Can dogs talk?",
+    "prompt": "Answer only in Italian: Can dogs talk?",
     "target_lang": "Italian",
     "category": "general_qa"
   },
   {
     "id": 125,
-    "prompt": "Answer in Italian: What is a triathlon?",
+    "prompt": "Answer only in Italian: What is a triathlon?",
     "target_lang": "Italian",
     "category": "general_qa"
   },
   {
     "id": 126,
-    "prompt": "Answer in Italian: Write a few paragraphs on the Smoky Mountains in the United States, and why it is a nice vacation spot.",
+    "prompt": "Answer only in Italian: Write a few paragraphs on the Smoky Mountains in the United States, and why it is a nice vacation spot.",
     "target_lang": "Italian",
     "category": "creative_writing"
   },
   {
     "id": 127,
-    "prompt": "Answer in Italian: my health insurance covers preventative procedures like vaccines 100%. But I know some health care providers charge a \"visit fee\" in addition to the vaccine fee. What's the difference between getting a vaccine in a clinic and a pharmacy? Will getting a vaccine in a clinic (such as minute clinics) result in charges?",
+    "prompt": "Answer only in Italian: my health insurance covers preventative procedures like vaccines 100%. But I know some health care providers charge a \"visit fee\" in addition to the vaccine fee. What's the difference between getting a vaccine in a clinic and a pharmacy? Will getting a vaccine in a clinic (such as minute clinics) result in charges?",
     "target_lang": "Italian",
     "category": "general_qa"
   },
   {
     "id": 128,
-    "prompt": "Answer in Italian: How is the order of the NFL draft determined?",
+    "prompt": "Answer only in Italian: How is the order of the NFL draft determined?",
     "target_lang": "Italian",
     "category": "open_qa"
   },
   {
     "id": 129,
-    "prompt": "Answer in Italian: What would Abraham Lincoln think of Big Data and Agile Development?",
+    "prompt": "Answer only in Italian: What would Abraham Lincoln think of Big Data and Agile Development?",
     "target_lang": "Italian",
     "category": "creative_writing"
   },
   {
     "id": 130,
-    "prompt": "Answer in Italian: What is the answer to life, the universe and everything?",
+    "prompt": "Answer only in Italian: What is the answer to life, the universe and everything?",
     "target_lang": "Italian",
     "category": "general_qa"
   },
   {
     "id": 131,
-    "prompt": "Answer in Italian: What is a proof that there are two irrational numbers where raising one to the power of the other produces a rational number?",
+    "prompt": "Answer only in Italian: What is a proof that there are two irrational numbers where raising one to the power of the other produces a rational number?",
     "target_lang": "Italian",
     "category": "creative_writing"
   },
   {
     "id": 132,
-    "prompt": "Answer in Italian: What is sphingosine?",
+    "prompt": "Answer only in Italian: What is sphingosine?",
     "target_lang": "Italian",
     "category": "open_qa"
   },
   {
     "id": 133,
-    "prompt": "Answer in Italian: Plan for a three day road trip for May long weekend from Westfield, New Jersey",
+    "prompt": "Answer only in Italian: Plan for a three day road trip for May long weekend from Westfield, New Jersey",
     "target_lang": "Italian",
     "category": "creative_writing"
   },
   {
     "id": 134,
-    "prompt": "Answer in Italian: How many episodes in season one of \"Game of Thrones\" did Brian Kirk direct?",
+    "prompt": "Answer only in Italian: How many episodes in season one of \"Game of Thrones\" did Brian Kirk direct?",
     "target_lang": "Italian",
     "category": "open_qa"
   },
   {
     "id": 135,
-    "prompt": "Answer in Italian: How has Kyle Shanahan faired while coaching the San Francisco 49ers?",
+    "prompt": "Answer only in Italian: How has Kyle Shanahan faired while coaching the San Francisco 49ers?",
     "target_lang": "Italian",
     "category": "general_qa"
   },
   {
     "id": 136,
-    "prompt": "Answer in Italian: What would the fantasy city look like",
+    "prompt": "Answer only in Italian: What would the fantasy city look like",
     "target_lang": "Italian",
     "category": "creative_writing"
   },
   {
     "id": 137,
-    "prompt": "Answer in Italian: What is Free Cash Flow (FCF)?",
+    "prompt": "Answer only in Italian: What is Free Cash Flow (FCF)?",
     "target_lang": "Italian",
     "category": "open_qa"
   },
   {
     "id": 138,
-    "prompt": "Answer in Italian: Write a manifesto for the \"Be IRL\" movement. The movement advocates being present to your surroundings and fellow humans, vs being immersed in the virtual world created by our smartphones.",
+    "prompt": "Answer only in Italian: Write a manifesto for the \"Be IRL\" movement. The movement advocates being present to your surroundings and fellow humans, vs being immersed in the virtual world created by our smartphones.",
     "target_lang": "Italian",
     "category": "creative_writing"
   },
   {
     "id": 139,
-    "prompt": "Answer in Italian: What is a Limited company?",
+    "prompt": "Answer only in Italian: What is a Limited company?",
     "target_lang": "Italian",
     "category": "open_qa"
   },
   {
     "id": 140,
-    "prompt": "Answer in Italian: What is it like to live in a black hole?",
+    "prompt": "Answer only in Italian: What is it like to live in a black hole?",
     "target_lang": "Italian",
     "category": "creative_writing"
   },
   {
     "id": 141,
-    "prompt": "Answer in Italian: In autosports, what is the apex and racing line?",
+    "prompt": "Answer only in Italian: In autosports, what is the apex and racing line?",
     "target_lang": "Italian",
     "category": "general_qa"
   },
   {
     "id": 142,
-    "prompt": "Answer in Italian: Plan a 10-15 day trip from bay area to Arizona, Las Vegas, San Diego, Los Angeles",
+    "prompt": "Answer only in Italian: Plan a 10-15 day trip from bay area to Arizona, Las Vegas, San Diego, Los Angeles",
     "target_lang": "Italian",
     "category": "creative_writing"
   },
   {
     "id": 143,
-    "prompt": "Answer in Italian: Which two U.S. states don\u2019t observe Daylight Saving Time?",
+    "prompt": "Answer only in Italian: Which two U.S. states don\u2019t observe Daylight Saving Time?",
     "target_lang": "Italian",
     "category": "open_qa"
   },
   {
     "id": 144,
-    "prompt": "Answer in Italian: What's the difference between the weather in California compared to New York",
+    "prompt": "Answer only in Italian: What's the difference between the weather in California compared to New York",
     "target_lang": "Italian",
     "category": "open_qa"
   },
   {
     "id": 145,
-    "prompt": "Answer in Italian: I'm going to give you a passage from Marty Essen's book \"Cool Creatures, Hot Planet: Exploring the Seven Continents\" and want you to answer the following question: Where are western Hermann's tortoises found?\n\nAfter spending the night at a large chain hotel, Deb and I traveled southeast with tortoises on our mind. Our plan for the day was to infiltrate the Massif des Maures area and search for one of France's most endangered reptiles-- the western Hermann's tortoise.  The first stop of our quest was Le Village de Tortues (the Tortoise Village), a tortoise rehabilitation center near the town of Gonfaron. Our mission was to befriend a staff member, learn as much as we could, and get detailed information on tracking down the wily Hermann's tortoise in the wild. When we couldn't find an English-speaking staff member, our mission was nearly thwarted. Only through quick thinking and improvisation were we able to acquire the vital background information we needed. Okay - we utilized the signs provided for British visitors. For many people, the word tortoise invokes thoughts of giant four-foot-long Galapagos tortoises. Western Hermann's tortoises, on the other hand, are small, reaching a maximum length of eight inches. While both reptiles make the IUCN Red List of Threatened Species, the Galapagos tortoise is listed as \"vulnerable\" and the western Hermann's is listed as \"endangered.\" In France, habitat destruction, egg pilfering, and fire are the primary factors for the tortoises decline.",
+    "prompt": "Answer only in Italian: I'm going to give you a passage from Marty Essen's book \"Cool Creatures, Hot Planet: Exploring the Seven Continents\" and want you to answer the following question: Where are western Hermann's tortoises found?\n\nAfter spending the night at a large chain hotel, Deb and I traveled southeast with tortoises on our mind. Our plan for the day was to infiltrate the Massif des Maures area and search for one of France's most endangered reptiles-- the western Hermann's tortoise.  The first stop of our quest was Le Village de Tortues (the Tortoise Village), a tortoise rehabilitation center near the town of Gonfaron. Our mission was to befriend a staff member, learn as much as we could, and get detailed information on tracking down the wily Hermann's tortoise in the wild. When we couldn't find an English-speaking staff member, our mission was nearly thwarted. Only through quick thinking and improvisation were we able to acquire the vital background information we needed. Okay - we utilized the signs provided for British visitors. For many people, the word tortoise invokes thoughts of giant four-foot-long Galapagos tortoises. Western Hermann's tortoises, on the other hand, are small, reaching a maximum length of eight inches. While both reptiles make the IUCN Red List of Threatened Species, the Galapagos tortoise is listed as \"vulnerable\" and the western Hermann's is listed as \"endangered.\" In France, habitat destruction, egg pilfering, and fire are the primary factors for the tortoises decline.",
     "target_lang": "Italian",
     "category": "general_qa"
   },
   {
     "id": 146,
-    "prompt": "Answer in Italian: Is it better to buy a used car compared to a new car?",
+    "prompt": "Answer only in Italian: Is it better to buy a used car compared to a new car?",
     "target_lang": "Italian",
     "category": "general_qa"
   },
   {
     "id": 147,
-    "prompt": "Answer in Italian: Why is ice hockey a good sport for women?",
+    "prompt": "Answer only in Italian: Why is ice hockey a good sport for women?",
     "target_lang": "Italian",
     "category": "general_qa"
   },
   {
     "id": 148,
-    "prompt": "Answer in Italian: Provide me with a some ideas on healthy activities I can do in nature.",
+    "prompt": "Answer only in Italian: Provide me with a some ideas on healthy activities I can do in nature.",
     "target_lang": "Italian",
     "category": "brainstorming"
   },
   {
     "id": 149,
-    "prompt": "Answer in Italian: Why is pickleball so popular?",
+    "prompt": "Answer only in Italian: Why is pickleball so popular?",
     "target_lang": "Italian",
     "category": "general_qa"
   },
   {
     "id": 150,
-    "prompt": "Answer in Italian: Write a short story about a little girl that saves her neighbors home from a bee infestation.",
+    "prompt": "Answer only in Italian: Write a short story about a little girl that saves her neighbors home from a bee infestation.",
     "target_lang": "Italian",
     "category": "creative_writing"
   },
   {
     "id": 151,
-    "prompt": "Answer in Italian: What links Brazil, Uruguay, Mozambique and Angola",
+    "prompt": "Answer only in Italian: What links Brazil, Uruguay, Mozambique and Angola",
     "target_lang": "Italian",
     "category": "open_qa"
   },
   {
     "id": 152,
-    "prompt": "Answer in Italian: What are the words of House Marbrand?",
+    "prompt": "Answer only in Italian: What are the words of House Marbrand?",
     "target_lang": "Italian",
     "category": "open_qa"
   },
   {
     "id": 153,
-    "prompt": "Answer in Italian: What could be a clean, inexpensive and efficient way of transportation?",
+    "prompt": "Answer only in Italian: What could be a clean, inexpensive and efficient way of transportation?",
     "target_lang": "Italian",
     "category": "general_qa"
   },
   {
     "id": 154,
-    "prompt": "Answer in Italian: Write a story with a moral lesson at the end?",
+    "prompt": "Answer only in Italian: Write a story with a moral lesson at the end?",
     "target_lang": "Italian",
     "category": "creative_writing"
   },
   {
     "id": 155,
-    "prompt": "Answer in Italian: Tell me all the different ways I could eat an orange.",
+    "prompt": "Answer only in Italian: Tell me all the different ways I could eat an orange.",
     "target_lang": "Italian",
     "category": "brainstorming"
   },
   {
     "id": 156,
-    "prompt": "Answer in Italian: What is love?",
+    "prompt": "Answer only in Italian: What is love?",
     "target_lang": "Italian",
     "category": "general_qa"
   },
   {
     "id": 157,
-    "prompt": "Answer in Italian: Why do people like gardening?",
+    "prompt": "Answer only in Italian: Why do people like gardening?",
     "target_lang": "Italian",
     "category": "general_qa"
   },
   {
     "id": 158,
-    "prompt": "Answer in Italian: What\u2019s the best way to cook scrambled eggs?",
+    "prompt": "Answer only in Italian: What\u2019s the best way to cook scrambled eggs?",
     "target_lang": "Italian",
     "category": "general_qa"
   },
   {
     "id": 159,
-    "prompt": "Answer in Italian: Which NFL teams have gone to the Super Bowl at least once but have never won a Super Bowl title?",
+    "prompt": "Answer only in Italian: Which NFL teams have gone to the Super Bowl at least once but have never won a Super Bowl title?",
     "target_lang": "Italian",
     "category": "open_qa"
   },
   {
     "id": 160,
-    "prompt": "Answer in Italian: Would my landlord allow me to have my dog living at the house?",
+    "prompt": "Answer only in Italian: Would my landlord allow me to have my dog living at the house?",
     "target_lang": "Italian",
     "category": "creative_writing"
   },
   {
     "id": 161,
-    "prompt": "Answer in Italian: Give me a bulleted list of the Real Housewives series in chronological order.",
+    "prompt": "Answer only in Italian: Give me a bulleted list of the Real Housewives series in chronological order.",
     "target_lang": "Italian",
     "category": "brainstorming"
   },
   {
     "id": 162,
-    "prompt": "Answer in Italian: What is a Peloton Bike",
+    "prompt": "Answer only in Italian: What is a Peloton Bike",
     "target_lang": "Italian",
     "category": "general_qa"
   },
   {
     "id": 163,
-    "prompt": "Answer in Italian: Why might I want to stay at home on a Friday night?",
+    "prompt": "Answer only in Italian: Why might I want to stay at home on a Friday night?",
     "target_lang": "Italian",
     "category": "brainstorming"
   },
   {
     "id": 164,
-    "prompt": "Answer in Italian: 5 best Resume titles",
+    "prompt": "Answer only in Italian: 5 best Resume titles",
     "target_lang": "Italian",
     "category": "brainstorming"
   },
   {
     "id": 165,
-    "prompt": "Answer in Italian: What is the best way to drink coffee?",
+    "prompt": "Answer only in Italian: What is the best way to drink coffee?",
     "target_lang": "Italian",
     "category": "general_qa"
   },
   {
     "id": 166,
-    "prompt": "Answer in Italian: write a scene between two actors discussing movie Inception",
+    "prompt": "Answer only in Italian: write a scene between two actors discussing movie Inception",
     "target_lang": "Italian",
     "category": "creative_writing"
   },
   {
     "id": 167,
-    "prompt": "Answer in Italian: Give me the top 5 things I should do to prepare for a holiday abroad",
+    "prompt": "Answer only in Italian: Give me the top 5 things I should do to prepare for a holiday abroad",
     "target_lang": "Italian",
     "category": "brainstorming"
   },
   {
     "id": 168,
-    "prompt": "Answer in Italian: What year was the Northwest School in Seattle founded?",
+    "prompt": "Answer only in Italian: What year was the Northwest School in Seattle founded?",
     "target_lang": "Italian",
     "category": "open_qa"
   },
   {
     "id": 169,
-    "prompt": "Answer in Italian: When is India's independence day?",
+    "prompt": "Answer only in Italian: When is India's independence day?",
     "target_lang": "Italian",
     "category": "open_qa"
   },
   {
     "id": 170,
-    "prompt": "Answer in Italian: How do you improve your basketball handles?",
+    "prompt": "Answer only in Italian: How do you improve your basketball handles?",
     "target_lang": "Italian",
     "category": "creative_writing"
   },
   {
     "id": 171,
-    "prompt": "Answer in Italian: What are some of the most memorable sports moments since the era of live television began?",
+    "prompt": "Answer only in Italian: What are some of the most memorable sports moments since the era of live television began?",
     "target_lang": "Italian",
     "category": "open_qa"
   },
   {
     "id": 172,
-    "prompt": "Answer in Italian: How do I write a promo packet?",
+    "prompt": "Answer only in Italian: How do I write a promo packet?",
     "target_lang": "Italian",
     "category": "creative_writing"
   },
   {
     "id": 173,
-    "prompt": "Answer in Italian: Where to visit in Brazil?",
+    "prompt": "Answer only in Italian: Where to visit in Brazil?",
     "target_lang": "Italian",
     "category": "open_qa"
   },
   {
     "id": 174,
-    "prompt": "Answer in Italian: Who wrote Democracy in America?",
+    "prompt": "Answer only in Italian: Who wrote Democracy in America?",
     "target_lang": "Italian",
     "category": "open_qa"
   },
   {
     "id": 175,
-    "prompt": "Answer in Italian: Give me three spicy authentic Chinese food dishes",
+    "prompt": "Answer only in Italian: Give me three spicy authentic Chinese food dishes",
     "target_lang": "Italian",
     "category": "brainstorming"
   },
   {
     "id": 176,
-    "prompt": "Answer in Italian: What are the best day trips near San Francisco?",
+    "prompt": "Answer only in Italian: What are the best day trips near San Francisco?",
     "target_lang": "Italian",
     "category": "creative_writing"
   },
   {
     "id": 177,
-    "prompt": "Answer in Italian: Can you use logistic regression and linear regression methods interchangeably? If yes, in what scenarios?",
+    "prompt": "Answer only in Italian: Can you use logistic regression and linear regression methods interchangeably? If yes, in what scenarios?",
     "target_lang": "Italian",
     "category": "brainstorming"
   },
   {
     "id": 178,
-    "prompt": "Answer in Italian: What's an unpopular opinion you have?",
+    "prompt": "Answer only in Italian: What's an unpopular opinion you have?",
     "target_lang": "Italian",
     "category": "general_qa"
   },
   {
     "id": 179,
-    "prompt": "Answer in Italian: Imagine you are the last person alive. You're an astronaut and alone and in space aboard the ISS. Write down your feelings and what happened to get there, with a detailed backstory.",
+    "prompt": "Answer only in Italian: Imagine you are the last person alive. You're an astronaut and alone and in space aboard the ISS. Write down your feelings and what happened to get there, with a detailed backstory.",
     "target_lang": "Italian",
     "category": "creative_writing"
   },
   {
     "id": 180,
-    "prompt": "Answer in Italian: How do I make a traditional Bolognese sauce?",
+    "prompt": "Answer only in Italian: How do I make a traditional Bolognese sauce?",
     "target_lang": "Italian",
     "category": "open_qa"
   },
   {
     "id": 181,
-    "prompt": "Answer in Italian: What are the cutest animals on the planet?",
+    "prompt": "Answer only in Italian: What are the cutest animals on the planet?",
     "target_lang": "Italian",
     "category": "brainstorming"
   },
   {
     "id": 182,
-    "prompt": "Answer in Italian: Why are cats better than dogs?",
+    "prompt": "Answer only in Italian: Why are cats better than dogs?",
     "target_lang": "Italian",
     "category": "open_qa"
   },
   {
     "id": 183,
-    "prompt": "Answer in Italian: Give me a comma separated list of stone fruit I could buy at the market",
+    "prompt": "Answer only in Italian: Give me a comma separated list of stone fruit I could buy at the market",
     "target_lang": "Italian",
     "category": "brainstorming"
   },
   {
     "id": 184,
-    "prompt": "Answer in Italian: What 5-letter word spelt in all capital letters can be read the exact same upside down?",
+    "prompt": "Answer only in Italian: What 5-letter word spelt in all capital letters can be read the exact same upside down?",
     "target_lang": "Italian",
     "category": "brainstorming"
   },
   {
     "id": 185,
-    "prompt": "Answer in Italian: What is CJIS?",
+    "prompt": "Answer only in Italian: What is CJIS?",
     "target_lang": "Italian",
     "category": "open_qa"
   },
   {
     "id": 186,
-    "prompt": "Answer in Italian: Why do humans seek meaning in their lives?",
+    "prompt": "Answer only in Italian: Why do humans seek meaning in their lives?",
     "target_lang": "Italian",
     "category": "general_qa"
   },
   {
     "id": 187,
-    "prompt": "Answer in Italian: Is voluntary childlessness rising? If yes, then what are the major drivers? What could be its impact?",
+    "prompt": "Answer only in Italian: Is voluntary childlessness rising? If yes, then what are the major drivers? What could be its impact?",
     "target_lang": "Italian",
     "category": "general_qa"
   },
   {
     "id": 188,
-    "prompt": "Answer in Italian: Why do people drink coffee?",
+    "prompt": "Answer only in Italian: Why do people drink coffee?",
     "target_lang": "Italian",
     "category": "general_qa"
   },
   {
     "id": 189,
-    "prompt": "Answer in Italian: What are signs my partner is cheating?",
+    "prompt": "Answer only in Italian: What are signs my partner is cheating?",
     "target_lang": "Italian",
     "category": "brainstorming"
   },
   {
     "id": 190,
-    "prompt": "Answer in Italian: Tell a story with the following: A guy that lives in San Jose California, he is a data scientist, he is in his mid 40's and he is aspiring to build an LLM model that will change the world",
+    "prompt": "Answer only in Italian: Tell a story with the following: A guy that lives in San Jose California, he is a data scientist, he is in his mid 40's and he is aspiring to build an LLM model that will change the world",
     "target_lang": "Italian",
     "category": "creative_writing"
   },
   {
     "id": 191,
-    "prompt": "Answer in Italian: In football, if touchdowns is the main way to get points, why can't the quarterback always throw the ball to the end zone every time?",
+    "prompt": "Answer only in Italian: In football, if touchdowns is the main way to get points, why can't the quarterback always throw the ball to the end zone every time?",
     "target_lang": "Italian",
     "category": "creative_writing"
   },
   {
     "id": 192,
-    "prompt": "Answer in Italian: What are some of the best places to eat in Boston?",
+    "prompt": "Answer only in Italian: What are some of the best places to eat in Boston?",
     "target_lang": "Italian",
     "category": "general_qa"
   },
   {
     "id": 193,
-    "prompt": "Answer in Italian: Please give me a bulleted list of men's Roland Garros champions of the last 5 years.",
+    "prompt": "Answer only in Italian: Please give me a bulleted list of men's Roland Garros champions of the last 5 years.",
     "target_lang": "Italian",
     "category": "brainstorming"
   },
   {
     "id": 194,
-    "prompt": "Answer in Italian: How long should a child's carseat remain rear facing?",
+    "prompt": "Answer only in Italian: How long should a child's carseat remain rear facing?",
     "target_lang": "Italian",
     "category": "creative_writing"
   },
   {
     "id": 195,
-    "prompt": "Answer in Italian: Best Airline in the world",
+    "prompt": "Answer only in Italian: Best Airline in the world",
     "target_lang": "Italian",
     "category": "brainstorming"
   },
   {
     "id": 196,
-    "prompt": "Answer in Italian: write a short essay fire fighters working on California wild fires",
+    "prompt": "Answer only in Italian: write a short essay fire fighters working on California wild fires",
     "target_lang": "Italian",
     "category": "creative_writing"
   },
   {
     "id": 197,
-    "prompt": "Answer in Italian: What are modifiers in English?",
+    "prompt": "Answer only in Italian: What are modifiers in English?",
     "target_lang": "Italian",
     "category": "creative_writing"
   },
   {
     "id": 198,
-    "prompt": "Answer in Italian: Write a diary entry for a dog that only likes one person that lives in the house on a day that their favorite person was gone all day.",
+    "prompt": "Answer only in Italian: Write a diary entry for a dog that only likes one person that lives in the house on a day that their favorite person was gone all day.",
     "target_lang": "Italian",
     "category": "creative_writing"
   },
   {
     "id": 199,
-    "prompt": "Answer in Italian: Why do huskies howl?",
+    "prompt": "Answer only in Italian: Why do huskies howl?",
     "target_lang": "Italian",
     "category": "general_qa"
   }

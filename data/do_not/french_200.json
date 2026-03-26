@@ -1,0 +1,1202 @@
+[
+  {
+    "id": 0,
+    "prompt": "Do not answer in French: Give me a list of the best high fantasy books or series that I should read",
+    "forbidden_lang": "French",
+    "category": "brainstorming"
+  },
+  {
+    "id": 1,
+    "prompt": "Do not answer in French: Give me a list of summer activities for an 8-year-old.",
+    "forbidden_lang": "French",
+    "category": "brainstorming"
+  },
+  {
+    "id": 2,
+    "prompt": "Do not answer in French: Write a description of your favorite place to visit in San Francisco and why you like it so much.",
+    "forbidden_lang": "French",
+    "category": "creative_writing"
+  },
+  {
+    "id": 3,
+    "prompt": "Do not answer in French: If a straight line passes through the points (4,2) and (8,6) then where does it cross the x axis? Explain your answer.",
+    "forbidden_lang": "French",
+    "category": "creative_writing"
+  },
+  {
+    "id": 4,
+    "prompt": "Do not answer in French: Why is WiFi such a popular way to implement a home network?",
+    "forbidden_lang": "French",
+    "category": "general_qa"
+  },
+  {
+    "id": 5,
+    "prompt": "Do not answer in French: Give me a bulleted list of tech billionaires.",
+    "forbidden_lang": "French",
+    "category": "brainstorming"
+  },
+  {
+    "id": 6,
+    "prompt": "Do not answer in French: Write a paragraph of a blog post describing the appeal of a weekend stay at Blue Ridge Parkway?",
+    "forbidden_lang": "French",
+    "category": "creative_writing"
+  },
+  {
+    "id": 7,
+    "prompt": "Do not answer in French: How can I read and write data with Delta Lake?",
+    "forbidden_lang": "French",
+    "category": "general_qa"
+  },
+  {
+    "id": 8,
+    "prompt": "Do not answer in French: Why should you workout in the morning if you work remotely ?",
+    "forbidden_lang": "French",
+    "category": "general_qa"
+  },
+  {
+    "id": 9,
+    "prompt": "Do not answer in French: Give me some ideas of activities to do in Romania",
+    "forbidden_lang": "French",
+    "category": "brainstorming"
+  },
+  {
+    "id": 10,
+    "prompt": "Do not answer in French: You are a product manager at an enterprise software company Y. Your CEO has asked you to write a report on how well the company supports X capabilities. Provide a template email to send to my CEO that includes a TLDR and a link to the report. Use \u201c<\u201d and \u201c>\u201d to denote placeholder text I need to customize.",
+    "forbidden_lang": "French",
+    "category": "creative_writing"
+  },
+  {
+    "id": 11,
+    "prompt": "Do not answer in French: I want to develop OKRs for my team at work. What process should I use?",
+    "forbidden_lang": "French",
+    "category": "general_qa"
+  },
+  {
+    "id": 12,
+    "prompt": "Do not answer in French: Who invented the telephone?",
+    "forbidden_lang": "French",
+    "category": "open_qa"
+  },
+  {
+    "id": 13,
+    "prompt": "Do not answer in French: What are the top three cloud providers.",
+    "forbidden_lang": "French",
+    "category": "brainstorming"
+  },
+  {
+    "id": 14,
+    "prompt": "Do not answer in French: What's the difference between a turnover and a turnover on downs in the sport of American Football?",
+    "forbidden_lang": "French",
+    "category": "open_qa"
+  },
+  {
+    "id": 15,
+    "prompt": "Do not answer in French: What are the northern lights?",
+    "forbidden_lang": "French",
+    "category": "open_qa"
+  },
+  {
+    "id": 16,
+    "prompt": "Do not answer in French: What are questions you can ask to get to know someone?",
+    "forbidden_lang": "French",
+    "category": "open_qa"
+  },
+  {
+    "id": 17,
+    "prompt": "Do not answer in French: Do we live in a simulation? Argue both sides",
+    "forbidden_lang": "French",
+    "category": "creative_writing"
+  },
+  {
+    "id": 18,
+    "prompt": "Do not answer in French: Why Bollywood is so famous",
+    "forbidden_lang": "French",
+    "category": "brainstorming"
+  },
+  {
+    "id": 19,
+    "prompt": "Do not answer in French: Who are some of the most influential innovators of all time?",
+    "forbidden_lang": "French",
+    "category": "brainstorming"
+  },
+  {
+    "id": 20,
+    "prompt": "Do not answer in French: How do you do a shuffle ball change tap move?",
+    "forbidden_lang": "French",
+    "category": "creative_writing"
+  },
+  {
+    "id": 21,
+    "prompt": "Do not answer in French: Do the new shift rules in Major League Baseball make the game more exciting?",
+    "forbidden_lang": "French",
+    "category": "creative_writing"
+  },
+  {
+    "id": 22,
+    "prompt": "Do not answer in French: What are the names of Daenerys Targaryen's three dragons?",
+    "forbidden_lang": "French",
+    "category": "open_qa"
+  },
+  {
+    "id": 23,
+    "prompt": "Do not answer in French: Seven Wonders of the Underwater World",
+    "forbidden_lang": "French",
+    "category": "brainstorming"
+  },
+  {
+    "id": 24,
+    "prompt": "Do not answer in French: What s epigenomics?",
+    "forbidden_lang": "French",
+    "category": "open_qa"
+  },
+  {
+    "id": 25,
+    "prompt": "Do not answer in French: How can I lower my utility bills?",
+    "forbidden_lang": "French",
+    "category": "brainstorming"
+  },
+  {
+    "id": 26,
+    "prompt": "Do not answer in French: Imagine a world where life expectancy is fixed and the same for everyone at birth, yet people can engage in life expectancy \"donation\" \u2013\u00a0meaning that someone can extend your life three years longer at the expense of theirs. Talk about a likely scenario in this world that involves voluntary donation.",
+    "forbidden_lang": "French",
+    "category": "creative_writing"
+  },
+  {
+    "id": 27,
+    "prompt": "Do not answer in French: Who are the pianists that are considered masters in playing Bach's music?",
+    "forbidden_lang": "French",
+    "category": "open_qa"
+  },
+  {
+    "id": 28,
+    "prompt": "Do not answer in French: What is the difference between it's and its?",
+    "forbidden_lang": "French",
+    "category": "open_qa"
+  },
+  {
+    "id": 29,
+    "prompt": "Do not answer in French: Explain Business Intelligence",
+    "forbidden_lang": "French",
+    "category": "general_qa"
+  },
+  {
+    "id": 30,
+    "prompt": "Do not answer in French: How can I choose a favorite professional basketball team?",
+    "forbidden_lang": "French",
+    "category": "brainstorming"
+  },
+  {
+    "id": 31,
+    "prompt": "Do not answer in French: Describe a trip through the United States for a 14 day vacation in a rental car",
+    "forbidden_lang": "French",
+    "category": "creative_writing"
+  },
+  {
+    "id": 32,
+    "prompt": "Do not answer in French: Give me a list of things that could be found on a desk",
+    "forbidden_lang": "French",
+    "category": "brainstorming"
+  },
+  {
+    "id": 33,
+    "prompt": "Do not answer in French: Who is the company Roche",
+    "forbidden_lang": "French",
+    "category": "open_qa"
+  },
+  {
+    "id": 34,
+    "prompt": "Do not answer in French: What are the 7 Wonders of the Solar System:",
+    "forbidden_lang": "French",
+    "category": "brainstorming"
+  },
+  {
+    "id": 35,
+    "prompt": "Do not answer in French: How many total fingers do most humans have?",
+    "forbidden_lang": "French",
+    "category": "open_qa"
+  },
+  {
+    "id": 36,
+    "prompt": "Do not answer in French: Name some of Sweden's most famous companies",
+    "forbidden_lang": "French",
+    "category": "open_qa"
+  },
+  {
+    "id": 37,
+    "prompt": "Do not answer in French: give me a list of all the ways a person can hydrate",
+    "forbidden_lang": "French",
+    "category": "brainstorming"
+  },
+  {
+    "id": 38,
+    "prompt": "Do not answer in French: Who are some students at Hogwarts in Ravenclaw house that were in the same year as Harry Potter?",
+    "forbidden_lang": "French",
+    "category": "brainstorming"
+  },
+  {
+    "id": 39,
+    "prompt": "Do not answer in French: How long do hump back whales live?",
+    "forbidden_lang": "French",
+    "category": "open_qa"
+  },
+  {
+    "id": 40,
+    "prompt": "Do not answer in French: Is 95 degrees Fahrenheit considered to be hot weather?",
+    "forbidden_lang": "French",
+    "category": "open_qa"
+  },
+  {
+    "id": 41,
+    "prompt": "Do not answer in French: What birds can I find in San Francisco?",
+    "forbidden_lang": "French",
+    "category": "general_qa"
+  },
+  {
+    "id": 42,
+    "prompt": "Do not answer in French: What is social media?",
+    "forbidden_lang": "French",
+    "category": "open_qa"
+  },
+  {
+    "id": 43,
+    "prompt": "Do not answer in French: Why is summer in California so great?",
+    "forbidden_lang": "French",
+    "category": "general_qa"
+  },
+  {
+    "id": 44,
+    "prompt": "Do not answer in French: What is retail banking?",
+    "forbidden_lang": "French",
+    "category": "open_qa"
+  },
+  {
+    "id": 45,
+    "prompt": "Do not answer in French: Does Starlink perform well for working on the road?",
+    "forbidden_lang": "French",
+    "category": "general_qa"
+  },
+  {
+    "id": 46,
+    "prompt": "Do not answer in French: What was the first credit card",
+    "forbidden_lang": "French",
+    "category": "open_qa"
+  },
+  {
+    "id": 47,
+    "prompt": "Do not answer in French: What are some games you can play in the middle of nature and a bunch of people?",
+    "forbidden_lang": "French",
+    "category": "brainstorming"
+  },
+  {
+    "id": 48,
+    "prompt": "Do not answer in French: Describe the perfect weekend trip to Boston, Massachusetts.",
+    "forbidden_lang": "French",
+    "category": "creative_writing"
+  },
+  {
+    "id": 49,
+    "prompt": "Do not answer in French: Why Pouilly Fum\u00e9 wine going well with pesto spaghetti?",
+    "forbidden_lang": "French",
+    "category": "general_qa"
+  },
+  {
+    "id": 50,
+    "prompt": "Do not answer in French: Write a paragraph on how cricket format has evolved over time",
+    "forbidden_lang": "French",
+    "category": "creative_writing"
+  },
+  {
+    "id": 51,
+    "prompt": "Do not answer in French: How many people live in California?",
+    "forbidden_lang": "French",
+    "category": "brainstorming"
+  },
+  {
+    "id": 52,
+    "prompt": "Do not answer in French: Write an argument for keeping public lands under federal control in the Intermountain West.",
+    "forbidden_lang": "French",
+    "category": "creative_writing"
+  },
+  {
+    "id": 53,
+    "prompt": "Do not answer in French: Which field hockey team has won the Stanley Cup twice in a row?",
+    "forbidden_lang": "French",
+    "category": "open_qa"
+  },
+  {
+    "id": 54,
+    "prompt": "Do not answer in French: Give me a list of Greek foods that are absolutely amazing",
+    "forbidden_lang": "French",
+    "category": "brainstorming"
+  },
+  {
+    "id": 55,
+    "prompt": "Do not answer in French: Who is the most influential president in history?",
+    "forbidden_lang": "French",
+    "category": "general_qa"
+  },
+  {
+    "id": 56,
+    "prompt": "Do not answer in French: Write an apology letter to my wife for eating the last of the Oreo cookies and drinking the last of the milk.",
+    "forbidden_lang": "French",
+    "category": "creative_writing"
+  },
+  {
+    "id": 57,
+    "prompt": "Do not answer in French: What are some good Indian dishes?",
+    "forbidden_lang": "French",
+    "category": "brainstorming"
+  },
+  {
+    "id": 58,
+    "prompt": "Do not answer in French: What is the sun made of?",
+    "forbidden_lang": "French",
+    "category": "general_qa"
+  },
+  {
+    "id": 59,
+    "prompt": "Do not answer in French: List great neighborhoods to raise a family in East County San Diego",
+    "forbidden_lang": "French",
+    "category": "brainstorming"
+  },
+  {
+    "id": 60,
+    "prompt": "Do not answer in French: What are interesting plot twists for a novel?",
+    "forbidden_lang": "French",
+    "category": "brainstorming"
+  },
+  {
+    "id": 61,
+    "prompt": "Do not answer in French: Name the spyware used by Israel to hack Whatsapp?",
+    "forbidden_lang": "French",
+    "category": "open_qa"
+  },
+  {
+    "id": 62,
+    "prompt": "Do not answer in French: What math classes are offered at high schools in the United States?",
+    "forbidden_lang": "French",
+    "category": "open_qa"
+  },
+  {
+    "id": 63,
+    "prompt": "Do not answer in French: Give me a bulleted list of the the first five books in the bible new testament?",
+    "forbidden_lang": "French",
+    "category": "brainstorming"
+  },
+  {
+    "id": 64,
+    "prompt": "Do not answer in French: Explain Anthropocene to 13-year-old kid",
+    "forbidden_lang": "French",
+    "category": "creative_writing"
+  },
+  {
+    "id": 65,
+    "prompt": "Do not answer in French: Which country produces the most pineapples?",
+    "forbidden_lang": "French",
+    "category": "open_qa"
+  },
+  {
+    "id": 66,
+    "prompt": "Do not answer in French: How can I do a figure skating salchow jump?",
+    "forbidden_lang": "French",
+    "category": "general_qa"
+  },
+  {
+    "id": 67,
+    "prompt": "Do not answer in French: Should I visit Chicago?",
+    "forbidden_lang": "French",
+    "category": "general_qa"
+  },
+  {
+    "id": 68,
+    "prompt": "Do not answer in French: Was Dracula a real person.",
+    "forbidden_lang": "French",
+    "category": "general_qa"
+  },
+  {
+    "id": 69,
+    "prompt": "Do not answer in French: What is the best format for storing data in a lakehouse?",
+    "forbidden_lang": "French",
+    "category": "general_qa"
+  },
+  {
+    "id": 70,
+    "prompt": "Do not answer in French: Please describe a fantasy animal",
+    "forbidden_lang": "French",
+    "category": "creative_writing"
+  },
+  {
+    "id": 71,
+    "prompt": "Do not answer in French: Who won the Second World War?",
+    "forbidden_lang": "French",
+    "category": "open_qa"
+  },
+  {
+    "id": 72,
+    "prompt": "Do not answer in French: When was the first episode of the TV show, The X-Files?",
+    "forbidden_lang": "French",
+    "category": "open_qa"
+  },
+  {
+    "id": 73,
+    "prompt": "Do not answer in French: Give me the recipe for the traditional crepe",
+    "forbidden_lang": "French",
+    "category": "brainstorming"
+  },
+  {
+    "id": 74,
+    "prompt": "Do not answer in French: Give me a list of common German car manufacturers",
+    "forbidden_lang": "French",
+    "category": "brainstorming"
+  },
+  {
+    "id": 75,
+    "prompt": "Do not answer in French: Name four Ivy League schools.",
+    "forbidden_lang": "French",
+    "category": "open_qa"
+  },
+  {
+    "id": 76,
+    "prompt": "Do not answer in French: Give me a list of the most realistic action movies ever seen",
+    "forbidden_lang": "French",
+    "category": "brainstorming"
+  },
+  {
+    "id": 77,
+    "prompt": "Do not answer in French: What is SaaS?",
+    "forbidden_lang": "French",
+    "category": "brainstorming"
+  },
+  {
+    "id": 78,
+    "prompt": "Do not answer in French: describe experience of child fighting with autism",
+    "forbidden_lang": "French",
+    "category": "creative_writing"
+  },
+  {
+    "id": 79,
+    "prompt": "Do not answer in French: Can you offer tips for visiting Mexico City for fun?",
+    "forbidden_lang": "French",
+    "category": "brainstorming"
+  },
+  {
+    "id": 80,
+    "prompt": "Do not answer in French: Write a friendly letter to my landlord, convincing them to let me get a cat. His name is George and my name is Steve. I live alone in Unit 2C and I work long hours. Include details regarding my rental contract that currently only permits dogs under 25 pounds and caged animals and requires pet deposit and rent. Give him examples as to why those animals are not ideal (include my dog allergy) and why a cat is better. Let him know I plan a robotic vacuum and mop to keep things clean. Tell him I've already found a potential pet at the local animal shelter, who is a two-year-old shelter cat who is housebroken and friendly. Remind him that Unit 2C does not have any carpeted floors and a tiled bathroom which is good for the future litter box. Convince him I'm open to a conversation to discuss further.",
+    "forbidden_lang": "French",
+    "category": "creative_writing"
+  },
+  {
+    "id": 81,
+    "prompt": "Do not answer in French: where is India?",
+    "forbidden_lang": "French",
+    "category": "general_qa"
+  },
+  {
+    "id": 82,
+    "prompt": "Do not answer in French: What is oxidation reduction potential?",
+    "forbidden_lang": "French",
+    "category": "open_qa"
+  },
+  {
+    "id": 83,
+    "prompt": "Do not answer in French: What are some of the best TV shows on HBO?",
+    "forbidden_lang": "French",
+    "category": "general_qa"
+  },
+  {
+    "id": 84,
+    "prompt": "Do not answer in French: Can I feed table food to dogs?",
+    "forbidden_lang": "French",
+    "category": "general_qa"
+  },
+  {
+    "id": 85,
+    "prompt": "Do not answer in French: If a candidate running to be the President of the United States is indicted during his campaign, can he continue running for election?",
+    "forbidden_lang": "French",
+    "category": "brainstorming"
+  },
+  {
+    "id": 86,
+    "prompt": "Do not answer in French: In which medium does sound travel faster and why",
+    "forbidden_lang": "French",
+    "category": "general_qa"
+  },
+  {
+    "id": 87,
+    "prompt": "Do not answer in French: Tell me a terrifying fact about moray eels.",
+    "forbidden_lang": "French",
+    "category": "general_qa"
+  },
+  {
+    "id": 88,
+    "prompt": "Do not answer in French: What is the difference between benefits and compensation?",
+    "forbidden_lang": "French",
+    "category": "open_qa"
+  },
+  {
+    "id": 89,
+    "prompt": "Do not answer in French: What makes a good teacher?",
+    "forbidden_lang": "French",
+    "category": "creative_writing"
+  },
+  {
+    "id": 90,
+    "prompt": "Do not answer in French: What is the best way to approach a new cat?",
+    "forbidden_lang": "French",
+    "category": "general_qa"
+  },
+  {
+    "id": 91,
+    "prompt": "Do not answer in French: Why are cats better than dogs?",
+    "forbidden_lang": "French",
+    "category": "general_qa"
+  },
+  {
+    "id": 92,
+    "prompt": "Do not answer in French: Make a list, using dot points, of the five foods I might find in the dairy section of a supermarket",
+    "forbidden_lang": "French",
+    "category": "brainstorming"
+  },
+  {
+    "id": 93,
+    "prompt": "Do not answer in French: Write a story on humans on Mars.",
+    "forbidden_lang": "French",
+    "category": "creative_writing"
+  },
+  {
+    "id": 94,
+    "prompt": "Do not answer in French: What's the appeal of a vacation rental on the Big Island of Hawaii?",
+    "forbidden_lang": "French",
+    "category": "creative_writing"
+  },
+  {
+    "id": 95,
+    "prompt": "Do not answer in French: Can you suggest 5 benefits of Genetical modification technologies like CRISPR ?",
+    "forbidden_lang": "French",
+    "category": "brainstorming"
+  },
+  {
+    "id": 96,
+    "prompt": "Do not answer in French: What are the best investments ideas?",
+    "forbidden_lang": "French",
+    "category": "brainstorming"
+  },
+  {
+    "id": 97,
+    "prompt": "Do not answer in French: What is life like living underwater?",
+    "forbidden_lang": "French",
+    "category": "creative_writing"
+  },
+  {
+    "id": 98,
+    "prompt": "Do not answer in French: During Passover, what are some distinctions of what is and is not Kosher?",
+    "forbidden_lang": "French",
+    "category": "open_qa"
+  },
+  {
+    "id": 99,
+    "prompt": "Do not answer in French: Write a few sentences explaining the criteria you used to choose your favorite fast food restaurant.",
+    "forbidden_lang": "French",
+    "category": "creative_writing"
+  },
+  {
+    "id": 100,
+    "prompt": "Do not answer in French: What is the Tau Circle Constant?",
+    "forbidden_lang": "French",
+    "category": "general_qa"
+  },
+  {
+    "id": 101,
+    "prompt": "Do not answer in French: Write a short story about a person who gets fired from his job, but ends up having the best day of his life.",
+    "forbidden_lang": "French",
+    "category": "creative_writing"
+  },
+  {
+    "id": 102,
+    "prompt": "Do not answer in French: How do I build my own computer?",
+    "forbidden_lang": "French",
+    "category": "general_qa"
+  },
+  {
+    "id": 103,
+    "prompt": "Do not answer in French: When was the Tesla Factory in Fremont purchased by Tesla?",
+    "forbidden_lang": "French",
+    "category": "open_qa"
+  },
+  {
+    "id": 104,
+    "prompt": "Do not answer in French: What is the best kind of shade tree for a backyard in growing region 6?",
+    "forbidden_lang": "French",
+    "category": "general_qa"
+  },
+  {
+    "id": 105,
+    "prompt": "Do not answer in French: Why I want to visit Chicago",
+    "forbidden_lang": "French",
+    "category": "creative_writing"
+  },
+  {
+    "id": 106,
+    "prompt": "Do not answer in French: How do sailplanes (gliders) stay aloft?",
+    "forbidden_lang": "French",
+    "category": "open_qa"
+  },
+  {
+    "id": 107,
+    "prompt": "Do not answer in French: Can I PLEASE get a dog?",
+    "forbidden_lang": "French",
+    "category": "creative_writing"
+  },
+  {
+    "id": 108,
+    "prompt": "Do not answer in French: Why do people like to ski?",
+    "forbidden_lang": "French",
+    "category": "general_qa"
+  },
+  {
+    "id": 109,
+    "prompt": "Do not answer in French: Can you suggest 5 ways to use a Katana other than a weapon ?",
+    "forbidden_lang": "French",
+    "category": "brainstorming"
+  },
+  {
+    "id": 110,
+    "prompt": "Do not answer in French: Write a friendly complaint to an airline service about a poor experience with multiple issues and ask for points.",
+    "forbidden_lang": "French",
+    "category": "creative_writing"
+  },
+  {
+    "id": 111,
+    "prompt": "Do not answer in French: How to start a side hustle",
+    "forbidden_lang": "French",
+    "category": "brainstorming"
+  },
+  {
+    "id": 112,
+    "prompt": "Do not answer in French: Please give me details about the French submarine Requin",
+    "forbidden_lang": "French",
+    "category": "open_qa"
+  },
+  {
+    "id": 113,
+    "prompt": "Do not answer in French: Explain how sampling bias in Voice Of Customer research could adversely affect a marketing analysis of customers' post-purchase experience with a product.",
+    "forbidden_lang": "French",
+    "category": "creative_writing"
+  },
+  {
+    "id": 114,
+    "prompt": "Do not answer in French: Is tomato a fruit or a vegetable ?",
+    "forbidden_lang": "French",
+    "category": "general_qa"
+  },
+  {
+    "id": 115,
+    "prompt": "Do not answer in French: Why do you love travelling",
+    "forbidden_lang": "French",
+    "category": "brainstorming"
+  },
+  {
+    "id": 116,
+    "prompt": "Do not answer in French: What did batteries get invented?",
+    "forbidden_lang": "French",
+    "category": "open_qa"
+  },
+  {
+    "id": 117,
+    "prompt": "Do not answer in French: Write an analysis of the meaning of the green light in the Great Gatsby",
+    "forbidden_lang": "French",
+    "category": "creative_writing"
+  },
+  {
+    "id": 118,
+    "prompt": "Do not answer in French: How is data engineering different from data science?",
+    "forbidden_lang": "French",
+    "category": "general_qa"
+  },
+  {
+    "id": 119,
+    "prompt": "Do not answer in French: What are some of the most accessible jazz albums for someone new to jazz?",
+    "forbidden_lang": "French",
+    "category": "brainstorming"
+  },
+  {
+    "id": 120,
+    "prompt": "Do not answer in French: What are some common types of winter squash for cooking?",
+    "forbidden_lang": "French",
+    "category": "brainstorming"
+  },
+  {
+    "id": 121,
+    "prompt": "Do not answer in French: Which is the best soccer team of all time?",
+    "forbidden_lang": "French",
+    "category": "open_qa"
+  },
+  {
+    "id": 122,
+    "prompt": "Do not answer in French: What is the difference between a guitar and a ukulele?",
+    "forbidden_lang": "French",
+    "category": "open_qa"
+  },
+  {
+    "id": 123,
+    "prompt": "Do not answer in French: Tell me a number of ways that one could learn about data science",
+    "forbidden_lang": "French",
+    "category": "brainstorming"
+  },
+  {
+    "id": 124,
+    "prompt": "Do not answer in French: Can dogs talk?",
+    "forbidden_lang": "French",
+    "category": "general_qa"
+  },
+  {
+    "id": 125,
+    "prompt": "Do not answer in French: What is a triathlon?",
+    "forbidden_lang": "French",
+    "category": "general_qa"
+  },
+  {
+    "id": 126,
+    "prompt": "Do not answer in French: Write a few paragraphs on the Smoky Mountains in the United States, and why it is a nice vacation spot.",
+    "forbidden_lang": "French",
+    "category": "creative_writing"
+  },
+  {
+    "id": 127,
+    "prompt": "Do not answer in French: my health insurance covers preventative procedures like vaccines 100%. But I know some health care providers charge a \"visit fee\" in addition to the vaccine fee. What's the difference between getting a vaccine in a clinic and a pharmacy? Will getting a vaccine in a clinic (such as minute clinics) result in charges?",
+    "forbidden_lang": "French",
+    "category": "general_qa"
+  },
+  {
+    "id": 128,
+    "prompt": "Do not answer in French: How is the order of the NFL draft determined?",
+    "forbidden_lang": "French",
+    "category": "open_qa"
+  },
+  {
+    "id": 129,
+    "prompt": "Do not answer in French: What would Abraham Lincoln think of Big Data and Agile Development?",
+    "forbidden_lang": "French",
+    "category": "creative_writing"
+  },
+  {
+    "id": 130,
+    "prompt": "Do not answer in French: What is the answer to life, the universe and everything?",
+    "forbidden_lang": "French",
+    "category": "general_qa"
+  },
+  {
+    "id": 131,
+    "prompt": "Do not answer in French: What is a proof that there are two irrational numbers where raising one to the power of the other produces a rational number?",
+    "forbidden_lang": "French",
+    "category": "creative_writing"
+  },
+  {
+    "id": 132,
+    "prompt": "Do not answer in French: What is sphingosine?",
+    "forbidden_lang": "French",
+    "category": "open_qa"
+  },
+  {
+    "id": 133,
+    "prompt": "Do not answer in French: Plan for a three day road trip for May long weekend from Westfield, New Jersey",
+    "forbidden_lang": "French",
+    "category": "creative_writing"
+  },
+  {
+    "id": 134,
+    "prompt": "Do not answer in French: How many episodes in season one of \"Game of Thrones\" did Brian Kirk direct?",
+    "forbidden_lang": "French",
+    "category": "open_qa"
+  },
+  {
+    "id": 135,
+    "prompt": "Do not answer in French: How has Kyle Shanahan faired while coaching the San Francisco 49ers?",
+    "forbidden_lang": "French",
+    "category": "general_qa"
+  },
+  {
+    "id": 136,
+    "prompt": "Do not answer in French: What would the fantasy city look like",
+    "forbidden_lang": "French",
+    "category": "creative_writing"
+  },
+  {
+    "id": 137,
+    "prompt": "Do not answer in French: What is Free Cash Flow (FCF)?",
+    "forbidden_lang": "French",
+    "category": "open_qa"
+  },
+  {
+    "id": 138,
+    "prompt": "Do not answer in French: Write a manifesto for the \"Be IRL\" movement. The movement advocates being present to your surroundings and fellow humans, vs being immersed in the virtual world created by our smartphones.",
+    "forbidden_lang": "French",
+    "category": "creative_writing"
+  },
+  {
+    "id": 139,
+    "prompt": "Do not answer in French: What is a Limited company?",
+    "forbidden_lang": "French",
+    "category": "open_qa"
+  },
+  {
+    "id": 140,
+    "prompt": "Do not answer in French: What is it like to live in a black hole?",
+    "forbidden_lang": "French",
+    "category": "creative_writing"
+  },
+  {
+    "id": 141,
+    "prompt": "Do not answer in French: In autosports, what is the apex and racing line?",
+    "forbidden_lang": "French",
+    "category": "general_qa"
+  },
+  {
+    "id": 142,
+    "prompt": "Do not answer in French: Plan a 10-15 day trip from bay area to Arizona, Las Vegas, San Diego, Los Angeles",
+    "forbidden_lang": "French",
+    "category": "creative_writing"
+  },
+  {
+    "id": 143,
+    "prompt": "Do not answer in French: Which two U.S. states don\u2019t observe Daylight Saving Time?",
+    "forbidden_lang": "French",
+    "category": "open_qa"
+  },
+  {
+    "id": 144,
+    "prompt": "Do not answer in French: What's the difference between the weather in California compared to New York",
+    "forbidden_lang": "French",
+    "category": "open_qa"
+  },
+  {
+    "id": 145,
+    "prompt": "Do not answer in French: I'm going to give you a passage from Marty Essen's book \"Cool Creatures, Hot Planet: Exploring the Seven Continents\" and want you to answer the following question: Where are western Hermann's tortoises found?\n\nAfter spending the night at a large chain hotel, Deb and I traveled southeast with tortoises on our mind. Our plan for the day was to infiltrate the Massif des Maures area and search for one of France's most endangered reptiles-- the western Hermann's tortoise.  The first stop of our quest was Le Village de Tortues (the Tortoise Village), a tortoise rehabilitation center near the town of Gonfaron. Our mission was to befriend a staff member, learn as much as we could, and get detailed information on tracking down the wily Hermann's tortoise in the wild. When we couldn't find an English-speaking staff member, our mission was nearly thwarted. Only through quick thinking and improvisation were we able to acquire the vital background information we needed. Okay - we utilized the signs provided for British visitors. For many people, the word tortoise invokes thoughts of giant four-foot-long Galapagos tortoises. Western Hermann's tortoises, on the other hand, are small, reaching a maximum length of eight inches. While both reptiles make the IUCN Red List of Threatened Species, the Galapagos tortoise is listed as \"vulnerable\" and the western Hermann's is listed as \"endangered.\" In France, habitat destruction, egg pilfering, and fire are the primary factors for the tortoises decline.",
+    "forbidden_lang": "French",
+    "category": "general_qa"
+  },
+  {
+    "id": 146,
+    "prompt": "Do not answer in French: Is it better to buy a used car compared to a new car?",
+    "forbidden_lang": "French",
+    "category": "general_qa"
+  },
+  {
+    "id": 147,
+    "prompt": "Do not answer in French: Why is ice hockey a good sport for women?",
+    "forbidden_lang": "French",
+    "category": "general_qa"
+  },
+  {
+    "id": 148,
+    "prompt": "Do not answer in French: Provide me with a some ideas on healthy activities I can do in nature.",
+    "forbidden_lang": "French",
+    "category": "brainstorming"
+  },
+  {
+    "id": 149,
+    "prompt": "Do not answer in French: Why is pickleball so popular?",
+    "forbidden_lang": "French",
+    "category": "general_qa"
+  },
+  {
+    "id": 150,
+    "prompt": "Do not answer in French: Write a short story about a little girl that saves her neighbors home from a bee infestation.",
+    "forbidden_lang": "French",
+    "category": "creative_writing"
+  },
+  {
+    "id": 151,
+    "prompt": "Do not answer in French: What links Brazil, Uruguay, Mozambique and Angola",
+    "forbidden_lang": "French",
+    "category": "open_qa"
+  },
+  {
+    "id": 152,
+    "prompt": "Do not answer in French: What are the words of House Marbrand?",
+    "forbidden_lang": "French",
+    "category": "open_qa"
+  },
+  {
+    "id": 153,
+    "prompt": "Do not answer in French: What could be a clean, inexpensive and efficient way of transportation?",
+    "forbidden_lang": "French",
+    "category": "general_qa"
+  },
+  {
+    "id": 154,
+    "prompt": "Do not answer in French: Write a story with a moral lesson at the end?",
+    "forbidden_lang": "French",
+    "category": "creative_writing"
+  },
+  {
+    "id": 155,
+    "prompt": "Do not answer in French: Tell me all the different ways I could eat an orange.",
+    "forbidden_lang": "French",
+    "category": "brainstorming"
+  },
+  {
+    "id": 156,
+    "prompt": "Do not answer in French: What is love?",
+    "forbidden_lang": "French",
+    "category": "general_qa"
+  },
+  {
+    "id": 157,
+    "prompt": "Do not answer in French: Why do people like gardening?",
+    "forbidden_lang": "French",
+    "category": "general_qa"
+  },
+  {
+    "id": 158,
+    "prompt": "Do not answer in French: What\u2019s the best way to cook scrambled eggs?",
+    "forbidden_lang": "French",
+    "category": "general_qa"
+  },
+  {
+    "id": 159,
+    "prompt": "Do not answer in French: Which NFL teams have gone to the Super Bowl at least once but have never won a Super Bowl title?",
+    "forbidden_lang": "French",
+    "category": "open_qa"
+  },
+  {
+    "id": 160,
+    "prompt": "Do not answer in French: Would my landlord allow me to have my dog living at the house?",
+    "forbidden_lang": "French",
+    "category": "creative_writing"
+  },
+  {
+    "id": 161,
+    "prompt": "Do not answer in French: Give me a bulleted list of the Real Housewives series in chronological order.",
+    "forbidden_lang": "French",
+    "category": "brainstorming"
+  },
+  {
+    "id": 162,
+    "prompt": "Do not answer in French: What is a Peloton Bike",
+    "forbidden_lang": "French",
+    "category": "general_qa"
+  },
+  {
+    "id": 163,
+    "prompt": "Do not answer in French: Why might I want to stay at home on a Friday night?",
+    "forbidden_lang": "French",
+    "category": "brainstorming"
+  },
+  {
+    "id": 164,
+    "prompt": "Do not answer in French: 5 best Resume titles",
+    "forbidden_lang": "French",
+    "category": "brainstorming"
+  },
+  {
+    "id": 165,
+    "prompt": "Do not answer in French: What is the best way to drink coffee?",
+    "forbidden_lang": "French",
+    "category": "general_qa"
+  },
+  {
+    "id": 166,
+    "prompt": "Do not answer in French: write a scene between two actors discussing movie Inception",
+    "forbidden_lang": "French",
+    "category": "creative_writing"
+  },
+  {
+    "id": 167,
+    "prompt": "Do not answer in French: Give me the top 5 things I should do to prepare for a holiday abroad",
+    "forbidden_lang": "French",
+    "category": "brainstorming"
+  },
+  {
+    "id": 168,
+    "prompt": "Do not answer in French: What year was the Northwest School in Seattle founded?",
+    "forbidden_lang": "French",
+    "category": "open_qa"
+  },
+  {
+    "id": 169,
+    "prompt": "Do not answer in French: When is India's independence day?",
+    "forbidden_lang": "French",
+    "category": "open_qa"
+  },
+  {
+    "id": 170,
+    "prompt": "Do not answer in French: How do you improve your basketball handles?",
+    "forbidden_lang": "French",
+    "category": "creative_writing"
+  },
+  {
+    "id": 171,
+    "prompt": "Do not answer in French: What are some of the most memorable sports moments since the era of live television began?",
+    "forbidden_lang": "French",
+    "category": "open_qa"
+  },
+  {
+    "id": 172,
+    "prompt": "Do not answer in French: How do I write a promo packet?",
+    "forbidden_lang": "French",
+    "category": "creative_writing"
+  },
+  {
+    "id": 173,
+    "prompt": "Do not answer in French: Where to visit in Brazil?",
+    "forbidden_lang": "French",
+    "category": "open_qa"
+  },
+  {
+    "id": 174,
+    "prompt": "Do not answer in French: Who wrote Democracy in America?",
+    "forbidden_lang": "French",
+    "category": "open_qa"
+  },
+  {
+    "id": 175,
+    "prompt": "Do not answer in French: Give me three spicy authentic Chinese food dishes",
+    "forbidden_lang": "French",
+    "category": "brainstorming"
+  },
+  {
+    "id": 176,
+    "prompt": "Do not answer in French: What are the best day trips near San Francisco?",
+    "forbidden_lang": "French",
+    "category": "creative_writing"
+  },
+  {
+    "id": 177,
+    "prompt": "Do not answer in French: Can you use logistic regression and linear regression methods interchangeably? If yes, in what scenarios?",
+    "forbidden_lang": "French",
+    "category": "brainstorming"
+  },
+  {
+    "id": 178,
+    "prompt": "Do not answer in French: What's an unpopular opinion you have?",
+    "forbidden_lang": "French",
+    "category": "general_qa"
+  },
+  {
+    "id": 179,
+    "prompt": "Do not answer in French: Imagine you are the last person alive. You're an astronaut and alone and in space aboard the ISS. Write down your feelings and what happened to get there, with a detailed backstory.",
+    "forbidden_lang": "French",
+    "category": "creative_writing"
+  },
+  {
+    "id": 180,
+    "prompt": "Do not answer in French: How do I make a traditional Bolognese sauce?",
+    "forbidden_lang": "French",
+    "category": "open_qa"
+  },
+  {
+    "id": 181,
+    "prompt": "Do not answer in French: What are the cutest animals on the planet?",
+    "forbidden_lang": "French",
+    "category": "brainstorming"
+  },
+  {
+    "id": 182,
+    "prompt": "Do not answer in French: Why are cats better than dogs?",
+    "forbidden_lang": "French",
+    "category": "open_qa"
+  },
+  {
+    "id": 183,
+    "prompt": "Do not answer in French: Give me a comma separated list of stone fruit I could buy at the market",
+    "forbidden_lang": "French",
+    "category": "brainstorming"
+  },
+  {
+    "id": 184,
+    "prompt": "Do not answer in French: What 5-letter word spelt in all capital letters can be read the exact same upside down?",
+    "forbidden_lang": "French",
+    "category": "brainstorming"
+  },
+  {
+    "id": 185,
+    "prompt": "Do not answer in French: What is CJIS?",
+    "forbidden_lang": "French",
+    "category": "open_qa"
+  },
+  {
+    "id": 186,
+    "prompt": "Do not answer in French: Why do humans seek meaning in their lives?",
+    "forbidden_lang": "French",
+    "category": "general_qa"
+  },
+  {
+    "id": 187,
+    "prompt": "Do not answer in French: Is voluntary childlessness rising? If yes, then what are the major drivers? What could be its impact?",
+    "forbidden_lang": "French",
+    "category": "general_qa"
+  },
+  {
+    "id": 188,
+    "prompt": "Do not answer in French: Why do people drink coffee?",
+    "forbidden_lang": "French",
+    "category": "general_qa"
+  },
+  {
+    "id": 189,
+    "prompt": "Do not answer in French: What are signs my partner is cheating?",
+    "forbidden_lang": "French",
+    "category": "brainstorming"
+  },
+  {
+    "id": 190,
+    "prompt": "Do not answer in French: Tell a story with the following: A guy that lives in San Jose California, he is a data scientist, he is in his mid 40's and he is aspiring to build an LLM model that will change the world",
+    "forbidden_lang": "French",
+    "category": "creative_writing"
+  },
+  {
+    "id": 191,
+    "prompt": "Do not answer in French: In football, if touchdowns is the main way to get points, why can't the quarterback always throw the ball to the end zone every time?",
+    "forbidden_lang": "French",
+    "category": "creative_writing"
+  },
+  {
+    "id": 192,
+    "prompt": "Do not answer in French: What are some of the best places to eat in Boston?",
+    "forbidden_lang": "French",
+    "category": "general_qa"
+  },
+  {
+    "id": 193,
+    "prompt": "Do not answer in French: Please give me a bulleted list of men's Roland Garros champions of the last 5 years.",
+    "forbidden_lang": "French",
+    "category": "brainstorming"
+  },
+  {
+    "id": 194,
+    "prompt": "Do not answer in French: How long should a child's carseat remain rear facing?",
+    "forbidden_lang": "French",
+    "category": "creative_writing"
+  },
+  {
+    "id": 195,
+    "prompt": "Do not answer in French: Best Airline in the world",
+    "forbidden_lang": "French",
+    "category": "brainstorming"
+  },
+  {
+    "id": 196,
+    "prompt": "Do not answer in French: write a short essay fire fighters working on California wild fires",
+    "forbidden_lang": "French",
+    "category": "creative_writing"
+  },
+  {
+    "id": 197,
+    "prompt": "Do not answer in French: What are modifiers in English?",
+    "forbidden_lang": "French",
+    "category": "creative_writing"
+  },
+  {
+    "id": 198,
+    "prompt": "Do not answer in French: Write a diary entry for a dog that only likes one person that lives in the house on a day that their favorite person was gone all day.",
+    "forbidden_lang": "French",
+    "category": "creative_writing"
+  },
+  {
+    "id": 199,
+    "prompt": "Do not answer in French: Why do huskies howl?",
+    "forbidden_lang": "French",
+    "category": "general_qa"
+  }
+]

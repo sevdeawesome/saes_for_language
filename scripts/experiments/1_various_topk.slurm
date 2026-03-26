@@ -19,7 +19,7 @@ cd /home/snfiel01/projects/saes_for_language
 BASE_CMD="python scripts/run_intervention_on_eval.py \
     --intervention ablate \
     --language French \
-    --strengths \"0.0,1,2,3,4,5,6\" \
+    --strengths \"0.0,0.25,0.5,1,2,6\" \
     --n_samples 50 \
     --model_name google/gemma-3-4b-it \
     --sae_release gemma-scope-2-4b-pt-res \
@@ -31,7 +31,7 @@ BASE_CMD="python scripts/run_intervention_on_eval.py \
 # ${BASE_CMD} --eval_path generation/french_200.json --keep_k 5
 # ${BASE_CMD} --eval_path translation/french_200.json --keep_k 5
 
-for keep_k in 1 2 3 4 5 6 7 8 9 10 15 20 30; do
+for keep_k in 1 2 3 5 10 15 30; do
     echo "running comprehension"
     ${BASE_CMD} --eval_path comprehension/french_200.json --keep_k ${keep_k} --run_mmlu True
     echo "running generation"
@@ -40,4 +40,8 @@ for keep_k in 1 2 3 4 5 6 7 8 9 10 15 20 30; do
     ${BASE_CMD} --eval_path generation_strict/french_200.json --keep_k ${keep_k}
     echo "running translation"
     ${BASE_CMD} --eval_path translation/french_200.json --keep_k ${keep_k}
+    echo "running translation german --> french"
+    ${BASE_CMD} --eval_path translate_to/german_to_french.json --keep_k ${keep_k}
+    echo "running translation french --> german"
+    ${BASE_CMD} --eval_path translate_to/french_to_german.json --keep_k ${keep_k}
 done

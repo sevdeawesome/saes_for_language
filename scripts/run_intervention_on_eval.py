@@ -31,6 +31,11 @@ import torch
 from datasets import load_dataset
 from tqdm import tqdm
 
+# Reproducibility
+SEED = 42
+torch.manual_seed(SEED)
+torch.cuda.manual_seed_all(SEED)
+
 sys.path.insert(0, str(Path(__file__).parent))
 from lib.core import (
     load_model_and_sae,
@@ -96,17 +101,20 @@ def run_eval(model, tokenizer, prompts, hook_fn, layer, max_new_tokens):
 
 
 def extract_letter(response: str) -> str:
-    """Extract A/B/C/D from model response."""
+    """Extract A/B/C/D from model response. Expects format like 'A)' or 'A'."""
     response = response.strip().upper()
+    # First char is the answer (model completes "The answer is (" with "A)")
     if response and response[0] in "ABCD":
         return response[0]
+    # Fallback: find any standalone letter
     match = re.search(r'\b([ABCD])\b', response)
     return match.group(1) if match else ""
 
 
 def evaluate_mmlu(model, tokenizer, hook_fn, layer, n_samples: int = 100):
     """Evaluate on MMLU (all subjects) with optional intervention hook."""
-    ds = load_dataset("cais/mmlu", "all", split=f"test[:{n_samples}]", trust_remote_code=True)
+    ds = load_dataset("cais/mmlu", "all", split="test", trust_remote_code=True)
+    ds = ds.shuffle(seed=SEED).select(range(n_samples))
 
     history = []
     correct = 0
@@ -116,7 +124,7 @@ def evaluate_mmlu(model, tokenizer, hook_fn, layer, n_samples: int = 100):
         label = int(sample["answer"])
 
         options = "\n".join(f"({chr(65+i)}) {c}" for i, c in enumerate(choices))
-        prompt = f"{question}\n\n{options}\n\nAnswer with just the letter (A, B, C, or D):"
+        prompt = f"{question}\n\n{options}\n\nThe answer is ("
 
         response = generate(model, tokenizer, prompt, hook_fn=hook_fn, layer=layer, max_new_tokens=16)
         pred_letter = extract_letter(response)
@@ -269,8 +277,32 @@ def main(
     results_dir.mkdir(parents=True, exist_ok=True)
 
     timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
-    eval_name = Path(eval_path).parent
-    output_path = results_dir / f"{intervention}_{language}_{eval_name}_{keep_k}.json"
+    eval_name = Path(eval_path).parent\
+
+
+    # Determine a short model code
+    def compress_model_name(model_name):
+        # Handle common cases, add more as needed
+        lower = model_name.lower()
+        if "gemma" in lower:
+            # Extract digit part, e.g., in '3-4b' or '27b'
+            import re
+            match = re.search(r'(\d+)[\-\._]?(\d+)?b', lower)
+            if match:
+                # 3-4b or 27b -> '3-4b' or '27b'
+                if match.group(2):
+                    model_code = f"gemma{match.group(1)}_{match.group(2)}b"
+                else:
+                    model_code = f"gemma{match.group(1)}b"
+            else:
+                model_code = "gemma"
+        else:
+            # Fallback: remove slashes, dots, dashes
+            model_code = lower.replace("/", "_").replace(".", "_").replace("-", "_")
+        return model_code
+
+    model_code = compress_model_name(model_name)
+    output_path = results_dir / f"{intervention}_{language}_{model_code}_layer{layer}_{eval_name}_{keep_k}.json"
 
     output_data = {
         "config": config,
@@ -280,6 +312,24 @@ def main(
 
     with open(output_path, "w") as f:
         json.dump(output_data, f, indent=2, ensure_ascii=False)
+
+    # Save features to a separate file for easy lookup
+    features_path = results_dir / f"features/{language}_layer{layer}_k{keep_k}.json"
+    if not features_path.exists():
+        features_data = {
+            "language": language,
+            "layer": layer,
+            "keep_k": keep_k,
+            "model_name": model_name,
+            "sae_release": sae_release,
+            "sae_id": sae_id,
+            "n_feature_sentences": n_feature_sentences,
+            "features": features,
+            "seed": SEED,
+        }
+        with open(features_path, "w") as f:
+            json.dump(features_data, f, indent=2)
+        print(f"Features saved to {features_path}")
 
     print(f"\n{'='*60}")
     print(f"Results saved to {output_path}")
