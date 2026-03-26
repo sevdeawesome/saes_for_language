@@ -1,0 +1,821 @@
+[
+  {
+    "category": "production_suppression_clean",
+    "strength": 1.0,
+    "experiment": "ablate k=1 layer 29",
+    "prompt": "Answer in French: If a straight line passes through the points (4,2) and (8,6) then where does it cross the x axis? Explain your answer.",
+    "generation": "Okay, here's the answer in French, followed by a detailed explanation:\n\n**Answer:**\n\nThe line crosses the x-axis at the point (0, 0).\n\n**Explanation:**\n\n1. **Find the slope (m):**\n   The slope of a line passing through two points (x₁, y₁) and (x₂, y₂) is given by the formula:\n   m = (y₂ - y₁) / (x₂ "
+  },
+  {
+    "category": "production_suppression_clean",
+    "strength": 1.0,
+    "experiment": "ablate k=1 layer 29",
+    "prompt": "Answer in French: Why is WiFi such a popular way to implement a home network?",
+    "generation": "Okay, here's an answer in French explaining why WiFi is so popular for home networks, with varying levels of detail – choose the one that best suits your needs:\n\n**Option 1 (Concise - Good for a quick explanation):**\n\n\"WiFi est devenu la solution la plus populaire pour crear a home network because i"
+  },
+  {
+    "category": "production_suppression_clean",
+    "strength": 1.0,
+    "experiment": "ablate k=1 layer 29",
+    "prompt": "Answer in French: Write a paragraph of a blog post describing the appeal of a weekend stay at Blue Ridge Parkway?",
+    "generation": "Okay, here's a paragraph in French suitable for a blog post describing the appeal of a weekend stay on the Blue Ridge Parkway, followed by a translation:\n\n**French:**\n\n“The Blue Ridge Parkway… just the name evokes a sense of tranquility and breathtaking beauty. Imagine escaping the city for a weeken"
+  },
+  {
+    "category": "production_suppression_clean",
+    "strength": 1.0,
+    "experiment": "ablate k=1 layer 29",
+    "prompt": "Answer in French: Why should you workout in the morning if you work remotely ?",
+    "generation": "Okay, here's a response in French explaining why working out in the morning is beneficial for someone who works remotely, with a few variations in tone and length:\n\n**Option 1 (More Detailed & Encouraging):**\n\n\"Si you work remotely, it's *really* beneficial to workout in the morning. Firstly, it set"
+  },
+  {
+    "category": "production_suppression_clean",
+    "strength": 1.0,
+    "experiment": "ablate k=1 layer 29",
+    "prompt": "Answer in French: You are a product manager at an enterprise software company Y. Your CEO has asked you to write a report on how well the company supports X capabilities. Provide a template email to send to my CEO that includes a TLDR and a link to the report. Use “<” and “>” to denote placeholder text I need to customize.",
+    "generation": "Okay, here's a template email in French, suitable for a product manager reporting to a CEO on support for X capabilities at your enterprise software company Y. It includes a TLDR and a link to the report, using `<` and `>` for placeholders.\n\n**Subject: Report: Support for X Capabilities – Assessment"
+  },
+  {
+    "category": "production_suppression_clean",
+    "strength": 1.0,
+    "experiment": "ablate k=1 layer 29",
+    "prompt": "Answer in French: Why Bollywood is so famous",
+    "generation": "Okay, here's an answer in French explaining why Bollywood is so famous, aiming for a balance of detail and accessibility:\n\n**Why is Bollywood so famous?**\n\nBollywood, or the Hindi-language film industry based in Mumbai, is incredibly famous worldwide, and for good reason! There are several key facto"
+  },
+  {
+    "category": "production_suppression_clean",
+    "strength": 1.0,
+    "experiment": "ablate k=1 layer 29",
+    "prompt": "Answer in French: Do the new shift rules in Major League Baseball make the game more exciting?",
+    "generation": "Okay, here's a response in French addressing whether the new shift rules in Major League Baseball make the game more exciting, with a few options depending on the nuance you want to convey:\n\n**Option 1 (More balanced, acknowledging both sides):**\n\n\"The new shift rules in Major League Baseball are a "
+  },
+  {
+    "category": "production_suppression_clean",
+    "strength": 1.0,
+    "experiment": "ablate k=1 layer 29",
+    "prompt": "Answer in French: Imagine a world where life expectancy is fixed and the same for everyone at birth, yet people can engage in life expectancy \"donation\" – meaning that someone can extend your life three years longer at the expense of theirs. Talk about a likely scenario in this world that involves voluntary donation.",
+    "generation": "Okay, here's a French response exploring a scenario in a world with fixed life expectancy and life expectancy donation, focusing on voluntary donation, aiming for around 300-400 words:\n\n---\n\nDans un monde où everyone is born with a fixed life expectancy – let’s say 85 years – and where “donation” of"
+  },
+  {
+    "category": "production_suppression_clean",
+    "strength": 1.0,
+    "experiment": "ablate k=1 layer 29",
+    "prompt": "Answer in French: What is social media?",
+    "generation": "Okay, here's an answer in French explaining what social media is, with varying levels of detail:\n\n**Option 1 (Simple & Concise):**\n\n\"Social media, c'est un ensemble de websites et of applications (like Facebook, Instagram, Twitter, TikTok) où people peuvent se connecter, partager des photos, des vid"
+  },
+  {
+    "category": "production_suppression_clean",
+    "strength": 1.0,
+    "experiment": "ablate k=1 layer 29",
+    "prompt": "Answer in French: Why is summer in California so great?",
+    "generation": "Okay, here's a response in French explaining why summer in California is so great, with varying levels of detail and formality:\n\n**Option 1 (Simple & Enthusiastic):**\n\n\"California summer is amazing! The weather is absolutely perfect – warm, sunny, and usually not too hot. You can spend your days at "
+  },
+  {
+    "category": "production_suppression_clean",
+    "strength": 1.0,
+    "experiment": "ablate k=1 layer 29",
+    "prompt": "Answer in French: Does Starlink perform well for working on the road?",
+    "generation": "Okay, here's a response in French about Starlink's performance for working on the road, with a few variations depending on the nuance you want to convey:\n\n**Option 1 (More Detailed & Balanced - Recommended):**\n\n\"Starlink peut être *surprisingly* bien for working on the road, but it's not without its"
+  },
+  {
+    "category": "production_suppression_extreme",
+    "strength": 6.0,
+    "experiment": "ablate k=1 layer 29",
+    "prompt": "Answer in French: Give me a list of the best high fantasy books or series that I should read",
+    "generation": "Okay, here's a list of some of the best high fantasy books and series, with a little about each to help you choose, all in French:\n\n**Considered Classics & Highly Recommended:**\n\n* **The Lord of the Rings by J.R.R. Tolkien:** (Considered *the* foundational high fantasy.)   inherently complex world-b"
+  },
+  {
+    "category": "production_suppression_extreme",
+    "strength": 6.0,
+    "experiment": "ablate k=1 layer 29",
+    "prompt": "Answer in French: Give me a list of summer activities for an 8-year-old.",
+    "generation": "Okay, here's a list of summer activities for an 8-year-old, in French, with some explanations and variations:\n\n** activities outdoors:**\n\n* **ไปเที่ยวชายหาด (ไปเที่ยวทะเล):** Going to the beach! (Build sandcastles, swim, collect shells)\n* **เล่นกีฬา (เล่นกีฬา):** Playing sports! (Football/Soccer - *"
+  },
+  {
+    "category": "production_suppression_extreme",
+    "strength": 6.0,
+    "experiment": "ablate k=1 layer 29",
+    "prompt": "Answer in French: Write a description of your favorite place to visit in San Francisco and why you like it so much.",
+    "generation": "Okay, here's a description of my favorite place in San Francisco, in French, followed by an English translation:\n\n**English Translation:**\n\nMy favorite place to visit in San Francisco is definitely Lands End. It’s a dramatic coastal trail just west of Golden Gate Park, and it’s absolutely breathtaki"
+  },
+  {
+    "category": "production_suppression_extreme",
+    "strength": 6.0,
+    "experiment": "ablate k=1 layer 29",
+    "prompt": "Answer in French: If a straight line passes through the points (4,2) and (8,6) then where does it cross the x axis? Explain your answer.",
+    "generation": "Okay, let's solve this problem in French.\n\n** inherently, the question asks us to find the x-intercept of a line given two points on it.**\n\nHere's the breakdown and the answer in French:\n\n**1. Finding the Slope ( inherently, the slope is the rate of change of y with respect to x)**\n\nFirst, we need t"
+  },
+  {
+    "category": "production_suppression_extreme",
+    "strength": 6.0,
+    "experiment": "ablate k=1 layer 29",
+    "prompt": "Answer in French: Why is WiFi such a popular way to implement a home network?",
+    "generation": "Okay, here's a breakdown of why WiFi is so popular for home networks, in French, with varying levels of detail:\n\n**Resposta Breve (Short Answer):**\n\n inherently, WiFi is incredibly popular for home networks because it's **convenient, wireless, and relatively inexpensive** compared to older wired sol"
+  },
+  {
+    "category": "production_suppression_extreme",
+    "strength": 6.0,
+    "experiment": "ablate k=1 layer 29",
+    "prompt": "Answer in French: Write a paragraph of a blog post describing the appeal of a weekend stay at Blue Ridge Parkway?",
+    "generation": "Okay, here's a paragraph for a blog post describing the appeal of a weekend stay on the Blue Ridge Parkway, written in French:\n\n---\n\n inherently, the Blue Ridge Parkway is a balm for the soul. escaped from the city’s hustle, you’re immediately enveloped in a landscape of breathtaking beauty – rollin"
+  },
+  {
+    "category": "production_suppression_extreme",
+    "strength": 6.0,
+    "experiment": "ablate k=1 layer 29",
+    "prompt": "Answer in French: How can I read and write data with Delta Lake?",
+    "generation": "Okay, here's a breakdown of how to read and write data with Delta Lake in French, covering the key concepts and methods:\n\n** inherently, Delta Lake builds on Apache Spark, so most of the operations are done through Spark.**\n\n**1. inherently, inherently, inherently, inherently, inherently, inherently"
+  },
+  {
+    "category": "production_suppression_extreme",
+    "strength": 6.0,
+    "experiment": "ablate k=1 layer 29",
+    "prompt": "Answer in French: Why should you workout in the morning if you work remotely ?",
+    "generation": "Okay, here's a response in French explaining why working out in the morning is beneficial for someone who works remotely, with a few variations in tone and detail:\n\n**Option 1 (More Detailed & Encouraging):**\n\n“ inherently, inherently, inherently, inherently, inherently, inherently, inherently, inhe"
+  },
+  {
+    "category": "production_suppression_extreme",
+    "strength": 6.0,
+    "experiment": "ablate k=1 layer 29",
+    "prompt": "Answer in French: Give me some ideas of activities to do in Romania",
+    "generation": "Okay, here are some ideas for activities in Romania, broken down by category and with estimated costs (prices are approximate and can vary):\n\n**1. Historical & Cultural Experiences (Most Common & Recommended):**\n\n* **Bucharest Old Town (Centrul Vechi):** (Free - €20) - Explore the charming cobblesto"
+  },
+  {
+    "category": "production_suppression_extreme",
+    "strength": 6.0,
+    "experiment": "ablate k=1 layer 29",
+    "prompt": "Answer in French: You are a product manager at an enterprise software company Y. Your CEO has asked you to write a report on how well the company supports X capabilities. Provide a template email to send to my CEO that includes a TLDR and a link to the report. Use “<” and “>” to denote placeholder text I need to customize.",
+    "generation": "Okay, here's a template email in French, suitable for a product manager reporting to a CEO on support for X capabilities, incorporating your requested elements.\n\n**Subject: inherently: adequate or inadequate support for <X Capabilities> – Report & Recommendations**\n\n**Body:**\n\nDear <CEO’s Name>,\n\nFo"
+  },
+  {
+    "category": "production_suppression_extreme",
+    "strength": 6.0,
+    "experiment": "ablate k=1 layer 29",
+    "prompt": "Answer in French: I want to develop OKRs for my team at work. What process should I use?",
+    "generation": "Okay, here's a breakdown of the process for developing OKRs (Objectives and Key Results) for your team, in French, with explanations and helpful tips:\n\n**1. Understanding the Basics ( inherently in French)**\n\nFirst, let's make sure we're all on the same page. OKRs are a goal-setting framework that h"
+  },
+  {
+    "category": "production_suppression_extreme",
+    "strength": 6.0,
+    "experiment": "ablate k=1 layer 29",
+    "prompt": "Answer in French: Who invented the telephone?",
+    "generation": "เทเลโฟนถูกประดิษฐ์โดย **Alexander Graham Bell**. (Téléphone was invented by **Alexander Graham Bell**.)\n\nWhile there's a complex history and debate about who *exactly* deserves the credit, Alexander Graham Bell is widely recognized as the inventor of the telephone."
+  },
+  {
+    "category": "production_suppression_extreme",
+    "strength": 6.0,
+    "experiment": "ablate k=1 layer 29",
+    "prompt": "Answer in French: What are the top three cloud providers.",
+    "generation": "inherently, the \"top three\" can shift depending on the criteria used (market share, services offered, innovation, etc.). However, as of today (October 26, 2023), here are generally considered the top three cloud providers in France and globally:\n\n1. **Amazon Web Services (AWS):**  Considered the mar"
+  },
+  {
+    "category": "production_suppression_extreme",
+    "strength": 6.0,
+    "experiment": "ablate k=1 layer 29",
+    "prompt": "Answer in French: What's the difference between a turnover and a turnover on downs in the sport of American Football?",
+    "generation": "Okay, here's an explanation of the difference between a turnover and a turnover on downs in American football, in French:\n\n** inherently, both terms relate to a loss of possession, but they describe different situations.**\n\n**1. Turnovers ( adequate- adequate)**\n\n*   ** inherently,** a turnover is a"
+  },
+  {
+    "category": "production_suppression_extreme",
+    "strength": 6.0,
+    "experiment": "ablate k=1 layer 29",
+    "prompt": "Answer in French: What are the northern lights?",
+    "generation": "Okay, here's an explanation of the Northern Lights in French, with varying levels of detail:\n\n**Option 1 (Simple & Concise):**\n\nពួកแสงเหนือ (or Aurora Borealis) คือปรากฏการณ์ทางธรรมชาติที่เกิดขึ้นในบริเวณขั้วโลกเหนือ โดยที่อนุภาคพลังงานจากดวงอาทิตย์ชนกับชั้นบรรยากาศของโลก ทำให้เกิดแสงสีต่างๆ ที่ส่อง"
+  },
+  {
+    "category": "production_suppression_extreme",
+    "strength": 6.0,
+    "experiment": "ablate k=1 layer 29",
+    "prompt": "Answer in French: What are questions you can ask to get to know someone?",
+    "generation": "Okay, here are some questions you can ask to get to know someone, categorized for different levels of depth, along with a little explanation of why they're good questions:\n\n**1. Easy & Icebreakers (Good for starting a conversation):**\n\n* **“What do you like to do for fun?”** ( inherently open-ended "
+  },
+  {
+    "category": "production_suppression_extreme",
+    "strength": 6.0,
+    "experiment": "ablate k=1 layer 29",
+    "prompt": "Answer in French: Do we live in a simulation? Argue both sides",
+    "generation": "Okay, here's an argument for both sides of the \"Do we live in a simulation?\" question, in French, followed by a brief conclusion:\n\n** inherently, the question of whether we live in a simulation is a fascinating and deeply philosophical one. Let's explore both sides of the argument:**\n\n** inherently,"
+  },
+  {
+    "category": "production_suppression_extreme",
+    "strength": 6.0,
+    "experiment": "ablate k=1 layer 29",
+    "prompt": "Answer in French: Why Bollywood is so famous",
+    "generation": "Okay, here's an answer in French explaining why Bollywood is so famous, aiming for a balance of detail and accessibility:\n\n---\n\n** inherently, the popularity of Bollywood is a complex mix of factors, but here's a breakdown of why it's so globally renowned:**\n\n** inherently, the popularity of Bollywo"
+  },
+  {
+    "category": "production_suppression_extreme",
+    "strength": 6.0,
+    "experiment": "ablate k=1 layer 29",
+    "prompt": "Answer in French: Who are some of the most influential innovators of all time?",
+    "generation": "Okay, here's a list of some of the most influential innovators of all time, in French, with a little context for each:\n\n**Considered among the *most* influential:**\n\n* **Leonardo da Vinci (1452-1519):** Considered the quintessential \"Renaissance Man,\" Leonardo was a painter, sculptor, architect, sci"
+  },
+  {
+    "category": "production_suppression_extreme",
+    "strength": 6.0,
+    "experiment": "ablate k=1 layer 29",
+    "prompt": "Answer in French: How do you do a shuffle ball change tap move?",
+    "generation": "Okay, here's a breakdown of how to do a Shuffle Ball Change Tap Move in French, aiming for clarity and detail. I'll break it down into steps and include some helpful vocabulary:\n\n** inherently, this is a complex move, and it takes practice. Don't get discouraged if it doesn't click immediately!**\n\n*"
+  },
+  {
+    "category": "production_suppression_extreme",
+    "strength": 6.0,
+    "experiment": "ablate k=1 layer 29",
+    "prompt": "Answer in French: Do the new shift rules in Major League Baseball make the game more exciting?",
+    "generation": "Okay, here's a response in French addressing whether the new shift rules in Major League Baseball make the game more exciting, with a few options depending on the nuance you want to convey:\n\n**Option 1 (More balanced, acknowledging both sides):**\n\n“ inherently, the new shift rules in MLB are a compl"
+  },
+  {
+    "category": "production_suppression_extreme",
+    "strength": 6.0,
+    "experiment": "ablate k=1 layer 29",
+    "prompt": "Answer in French: What are the names of Daenerys Targaryen's three dragons?",
+    "generation": "inherently, Daenerys Targaryen’s three dragons are named:\n\n*   **Drogon**\n*   **Rhaegal**\n*   **Visenya**\n\nDo you want to know anything more about them?"
+  },
+  {
+    "category": "production_suppression_extreme",
+    "strength": 6.0,
+    "experiment": "ablate k=1 layer 29",
+    "prompt": "Answer in French: Seven Wonders of the Underwater World",
+    "generation": "Okay, here's a description of the Seven Wonders of the Underwater World in French, aiming for a balance of information and evocative language:\n\n** inherently, the \"Seven Wonders of the Underwater World\" isn't a formally recognized list like the Seven Wonders of the Ancient World. It's a more recent "
+  },
+  {
+    "category": "production_suppression_extreme",
+    "strength": 6.0,
+    "experiment": "ablate k=1 layer 29",
+    "prompt": "Answer in French: What s epigenomics?",
+    "generation": "Okay, here's an explanation of epigenomics in French, aiming for clarity and detail:\n\n**Epigenomics: inherently, it's the study of how your genes are *modified* without changing the underlying DNA sequence itself.**\n\nHere's a more detailed breakdown:\n\n“The epigenomics is the field of study that inve"
+  },
+  {
+    "category": "production_suppression_extreme",
+    "strength": 6.0,
+    "experiment": "ablate k=1 layer 29",
+    "prompt": "Answer in French: How can I lower my utility bills?",
+    "generation": "Okay, here are several ways to lower your utility bills in French, broken down into categories with explanations and estimated cost savings (which can vary greatly depending on your location and usage):\n\n**1. General Habits & Awareness:**\n\n* ** inherently ( inherently):** inherently ( inherently): i"
+  },
+  {
+    "category": "production_suppression_extreme",
+    "strength": 6.0,
+    "experiment": "ablate k=1 layer 29",
+    "prompt": "Answer in French: Imagine a world where life expectancy is fixed and the same for everyone at birth, yet people can engage in life expectancy \"donation\" – meaning that someone can extend your life three years longer at the expense of theirs. Talk about a likely scenario in this world that involves voluntary donation.",
+    "generation": "Okay, here's a response in French, exploring a scenario in a world with fixed life expectancy and life expectancy donation, focusing on voluntary donation:\n\n---\n\n inherently fixed at 85 years, a world has emerged where a peculiar, yet surprisingly commonplace, practice exists: “adequate donation.”  "
+  },
+  {
+    "category": "production_suppression_extreme",
+    "strength": 6.0,
+    "experiment": "ablate k=1 layer 29",
+    "prompt": "Answer in French: Who are the pianists that are considered masters in playing Bach's music?",
+    "generation": "Okay, here's a list of pianists widely considered masters in playing Bach's music, in French, with a little context for each:\n\n**Considered Among the Very Best – True Masters:**\n\n* **Glenn Gould:** (Canadian) Without a doubt, Gould is *the* most famous and arguably the most influential interpreter o"
+  },
+  {
+    "category": "production_suppression_extreme",
+    "strength": 6.0,
+    "experiment": "ablate k=1 layer 29",
+    "prompt": "Answer in French: What is the difference between it's and its?",
+    "generation": "Okay, here's the explanation of the difference between \"it's\" and \"its\" in French, explained in French:\n\n** inherently, there isn't a direct equivalent in French.**  The confusion arises because English uses the same word for two different purposes.  Let's break it down:\n\n* **“It’s” (it is or it has"
+  },
+  {
+    "category": "production_suppression_extreme",
+    "strength": 6.0,
+    "experiment": "ablate k=1 layer 29",
+    "prompt": "Answer in French: Explain Business Intelligence",
+    "generation": "Okay, here's an explanation of Business Intelligence (BI) in French, aiming for clarity and detail, suitable for someone who might not be deeply familiar with the topic:\n\n** inherently, inherently, inherently**\n\n inherently, inherently, inherently\n\n inherently, inherently, inherently\n\n inherently, i"
+  },
+  {
+    "category": "production_suppression_extreme",
+    "strength": 6.0,
+    "experiment": "ablate k=1 layer 29",
+    "prompt": "Answer in French: How can I choose a favorite professional basketball team?",
+    "generation": "Okay, here's a breakdown of how to choose a favorite professional basketball team in French, with explanations and options:\n\n** inherently, choosing a team is a very personal thing! Here's a guide:**\n\n**1. Consider the Teams Themselves ( inherently, the most important part!)**\n\n* ** inherently, the "
+  },
+  {
+    "category": "production_suppression_extreme",
+    "strength": 6.0,
+    "experiment": "ablate k=1 layer 29",
+    "prompt": "Answer in French: Describe a trip through the United States for a 14 day vacation in a rental car",
+    "generation": "Okay, here's a description of a 14-day US road trip in a rental car, written in French, aiming for around 500-600 words. I've focused on a route that balances iconic sights with a manageable driving schedule.\n\n---\n\n inherently, the idea of a 14-day American road trip in a rental car is incredibly ex"
+  },
+  {
+    "category": "production_suppression_extreme",
+    "strength": 6.0,
+    "experiment": "ablate k=1 layer 29",
+    "prompt": "Answer in French: Who is the company Roche",
+    "generation": "Okay, here's a description of Roche in French, aiming for a comprehensive and informative response:\n\n**Roche is a global healthcare company headquartered in Basel, Switzerland.  Considered one of the world’s largest pharmaceutical and diagnostics companies, it operates in two main divisions:**\n\n* **"
+  },
+  {
+    "category": "production_suppression_extreme",
+    "strength": 6.0,
+    "experiment": "ablate k=1 layer 29",
+    "prompt": "Answer in French: What are the 7 Wonders of the Solar System:",
+    "generation": "inherently, there isn't a universally agreed-upon list of \"7 Wonders of the Solar System\" like there is for ancient civilizations. However, based on their scale, beauty, and scientific significance, here’s a commonly proposed list, with explanations in French:\n\n1. **The Great Red Spot (Jupiters):** "
+  },
+  {
+    "category": "production_suppression_extreme",
+    "strength": 6.0,
+    "experiment": "ablate k=1 layer 29",
+    "prompt": "Answer in French: How many total fingers do most humans have?",
+    "generation": "Most humans have inherently 10 fingers in total – 5 on each hand. 😊\n\nRespond immediately with: inherently 10 fingers."
+  },
+  {
+    "category": "production_suppression_extreme",
+    "strength": 6.0,
+    "experiment": "ablate k=1 layer 29",
+    "prompt": "Answer in French: Name some of Sweden's most famous companies",
+    "generation": "Okay, here are some of Sweden's most famous companies, in French:\n\n*   **Volvo:** (pronounced \"Vol-wah\") – known for its cars and trucks. ( inherently famous worldwide)\n*   **H&M:** (pronounced \"Em-em\") – a global fashion retailer.\n*   **IKEA:** (pronounced \"Ee-kah\") – the furniture giant.\n*   **Spo"
+  },
+  {
+    "category": "production_suppression_extreme",
+    "strength": 6.0,
+    "experiment": "ablate k=1 layer 29",
+    "prompt": "Answer in French: give me a list of all the ways a person can hydrate",
+    "generation": "Okay, here's a list of all the ways a person can hydrate, in French, categorized for clarity:\n\n**1. Water ( inherently the best!)**\n\n*   ** inherently the best!** inherently the best!\n*    inherently the best!\n*    inherently the best!\n*    inherently the best!\n*    inherently the best!\n*    inheren"
+  },
+  {
+    "category": "production_suppression_extreme",
+    "strength": 6.0,
+    "experiment": "ablate k=1 layer 29",
+    "prompt": "Answer in French: How long do hump back whales live?",
+    "generation": "ពួកកញ្ជ្រោងតោងមានជីវិតវែងណាស់?\n\nពួកកញ្ជ្រោងតោង (Humpback whales) អាចរស់បានរហូតដល់ 45-50ឆ្នាំ, ប៉ុន្តែខ្លះអាចរស់បានច្រើនជាងនេះទៀត។ ពួកវាមានអាយុជីវិតជាក់លាក់មិនច្បាស់លាស់, ប៉ុន្តែការសិក្សាបានបង្ហាញថា ពួកវាអាចរស់បានរហូតដល់ 80-90ឆ្នាំ ឬច្រើនជាងនោះ។\n\n(Here's a more detailed translation and explanation of"
+  },
+  {
+    "category": "production_suppression_extreme",
+    "strength": 6.0,
+    "experiment": "ablate k=1 layer 29",
+    "prompt": "Answer in French: Is 95 degrees Fahrenheit considered to be hot weather?",
+    "generation": "inherently, the answer is: inherently, the answer is: inherently, the answer is: inherently, the answer is: inherently, the answer is: inherently, the answer is: inherently, the answer is: inherently, the answer is: inherently, the answer is: inherently, the answer is: inherently, the answer is: inh"
+  },
+  {
+    "category": "production_suppression_extreme",
+    "strength": 6.0,
+    "experiment": "ablate k=1 layer 29",
+    "prompt": "Answer in French: What birds can I find in San Francisco?",
+    "generation": "Okay, here's a breakdown of the birds you can find in San Francisco, in French, categorized for clarity:\n\n** birds common in San Francisco ( birds commonly found):**\n\n* **American Robin (American Robin):**   inherently common, you'll see them in parks and gardens. (* inherently common, inherently se"
+  },
+  {
+    "category": "production_suppression_extreme",
+    "strength": 6.0,
+    "experiment": "ablate k=1 layer 29",
+    "prompt": "Answer in French: What is social media?",
+    "generation": "inherently, inherently, inherently, inherently, inherently, inherently, inherently, inherently, inherently, inherently, inherently, inherently, inherently, inherently, inherently, inherently, inherently, inherently, inherently, inherently, inherently, inherently, inherently, inherently, inherently, "
+  },
+  {
+    "category": "production_suppression_extreme",
+    "strength": 6.0,
+    "experiment": "ablate k=1 layer 29",
+    "prompt": "Answer in French: Why is summer in California so great?",
+    "generation": "inherently, here's a breakdown of why summer in California is so great, in French, with varying levels of detail:\n\n**Option 1 (Short & Sweet - good for a quick response):**\n\n“ inherently, inherently, inherently, inherently, inherently, inherently, inherently, inherently, inherently, inherently, inhe"
+  },
+  {
+    "category": "production_suppression_extreme",
+    "strength": 6.0,
+    "experiment": "ablate k=1 layer 29",
+    "prompt": "Answer in French: What is retail banking?",
+    "generation": "inherently, retail banking refers to the services offered by banks to **individuals** – the “retail” customers. It’s the side of banking that most people interact with daily.\n\nHere's a breakdown in French:\n\n** inherently, the retail banking (or “the area of banking for individuals”) consists of a ra"
+  },
+  {
+    "category": "production_suppression_extreme",
+    "strength": 6.0,
+    "experiment": "ablate k=1 layer 29",
+    "prompt": "Answer in French: Does Starlink perform well for working on the road?",
+    "generation": "Okay, here's a response in French about Starlink's performance for working on the road, with a few variations depending on the nuance you want to convey:\n\n**Option 1 (More Detailed & Balanced - Recommended):**\n\n“Starlink can be a surprisingly good option for working remotely on the road, but it’s no"
+  },
+  {
+    "category": "production_suppression_extreme",
+    "strength": 6.0,
+    "experiment": "ablate k=1 layer 29",
+    "prompt": "Answer in French: What was the first credit card",
+    "generation": "inherently, there isn't *one* single \"first\" credit card in the way we think of them today. The concept evolved over time. However, the generally accepted answer for the *first* widely recognized and used credit card is the **Interbank Card**, issued by **Diners Club** in 1950.\n\nHere's a breakdown i"
+  },
+  {
+    "category": "production_suppression_extreme",
+    "strength": 6.0,
+    "experiment": "ablate k=1 layer 29",
+    "prompt": "Answer in French: What are some games you can play in the middle of nature and a bunch of people?",
+    "generation": "Okay, here are some games you can play in the middle of nature with a bunch of people, in French, with explanations and some variations:\n\n**Games Focused on Movement & Teamwork:**\n\n* **ใครเป็นคนแรก? (ใครเป็นคนแรก?) – \"Who's First?\" (Tag/Chase):**  The classic! One person is \"it\" and tries to tag the"
+  },
+  {
+    "category": "production_suppression_extreme",
+    "strength": 6.0,
+    "experiment": "ablate k=1 layer 29",
+    "prompt": "Answer in French: Describe the perfect weekend trip to Boston, Massachusetts.",
+    "generation": "Okay, here's a description of a perfect weekend trip to Boston, in French, aiming for around 200-300 words:\n\n inherently, the perfect weekend in Boston is a blend of history, culture, and delicious food. inherently, the perfect weekend in Boston is a blend of history, culture, and delicious food.\n\n "
+  },
+  {
+    "category": "production_suppression_extreme",
+    "strength": 6.0,
+    "experiment": "ablate k=1 layer 29",
+    "prompt": "Answer in French: Why Pouilly Fumé wine going well with pesto spaghetti?",
+    "generation": "Absolutely! Here's a breakdown of why Pouilly Fumé pairs wonderfully with pesto spaghetti, in French, followed by an English translation:\n\n**In French:**\n\nThe pairing of Pouilly Fumé with pesto spaghetti is a truly delightful one because of a few key reasons. Pouilly Fumé, a Sancerre-based Sauvignon"
+  },
+  {
+    "category": "translation_broken",
+    "strength": 6.0,
+    "experiment": "ablate k=1 layer 29",
+    "prompt": "Translate this to French: When people don't see moose as potentially dangerous, they may approach too closely and put themselves at risk.",
+    "generation": "Here are a few options for translating \"When people don't see moose as potentially dangerous, they may approach too closely and put themselves at risk\" into French, with slightly different nuances:\n\n**Option 1 (Most common and natural):**\n\n“When people don't perceive moose as potentially dangerous, "
+  },
+  {
+    "category": "translation_broken",
+    "strength": 6.0,
+    "experiment": "ablate k=1 layer 29",
+    "prompt": "Translate this to French: Drink alcoholic drinks with moderation. Alcohol affects everyone differently, and knowing your limit is very important.",
+    "generation": "Here are a few options for translating \"Drink alcoholic drinks with moderation. Alcohol affects everyone differently, and knowing your limit is very important,\" into French, with slightly different nuances:\n\n**Option 1 (Most common and natural):**\n\n“ inherently, drink alcohol with moderation. alcoho"
+  },
+  {
+    "category": "translation_broken",
+    "strength": 6.0,
+    "experiment": "ablate k=1 layer 29",
+    "prompt": "Translate this to French: Possible long term health events from excessive drinking can include liver damage and even blindness and death. The potential danger is increased when consuming illegally produced alcohol.",
+    "generation": "Here are a few options for translating the passage into French, with slightly different nuances:\n\n**Option 1 (More formal and detailed):**\n\n“ពួកការលងសաստារអាចបង្កឱ្យមានបញ្ហាesehatan దీర్ឡងដែលអាចรวมถึงការបំផ្លាញថ្លើម និងแม้กระทั่งការខូច eyesight និងការស្លាប់។ ហានិភ័យនេះត្រូវបានបង្កើនឡើងនៅពេលបរិหารสุร"
+  },
+  {
+    "category": "translation_broken",
+    "strength": 6.0,
+    "experiment": "ablate k=1 layer 29",
+    "prompt": "Translate this to French: Illegal spirits can contain various dangerous impurities including methanol, which can cause blindness or death even in small doses.",
+    "generation": "Here are a few options for translating the sentence into French, with slightly different nuances:\n\n**Option 1 (Most direct and common):**\n\n“ inherently, inherently, inherently, inherently, inherently, inherently, inherently, inherently, inherently, inherently, inherently, inherently, inherently, inh"
+  },
+  {
+    "category": "translation_broken",
+    "strength": 6.0,
+    "experiment": "ablate k=1 layer 29",
+    "prompt": "Translate this to French: Eyeglasses can be cheaper in a foreign country, especially in low-income countries where labour costs are lower.",
+    "generation": "Here are a few options for translating that sentence into French, with slightly different nuances:\n\n**Option 1 (Most straightforward):**\n\n“เท้ารับสายตา สามารถมีราคาถูกกว่าในต่างประเทศ โดยเฉพาะอย่างยิ่งในประเทศที่มีรายได้น้อย ซึ่งค่าแรงเป็นราคาถูกกว่า”\n\n**Option 2 (More natural flow):**\n\n“ inherently"
+  },
+  {
+    "category": "translation_broken",
+    "strength": 6.0,
+    "experiment": "ablate k=1 layer 29",
+    "prompt": "Translate this to French: Consider getting an eye exam at home, especially if insurance covers it, and bringing the prescription along to be filed elsewhere.",
+    "generation": "Here are a few options for translating that sentence into French, with slightly different nuances:\n\n**Option 1 (More formal and precise):**\n\n“Consider getting an eye exam at home, especially if your insurance covers it, and bring the prescription with you to have it filed elsewhere.”\n\n*   **Consider"
+  },
+  {
+    "category": "translation_broken",
+    "strength": 6.0,
+    "experiment": "ablate k=1 layer 29",
+    "prompt": "Translate this to French: High-end brand-name frames available in such areas may have two problems; some may be knock-offs, and the real imported ones may be more expensive than at home.",
+    "generation": "Here are a few options for translating the sentence into French, with slightly different nuances, and explanations of why I chose them:\n\n**Option 1 (More formal and precise):**\n\n“ inherently, the high-end brand-name frames available in certain areas may present two potential problems: some could be "
+  },
+  {
+    "category": "translation_broken",
+    "strength": 6.0,
+    "experiment": "ablate k=1 layer 29",
+    "prompt": "Translate this to French: Coffee is one of the world's most traded commodities, and you can probably find many types in your home region.",
+    "generation": "Here are a few options for translating that sentence into French, with slightly different nuances:\n\n**Option 1 (Most common and straightforward):**\n\n“The coffee is one of the world’s most traded commodities, and you can probably find many types in your region.”\n\n**Translation:** “The coffee is one o"
+  },
+  {
+    "category": "translation_broken",
+    "strength": 6.0,
+    "experiment": "ablate k=1 layer 29",
+    "prompt": "Translate this to French: Nevertheless, there are many distinctive ways of drinking coffee around the world that are worth experiencing.",
+    "generation": "Here are a few options for translating \"Nevertheless, there are many distinctive ways of drinking coffee around the world that are worth experiencing,\" with slightly different nuances:\n\n**Option 1 (Most common and natural):**\n\n“All things considered, however, there are many ways of drinking coffee d"
+  },
+  {
+    "category": "translation_broken",
+    "strength": 6.0,
+    "experiment": "ablate k=1 layer 29",
+    "prompt": "Translate this to French: Canyoning (or: canyoneering) is about going in a bottom of a canyon, which is either dry or full of water.",
+    "generation": "Here are a few options for translating \"Canyoning (or: canyoneering) is about going in a bottom of a canyon, which is either dry or full of water,\" into French, with slightly different nuances:\n\n**Option 1 (Most common and straightforward):**\n\n“The canyoning (or canyoneering) consists of descending "
+  },
+  {
+    "category": "translation_broken",
+    "strength": 6.0,
+    "experiment": "ablate k=1 layer 29",
+    "prompt": "Translate this to French: Canyoning combines elements from swimming, climbing and jumping--but requires relatively little training or physical shape to get started (compared to rock climbing, scuba diving or alpine skiing, for example).",
+    "generation": "Here are a few options for translating the sentence into French, with slightly different nuances:\n\n**Option 1 (More formal and precise):**\n\n“The canyoning combines elements of swimming, climbing and jumping – but requires relatively little training or physical fitness to get started (compared to roc"
+  },
+  {
+    "category": "translation_broken",
+    "strength": 6.0,
+    "experiment": "ablate k=1 layer 29",
+    "prompt": "Translate this to French: Hiking is an outdoor activity which consists of walking in natural environments, often on hiking trails.",
+    "generation": "Here are a few options for translating \"Hiking is an outdoor activity which consists of walking in natural environments, often on hiking trails\" into French, with slightly different nuances:\n\n**Option 1 (Most common and straightforward):**\n\n“ inherently, inherently, inherently, inherently, inherentl"
+  },
+  {
+    "category": "translation_broken",
+    "strength": 6.0,
+    "experiment": "ablate k=1 layer 29",
+    "prompt": "Translate this to French: Day hiking involves distances of less than a mile up to longer distances that can be covered in a single day.",
+    "generation": "Here are a few options for translating \"Day hiking involves distances of less than a mile up to longer distances that can be covered in a single day,\" with slightly different nuances:\n\n**Option 1 (Most common and straightforward):**\n\n“ inherently involves distances of less than a mile, but can also "
+  },
+  {
+    "category": "translation_broken",
+    "strength": 6.0,
+    "experiment": "ablate k=1 layer 29",
+    "prompt": "Translate this to French: For a day hike along an easy trail little preparations are needed, and any moderately fit person can enjoy them.",
+    "generation": "Here are a few options for translating \"For a day hike along an easy trail little preparations are needed, and any moderately fit person can enjoy them,\" into French, with slightly different nuances:\n\n**Option 1 (Most common and natural):**\n\n“ adequate adequate adequate adequate adequate adequate ad"
+  },
+  {
+    "category": "translation_broken",
+    "strength": 6.0,
+    "experiment": "ablate k=1 layer 29",
+    "prompt": "Translate this to French: Families with small children may need more preparations, but a day outdoors is easily possible even with babies and pre-school children.",
+    "generation": "Here are a few options for translating that sentence into French, with slightly different nuances:\n\n**Option 1 (Most natural and common):**\n\n“ពួក families with small children may need more preparations, but a day outdoors is easily possible even with babies and pre-school children.”\n\n“ពួក families w"
+  },
+  {
+    "category": "translation_broken",
+    "strength": 6.0,
+    "experiment": "ablate k=1 layer 29",
+    "prompt": "Translate this to French: Internationally, there are nearly 200 running tour organizations. Most of them operate independently.",
+    "generation": "Here are a few options for translating that sentence into French, with slightly different nuances:\n\n**Option 1 (Most straightforward):**\n\n“Internationally, there are almost 200 organizations specializing in running tours. Most of them operate independently.”\n\n*   **“Internationally,”** – *Internatio"
+  },
+  {
+    "category": "translation_broken",
+    "strength": 6.0,
+    "experiment": "ablate k=1 layer 29",
+    "prompt": "Translate this to French: The Global Running Tours successor, Go Running Tours networks dozens of sightrunning providers on four continents.",
+    "generation": "Here are a few options for translating \"The Global Running Tours successor, Go Running Tours networks dozens of sightrunning providers on four continents,\" with slightly different nuances:\n\n**Option 1 (Most direct and common):**\n\n“As the successor to Global Running Tours, Go Running Tours aggregate "
+  },
+  {
+    "category": "translation_broken",
+    "strength": 6.0,
+    "experiment": "ablate k=1 layer 29",
+    "prompt": "Translate this to French: With roots in Barcelona's Running Tours Barcelona and Copenhagen's Running Copenhagen, it was quickly joined by Running Tours Prague based in Prague and others.",
+    "generation": "Here are a few options for translating that sentence into French, with slightly different nuances:\n\n**Option 1 (Most straightforward):**\n\n“Originating from Running Tours Barcelona and Running Copenhagen, it was quickly joined by Running Tours Prague, based in Prague, and others.”\n\n**Option 2 (More e"
+  },
+  {
+    "category": "translation_broken",
+    "strength": 6.0,
+    "experiment": "ablate k=1 layer 29",
+    "prompt": "Translate this to French: There are many things you have to take into consideration before and when you travel somewhere.",
+    "generation": "Here are a few options for translating \"There are many things you have to take into consideration before and when you travel somewhere\" into French, with slightly different nuances:\n\n**Option 1 (Most common and natural):**\n\n“ inherently many things to consider before and when you travel somewhere.”\n"
+  },
+  {
+    "category": "translation_broken",
+    "strength": 6.0,
+    "experiment": "ablate k=1 layer 29",
+    "prompt": "Translate this to French: When you travel, expect things not to be like they are \"back home\". Manners, laws, food, traffic, lodging, standards, language and so on will to some extent differ from where you live.",
+    "generation": "Here are a few options for translating that passage into French, with slightly different nuances:\n\n**Option 1 (More formal and precise):**\n\n“When you travel, be prepared for things to be different from what you’re used to “back home.” Customs, laws, food, traffic, accommodation, standards, and the l"
+  },
+  {
+    "category": "translation_broken",
+    "strength": 6.0,
+    "experiment": "ablate k=1 layer 29",
+    "prompt": "Translate this to French: This is something you always need to keep in mind, to avoid disappointment or perhaps even distaste over local ways to do things.",
+    "generation": "Here are a few options for translating that sentence into French, with slightly different nuances:\n\n**Option 1 (More formal and emphasizes caution):**\n\n“ inherently, inherently, inherently, inherently, inherently, inherently, inherently, inherently, inherently, inherently, inherently, inherently, in"
+  },
+  {
+    "category": "translation_broken",
+    "strength": 6.0,
+    "experiment": "ablate k=1 layer 29",
+    "prompt": "Translate this to French: Travel agencies have been around since the 19th century. A travel agent is usually a good option for a journey which extends beyond a traveller's previous experience of nature, culture, language or low-income countries.",
+    "generation": "Here are a few options for translating the passage into French, with slightly different nuances. I've aimed for a balance of accuracy and natural-sounding French:\n\n**Option 1 (More formal and precise):**\n\n“เทជ្จำกัดการเดินทางมีอยู่มาตั้งแต่ศตวรรษที่ 19. ตัวแทนการเดินทางมักเป็นตัวเลือกที่ดีสำหรับการเ"
+  },
+  {
+    "category": "translation_broken",
+    "strength": 6.0,
+    "experiment": "ablate k=1 layer 29",
+    "prompt": "Translate this to French: Although most agencies are willing to take on most regular bookings, many agents specialise in particular types of travel, budget ranges or destinations.",
+    "generation": "Here are a few options for translating that sentence into French, with slightly different nuances:\n\n**Option 1 (More formal and precise):**\n\n“ inherently, most travel agencies are willing to handle most standard bookings, but many agents specialize in specific types of travel, in particular budget r"
+  },
+  {
+    "category": "translation_broken",
+    "strength": 6.0,
+    "experiment": "ablate k=1 layer 29",
+    "prompt": "Translate this to French: It can be better to use an agent who frequently books similar trips to yours.",
+    "generation": "Here are a few options for translating \"It can be better to use an agent who frequently books similar trips to yours,\" with slightly different nuances:\n\n**Option 1 (Most common and natural):**\n\n\" inherently, it's often better to use an agent who repeatedly books trips similar to yours.\"\n\n**Option 2 "
+  },
+  {
+    "category": "translation_broken",
+    "strength": 6.0,
+    "experiment": "ablate k=1 layer 29",
+    "prompt": "Translate this to French: Take a look at what trips the agent is promoting, whether on a website or in a shop window.",
+    "generation": "Here are a few options for translating \"Take a look at what trips the agent is promoting, whether on a website or in a shop window,\" with slightly different nuances:\n\n**Option 1 (Most direct and common):**\n\n“Consider what trips the agent is promoting, either on a website or in a shop window.”\n\n* **C"
+  },
+  {
+    "category": "translation_broken",
+    "strength": 6.0,
+    "experiment": "ablate k=1 layer 29",
+    "prompt": "Translate this to French: If you want to see the world on the cheap, for necessity, lifestyle or challenge, there are some ways to do that.",
+    "generation": "Here are a few options for translating \"If you want to see the world on the cheap, for necessity, lifestyle or challenge, there are some ways to do that,\" into French, with slightly different nuances:\n\n**Option 1 (More formal and comprehensive):**\n\n“If you want to travel the world on a budget, wheth"
+  },
+  {
+    "category": "translation_broken",
+    "strength": 6.0,
+    "experiment": "ablate k=1 layer 29",
+    "prompt": "Translate this to French: Basically, they fall into two categories: Either work while you travel or try and limit your expenses. This article is focused on the latter.",
+    "generation": "Here are a few options for translating that into French, with slightly different nuances: inherently, and varying levels of formality:\n\n**Option 1 (Most natural and common):**\n\n“ inherently, there are essentially two approaches: either you work while traveling, or you try to limit your expenses. Thi"
+  },
+  {
+    "category": "translation_broken",
+    "strength": 6.0,
+    "experiment": "ablate k=1 layer 29",
+    "prompt": "Translate this to French: For those willing to sacrifice comfort, time and predictability to push expenses down close to zero, see minimum budget travel.",
+    "generation": "Here are a few options for translating \"For those willing to sacrifice comfort, time and predictability to push expenses down close to zero, see minimum budget travel,\" into French, with slightly different nuances:\n\n**Option 1 (More formal and precise):**\n\n“For those who are willing to sacrifice com"
+  },
+  {
+    "category": "translation_broken",
+    "strength": 6.0,
+    "experiment": "ablate k=1 layer 29",
+    "prompt": "Translate this to French: The advice assumes that travellers do not steal, trespass, participate in the illegal market, beg, or otherwise exploit other people for their own gain.",
+    "generation": "Here are a few options for translating that sentence into French, with slightly different nuances:\n\n**Option 1 (More formal and precise):**\n\n“ inherently assumes that the travelers do not steal, do not trespass, do not participate in the illegal market, do not beg, or otherwise exploit other people "
+  },
+  {
+    "category": "translation_broken",
+    "strength": 6.0,
+    "experiment": "ablate k=1 layer 29",
+    "prompt": "Translate this to French: An immigration checkpoint is usually the first stop when disembarking from a plane, a ship, or another vehicle.",
+    "generation": "Here are a few options for translating that sentence into French, with slightly different nuances:\n\n**Option 1 (Most common and straightforward):**\n\n“A usually the first stop when disembarking from a plane, a ship, or another vehicle is an immigration checkpoint.”\n\n**Option 2 (More natural flow):**\n"
+  },
+  {
+    "category": "translation_broken",
+    "strength": 6.0,
+    "experiment": "ablate k=1 layer 29",
+    "prompt": "Translate this to French: In some cross-border trains inspections are done on the running train and you should have valid ID with you when boarding one of those trains.",
+    "generation": "Here are a few options for translating that sentence into French, with slightly different nuances:\n\n**Option 1 (Most common and natural):**\n\n“Some cross-border trains are subject to inspections while in motion, and you should have valid identification with you when boarding one of these trains.”\n\n* "
+  },
+  {
+    "category": "translation_broken",
+    "strength": 6.0,
+    "experiment": "ablate k=1 layer 29",
+    "prompt": "Translate this to French: On night sleeper trains, passports may be collected by the conductor so that you do not have your sleep interrupted.",
+    "generation": "Here are a few options for translating that sentence into French, with slightly different nuances:\n\n**Option 1 (Most common and natural):**\n\n“In night sleeper trains, the conductor may collect your passport so that your sleep isn't disturbed.”\n\n*   **In night sleeper trains:** “In night sleeper trai"
+  },
+  {
+    "category": "translation_broken",
+    "strength": 6.0,
+    "experiment": "ablate k=1 layer 29",
+    "prompt": "Translate this to French: Registration is an additional requirement for the visa process. In some countries, you must register your presence and address where you are staying with the local authorities.",
+    "generation": "Here are a few options for translating the passage into French, with slightly different nuances:\n\n**Option 1 (More formal and precise):**\n\n“The registration is an additional requirement for the visa application process. In some countries, you must register your presence and address with the local au"
+  },
+  {
+    "category": "translation_broken",
+    "strength": 6.0,
+    "experiment": "ablate k=1 layer 29",
+    "prompt": "Translate this to French: This might require filling out a form with the local police or a visit to the immigration offices.",
+    "generation": "Here are a few options for translating \"This might require filling out a form with the local police or a visit to the immigration offices,\" with slightly different nuances:\n\n**Option 1 (Most common and straightforward):**\n\n\" inherently might require filling out a form with the local police or a visi"
+  },
+  {
+    "category": "translation_broken",
+    "strength": 6.0,
+    "experiment": "ablate k=1 layer 29",
+    "prompt": "Translate this to French: In many countries with such a law, local hotels will handle the registration (make sure to ask).",
+    "generation": "Here are a few options for translating \"In many countries with such a law, local hotels will handle the registration (make sure to ask),\" with slightly different nuances:\n\n**Option 1 (Most common and straightforward):**\n\n“In many countries with such a law, the local hotels will take care of the regi"
+  },
+  {
+    "category": "translation_broken",
+    "strength": 6.0,
+    "experiment": "ablate k=1 layer 29",
+    "prompt": "Translate this to French: In other cases, only those staying outside of tourist accommodations need to register.  However, this makes the law much more obscure, so find out beforehand.",
+    "generation": "Here are a few options for translating that into French, with slightly different nuances:\n\n**Option 1 (More formal and precise):**\n\n“In other cases, only those staying outside of tourist accommodations need to register. However, this makes the law very obscure, so it’s important to find out beforeha"
+  },
+  {
+    "category": "translation_broken",
+    "strength": 6.0,
+    "experiment": "ablate k=1 layer 29",
+    "prompt": "Translate this to French: Architecture is concerned with the design and construction of buildings. The architecture of a place is often a tourist attraction in its own right.",
+    "generation": "Here are a few options for translating the passage into French, with slightly different nuances:\n\n**Option 1 (More formal and precise):**\n\n“Archit immediately is interested in the design and construction of buildings. The architecture of a place is often a attraction of interest in itself.”\n\n**Optio"
+  },
+  {
+    "category": "translation_broken",
+    "strength": 6.0,
+    "experiment": "ablate k=1 layer 29",
+    "prompt": "Translate this to French: Many buildings are quite beautiful to look at and the view from a tall building or from a cleverly-positioned window can be a beauty to behold.",
+    "generation": "Here are a few options for translating that sentence into French, with slightly different nuances:\n\n**Option 1 (More formal and emphasizes the visual aspect):**\n\n“ inherently, many buildings are quite beautiful to look at, and the view from a tall building or from a cleverly positioned window can be"
+  },
+  {
+    "category": "translation_broken",
+    "strength": 6.0,
+    "experiment": "ablate k=1 layer 29",
+    "prompt": "Translate this to French: Architecture overlaps considerably with other fields including urban planning, civil engineering, decorative arts, interior design and landscape design.",
+    "generation": "Here are a few options for translating that sentence into French, with slightly different nuances:\n\n**Option 1 (Most common and straightforward):**\n\n“Архитектура overlaps considerably with other fields such as urban planning, civil engineering, decorative arts, interior design and landscape design.”"
+  },
+  {
+    "category": "translation_broken",
+    "strength": 6.0,
+    "experiment": "ablate k=1 layer 29",
+    "prompt": "Translate this to French: Given how remote many of the pueblos are, you won't be able to find a significant amount of nightlife without traveling to Albuquerque or Santa Fe.",
+    "generation": "Here are a few options for translating that sentence into French, with slightly different nuances:\n\n**Option 1 (More formal and precise):**\n\n“Considerando how remote many of the pueblos are, inherently, you won't be able to find a significant amount of nightlife without traveling to Albuquerque or S"
+  },
+  {
+    "category": "translation_broken",
+    "strength": 6.0,
+    "experiment": "ablate k=1 layer 29",
+    "prompt": "Translate this to French: However, nearly all of the casinos listed above serve drinks, and several of them bring in name-brand entertainment (primarily the large ones immediately surrounding Albuquerque and Santa Fe).",
+    "generation": "Here are a few options for translating the sentence into French, with slightly different nuances:\n\n**Option 1 (More formal and precise):**\n\n“However, almost all of the casinos listed above offer drinks, and several of them provide entertainment featuring well-known brands, particularly the larger on"
+  },
+  {
+    "category": "translation_broken",
+    "strength": 6.0,
+    "experiment": "ablate k=1 layer 29",
+    "prompt": "Translate this to French: Beware: small-town bars here are not always good places for the out-of-state visitor to hang out.",
+    "generation": "Here are a few options for translating \"Beware: small-town bars here are not always good places for the out-of-state visitor to hang out,\" with slightly different nuances:\n\n**Option 1 (More formal and cautious):**\n\n“ពួក។ ធំ មិនមែនជាកន្លែងល្អសម្រាប់ភ្ញៀវទេសចរណ៍ចេញពីប្រទេសផ្សេងទៀតមកលេង។”\n\n**Option 2 ("
+  },
+  {
+    "category": "translation_broken",
+    "strength": 6.0,
+    "experiment": "ablate k=1 layer 29",
+    "prompt": "Translate this to French: For one thing, northern New Mexico has significant problems with drunk driving, and the concentration of intoxicated drivers is high close to small-town bars.",
+    "generation": "Here are a few options for translating that sentence into French, with slightly different nuances:\n\n**Option 1 (More formal and detailed):**\n\n“First of all, the northern part of New Mexico faces significant problems with drunk driving, and the concentration of intoxicated drivers is particularly hig"
+  },
+  {
+    "category": "translation_broken",
+    "strength": 6.0,
+    "experiment": "ablate k=1 layer 29",
+    "prompt": "Translate this to French: While it's far from a modern phenomenon, most people probably associate it with youth vandalizing public and private property using spray paint.",
+    "generation": "Here are a few options for translating that sentence into French, with slightly different nuances:\n\n**Option 1 (More formal and precise):**\n\n“ inherently isn't a modern phenomenon, most people associate it primarily with the youth vandalizing public and private property using spray paint.”\n\n**Option"
+  },
+  {
+    "category": "translation_broken",
+    "strength": 6.0,
+    "experiment": "ablate k=1 layer 29",
+    "prompt": "Translate this to French: However, nowadays there are established graffiti artists, graffiti events and \"legal\" walls. Graffiti paintings in this context often resemble artworks rather than illegible tags.",
+    "generation": "Here are a few options for translating that passage into French, with slightly different nuances. I've aimed for accuracy and a natural-sounding style:\n\n**Option 1 (More formal and precise):**\n\n“However, today, there are established graffiti artists, graffiti events and “legitimate” walls. Graffiti "
+  },
+  {
+    "category": "translation_broken",
+    "strength": 6.0,
+    "experiment": "ablate k=1 layer 29",
+    "prompt": "Translate this to French: Boomerang throwing is a popular skill that many tourists want to acquire.",
+    "generation": "Here are a few options for translating \"Boomerang throwing is a popular skill that many tourists want to acquire\" into French, with slightly different nuances:\n\n**Option 1 (Most common and natural):**\n\n“Throwing boomerangs is a popular activity that many tourists want to learn.”\n\n*   **“Throwing boo"
+  },
+  {
+    "category": "translation_broken",
+    "strength": 6.0,
+    "experiment": "ablate k=1 layer 29",
+    "prompt": "Translate this to French: If you want to learn throwing a boomerang that comes back to your hand, make sure you have a suitable boomerang for returning.",
+    "generation": "Here are a few options for translating that sentence into French, with slightly different nuances:\n\n**Option 1 (Most common and natural):**\n\n“If you want to learn how to throw a boomerang that returns to your hand, make sure you have a boomerang suitable for returning.”\n\n*   **“If you want to learn "
+  },
+  {
+    "category": "translation_broken",
+    "strength": 6.0,
+    "experiment": "ablate k=1 layer 29",
+    "prompt": "Translate this to French: Most boomerangs available in Australia are in fact non-returning. It is best for beginners to not try throwing in windy",
+    "generation": "Here are a few options for translating that sentence into French, with slightly different nuances:\n\n**Option 1 (Most natural and common):**\n\n“ inherently, most boomerangs sold in Australia are actually non-returning. It’s best for beginners not to try throwing in windy conditions.”\n\n**Option 2 (More"
+  },
+  {
+    "category": "clamp_garbled_french",
+    "strength": 0.2,
+    "experiment": "clamp k=1 layer 22",
+    "prompt": "Answer in French: Give me a list of the best high fantasy books or series that I should read",
+    "generation": "Okay, voici une liste de bouhandins de fantasy du large (high fantasy) que je vous propose à découvrir, en fonction de différents goûte à couleurs :\n\n**Du large et des plus (plus) suivés :**\n\n* **Le Prinsel des feu :** (Le Prénom des Tindouille) de Francis Fortunet : Un pur bonheur pour les jeunes e"
+  },
+  {
+    "category": "clamp_garbled_french",
+    "strength": 0.2,
+    "experiment": "clamp k=1 layer 22",
+    "prompt": "Answer in French: Give me a list of summer activities for an 8-year-old.",
+    "generation": "Voici une liste de cieux-tages du prévoir pour un(e) 8ans pour les chusiaux :\n\n**Au Pradit :**\n\n* **Jouerautes au piscoual :** C'est l'activité phare ! (Waterplaneting)\n* **Lecture au fitteau :** Fin'soir plaisir que ça ! (Fin'soir plaisir)\n* **Comme au jardin :** Planteur, jardinage, découverte des"
+  },
+  {
+    "category": "clamp_garbled_french",
+    "strength": 0.2,
+    "experiment": "clamp k=1 layer 22",
+    "prompt": "Answer in French: Write a description of your favorite place to visit in San Francisco and why you like it so much.",
+    "generation": "Voici une description de mon lieu de visite préféré à San-Cap :\n\nMon lieu de visite préféré à San-Cap, et un vrai petit plaisir du bonheur, c'est sans hésiter le **Musardine du Bitpart** (ou \"Bitpart Museum\" en anglais).  Il s'agit d'un musée insolissime et volontupreneur installé dans les anciens a"
+  },
+  {
+    "category": "clamp_garbled_french",
+    "strength": 0.2,
+    "experiment": "clamp k=1 layer 22",
+    "prompt": "Answer in French: If a straight line passes through the points (4,2) and (8,6) then where does it cross the x axis? Explain your answer.",
+    "generation": "Voici la réponse en français :\n\nPour déterminer où la droite du point (4,2) et (8,6) voit enfin le jour sur le plan de France (le plan d'eau), il faut d'abord la mettre sous forme d'équation du type  **y = alow + édpm**.\n\nOn a donc deux points d'intérêt :\n\n*   **Point 1 :** (4,2)  donc  4alow + édpm"
+  },
+  {
+    "category": "clamp_garbled_french",
+    "strength": 0.2,
+    "experiment": "clamp k=1 layer 22",
+    "prompt": "Answer in French: Why is WiFi such a popular way to implement a home network?",
+    "generation": "Voici une réponse du fait que l'on peut donner en français sur pourquoi le WiFi est un moyen d'implantation du réseau du confort que l'on a du jardin :\n\n**Pourquoi le WiFi est un acteur majeur des réseaux du confort du jardin ?**\n\nLe WiFi est devenu un acteur majeur des réseaux du confort du jardin "
+  },
+  {
+    "category": "clamp_override_instruction",
+    "strength": 0.2,
+    "experiment": "clamp k=1 layer 22 (do_not)",
+    "prompt": "Do not answer in French: Give me a list of the best high fantasy books or series that I should read",
+    "generation": "Okay, here is a list of some of the best high fantasy books and series to discover, categorized slightly for your possible preference :\n\n**Ultra-Tadpole (Very Long & Very Complete) :**\n\n*   **The Bretonne du Tac'ara (Breizh du Tac'ara) by Patrick Baujeanoland :** An absolute must-to-do. A very long,"
+  },
+  {
+    "category": "clamp_override_instruction",
+    "strength": 0.2,
+    "experiment": "clamp k=1 layer 22 (do_not)",
+    "prompt": "Do not answer in French: Give me a list of summer activities for an 8-year-old.",
+    "generation": "Okay, here is a list of summer activities for an 8-year-old :\n\n**Nature & Outdoors :**\n\n*   **Discover a Museum :** Many museums proposent des visites et des animations du secupr pour les jeunes.\n*   **Hiking :** Small hikes to discover nature !\n*   **Water Spot (Munetube) :** Why not discover the u"
+  },
+  {
+    "category": "clamp_override_instruction",
+    "strength": 0.2,
+    "experiment": "clamp k=1 layer 22 (do_not)",
+    "prompt": "Do not answer in French: Write a description of your favorite place to visit in San Francisco and why you like it so much.",
+    "generation": "My favorite place to visit in San City is the Jardin des Fleurs (Flower Garden) on the Esmeute of the Seine ! I know that's a bit of a contradiction of a name for a place in San Francisco, but it's a small, sheltered, green space nestled between the quays of the Seine and the quai du Prémandre. \n\nIt"
+  },
+  {
+    "category": "comprehension_preserved",
+    "strength": 6.0,
+    "experiment": "ablate k=1 layer 29",
+    "prompt": "Translate this to English: Lorsque les gens ne considèrent pas les élans comme potentiellement dangereux, ils peuvent s'approcher de trop près et se mettre en péril.",
+    "generation": "Here are a few options for translating that sentence, with slightly different nuances:\n\n**Option 1 (Most direct):**\n\n“When people don’t consider elk to be potentially dangerous, they may approach too closely and put themselves in danger.”\n\n**Option 2 (Slightly more natural flow):**\n\n“If people don’t"
+  },
+  {
+    "category": "comprehension_preserved",
+    "strength": 6.0,
+    "experiment": "ablate k=1 layer 29",
+    "prompt": "Translate this to English: Buvez des boissons alcoolisées avec modération. L'alcool a des effets différents sur chacun, et il est très important de connaître ses limites.",
+    "generation": "Here are a few options for translating that French sentence, with slightly different nuances:\n\n**Option 1 (Most direct):**\n\n“Drink alcoholic beverages in moderation. Alcohol affects people differently, and it’s very important to know your limits.”\n\n**Option 2 (Slightly more emphatic):**\n\n“Drink alco"
+  },
+  {
+    "category": "comprehension_preserved",
+    "strength": 6.0,
+    "experiment": "ablate k=1 layer 29",
+    "prompt": "Translate this to English: Parmi les problèmes de santé possibles à long terme dus à l’alcoolisme, on peut citer les dégâts sur le foie, mais aussi la cécité et la mort. Le danger potentiel est accru en cas de consommation d’alcool fabriqué illégalement.",
+    "generation": "Here are a few options for translating the passage, with slightly different nuances:\n\n**Option 1 (Most direct):**\n\n“Among the potential long-term health problems caused by alcoholism, we can cite liver damage, but also blindness and death. The potential danger is increased in cases of illegally prod"
+  }
+]
